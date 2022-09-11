@@ -44,6 +44,7 @@
     <string name="console_guide_subtitle_private">Nu se proiectează notificări plutitoare, notificări pentru apelurile primite și alte elemente care pot conține informații personale</string>
     <string name="console_guide_subtitle_small_window">Minimizați fereastra proiectată pentru a putea utiliza alte caracteristici ale telefonului pe durata proiectării</string>
     <string name="copy">Copiați</string>
+    <string name="current_wifi_tv">Rețeaua curentă</string>
     <string name="date_picker_lunar">Calendarul Tradițional Chinez</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="dialog_can_not_find_device">Nu s-au găsit dispozitive în apropiere</string>
@@ -305,6 +306,10 @@ Dacă trebuie să activați manual funcția Miracast, puteți apăsa butonul [Me
     <string name="notification_desc_scanning">Se caută dispozitive în apropiere…</string>
     <string name="notification_rc_title">Asistent TV XiaoMi</string>
     <string name="notification_show_more">Vedeți mai multe funcții</string>
+    <string name="notify">Proiectarea rulează în fundal</string>
+    <string name="notify_wifiap_dialog_msg">Pentru a scana codul și a configura rețeaua, dezactivați mai întâi hotspot-ul portabil.</string>
+    <string name="notify_wifiap_dialog_negative">Am înțeles</string>
+    <string name="notify_wifiap_dialog_title">Configurați rețeaua</string>
     <string name="open_game_accelerate">Activați Jocuri Turbo</string>
     <string name="path_setting_cast">Conectare și partajare/Proiectare</string>
     <string name="path_setting_cast_demo">Conectare și partajare/Proiectare/Demos</string>
@@ -314,6 +319,17 @@ Dacă trebuie să activați manual funcția Miracast, puteți apăsa butonul [Me
     <string name="path_setting_cast_feature">Conectare și partajare/Proiectare/Caracteristici speciale</string>
     <string name="path_setting_cast_help">Conectare și partajare/Proiectare/Ajutor</string>
     <string name="pm">PM</string>
+    <string name="policy_link_lawer_en">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=en</string>
+    <string name="policy_link_lawer_ft">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=ft</string>
+    <string name="policy_link_lawer_wy">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=wy</string>
+    <string name="policy_link_lawer_zh">http://cdn.hpplay.com.cn/xm/lawer.html</string>
+    <string name="policy_link_lawer_zy">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=zy</string>
+    <string name="policy_link_privacy_en">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=en</string>
+    <string name="policy_link_privacy_ft">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=ft</string>
+    <string name="policy_link_privacy_wy">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=wy</string>
+    <string name="policy_link_privacy_zh">http://cdn.hpplay.com.cn/xm/privacy.html</string>
+    <string name="policy_link_privacy_zy">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=zy</string>
+    <string name="pre_privacy_setting_title">Confidențialitate</string>
     <string name="preference_copied">\"%1$s\" a fost copiat în clipboard.</string>
     <string name="privacy_agree">De acord</string>
     <string name="privacy_detail"><Data>Această aplicație trebuie să se conecteze la internet și să colecteze date personale solicitate pentru a putea funcționa în mod normal. Pentru a înțelege pe deplin drepturile dvs. în calitate de utilizator precum și modul în care utilizăm aceste date, citiți și acceptați &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica noastră de Confidențialitate&lt;/a>.</Data></string>

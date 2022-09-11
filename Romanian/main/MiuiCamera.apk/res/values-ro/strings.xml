@@ -1295,7 +1295,9 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_dual_enable_title">Activați camera duală</string>
     <string name="pref_camera_dual_sat_enable_title">Activați camera duală SAT</string>
     <string name="pref_camera_dynamic_frame_rate_summary">Rata de cadre va fi redusă în mod automat în condiții de iluminare redusă sau temperatură ridicată pentru a îmbunătăți calitatea videoclipurilor</string>
+    <string name="pref_camera_dynamic_frame_rate_summary_new">Reduceți automat rata de cadre pentru videoclipuri în medii cu lumină scăzută sau cu temperatură ridicată</string>
     <string name="pref_camera_dynamic_frame_rate_title">Ajustează rata de cadre în condiții de iluminare redusă</string>
+    <string name="pref_camera_dynamic_frame_rate_title_new">Rată de cadre auto</string>
     <string name="pref_camera_eis_entry_normal">Videoclip stabilizat</string>
     <string name="pref_camera_eis_entry_off">Oprit</string>
     <string name="pref_camera_eis_entry_pro">Videoclip stabilizat Pro</string>
@@ -1562,6 +1564,8 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_tip_id_card">Scaner ID</string>
     <string name="pref_camera_touchafaec_entry_off">Dezactivată</string>
     <string name="pref_camera_touchafaec_entry_on">Activată</string>
+    <string name="pref_camera_track_focus_intro_description">Când faceți fotografii sau înregistrați videoclipuri cu subiecți în mișcare, această funcție detectează oamenii, pisicile și câinii și îi menține în mod automat în focus. În plus, puteți, de asemenea, să atingeți de două ori orice subiect pentru a urmări mișcarea.</string>
+    <string name="pref_camera_track_focus_intro_goto">Actrivați</string>
     <string name="pref_camera_track_focus_preferred_description">Activați pentru a focaliza în mod automat asupra oamenilor și a animalelor. De asemenea, veți putea selecta subiectele pentru urmărire manuală.</string>
     <string name="pref_camera_track_focus_preferred_title">Urmărirea focalizării</string>
     <string name="pref_camera_ubifocus_title">Refocusare</string>
@@ -1692,6 +1696,9 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_smart_guide_title">Sugestii inteligente</string>
     <string name="pref_super_night_se_summary">Detectați condițiile de iluminare slabă și îmbunătățiți automat calitatea imaginii</string>
     <string name="pref_super_night_se_title">Mod noapte automat</string>
+    <string name="pref_true_colour_video_mode_description">Înregistrați videoclipuri cu Dolby Vision pentru a surprinde detalii realiste, culori uimitoare și contrast izbitor (este posibil ca această funcție să nu fie compatibilă cu unele aplicații terțe)</string>
+    <string name="pref_true_colour_video_mode_introduction">Experiență vizuală uimitoare, detalii realiste și contrast izbitor</string>
+    <string name="pref_true_colour_video_mode_title">Dolby Vision</string>
     <string name="pref_userdefine_watermark_title">Amprentă personalizată</string>
     <string name="pref_video_ai_audio_single">Sunet frontal</string>
     <string name="pref_video_captrue_ability_title">Captare imagini în timpul filmării</string>
@@ -2064,6 +2071,7 @@ Modul unghi foarte larg vine în întâmpinarea dvs. atunci când nu vă puteți
     <string name="video_shortcut_long">Video</string>
     <string name="video_shortcut_short">Video</string>
     <string name="video_tag_flag_title">Etichete</string>
+    <string name="video_true_colour_tip">DOVI</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
     <string name="video_ultra_clear_tip_8k">AI 8K</string>
     <string name="view_privacy_policy">Vizualizați Politica de Confidențialitate</string>

@@ -465,6 +465,7 @@
     <string name="menu_launcher_setting">Setări lansator de sistem</string>
     <string name="menu_lock">Blocare dispunere ecran principal</string>
     <string name="menu_more">Mai multe</string>
+    <string name="menu_no_word">Nu afișa textul</string>
     <string name="menu_picktheme">Selectaţi o temă</string>
     <string name="menu_reset_scene">Resetaţi la valorile prestabilite</string>
     <string name="menu_search">Căutare</string>

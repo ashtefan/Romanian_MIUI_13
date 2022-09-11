@@ -223,6 +223,7 @@
     <string name="month_september_shortest">Sep</string>
     <string name="more">Mai mult</string>
     <string name="morning">Dimineață</string>
+    <string name="new_cta_app_purpose">vedeți direcțiile și coordonatele</string>
     <string name="new_cta_v2_app_purpose">Se afișează direcțiile, coordonatele, presiunea atmosferică și altitudinea curentă</string>
     <string name="new_permission_camera_desc">Pentru calibrare</string>
     <string name="new_permission_location_desc">Pentru afișarea coordonatelor</string>

@@ -1235,6 +1235,8 @@ Puteți acorda această permisiune din Setări > Confidențialitate."</string>
     <string name="show_mamual_hide_theme">Afișează temele ascunse manual</string>
     <string name="show_mamual_hide_wallpaper">Afișează imaginile de fundal ascunse</string>
     <string name="show_phone_wallpaper">Afișează imaginile de fundal ale telefonului</string>
+    <string name="show_theme_community">Comandă rapidă Comunitate</string>
+    <string name="show_theme_community_desc">Afișați sau ascundeți comanda rapidă a Comunității Teme</string>
     <string name="solar_term_autumn_begins">Începutul toamnei</string>
     <string name="solar_term_autumn_equinox">Echinocțiul de toamnă</string>
     <string name="solar_term_clear_and_bright">Senin și strălucitor</string>
@@ -1275,6 +1277,8 @@ Puteți acorda această permisiune din Setări > Confidențialitate."</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">Selectați locația</string>
     <string name="super_wallpaper_setting_coordinate_title">Coordonate</string>
     <string name="super_wallpaper_setting_view_height_title">Altitudine</string>
+    <string name="supersave_mode_toast_message">"Această funcție nu este disponibilă atunci când utilizați Ultra Economisirea acumulatorului. Dezactivați Ultra Economisirea acumulatorului pentru a-l putea folosi."</string>
+    <string name="superwallpaper_has_bound_account_dialog_content">Această imagine de fundal este deja asociată cu un alt cont Mi. Conectați-vă cu acel cont Mi și încercați din nou.</string>
     <string name="support_theme_store_des">Temele bune sunt întotdeauna create de designeri talentați. Aplicația noastră conține o cantitate mică de anunțuri care ne permite să susținem activitatea lor.</string>
     <string name="support_theme_store_supported">Mulțumim pentru sprijin!</string>
     <string name="support_theme_store_title">Susțineți designerii noștri</string>

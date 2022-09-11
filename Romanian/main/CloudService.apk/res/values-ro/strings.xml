@@ -27,6 +27,10 @@
     <string name="abc_shareactionprovider_share_with">Partajați prin</string>
     <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="accept_all_permission_content">Găsirea dispozitivului ar putea să nu funcționeze corect fără permisiuni. Selectați toate permisiunile enumerate pentru a putea folosi toate funcțiile Găsirii dispozitivului.</string>
+    <string name="accept_all_permission_title">Sunt necesare unele permsiuni</string>
+    <string name="accept_all_positive">Selectați</string>
+    <string name="accept_use_permissions">Permiteți</string>
     <string name="access_denied">Acces refuzat</string>
     <string name="account">Cont</string>
     <string name="account_related">Dispozitivul dumneavoastră este asociat cu un cont Mi existent(%s). Conectați-vă la rețea pentru a verifica dispozitivul.</string>
@@ -182,6 +186,8 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
     <string name="find_device_notice_p3">"pentru a localiza, bloca, sau restabili telefonul dvs.
 Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reactiva această funcție."</string>
     <string name="find_device_operation_failure_rpc">"Nu s-a putut realiza operațiunea datorită unei erori RPC."</string>
+    <string name="find_device_permissions_footer">"Atingeți \„Permiteți\” pentru a acorda permisiunile pe care le-ați selectat."</string>
+    <string name="find_device_permissions_header">"Bun venit la Găsirea dispozitivului! Puteți folosi această aplicație pentru a localiza, urmări și bloca dispozitivul atunci când îl pierdeți. Găsirea dispozitivului necesită următoarele permisiuni:"</string>
     <string name="find_device_pref_alert_content">"Localizarea dispozitivului este asociată contului dumneavoastră Mi. Trebuie să stabiliți o parolă sau să o utilizați pe cea deja setată. Asigurați-vă că nu uitați parola și numele de utilizator Mi. Poate fi necesară trimiterea unui mesaj SMS pentru activarea acestui serviciu. Operatorul dvs. vă va taxa pentru acest mesaj. Când veți schimba cartele SIM, se va trimite în mod automat un mesaj pentru reactivarea acestei opțiuni."</string>
     <string name="find_device_pref_alert_negtive">Nu, mulțumesc</string>
     <string name="find_device_pref_alert_positive">OK</string>
@@ -859,6 +865,8 @@ Citiți și acceptați"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agr
     <string name="recommend_service_title">Servicii recomandate</string>
     <string name="retain_data_high_quality_photo_waring_message">Imaginile la calitate înaltă vor fi șterse din Galerie după ce vă deconectați. Fișierele originale corespunzătoare vor fi în continuare stocate în cloud. De asemenea, puteți descărca fișierele originale înainte de a vă deconecta.</string>
     <string name="retain_data_high_quality_photo_waring_title">Imaginile la calitate ridicată nu vor mai fi disponibile</string>
+    <string name="revoke_permission_content">"Nu veți putea continua să utilizați Găsirea dispozitivului dacă retrageți permisiunile. Găsirea dispozitivului va fi, de asemenea, oprită. Vi se va cere să vă verificați parola înainte de a vă retrage."</string>
+    <string name="revoke_permission_title">Atenție</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>

@@ -675,11 +675,19 @@ După ce plasați fișierul \"music.mp3\" în directorul cardului SD, atingeți 
   <string name="cit_torch_modify">Modify flash light</string>
   <string name="cit_torch_off">Turn off flash light</string>
   <string name="cit_torch_on">Turn on flash light</string>
-  <string name="cit_touch_calib_fail">Touch Calibration failed, Please retry</string>
-  <string name="cit_touch_calib_instruction">start calibration</string>
-  <string name="cit_touch_calib_pass">Touch Calibration pass, Please use it normally</string>
-  <string name="cit_touch_calib_summary">Next step will do touch calibration, press confirm button and do not touch screen after it, wait for calibration success hint</string>
-  <string name="cit_touch_calib_title">Touch Calibration</string>
+    <string name="cit_touch_auto_main_tips">Autotestarea ecranului de pornire este în curs; vă rugăm să nu atingeți ecranul</string>
+    <string name="cit_touch_auto_operate_expand_screen_tips">Vă rugăm să extindeți mai întâi ecranul, apoi să efectuați autoverificarea ecranului principal</string>
+    <string name="cit_touch_auto_operate_fold_screen_tips">Îndoiți mai întâi ecranul, apoi efectuați autoverificarea secundară a ecranului</string>
+    <string name="cit_touch_auto_vice_tips">Autotestarea sub-ecranului este în curs, vă rugăm să nu atingeți ecranul</string>
+    <string name="cit_touch_fw_mode">Mod FW</string>
+    <string name="cit_touch_panel_nead_pencil_tip">Vă rugăm să folosiți din nou creionul pentru testare</string>
+    <string name="cit_touch_panel_test_title">Senzor tactil</string>
+    <string name="cit_touch_thp_mode">Mod THP</string>
+    <string name="cit_touch_work_mode_test_help">"Instrucțiuni de operare 
+faceți clic pe buton pentru a comuta modul tactil în modul THP sau modul FW"</string>
+    <string name="cit_touch_work_mode_test_title">Testul modului THP de comutare la atingere</string>
+    <string name="cit_touch_work_summary">Atingerea comută în modul THP</string>
+    <string name="cit_touch_work_switch_tips">Nu atingeți ecranul și așteptați finalizarea comutării modurilor</string>
     <string name="cit_ultra_camera_check_title">Ultra camera</string>
   <string name="cit_usb_OTG_in">USB OTG device detected</string>
   <string name="cit_usb_OTG_out">USB OTG device removed</string>

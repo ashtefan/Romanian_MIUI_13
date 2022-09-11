@@ -965,6 +965,7 @@ Motivul: \"%s\""</string>
     <string name="hybrid_webpage_not_available">Pagină indisponibilă</string>
     <string name="ic_menu_back">Înapoi</string>
     <string name="ic_menu_done">Finalizat</string>
+    <string name="identify_numbers_text">Activați ID-ul apelantului pentru a identifica apelurile nedorite</string>
     <string name="imLabelsGroup">IM</string>
     <string name="imei">IMEI</string>
     <string name="imei_invalid">IMEI invalid</string>

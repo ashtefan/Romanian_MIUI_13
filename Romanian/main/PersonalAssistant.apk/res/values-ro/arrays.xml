@@ -82,6 +82,12 @@
         <item>dori</item>
         <item>doar</item>
     </string-array>
+    <string-array name="pa_covid_items_default">
+        <item>COVID-19</item>
+        <item>Codul de sănătate</item>
+        <item>PCR</item>
+        <item>Zone cu risc ridicat</item>
+    </string-array>
     <string-array name="map_keyword">
         <item>congestie</item>
         <item>km congestie</item>
@@ -94,6 +100,20 @@
         <item>fluxul de trafic</item>
         <item>Nici o congestie semnificativă</item>
         <item>trafic anormal</item>
+    </string-array>
+    <string-array name="pa_home_week_days">
+        <item>Duminică</item>
+        <item>Luni</item>
+        <item>Marți</item>
+        <item>Miercuri</item>
+        <item>Joi</item>
+        <item>Vineri</item>
+        <item>Sâmbătă</item>
+        <item>Duminică</item>
+    </string-array>
+    <string-array name="pa_stock_color_schema_value_array">
+        <item>Roșu - sus, verde - jos</item>
+        <item>Verde - sus, roșu - jos</item>
     </string-array>
     <string-array name="stock_color_schema">
         <item>Roșu - sus, verde - jos</item>

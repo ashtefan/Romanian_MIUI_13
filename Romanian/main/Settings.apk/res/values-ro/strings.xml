@@ -53,6 +53,7 @@
     <string name="abc_slices_permission_request">%1$s dorește să afișeze %2$s fragmente</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="about_ad_service_instructions">Despre serviciile de reclame și confidențialitate​</string>
+    <string name="about_ad_service_instructions_for_global">Despre serviciile publicitare și confidențialitatea în aplicațiile de sistem MIUI</string>
     <string name="about_phone_device_name_warning">Numele dispozitivului dvs este vizibil pentru aplicațiile din telefon. Acesta poate fi văzut de alte persoane când vă conectați la dispozitive Bluetooth sau când porniți hotspotul Wi-Fi.</string>
     <string name="about_phone_enter_xiaomi_net">Vizualizați mai multe detalii</string>
     <string name="about_settings">Informaţii telefon</string>
@@ -771,6 +772,7 @@ Modificați setările acum?"</string>
 1. Rulați această caracteristică o dată sau de două ori dacă aflați că difuzorul dvs. este ușor blocat de praf.
 2. Dacă difuzorul este blocat puternic, executați această caracteristică de 2-5 ori în timp ce agitați dispozitivul cu difuzorul orientat în jos."</string>
     <string name="auto_clean_summary">Redați un fișier audio de 30 de secunde pentru a curăța difuzorul</string>
+    <string name="auto_clean_summary_new">Redați un sunet timp de %d secunde pentru a curăța difuzorul. Utilizați această funcție de mai multe ori la rând dacă există cantități substanțiale de murdărie.</string>
     <string name="auto_clean_title">Curățați difuzorul</string>
     <string name="auto_connect_disable">Conectarea automată este dezactivată</string>
     <string name="auto_disable_screenbuttons_ask">Întreabă înainte de a dezactiva</string>
@@ -2536,7 +2538,9 @@ Pentru a remedia această problemă, puteți opri accesul la locație pentru ace
     <string name="dialog_restrict_positive">Renunțați</string>
     <string name="dialog_speaker_auto_clean_button">Am înțeles</string>
     <string name="dialog_speaker_auto_clean_content">Curățarea durează circa 30 de secunde. Nu părăsiți această pagină. Creșteți volumul sonor pentru a obține cele mai bune rezultate.</string>
+    <string name="dialog_speaker_auto_clean_content_new">"Sunteți pe cale să redați sunetul care va șterge difuzorul. Reglați volumul la maxim pentru cel mai bun efect."</string>
     <string name="dialog_speaker_auto_clean_title">Atenție</string>
+    <string name="dialog_speaker_auto_clean_title_new">Curățați difuzorul</string>
     <string name="dialog_stop_message">"Telefonul dvs nu poate gestiona acumulatorul în mod normal deoarece %1$s menține telefonul treaz.
 
 Pentru a încerca să remediați această problemă, puteți opri această aplicație.
@@ -3001,6 +3005,9 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="external_data_size_label">Date stocare USB</string>
     <string name="external_ram_dialog_btn_cancel">Mai târziu</string>
     <string name="external_ram_dialog_btn_ok">Reporniți</string>
+    <string name="external_ram_dialog_icon_confirm">Am înțeles</string>
+    <string name="external_ram_dialog_icon_info">Sistemul va extinde memoria RAM cu %1$s %2$s.</string>
+    <string name="external_ram_dialog_icon_title">Extinderea memoriei este activată</string>
     <string name="external_ram_dialog_message">Reporniți dispozitivul pentru a aplica modificările.</string>
     <string name="external_ram_dialog_title">Reporniți dispozitivul</string>
     <string name="external_ram_summary">Adăugați %1$s %2$s RAM ocupând spațiul de stocare. Utilizați această caracteristică numai atunci când există suficient spațiu de stocare disponibil pe dispozitivul dvs.</string>
@@ -4732,6 +4739,8 @@ Această operație nu poate fi anulată!"</string>
     <string name="miheadset_formal">Standard</string>
     <string name="miheadset_game_mode">Mod Jocuri</string>
     <string name="miheadset_game_mode_summary">Reduceți întârzierea audio în timp ce jucați jocuri</string>
+    <string name="miheadset_hd_audio_summary">Redați sunete de înaltă definiție pe %1$d-biți/%2$d KHz</string>
+    <string name="miheadset_hd_audio_title">Sunet HD</string>
     <string name="miheadset_ignore">Anulați asocierea</string>
     <string name="miheadset_in_ear_check">Detectare căști în ureche</string>
     <string name="miheadset_in_ear_check_summary">Întrerupeți redarea audio atunci când sunt scoase căștile și reluați automat redarea atunci când sunt repuse</string>
@@ -5291,6 +5300,8 @@ Selectaţi sistemul de operare:"</string>
     <string name="nfc_disabled_summary">Indisponibil deoarece NFC este dezactivat</string>
     <string name="nfc_disclaimer_content">NFC schimbă date între acest dispozitiv și alte dispozitive sau ținte din apropiere, cum ar fi terminale de plată, cititoare de acces, și reclame sau etichete interactive.</string>
     <string name="nfc_disclaimer_title">Activați NFC</string>
+    <string name="nfc_dnd_mode_summary">Răspundeți la etichetele NFC cu un număr limitat de etichete NDEF</string>
+    <string name="nfc_dnd_mode_title">NFC Nu deranjați</string>
     <string name="nfc_how_it_works_content">Setați o aplicație pentru plăți. Apoi doar atingeți spatele telefonului de orice terminal cu simbolul contactless.</string>
     <string name="nfc_how_it_works_got_it">Am înțeles</string>
     <string name="nfc_how_it_works_title">Plată la terminal</string>
@@ -6183,6 +6194,9 @@ Citiți și acceptați %s înainte de a utiliza acest serviciu."</string>
     <string name="profile_owner_add_title">Activați Admninistratorul de profile?</string>
     <string name="profile_owner_add_title_simplified">Permiteți supervizarea?</string>
     <string name="profile_section_header">Notificări de Servici</string>
+    <string name="profile_section_header_for_advanced_privacy">Profil de Servici</string>
+    <string name="progress_dialog_speaker_auto_clean_button">Opriți</string>
+    <string name="progress_dialog_speaker_auto_clean_title">Se curăță difuzorul…</string>
     <string name="progress_scanning">Se caută dispozitive</string>
     <string name="promote_conversation_summary">Adăugați la secțiunea de conversație</string>
     <string name="promote_conversation_title">Aceasta este o conversație</string>
@@ -6385,6 +6399,7 @@ Reporniți dispozitivul și încercați din nou."</string>
     <string name="reset_network_final_desc">"Resetați acum toate setările de rețea? Acest lucru poate dura câteva secunde. Această acțiune este ireversibilă!"</string>
     <string name="reset_network_final_desc_esim">Resetați toate setările de rețea și ștergeți cartelele SIM descărcate? Nu puteți anula această acțiune.</string>
     <string name="reset_network_title">Resetați Wi-Fi, rețelele mobile și Bluetooth-ul</string>
+    <string name="reset_network_title_noSim">Resetați Wi-Fi și Bluetooth</string>
     <string name="reset_network_wifi">Wi-Fi</string>
     <string name="reset_remove_data_hint">Toate elementele enumerate mai sus vor fi șterse permanent. Faceți o copie de siguranță a tuturor elementelor importante pe computer sau în Xiaomi Cloud înainte de a continua.</string>
     <string name="reset_second_space_passwd">Resetați parola pentru Spațiul Secundar</string>
@@ -8134,6 +8149,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="title_special_features_health_global">Ritm cardiac</string>
     <string name="to_close">Dezactivați</string>
     <string name="toast_apply_font_fail">Nu pot seta fontul</string>
+    <string name="toast_disconnect_earphone">Deconectați căștile și încercați din nou</string>
     <string name="toast_lockscreen_glogin_empty_password">Introduceţi parola</string>
     <string name="toast_need_login">Conectaţi-vă la contul dvs. Mi</string>
     <string name="toast_sta_ap_works_wifi_display_disable">"Nu se poate proiecta când conexiunea Wi-Fi este stabilită și hotspotul este pornit."</string>
@@ -8559,6 +8575,7 @@ sau căști cu mufa de 3,5mm."</string>
     <string name="use_otg_title">USB On-The-Go</string>
     <string name="use_personalized_ad_service">Recomandare personalizată Reclame</string>
     <string name="use_personalized_ad_service_summary">Atunci când caracteristica de recomandare personalizată a reclamelor este dezactivată, veți vedea la fel de multe reclame ca și atunci când este activată. Reclamele nu vor mai fi relevante, deoarece nu vor fi bazate pe preferințele personale.</string>
+    <string name="use_personalized_ad_service_summary_for_global">"Când recomandările de anunțuri personalizate sunt dezactivate, veți vedea în continuare aceeași cantitate de anunțuri în aplicațiile de sistem MIUI ca atunci când funcția este activată. Cu toate acestea, reclamele de la Xiaomi și platformele terțe nu vor mai fi relevante, deoarece nu se vor baza pe preferințele dvs. personale."</string>
     <string name="use_privacy_password_immediate">Utilizați</string>
     <string name="use_system_language_to_select_input_method_subtypes">Utilizaţi limba sistemului</string>
     <string name="use_this_wlan">Stai conectat</string>

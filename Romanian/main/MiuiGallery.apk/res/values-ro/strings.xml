@@ -2730,6 +2730,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="update_check_title">Versiunea curentă: %s</string>
     <string name="update_ignore">Ignorați această versiune</string>
     <string name="update_latest_version">Versiunea curentă este actualizată</string>
+    <string name="update_log_format" formatted="false">%s %s</string>
     <string name="update_network_error">Verificați setările de rețea și încercați din nou</string>
     <string name="update_new_version">Este disponibilă o actualizare</string>
     <string name="update_title">Versiunea %s este disponibilă acum</string>
@@ -3148,6 +3149,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="xiaomi_10_pro">Mi 10 Pro</string>
     <string name="xiaomi_10_ultra">Mi 10 Ultra</string>
     <string name="xiaomi_11">Mi 11</string>
+    <string name="xiaomi_12">Mi 12</string>
     <string name="xiaomi_6">Mi 6</string>
     <string name="xiaomi_6x">Mi 6X</string>
     <string name="xiaomi_8">Mi 8</string>

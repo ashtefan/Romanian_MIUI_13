@@ -43,6 +43,7 @@
     <string name="afternoon">După amiază</string>
     <string name="am">AM</string>
     <string name="app_name">Captură de ecran</string>
+    <string name="can_drag">Trageți pentru a insera sau pentru a trimite</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="close">Închideți</string>
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
@@ -186,6 +187,7 @@ o captură de ecran derulantă"</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>
+    <string name="save_success">Salvat cu succes</string>
     <string name="screenshot_edit">Editați</string>
     <string name="screenshot_failed_in_landscape_mode">Nu se poate face o captură de ecran derulantă în modul peisaj</string>
     <string name="screenshot_failed_to_capture_title">Această aplicație nu permite realizarea de capturi de ecran</string>
@@ -193,7 +195,9 @@ o captură de ecran derulantă"</string>
     <string name="screenshot_feedback_txt">Feedback</string>
     <string name="screenshot_insert_failed">Nu s-a putut încărca captura de ecran. Faceți o nouă captură de ecran sau vedeți imaginea în Galerie.</string>
     <string name="screenshot_long_screenshot">Derulați</string>
+    <string name="screenshot_save">Salvați</string>
     <string name="screenshot_send">Trimiteți</string>
+    <string name="screenshot_thumbnail">Miniatura capturii de ecran</string>
     <string name="search_menu_title">Căutați</string>
     <string name="send">Trimiteți</string>
     <string name="solar_term_autumn_begins">Începutul toamnei</string>

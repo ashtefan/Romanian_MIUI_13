@@ -34,6 +34,7 @@
     <string name="about_newest">Caruselul de imagini de fundal este actualizat.</string>
     <string name="about_permission">Permisiuni</string>
     <string name="about_update">Actualizați</string>
+    <string name="access_denied_info">Prea multe incercari. Așteptați un minut sau două și încercați din nou.</string>
     <string name="account_bind_secure_email_title">Adăugați o adresă de e-mail pentru recuperare</string>
     <string name="account_bind_secure_phone_title">Adăugați un număr de telefon pentru recuperare</string>
     <string name="account_crop_user_avatar">Decupați fotografia</string>
@@ -251,6 +252,9 @@ Trimiteți acest cod supervizorului."</string>
     <string name="disable_dlg_title">Dezactivați Caruselul de imagini de fundal?</string>
     <string name="dislike">Ștergeți</string>
     <string name="dlg_cancel">Renunțați</string>
+    <string name="doing_login">Autentificare…</string>
+    <string name="doing_query_account">Se verifică informațiile despre cont…</string>
+    <string name="doing_register">Se crează contul…</string>
     <string name="dot_and_space">• </string>
     <string name="double_click_to_exit_activity">Atingeți din nou pentru a ieși</string>
     <string name="early_morning">Dimineață</string>
@@ -337,11 +341,14 @@ Trimiteți acest cod supervizorului."</string>
     <string name="get_ph_ticket">Obțineți codul</string>
     <string name="get_phone_bind_exceed_limit">Puteți asocia maxim 3 conturi Mi unui număr de telefon. Nu se mai pot adăuga conturi noi.</string>
     <string name="get_phone_verifycode_exceed_limit">S-au trimis prea multe coduri de verificare către acest număr de telefon. Așteptați 24 de ore și încercați din nou.</string>
+    <string name="getverifycode_seconde">s</string>
     <string name="goto_confirm">Setări</string>
     <string name="goto_sign_up">Creați un cont</string>
+    <string name="header_help">Ajutor</string>
     <string name="history_list_no_data">Niciun element aici</string>
     <string name="hour_1">În fiecare oră</string>
     <string name="hour_3">La fiecare 3 ore</string>
+    <string name="i_know">Am înțeles</string>
     <string name="icon_content_description">Pictogramă de dialog</string>
     <string name="idbct_desc">Personalizați Caruselul de imagini de fundal în funcție de tipul rețelei</string>
     <string name="idbct_opt_auto_select_desc_text">Descărcați imaginile standard utilizând datele mobile și imaginile HD prin Wi-Fi</string>
@@ -354,12 +361,22 @@ Trimiteți acest cod supervizorului."</string>
     <string name="identity">Identificare</string>
     <string name="inconsistent_pwd">Parolele nu se potrivesc</string>
     <string name="input_email_address_notice">Vom utiliza această adresă de e-mail pentru a vă verifica contul</string>
+    <string name="input_length_exceeds_limit">Textul introdus este prea lung</string>
     <string name="input_new_pwd">Introduceți noua parolă</string>
     <string name="isornot_your_mi_account">Acesta este contul dvs. Mi?</string>
     <string name="just_a_second">Doar o secundă…</string>
     <string name="k_test">testează</string>
     <string name="later">Nu dezactiva</string>
     <string name="launch_bg_permission_exception">Permiteți Caruselului de imagini de fundal să afișeze ferestre pop-up în timp ce rulează în fundal din aplicația de Securitate</string>
+    <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
+    <string name="library_android_database_sqlcipher_authorWebsite">https://www.zetetic.net/sqlcipher/</string>
+    <string name="library_android_database_sqlcipher_isOpenSource">adevărat</string>
+    <string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API bazat pe SQLCipher</string>
+    <string name="library_android_database_sqlcipher_libraryName">SQLCipher pentru Android</string>
+    <string name="library_android_database_sqlcipher_libraryVersion">${clientVersionNumber}</string>
+    <string name="library_android_database_sqlcipher_libraryWebsite">https://www.zetetic.net/sqlcipher/</string>
+    <string name="library_android_database_sqlcipher_licenseLink">https://www.zetetic.net/sqlcipher/license/</string>
+    <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
     <string name="like">Adăugați la Favorite</string>
     <string name="liked">Adăugată la Favorite</string>
     <string name="lks_left_net_deny">Accesul la rețea este restricționat</string>
@@ -410,6 +427,12 @@ Trimiteți acest cod supervizorului."</string>
     <string name="lockscreen_magazine_summary">Selectați categoriile</string>
     <string name="lockscreen_magazine_system_title">Implicit</string>
     <string name="lockscreen_magazine_title">Carusel de imagini de fundal</string>
+    <string name="login_by_local_phone_long_text">Conectați-vă acum</string>
+    <string name="login_by_local_phone_short_text">Conectați-vă</string>
+    <string name="login_other">Alt cont Mi</string>
+    <string name="login_register_by_local_phone_long_text">Creați un cont</string>
+    <string name="login_with_sns">Alte modalități de conectare</string>
+    <string name="login_xiaomi_account_summary">"Am citit și sunt de acord cu &lt;font color ='#0D84FF'>&lt;a href='%1$s'>Acordul Utilizatorului&lt;/font>&lt;/a> și &lt;font color ='#0D84FF'>&lt;a href='%2$s'>Politica de Confidențialitate&lt;/font>&lt;/a> contului Mi."</string>
     <string name="logout">Deconectați-vă</string>
     <string name="logout_account">Deconectați-vă</string>
     <string name="logout_cancel">Renunțați</string>
@@ -425,6 +448,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="midnight">Noapte</string>
     <string name="minutes_15">La fiecare 15 minute</string>
     <string name="minutes_5">La fiecare 5 minute</string>
+    <string name="mishop_login_other">Alt cont</string>
     <string name="miui_clock_city_name_local">Local</string>
     <string name="miui_clock_city_name_second">Ceas secundar</string>
     <string name="miui_clock_fancy_colon"></string>
@@ -555,6 +579,8 @@ mm"</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Comutați la modul de introducere text</string>
     <string name="mtrl_picker_toggle_to_year_selection">Atingeți pentru a comuta la selectarea unui an</string>
     <string name="need_open_gallery">Activați Caruselul de imagini de fundal</string>
+    <string name="network_error_info">A apărut o eroare de rețea. Verificați conexiunea la rețea și reîncercați.</string>
+    <string name="network_timeout_info">"Nu s-a putut conecta la rețea. Încercați din nou."</string>
     <string name="new_feature_title">"Ce este nou"</string>
     <string name="nick_name">Pseudonim</string>
     <string name="night">Seară</string>
@@ -582,6 +608,7 @@ mm"</string>
     <string name="open_gallery">Caruselul de imagini de fundal</string>
     <string name="open_gallery_tips">Atingeți aici pentru a activa Caruselul de imagini de fundal</string>
     <string name="open_guid_des">Mergeți la Setări &gt; Permisiuni &gt; Alte permisiuni &gt; Caruselul de imagini de fundal și acordați toate permisiunile necesare.</string>
+    <string name="open_settings">Setări</string>
     <string name="open_sub_title">Selectați categoriile</string>
     <string name="open_title">Caruselul de imagini de fundal</string>
     <string name="open_unable">"Caruselul de imagini de fundal funcționează doar cu Blocarea ecranului implicită a MIUI."</string>
@@ -696,6 +723,7 @@ mm"</string>
     <string name="platform_unavailable_wechat">Instalați aplicația WeChat</string>
     <string name="platform_unavailable_wechatmoment">Instalați aplicația WeChat</string>
     <string name="platform_unavailable_weibo">Instalați aplicația WhatsApp</string>
+    <string name="please_agree_protocal">Vă rugăm să acceptați Protocolul</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" a fost copiat în clipboard.</string>
     <string name="privacy_policy">Politica de Confidențialitate</string>
@@ -723,8 +751,17 @@ mm"</string>
     <string name="recommend_switch_dlg_title">Dezactivați recomandările?</string>
     <string name="recommend_switch_title">Recomandări personalizate</string>
     <string name="refresh_network">Reîmprospătați</string>
+    <string name="register_by_local_phone_long_text">Creați un cont</string>
+    <string name="register_by_local_phone_short_text">Creați un cont</string>
     <string name="remove">Eliminați</string>
     <string name="req_permission_dis_tip">Sunt necesare unele permisiuni</string>
+    <string name="request_agree">Permiteți</string>
+    <string name="request_camera_permission_message">"Vă vom proteja informațiile personale în conformitate cu legile și reglementările relevante. Această aplicație are nevoie de următoarele permisiuni pentru a funcționa normal:&lt;br>&lt;br>&lt;b>Utilizarea camerei (pentru setarea fotografiei de profil)&lt;/b>&lt;br>&lt;br>Dacă nu sunteți de acord să acordați astfel de permisiuni, nu veți putea folosi unele funcții ale acestei aplicații; cu toate acestea, funcționalitatea sa de bază va fi în continuare disponibilă pentru dvs. Puteți oricând să restricționați permisiunile sau să vă revocați autorizarea din Setări."</string>
+    <string name="request_cancel">Renunțați</string>
+    <string name="request_error_invalid_token">"Nu s-a putut verifica"</string>
+    <string name="request_error_network">A apărut o eroare de rețea. Verificați setările de rețea și încercați din nou.</string>
+    <string name="request_error_unknown">A apărut o eroare de sistem. Mergeți înapoi și încercați din nou.</string>
+    <string name="request_gallery_permission_message">Permiteți accesul la Galerie:&lt;br />Pentru setarea fotografiilor de profil</string>
     <string name="require_permission">Sunt necesare unele permisiuni</string>
     <string name="require_permission_text">Pentru a putea salva și vedea elementele, permiteți Caruselului de imagini de fundal să acceseze stocarea.</string>
     <string name="resend_active_email">Retrimiteți</string>
@@ -804,6 +841,7 @@ mm"</string>
     <string name="sign_in">Se conectează</string>
     <string name="sign_in_progress">Se conectează…</string>
     <string name="sign_in_title">Conectați-vă utilizând contul Mi</string>
+    <string name="skip_query_account">Omiteți</string>
     <string name="sliding_on_unlock">Glisați în sus pentru deblocare</string>
     <string name="sms_send_success">Trimis cu succes</string>
     <string name="sns_access_token_expired_warning">Sesiunea a expirat. Conectați-vă din nou pentru a reconecta acest cont.</string>
@@ -928,6 +966,7 @@ mm"</string>
     <string name="sure_close_gallery">Dezactivați Caruselul de imagini de fundal?</string>
     <string name="sure_close_gallery_des">"Nu veți mai avea imagini noi livrate pe Ecranul principal și în Blocarea ecranului dacă dezactivați această funcție. O dezactivați oricum?"</string>
     <string name="system_default">Implicit</string>
+    <string name="system_error_info">Sistemul este ocupat acum. Așteptați un minut sau două și încercați din nou.</string>
     <string name="tab_user_title_bar_text">Setări</string>
     <string name="tb_collapse_desc">Ascunde meniul \"Partajați\"</string>
     <string name="temporary_not_available">Această caracteristică nu este disponibilă încă</string>
@@ -1018,15 +1057,29 @@ mm"</string>
     <string name="uninstall_introduction_text_title">Despre Caruselul de imagini de fundal</string>
     <string name="uninstall_warning_text_desc">"Fără Caruselul de imagini de fundal nu veți mai putea primi cu regularitate imagini pentru Blocarea ecranului. Totuși, veți putea descărca și instala din nou aplicația. Ștergeți Caruselul de imagini de fundal?"</string>
     <string name="uninstall_warning_text_title">Se șterge Caruselul de imagini de fundal</string>
+    <string name="unknown_error_info">Eroare necunoscută</string>
     <string name="update_email_address_dialog_message">Trebuie să vă verificați identitatea înainte de a actualiza e-mailul pentru recuperare.</string>
     <string name="update_email_address_dialog_title">Actualizați e-mailul pentru recuperare</string>
     <string name="update_phone_notice">Modificați setările de securitate</string>
     <string name="upload_error_log">Încărcați jurnalul</string>
     <string name="user_ac_click_to_login">Atingeți pentru a vă conecta</string>
     <string name="user_ac_not_login">Neconectat</string>
+    <string name="user_agreement_hint_3rd_app"><Data>"Am citit și sunt de acord cu &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de Confidențialitate&lt;/a> precum și cu &lt;a href=%3$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%4$s>Politica de Confidențialitate&lt;/a> a contului Mi."</Data></string>
+    <string name="user_agreement_hint_3rd_app_mobile"><Data>"Am citit și sunt de acord cu &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de Confidențialitate&lt;/a>, contului Mi &lt;a href=%3$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%4$s>Politica de Confidențialitate&lt;/a>, precum și cu &lt;a href=%5$s>Termenii și Condițiile serviciilor de verificare China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"Am citit și sunt de acord cu &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de Confidențialitate&lt;/a>, a contului Mi &lt;a href=%3$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%4$s>Politica de Confidențialitate&lt;/a>, precum și cu &lt;a href=%5$s>Termenii și Condițiile serviciilor de verificare a contului eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"Am citit și sunt de acord cu &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de Confidențialitate&lt;/a>, a contului Mi &lt;a href=%3$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%4$s>Politica de Confidențialitate&lt;/a>, precum și cu &lt;a href=%5$s>Termenii și Condițiile serviciilor de verificare China Unicom&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_default"><Data>"Am citit și sunt de acord cu &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de Confidențialitate&lt;/a> a contului Mi."</Data></string>
+    <string name="user_agreement_hint_default_1"><Data>Am citit și sunt de acord cu &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de Confidențialitate.&lt;/a></Data></string>
+    <string name="user_agreement_hint_default_extra"><Data>"Am citit și sunt de acord cu &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de Confidențialitate.&lt;/a> La prima conectare se va crea automat un cont Xiaomi"</Data></string>
+    <string name="user_agreement_hint_first_login">"Vom crea automat un cont dacă utilizați numărul de telefon pentru prima dată."</string>
+    <string name="user_agreement_hint_with_mobile"><Data>"Am citit și sunt de acord cu &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de Confidențialitate&lt;/a> a contului Mi, precum și cu &lt;a href=%3$s>Termenii și Condițiile serviciilor de verificare China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_telecom"><Data>"Am citit și sunt de acord cu &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de Confidențialitate&lt;/a>, precum și cu &lt;a href=%3$s>Termenii și Condițiile serviciilor de verificare a contului eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_unicom"><Data>"Am citit și sunt de acord cu &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de Confidențialitate&lt;/a>, precum și cu &lt;a href=%3$s>Termenii și Condițiile serviciilor de verificare China Unicom&lt;/a>."</Data></string>
+    <string name="user_agreement_protocal_dialog_hint_default"><Data>"Am citit și sunt de acord cu &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de Confidențialitate&lt;/a> și cu &lt;a href=%3$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%4$s>Politica de Confidențialitate&lt;/a>."</Data></string>
     <string name="user_avatar_update_title">Modificați fotografia de profil</string>
     <string name="user_avatar_uploading">Doar o secundă…</string>
     <string name="user_id_hint">E-mail/Telefon/ID cont Mi</string>
+    <string name="user_name_phone_number">Număr de telefon</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
     <string name="v_code_title">Introduceți codul de verificare</string>

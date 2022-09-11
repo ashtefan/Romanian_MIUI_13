@@ -619,6 +619,9 @@ Trimiteți acest cod supervizorului."</string>
     <string name="galleryplus_v_dialog_hint_too_long">Numele de fișier este prea lung</string>
     <string name="galleryplus_v_network_failed">Nu s-a putut conecta la rețea</string>
     <string name="galleryplus_v_ok">OK</string>
+    <string name="galleryplus_video_circulate_error">"Nu s-a putut transfera redarea. Așteptați un minut sau două și încercați din nou."</string>
+    <string name="galleryplus_video_circulate_loading">Se transferă redarea…</string>
+    <string name="galleryplus_video_circulate_quit">Opriți redarea video</string>
     <string name="galleryplus_video_edit_save_video">Se generează videoclipul cu subtitrare…</string>
     <string name="galleryplus_vp_hardware_unsported">Acest videoclip nu poate fi redat pe dispozitivul dvs.</string>
     <string name="galleryplus_vp_videoview_error_button">Am înțeles</string>
@@ -949,7 +952,8 @@ pentru cea mai bună experiență de vizualizare"</string>
     <string name="network_failed">Nu s-a putut conecta la rețea</string>
     <string name="network_timeout_info">Nu s-a putut conecta la rețea. Încercați din nou.</string>
     <string name="neverthink_player_loading">Se încarcă videoclipul Neverthink…</string>
-    <string name="new_channel_tip">Aruncați o privire la noile canale!</string>
+    <string name="newyearfestival_go_to_draw_prizes">Mergeți la extragerea norocului</string>
+    <string name="newyearfestival_watch_the_video_to_draw_prizes">Urmăriți videoclipuri pentru a intra la tragere la sorți</string>
     <string name="next">Următorul</string>
     <string name="next_step">Următorul</string>
     <string name="nick_name">Pseudonim</string>
@@ -983,7 +987,13 @@ pentru cea mai bună experiență de vizualizare"</string>
     <string name="notification_recall_title">Activați notificările</string>
     <string name="notification_tool">Cutia cu instrumente</string>
     <string name="notify_apk_installed">Descărcată cu succes</string>
-    <string name="off_tip_firework_recommend">Nu veți mai primi recomandări personalizate de conținut de la Firework</string>
+    <string name="offline_notification_text">Atingeți pentru a deschide reclama</string>
+    <string name="offline_notification_title">Vizualizați anunțul pe care l-ați salvat când erați offline</string>
+    <string name="offline_opt_in_confirm">OK</string>
+    <string name="offline_opt_in_confirmation">"Veți primi o notificare cu linkul când veți reveni online"</string>
+    <string name="offline_opt_in_decline">Nu, mulțumesc</string>
+    <string name="offline_opt_in_message">"Vă vom trimite o notificare cu un link către site-ul agentului de publicitate."</string>
+    <string name="offline_opt_in_title">"Deschideți anunțul când sunteți din nou online."</string>
     <string name="ok">OK</string>
     <string name="on_tip_firework_recommend">Veți primi recomandări personalizate de conținut de la Firework</string>
     <string name="open_settings">Mergeți la Setări</string>
@@ -1218,6 +1228,7 @@ Spori securitatea contului dvs."</string>
     <string name="plus_deleting_wait">Se șterge</string>
     <string name="plus_fallback">Feedback</string>
     <string name="plus_gallery_allvideos">Toate videoclipurile</string>
+    <string name="plus_gallery_files">Fișiere</string>
     <string name="plus_gallery_folder_switch_guid">Atingeți pentru a comuta la vizualizarea tip listă</string>  
     <string name="plus_gallery_mediatype_aimusic">Coloane sonore</string>
     <string name="plus_gallery_mediatype_changtu">Imagini alungite</string>
@@ -1487,6 +1498,9 @@ Verificați alte videoclipuri!"</string>
     <string name="share_ugc_waitting">Se generează link-ul…</string>
     <string name="show_the_location">Tipuri de notificări</string>
     <string name="sign_in">Se conectează</string>
+    <string name="sign_in_google_account">Conectați-vă cu Google</string>
+    <string name="sign_in_google_account_hint">"Conectați-vă la contul dvs. Google pentru a vedea mai multe videoclipuri care vă vor plăcea"</string>
+    <string name="sign_in_mi_account">Conectați-vă cu contul Xiaomi</string>
     <string name="sign_in_progress">Se conectează…</string>
     <string name="sign_in_title">Conectați-vă cu contul dvs. Mi</string>
     <string name="slid_fail_message">Nu s-a putut salva</string>
@@ -1603,6 +1617,7 @@ Verificați alte videoclipuri!"</string>
     <string name="tab_name_moment">Amintiri</string>
     <string name="tab_name_trending">În trend</string>
     <string name="tab_name_video">Videoclipuri</string>
+    <string name="talkback_voice_search">Căutare vocală</string>
     <string name="target_sdk_version_30_upgrade_tips">Este posibil ca unele videoclipuri să nu fie vizionate aici din cauza restricțiilor Android 11. Apăsați \"Fișiere\" pentru a găsi alte videoclipuri.</string>
     <string name="temporary_not_available">Această caracteristică nu este disponibilă încă</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversarea ridicării Legii Marțiale</string>

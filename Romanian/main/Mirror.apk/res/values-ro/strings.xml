@@ -33,9 +33,14 @@
     <string name="am">AM</string>
     <string name="app_name">MIUI+ Beta</string>
     <string name="cancel">Renunțați</string>
+    <string name="cast_mcc_tips_button_cancel">Ignorați</string>
+    <string name="cast_mcc_tips_button_ok">Setări</string>
+    <string name="cast_mcc_tips_message">Pentru a evita întârzierile în timpul utilizării MIUI+, conectați ambele dispozitive la aceeași rețea Wi-Fi.</string>
+    <string name="cast_mcc_tips_title">Modificați setările Wi-Fi</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="close">Închideți</string>
     <string name="confirm_device_credential_password">Utilizați parola</string>
+    <string name="connect_fail_busy_mishare">Se pare că celălalt dispozitiv transferă fișiere acum. Așteptați până când transferul este finalizat și încercați din nou.</string>
     <string name="copy">Copiați</string>
     <string name="date_picker_lunar">Calendar Tradițional Chinez</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
@@ -57,6 +62,7 @@
     <string name="enable_wifi_alert_cancel">Renunțați</string>
     <string name="enable_wifi_alert_message">MIUI+ Beta conectează dispozitivele utilizând Wi-Fi. Activați Wi-Fi-ul acum?</string>
     <string name="enable_wifi_alert_message_china">MIUI+ Beta conectează dispozitivele utilizând Wi-Fi. Activați Wi-Fi-ul acum?</string>
+    <string name="enable_wifi_alert_message_for_photo_relay_china">MIUI+ vă permite să comutați fără probleme între dispozitive atunci când trebuie să editați fotografiile făcute cu telefonul pe tabletă. Activați Wi-Fi pentru a utiliza transferul?</string>
     <string name="enable_wifi_alert_ok">Pornește</string>
     <string name="enable_wifi_alert_title">Pornește Wi-Fi</string>
     <string name="enable_wifi_alert_title_china">Pornește Wi-Fi</string>
@@ -128,10 +134,15 @@
     <string name="generic_error_no_keyguard">Acest dispozitiv nu acceptă codul PIN, modelul sau parola.</string>
     <string name="generic_error_user_canceled">Autentificare anulată de către utilizator.</string>
     <string name="http_buffer_size">Dimensiune cache HTTP</string>
+    <string name="loading">Doar o secundă…</string>
     <string name="log_warning">Comutarea butoanelor jurnal poate crește riscurile de securitate și poate afecta performanța. Utilizați aceste comutatoare numai atunci când este necesar.</string>
     <string name="message_log">Jurnalele de mesaje</string>
     <string name="mi_drop">Partajare Mi</string>
     <string name="midnight">Noapte</string>
+    <string name="mishare_interrupting_message">Transferurile în curs vor fi întrerupte dacă încheiați sesiunea acum. Terminați oricum?</string>
+    <string name="mishare_interrupting_title">Intrerupeți transferurile?</string>
+    <string name="miuix_access_state_desc">Selectate</string>
+    <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
@@ -146,6 +157,8 @@
     <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
     <string name="miuix_appcompat_select_item">Selectați elementele</string>
+    <string name="miuix_indexer_collect">Colecții</string>
+    <string name="miuix_indexer_selected">Selectate %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -205,6 +218,34 @@
     <string name="notify_connected_title">Conectat la %1$s</string>
     <string name="ok">OK</string>
     <string name="open_folder">Afișează</string>
+    <string name="pad_fullscreen_sink_activity_label">Telefonul meu</string>
+    <string name="pad_mirror_device_locked_tips_3">Atingeți de două ori pentru a trezi</string>
+    <string name="pad_mirror_disconnect_tips_1">S-a pierdut conexiunea</string>
+    <string name="pad_mirror_disconnect_tips_2">Asigurați-vă că Wi-Fi și Bluetooth sunt activate pe ambele dispozitive și încercați din nou.</string>
+    <string name="pad_settings_bluetooth_enable_title">Activați Bluetooth-ul</string>
+    <string name="pad_settings_connect_pad_group">Lucrați pe tabletă</string>
+    <string name="pad_settings_connect_pc_group">Lucrați pe computer</string>
+    <string name="pad_settings_handoff_app_summary">Continuați sarcinile în aceeași aplicație pe celălalt dispozitiv</string>
+    <string name="pad_settings_handoff_app_title">Aplicații</string>
+    <string name="pad_settings_handoff_clipboard_summary">Copiați de pe un dispozitiv și lipiți fără probleme pe celălalt</string>
+    <string name="pad_settings_handoff_clipboard_title">Clipboard</string>
+    <string name="pad_settings_handoff_device_title">Dispozitiv conectat</string>
+    <string name="pad_settings_handoff_disable">Oprit</string>
+    <string name="pad_settings_handoff_disconnect">Neconectat</string>
+    <string name="pad_settings_handoff_enable_disconnect">Țineți dispozitivele aproape unul de celălalt cu Bluetooth-ul activat</string>
+    <string name="pad_settings_handoff_p2p_summary">Conectați-vă la hotspot-ul portabil printr-o singură atingere</string>
+    <string name="pad_settings_handoff_p2p_title">Hotspot</string>
+    <string name="pad_settings_handoff_video_summary">Reluați redarea video de unde ați rămas pe un alt ecran</string>
+    <string name="pad_settings_handoff_video_title">Videoclipuri</string>
+    <string name="pad_settings_handoff_wps_summary">Vizualizați, editați și salvați documente în timp ce comutați între dispozitive</string>
+    <string name="pad_settings_handoff_wps_title">Documente</string>
+    <string name="pad_settings_pad_handoff_summary">Utilizați transferul cu aplicații, clipboardul, videoclipurile și alte elemente de pe celălalt dispozitiv asociat contului dvs. Xiaomi</string>
+    <string name="pad_settings_pc_history_title">Istoricul de conectare</string>
+    <string name="pad_settings_pc_trusted_title">Conectați în mod automat</string>
+    <string name="pad_settings_pc_use_tile">Despre această funcție</string>
+    <string name="pad_settings_phone_handoff_summary">Utilizați transferul cu aplicații, clipboardul, videoclipurile și alte elemente de pe celălalt dispozitiv asociat contului dvs. Xiaomi</string>
+    <string name="pad_settings_phone_handoff_title">Transfer</string>
+    <string name="pcmode_not_support_multi_window">"Modul PC nu suportă afișarea de ferestre multiple."</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
     <string name="privacy_all_purpose">Bine ați venit la MIUI + Beta! Puteți utiliza această aplicație pentru a vă conecta telefonul la un computer și a combina cele 2 dispozitive într-o singură stație de lucru.</string>
@@ -212,6 +253,11 @@
     <string name="privacy_describe_location">Pentru găsirea computerelor din apropiere și transferul de fișiere</string>
     <string name="privacy_describe_record_audio">Pentru redirecționarea redării audio către computer</string>
     <string name="privacy_describe_storage">Pentru trimiterea și primirea de fișiere</string>
+    <string name="privacy_pad_all_purpose">Bun venit la MIUI+! Puteți folosi această aplicație pentru a vă combina dispozitivele mobile într-o singură stație de lucru. MIUI+ vă permite să utilizați aplicațiile de pe telefonul dvs. pe tabletă, să răspundeți la apeluri de pe alt dispozitiv, să utilizați clipboard partajat, să transferați elemente și să proiectați conținutul ecranului.</string>
+    <string name="privacy_pad_describe_change_wifi_state">Pentru difuzarea conținutului ecranului</string>
+    <string name="privacy_pad_describe_record_audio">Pentru transferul redării audio pe alt dispozitiv în timpul difuzării</string>
+    <string name="privacy_pad_describe_storage">Pentru transferul de elemente între dispozitive</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
     <string name="relay_msg_photo_text">Salvată în Galerie cu succes</string>
     <string name="relay_msg_photo_title">Imagine nouă</string>
     <string name="relay_msg_screenshot_text">Salvată în Galerie cu succes</string>
@@ -223,6 +269,7 @@
     <string name="save_failed">Nu s-a putut salva</string>
     <string name="scanner_uninstalled_text">Se pare că aplicația Scaner nu este instalată pe dispozitivul dvs. Instalați mai întâi aplicația Scaner.</string>
     <string name="scanner_uninstalled_title">Instalați aplicația Scaner</string>
+    <string name="screen_num_over_limit">Nu se mai pot deschide alte ferestre</string>
     <string name="search_menu_title">Căutați</string>
     <string name="send">Trimiteți</string>
     <string name="settings_connect">Cum vă puteți conecta</string>
@@ -299,6 +346,8 @@
     <string name="solar_term_white_dews">Rouă</string>
     <string name="solar_term_winter_begins">Începutul iernii</string>
     <string name="solar_term_winter_solstice">Solstițiul de iarnă</string>
+    <string name="sub_screen_lock_message">"Deblocați telefonul
+pentru a continua"</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
@@ -375,6 +424,7 @@
     <string name="worker_connect_help">Ajutor</string>
     <string name="worker_connecting_message">Se conectează…</string>
     <string name="worker_try_join_in_connected_state">Conectat cu succes</string>
-    <string name="worker_try_join_in_connecting_state">Se conectează dispozitivul…</string>
+    <string name="worker_try_join_pc_when_pad_adv_connected">Acest dispozitiv este conectat la un alt dispozitiv acum. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="worker_try_join_pc_when_pad_adv_connected_title">"Nu s-a putut conecta la MIUI+"</string>
     <string name="yesterday">Ieri</string>
 </resources>

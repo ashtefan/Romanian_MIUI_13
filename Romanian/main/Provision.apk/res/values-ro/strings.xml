@@ -275,6 +275,7 @@
     <string name="other_settings">Setări adiţionale</string>
     <string name="other_settings_ad_dialog_agree">Activați</string>
     <string name="other_settings_ad_dialog_content">Când recomandările de anunțuri personalizate sunt dezactivate, veți vedea în continuare aceeași cantitate de anunțuri ca atunci când funcția este activată. Cu toate acestea, anunțurile nu vor mai fi relevante, deoarece nu se vor baza pe preferințele dvs. personale</string>
+    <string name="other_settings_ad_dialog_content_for_global">"Când recomandările de anunțuri personalizate sunt dezactivate, veți vedea în continuare aceeași cantitate de anunțuri ca atunci când funcția este activată. Cu toate acestea, anunțurile nu vor mai fi relevante, deoarece nu se vor baza pe preferințele dvs. personale."</string>
     <string name="other_settings_ad_dialog_disagree">Dezactivați</string>
     <string name="other_settings_ad_disable_summary">Activați anunțurile personalizate</string>
     <string name="other_settings_ad_enable">Anunțuri personalizate</string>
@@ -446,7 +447,7 @@ Puteți controla această caracteristică din Setări>Parole și securitate>Conf
     <string name="solar_term_white_dews">Rouă</string>
     <string name="solar_term_winter_begins">Începutul iernii</string>
     <string name="solar_term_winter_solstice">Solstițiul de iarnă</string>
-    <string name="start_up_slogan">Doar al dumneavoastră</string>
+    <string name="start_up_slogan">Unde se conectează toate lucrurile</string>
     <string name="summary_not_set">Nu este setat</string>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>

@@ -70,6 +70,7 @@
     <string name="calories_logo_text">Suport AI furnizat de Health Hope</string>
     <string name="calories_request_interface_text">Suport AI</string>
     <string name="camera_error_title">Eroare de cameră</string>
+    <string name="camera_permissions_text">Permiteți scanerului să acceseze camera pentru a putea folosi această funcție.</string>
     <string name="camera_stealth_mode_message">Nu s-a putut conecta la camera foto. Dacă este necesară camera, dezactivați modul secret.</string>
     <string name="camera_stealth_mode_title">Modul Secret este activat</string>
     <string name="can_only_be_English_Chinese">Limba pentru traducerea online poate fi doar Engleză și Chineză Simplificată</string>
@@ -277,6 +278,7 @@
     <string name="food_module_thumbs_up">Îmi place</string>
     <string name="food_module_tip">Plasați mâncarea în interiorul ramei</string>
     <string name="food_module_title_food">Calorii</string>
+    <string name="format_error">Parolă nevalidă</string>
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
@@ -327,6 +329,8 @@
     <string name="kuaidi100_data">Furnizat de către Kuaidi 100</string>
     <string name="label_choose_picture">Selectați fotografia</string>
     <string name="label_flash_light">Bliț</string>
+    <string name="label_flash_light_off">Lanterna este oprită</string>
+    <string name="label_flash_light_on">Lanterna este pornită</string>
     <string name="language_entry_chinese_cn">Chineză simplificată</string>
     <string name="language_entry_english">Engleză</string>
     <string name="language_entry_french">Franceză</string>
@@ -373,6 +377,7 @@
     <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
     <string name="miuix_appcompat_select_item">Selectați elementele</string>
+    <string name="miuix_indexer_collect">Colecții</string>
     <string name="miuix_indexer_selected">%s a fost selectat</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
@@ -656,6 +661,7 @@
     <string name="solar_term_winter_begins">Începutul iernii</string>
     <string name="solar_term_winter_solstice">Solstițiul de iarnă</string>
     <string name="spaceIsLow_content">Nu există spațiu de stocare suficient în memoria internă. Eliberați spațiu.</string>
+    <string name="storage_permissions_text">Permiteți scanerului să acceseze spațiul de stocare al dispozitivului pentru a putea folosi această funcție.</string>
     <string name="store_feedback_prompt">Introduceți mai întâi feedback-ul dumneavoastră</string>
     <string name="store_location_dialog">Acest serviciu este furnizat de către Dianping. Toate fotografiile realizate în timpul utilizării acestui serviciu, inclusiv informațiile legate de locație, vor fi partajate cu Dianping pentru a obține informații despre magazine.</string>
     <string name="store_location_fail">Nu s-au putut obține informațiile despre locație</string>

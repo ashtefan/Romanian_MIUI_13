@@ -126,6 +126,10 @@
         <item quantity="other">%d dispozitive disponibile</item>
         <item quantity="one">%d dispozitiv disponibil</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d secunde</item>
+        <item quantity="one">%d secundă</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d dispozitive</item>
         <item quantity="one">%d dispozitiv</item>
