@@ -237,7 +237,6 @@
     <string name="date_jump_title">Treceți la data</string>
   <string name="date_pattern_mm_dd">ziua d luna M</string>
     <string name="date_picker_lunar">Calendarul Chinez Tradițional</string>
-    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="date_today">" (astăzi)"</string>
     <string name="day">Zi</string>

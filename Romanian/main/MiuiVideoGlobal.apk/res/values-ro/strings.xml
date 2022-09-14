@@ -668,7 +668,6 @@ pentru videoclipuri"</string>
     <string name="later">Mai târziu</string>
     <string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API bazat pe SQLCipher</string>
     <string name="library_android_database_sqlcipher_libraryName">SQLCipher pentru Android</string>
-    <string name="library_roundedimageview_author">Mi Vince</string>
     <string name="library_roundedimageview_libraryDescription">Un ImageView rapid (și desenabil) care acceptă colțuri rotunjite (și ovale sau cercuri) pe baza exemplului original de la Romain Guy.</string>
     <string name="live_now">Live acum</string>
     <string name="live_title">TV Live</string>
@@ -997,7 +996,6 @@ pentru cea mai bună experiență de vizualizare"</string>
     <string name="ok">OK</string>
     <string name="on_tip_firework_recommend">Veți primi recomandări personalizate de conținut de la Firework</string>
     <string name="open_settings">Mergeți la Setări</string>
-    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Abonări recente</string>
     <string name="order_recently_updated">Actualizate recent</string>
     <string name="out_of_memory_background_playback_is_suspended">S-a oprit redarea în fundal datorită memoriei insuficiente</string>

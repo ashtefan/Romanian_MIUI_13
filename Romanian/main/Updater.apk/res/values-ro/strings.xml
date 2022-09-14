@@ -63,7 +63,6 @@
     <string name="check_update_policy">Setări</string>
     <string name="check_update_when_wifi_available">Utilizaţi doar Wi-Fi pentru verificarea actualizărilor</string>
     <string name="check_update_when_wifi_available_sum">"Se verifică pentru actualizări doar atunci când este conexiune la internet prin Wi-Fi"</string>
-    <string name="chengelog">%1$s</string>
     <string name="clean_up_button">Curăţare</string>
     <string name="comment_invalid">Daţi o notă acestei actualizări (atingeţi steluțele)</string>
     <string name="comment_publish">Trimiteţi</string>
@@ -146,7 +145,6 @@ Partiția de date nu va fi ștearsă."</string>
     <string name="menu_title_pick_rom_file">Selectaţi pachetul de actualizare</string>
     <string name="menu_title_recovery">Reporniţi în modul Recuperare</string>
     <string name="menu_title_show_notifications">Afișează notificări</string>
-    <string name="message">%1$s</string>
     <string name="message_checkbox">Ascundeți mesajele viitoare de la echipa Xiaomi.eu</string>
     <string name="message_checkbox_device">Nu arăta din nou</string>
     <string name="message_title">NOTĂ!</string>    

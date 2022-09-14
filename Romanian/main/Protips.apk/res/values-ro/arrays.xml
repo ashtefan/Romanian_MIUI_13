@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="tips">
-        <item>"Vedeți toate aplicațiile dumneavoastră.
- Apăsați pictograma Lansatorului. @drawable/all_apps"</item>
-        <item>"Trageți aplicațiile pe Ecranul principal.
- Apăsați și mențineți apăsată o aplicație în Lansator până când aceasta vibrează."</item>
-        <item>"Rearanjați Ecranul principal.
- Atingeți și mențineți apăsat un element și când vibrează, trageți-l unde doriți."</item>
-        <item>"Eliminați elemente.
- Atingeți și mențineți apăsat un element și când vibrează, trageți-l pe pictograma Coș de gunoi. @drawable/trash"</item>
-        <item>"Mai multe ecrane de pornire.
- Glisați spre stânga sau spre dreapta pentru a comuta. Trageți elementele pe alte ecrane."</item>
-        <item>"Nu mai aveți nevoie de acest widget?
- Atingeți și mențineți-l și când vibrează, trageți-l pe pictograma Coș de gunoi."</item>
-    </string-array>
     <string-array name="tips2">
         <item>"Ecranul Acasă este ca o grădină 
  Atingeți și mențineți apăsat un loc gol

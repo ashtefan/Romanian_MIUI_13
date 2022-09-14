@@ -1261,7 +1261,6 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_beautify_entry_normal">Mediu</string>
     <string name="pref_camera_beauty">Înfrumusețare</string>
     <string name="pref_camera_beauty_deep">Înfrumusețare Pro</string>
-    <string name="pref_camera_coloreffect_default">niciunul</string>
     <string name="pref_camera_coloreffect_entry_big_face">Extindere</string>
     <string name="pref_camera_coloreffect_entry_blackwhite">Alb-negru</string>
     <string name="pref_camera_coloreffect_entry_fisheye">Ochi de peşte</string>
@@ -1450,7 +1449,6 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_jpegquality_entry_normal">Standard</string>
     <string name="pref_camera_jpegquality_title">Calitate fotografie</string>
     <string name="pref_camera_live_sticker_internal_title">Unelte magice interne</string>
-    <string name="pref_camera_long_press_shutter_feature_default">rafală</string>
     <string name="pref_camera_long_press_shutter_feature_title">Apăsarea și menținerea apăsată a butonului de declanșare</string>
     <string name="pref_camera_long_press_viewfinder_google_lens">Google Lens</string>
     <string name="pref_camera_long_press_viewfinder_lock_ae_af">Blocare AE/AF</string>
@@ -1584,7 +1582,6 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_video_show_faceview_title">Afișează rama chipului în modul Video</string>
     <string name="pref_camera_video_tag">Permiteți etichetarea videoclipurilor</string>
     <string name="pref_camera_video_tag_description">Apăsați butonul \"Etichetare\" în timpul filmării unui videoclip pentru a vă putea întoarce la momentele etichetate atunci când redați videoclipul</string>
-    <string name="pref_camera_volumekey_function_default">temporizator</string>
     <string name="pref_camera_volumekey_function_entry_shutter">Obturator</string>
     <string name="pref_camera_volumekey_function_entry_timer">Declanșarea inversă a obturatorului</string>
     <string name="pref_camera_volumekey_function_entry_volume">Volum</string>

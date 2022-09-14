@@ -1634,7 +1634,6 @@ Acest lucru afectează alte aplicații sau conversații în care ați activat an
     <string name="call_example_name">Nume</string>
     <string name="call_manager_enable_summary">Permiteți acestui serviciu să administreze modul de realizare a apelurilor.</string>
     <string name="call_manager_enable_title">Activați Administratorul de Apeluri</string>
-    <string name="call_manager_summary">%1$s</string>
     <string name="call_manager_title">Administrator apeluri</string>
     <string name="call_records_name_1">Gheorghe Popescu</string>
     <string name="call_records_name_2">Marius Coman</string>
@@ -4133,7 +4132,6 @@ Accesați Xiaomi Cloud și restaurați elementele de acolo."</string>
     <string name="lights_title">Lumină LED</string>
     <string name="line_breaking_summary">Optimizaţi ruperea rândului alineatului</string>
     <string name="line_breaking_title">Optimizare text</string>
-    <string name="link_speed">%1$d Mbps</string>
     <string name="link_turbo_prompt">Statisticile din această pagină arată doar cantitatea de date utilizate pentru creșterea vitezei de conectare Wi-Fi. Aceste statistici nu reflectă utilizarea reală a datelor mobile.</string>
     <string name="link_turbo_settings_all_app_display_loading">Doar o secundă…</string>
     <string name="link_turbo_settings_all_app_reach_max">Puteți selecta până la 15 aplicații</string>
@@ -5489,7 +5487,6 @@ Acest lucru va permite de asemenea aplicației să activeze sau să dezactiveze 
     <string name="notification_fold_summary">Toate notificările neimportante vor apărea într-un dosar separat</string>
     <string name="notification_fold_title">Dosar de notificări</string>
     <string name="notification_group_title">Grupare categorii de notificări</string>
-    <string name="notification_header_divider_symbol_with_spaces">" • "</string>
     <string name="notification_history">Istoricul de notificare</string>
     <string name="notification_history_dismiss">Recent respinse</string>
     <string name="notification_history_off_summary">Activați istoricul notificărilor pentru a vedea notificările recente și notificările amânate</string>
@@ -5929,7 +5926,6 @@ Citiți și acceptați %s înainte de a utiliza acest serviciu."</string>
     <string name="power_remaining_less_than_duration_only">Mai puțin de %1$s disponibil</string>
     <string name="power_remaining_more_than_subtext">Mai mult de %1$s disponibil (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">Mai mult de %1$s disponibil</string>
-    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_screen">Ecran</string>
     <string name="power_settings_title">Performanţă sistem</string>
     <string name="power_suggestion_battery_run_out">Este posibil ca acumulatorul să se descarce până %1$s</string>
@@ -7557,7 +7553,6 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_carrier_settings_no_sim_card">Nicio cartelă SIM</string>
     <string name="status_bar_settings">Notificări și bara de stare</string>
     <string name="status_bar_settings_all_app_display_loading">Doar o secundă…</string>
-    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_manage_notification">Notificările aplicaţiilor</string>
     <string name="status_bar_settings_notification_bar">Panou notificări</string>
     <string name="status_bar_settings_notification_use_app_icon">Utilizați pictogramele aplicației pentru notificări</string>
@@ -9390,7 +9385,6 @@ Permiteți acest lucru pentru toate aplicațiile care solicită scanarea?"</stri
     <string name="wifi_security_none_owe">Niciuna/Avansat deschisă</string>
     <string name="wifi_security_owe">Avansat deschisă</string>
     <string name="wifi_security_passpoint">Punct de acces</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_psk_sae">WPA2/WPA3-Personal</string>
     <string name="wifi_security_sae">WPA3-Personal</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
@@ -9402,7 +9396,6 @@ Permiteți acest lucru pentru toate aplicațiile care solicită scanarea?"</stri
     <string name="wifi_security_short_eap_wpa2_wpa3">RSN-EAP</string>
     <string name="wifi_security_short_none_owe">Niciuna/OWE</string>
     <string name="wifi_security_short_owe">OWE</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_psk_sae">WPA2/WPA3</string>
     <string name="wifi_security_short_sae">WPA3</string>
     <string name="wifi_security_short_wep">WEP</string>

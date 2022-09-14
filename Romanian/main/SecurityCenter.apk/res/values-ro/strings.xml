@@ -1441,9 +1441,7 @@ cutremure"</string>
     <string name="exo_download_notification_channel_name">Descărcări</string>
     <string name="exo_download_removing">Se elimină descărcările</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternează</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Comentariu</string>
@@ -2976,11 +2974,6 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_center_dialog_msg_top">Când Economisirea acumulatorului este activă, MIUI va face următoarele optimizări:</string>
     <string name="power_center_hints_scan_danger_result">Puteți remedia problemele legate de acumulator acum</string>
     <string name="power_center_list_item_auto_brightness">Ajustați iluminarea ecranului în mod automat</string>
-    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
-    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
-    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
-    <string name="power_center_list_item_battery_status_capacity">mAh</string>
-    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">h</string>
     <string name="power_center_list_item_close_bluetooth">Dezactivați Bluetooth-ul</string>
     <string name="power_center_list_item_deep_save_title">Setări avansate</string>

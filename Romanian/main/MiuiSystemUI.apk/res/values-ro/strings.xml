@@ -1931,7 +1931,6 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="pm">PM</string>
     <string name="pointer_location">Localizare indicator</string>
     <string name="pointer_location_summary">Afișează atingerile ecranului</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s până la încărcarea completă</string>
     <string name="power_discharge_by">Ar trebui să dureze până la circa %1$s (%2$s)</string>
     <string name="power_discharge_by_enhanced">Ar trebui să dureze până la circa %1$s bazat pe modul dvs de utilizare (%2$s)</string>
@@ -2002,7 +2001,6 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="private_dns_mode_provider">Nume gazdă furnizor privat DNS</string>
     <string name="private_dns_mode_provider_failure">Nu se poate conecta</string>
     <string name="private_dns_mode_provider_hostname_hint">Introduceți numele gazdă al furnizorului DNS</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">Problemă de conectare. Opriți și reporniți dispozitivul</string>
     <string name="profile_info_settings_title">Informații de profil</string>
     <string name="profile_owned_footer">Profilul poate fi monitorizat</string>

@@ -982,12 +982,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="wifi_disabled_wifi_failure">Conectarea la Wi-Fi a eșuat</string>
     <string name="wifi_display_certification">Certificare ecran wireless</string>
     <string name="wifi_display_certification_summary">Arată opțiunile pentru certificarea ecranului wireless</string>
-    <string name="wifi_dns1_hint">8.8.8.8</string>
-    <string name="wifi_dns2_hint">8.8.4.4</string>
     <string name="wifi_fail_to_scan">"Nu se pot căuta rețele"</string>
-    <string name="wifi_gateway_hint">192.168.1.1</string>
-    <string name="wifi_ip_address_hint">192.168.1.128</string>
-    <string name="wifi_network_prefix_length_hint">24</string>
     <string name="wifi_no_internet">"Fără acces la Internet; nu se va reconecta în mod automat."</string>
     <string name="wifi_no_internet_no_reconnect">"Nu se va conecta în mod automat"</string>
     <string name="wifi_not_in_range">Nu este în raza de acțiune</string>

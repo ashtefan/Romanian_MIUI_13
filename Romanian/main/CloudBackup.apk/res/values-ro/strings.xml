@@ -358,8 +358,6 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</stri
     <string name="open_wifi_setting">Setări Wi-Fi</string>
     <string name="other_device_main_space">Spațiul principal</string>
     <string name="other_device_second_space">Spațiul secundar</string>
-    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
-    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">Nu se pot restaura elementele în modul PC. Dezactivați modul PC și încercați din nou.</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>

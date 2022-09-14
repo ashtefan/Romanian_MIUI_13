@@ -159,11 +159,6 @@
         <item>Systrace (Graphics)</item>
         <item>Call stack on glGetError</item>
     </string-array>
-    <string-array name="enhanced_4g_lte_mode_title_variant">
-        <item>@string/enhanced_4g_lte_mode_title</item>
-        <item>Apelare avansată</item>
-        <item>Apelare 4G</item>
-    </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Nu utiliza niciodată verificarea HDCP</item>
         <item>Utilizează verificarea HDCP doar pentru conținutul DRM</item>

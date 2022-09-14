@@ -635,7 +635,6 @@ Selecție"</string>
     <string name="private_dns_mode_provider">Nume gazdă furnizor DNS privat</string>
     <string name="private_dns_mode_provider_failure">Nu s-a putut conecta</string>
     <string name="private_dns_mode_provider_hostname_hint">Introduceți numele gazdă al furnizorului DNS privat</string>
-    <string name="process_kernel_label">S.O. Android</string>
     <string name="profile_connect_timeout_subtext">Problemă la conectare. Opriți și apoi reporniți dispozitivul</string>
     <string name="profile_info_settings_title">Informații de profil</string>
     <string name="remaining_length_format">%1$s rămas</string>

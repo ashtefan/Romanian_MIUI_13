@@ -397,7 +397,6 @@
     <string name="menu_unhide">Afișați</string>
     <string name="menu_unstick">Anulaţi fixarea</string>
     <string name="merge_to_folder">Creați un dosar</string>
-    <string name="micloud_state_total_count">%1$s</string>
     <string name="midnight">Noapte</string>
     <string name="mind_note_first_enter_guide">Atingeți pentru a crea o hartă mentală</string>
     <string name="mind_note_mind_map_view">Vizualizare hartă mentală</string>
@@ -598,7 +597,6 @@
     <string name="note_sort_way">Sortați</string>
     <string name="notealert_enter">Vizualizaţi nota</string>
     <string name="notealert_ok">Renunțaţi</string>
-    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">Aplicația Notițe este o aplicație de sistem. Nu o veți mai putea utiliza după ce o dezinstalați.</string>
     <string name="notes_description_title">Dezinstalați aplicația Notițe?</string>
     <string name="notification_content_add_todo_from_other_app">Ați adăugat o nouă sarcină. Atingeți pentru a o vedea.</string>

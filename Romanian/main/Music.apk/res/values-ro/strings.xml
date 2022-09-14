@@ -106,7 +106,6 @@
     <string name="app_description_content">Aplicația Muzică este o aplicație de sistem care conține un player audio și vă permite să gestionați fișierele audio. Veți putea reda în continuare fișiere audio după ce eliminați comanda rapidă de pe Ecranul principal.</string>
     <string name="app_description_title">Eliminați \"Muzică\" de pe Ecranul principal?</string>
     <string name="app_label">Descărcări</string>
-    <string name="app_name">SdkCommon</string>
     <string name="app_permission_confirm">Am înțeles</string>
     <string name="app_permission_optional">Permisiuni opționale</string>
     <string name="app_permission_require">Permisiuni obligatorii</string>
@@ -425,8 +424,6 @@
     <string name="download_paused_in_power_save_mode">Sarcinile de descărcare sunt oprite când modul Economisire energie este activ</string>
     <string name="download_pending">Se așteaptă descărcarea</string>
     <string name="download_processing">Descărcare…</string>
-    <string name="download_progress">%d%%</string>
-    <string name="download_progress_detail" formatted="false">%.1fM/%.1fM</string>
     <string name="download_quality">Calitate descărcare</string>
     <string name="download_quality_summary">Setări suplimentare pentru melodiile pe care le descărcați</string>
     <string name="download_queued">Pusă în coada de așteptare</string>
@@ -531,9 +528,7 @@
     <string name="exo_media_action_repeat_all_description">Repetați tot</string>
     <string name="exo_media_action_repeat_off_description">Nu repeta niciuna</string>
     <string name="exo_media_action_repeat_one_description">Repetă una</string>
-    <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_role_alternate">Alternează</string>
     <string name="exo_track_role_closed_captions">CC</string>
     <string name="exo_track_role_commentary">Comentariu</string>
@@ -1694,7 +1689,6 @@ Fiți fericit"</string>
 Atingeți %s pentru a porni descărcarea când veți fi conectat la Wi-Fi."</string>
     <string name="wifi_required_title">Ar trebui să fiți conectat la o rețea Wi-Fi pentru a descărca acest fișier</string>
     <string name="xiaomi_privacy_policy_url">https://privacy.mi.com/all/</string>
-    <string name="xiaomi_update_sdk_bytes_unit">%1$s B</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Nu s-a putut conecta Managerul de descărcare; vă rugăm să verificați starea Managerului de descărcare din meniul de Gestionare a aplicațiilor.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Vă prezentăm versiunea %1$s
 Dimensiune: %2$s"</string>
@@ -1702,8 +1696,6 @@ Dimensiune: %2$s"</string>
 Dimensiunea actualizării delta: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s actualizare!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Spațiu de stocare insuficient; vă rugăm să verificați cardul SD.</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">%1$s KB</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">%1$s MB</string>
     <string name="yesterday">Ieri</string>
     <string name="you_can_switch_mode_in_settings">Puteți comuta între moduri în Setări</string>
     <string name="you_may_like">V-ar mai putea place</string>

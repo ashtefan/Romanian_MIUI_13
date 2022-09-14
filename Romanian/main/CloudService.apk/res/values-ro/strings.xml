@@ -174,8 +174,6 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
     <string name="find_device_disabling">Dezactivare…</string>
     <string name="find_device_dspt">Localizați, blocaţi sau resetați dispozitivul de la distanță</string>
     <string name="find_device_dspt_provision">Dacă vă pierdeți dispozitivul, puteţi să accesaţi &lt;font color=#0097FF>%s&lt;/font> pentru a-l localiza, bloca, sau reseta. Puteți activa sau dezactiva oricând această opţiune în Setări.</string>
-    <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_network">Verificați conexiunea de date și încercați din nou.</string>
     <string name="find_device_error_password_changed">Parola contului a fost schimbată recent.</string>
     <string name="find_device_error_server">Eroare de server</string>

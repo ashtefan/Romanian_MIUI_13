@@ -413,7 +413,6 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="gallery_wallpaper_count_tw">10w+</string>
     <string name="gallery_wallpaper_theme">Imagini de fundal indispensabile</string>
     <string name="gift_anonymous">Anonim</string>
-    <string name="gift_count_format">%1$s+</string>
     <string name="gift_operation_fail_dlg_abandon">Anulaţi</string>
     <string name="gift_operation_fail_dlg_retry">Încercaţi din nou</string>
     <string name="gift_operation_waiting">Doar o secundă…</string>

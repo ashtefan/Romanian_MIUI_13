@@ -893,14 +893,6 @@ Această problemă ar putea fi cauzată de autentificarea în doi factori a cont
     <string name="mailbox_name_display_starred">Mesaje cu stea</string>
     <string name="mailbox_name_display_trash">Coş de gunoi</string>
     <string name="mailbox_name_display_unread">Necitite</string>
-    <string name="mailbox_name_server_all_unread">Necitite</string>
-    <string name="mailbox_name_server_drafts">Nefinalizate</string>
-    <string name="mailbox_name_server_inbox">Primite</string>
-    <string name="mailbox_name_server_junk">Coș</string>
-    <string name="mailbox_name_server_outbox">De trimis</string>
-    <string name="mailbox_name_server_sent">Trimise</string>
-    <string name="mailbox_name_server_starred">Cu stea</string>
-    <string name="mailbox_name_server_trash">Gunoi</string>
     <string name="mailbox_setting_preference_sync_summary_close">Sincronizarea este oprită</string>
     <string name="mailbox_setting_preference_sync_summary_open">Sincronizarea este pornită</string>
     <string name="mailbox_settings_activity_title">Setări de sincronizare</string>

@@ -59,7 +59,6 @@
     <string name="copies_increase">Plus o copie</string>
     <string name="copy">Copiați</string>
     <string name="could_not_create_file">Nu s-a putut crea fișierul</string>
-    <string name="current_page_template">%1$d/%2$d</string>
     <string name="date_picker_lunar">Calendarul Chinezesc Tradițional</string>
     <string name="date_time_picker_dialog_title">Set date and time</string>
     <string name="delete_saved_printer_content">Ștergeți imprimantele selectate acum?</string>
@@ -261,7 +260,6 @@
     <string name="printer_busy">Imprimanta este ocupată</string>
     <string name="printer_error">Eroare de imprimantă</string>
     <string name="printer_error_msg">Eroare de imprimantă: %1$s</string>
-    <string name="printer_extended_description_template">%1$s - %2$s</string>
     <string name="printer_info_desc">Mai multe informații despre această imprimantă</string>
     <string name="printer_notification_error_title">"Nu s-a putut tipări %1$s"</string>
     <string name="printer_unavailable">Imprimanta nu este disponibilă</string>

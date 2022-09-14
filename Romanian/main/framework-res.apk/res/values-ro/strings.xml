@@ -870,7 +870,6 @@ Accesați "<b>google.com/accounts/recovery</b>.</string>
      <string name="kg_reordering_delete_drop_target_text">Eliminaţi</string>
      <string name="kg_sim_pin_instructions">Introduceţi codul PIN al cartelei SIM</string>
      <string name="kg_sim_unlock_progress_dialog_message">Se deblochează cartela SIM…</string>
-    <string name="kg_text_message_separator">" — "</string>
      <string name="kg_too_many_failed_password_attempts_dialog_message">"Aţi introdus incorect parola de %1$d ori.
      
 Încercaţi din nou peste %2$d secunde."</string>
@@ -1797,7 +1796,6 @@ Ascultarea la volum ridicat pentru perioade lungi de timp vă poate afecta auzul
      <string name="ssl_certificate">Certificat de securitate</string>
      <string name="ssl_certificate_is_valid">Certificatul este valid.</string>
     <string name="status_bar_airplane">avion</string>
-    <string name="status_bar_battery">acumulator</string>
       <string name="status_communication_speaker_summary">Un apel hands-free este în curs. Redarea audio se va face în continuare în difuzor când sunt conectate căștile.</string>
       <string name="status_communication_summary">Există un apel în curs. Puteți ajusta doar volumul apelului acum.</string>
       <string name="stk_cc_ss_to_dial">Solicitarea SS este modificată la apel obișnuit</string>

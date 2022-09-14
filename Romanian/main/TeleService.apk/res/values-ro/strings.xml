@@ -1797,7 +1797,6 @@ Pentru mai multe opţiuni, încercaţi din nou sau apelaţi Serviciul Clienţi."
     <string name="overlay_display_devices_title">Simulare ecran secundar</string>
     <string name="overseas_roaming_setting">Date mobile în roaming</string>
     <string name="pane_title_emergency_dialpad">Tastatură Urgență</string>
-    <string name="password">Parolă</string>
     <string name="password_changed">Parolă modificată cu succes</string>
     <string name="password_title">Parolă</string>
     <string name="path_answer_state_setting_title">Aplicații de sistem/Telefon/Setările apelurilor primite</string>
@@ -1893,7 +1892,6 @@ Telefonul dvs. se va bloca automat după o altă încercare greşită!"</string>
     <string name="pointer_location_summary">Afișează atingerile ecranului</string>
     <string name="police_type_description">Poliție</string>
     <string name="port_title">Numărul portului</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s până la încărcare</string>
     <string name="power_discharge_by">Ar trebui să dureze până la circa %1$s (%2$s)</string>
     <string name="power_discharge_by_enhanced">Ar trebui să dureze până la circa %1$s bazat pe modul dvs de utilizare (%2$s)</string>
@@ -2029,7 +2027,6 @@ Telefonul dvs. se va bloca automat după o altă încercare greşită!"</string>
     <string name="private_dns_mode_provider_hostname_hint">Introduceți numele gazdă al furnizorului privat DNS</string>
     <string name="private_num">Număr privat</string>
     <string name="private_num_kr">ID-ul apelantului este restricționat</string>
-    <string name="process_kernel_label">Android OS</string>
     <string name="profile_connect_timeout_subtext">Problemă la conectare. Opriți și apoi reporniți dispozitivul</string>
     <string name="profile_info_settings_title">Informații de profil</string>
     <string name="progress_dialog_exiting_ecm">Se iese din modul Apelare inversă de urgenţă</string>
@@ -2665,7 +2662,6 @@ Orice utilizator poate actualiza aplicații pentru toți ceilalți utilizatori."
     <string name="user_setup_dialog_title">Setați utilizatorul acum?</string>
     <string name="user_setup_profile_dialog_message">Setați profilul acum?</string>
     <string name="user_switch_to_user">Comutați la %s</string>
-    <string name="username">UserName</string>
     <string name="username_title">Nume de utilizator</string>
     <string name="ussdRunning">Se rulează codul USSD…</string>
     <string name="ussd_dialog_sep">----------</string>

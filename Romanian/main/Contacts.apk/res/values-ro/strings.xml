@@ -920,7 +920,6 @@ Motivul: \"%s\""</string>
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
-    <string name="from_account_format">%1$s</string>
     <string name="full_name">Nume</string>
     <string name="gallery">Galerie</string>
     <string name="generic_no_account_prompt">Păstraţi-vă agenda în  siguranţă, chiar dacă pierdeţi telefonul, prin sincronizarea acesteia cu un serviciu online.</string>
