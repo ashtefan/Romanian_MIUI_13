@@ -266,9 +266,9 @@ Datele chipului utilizate de Deblocarea facială vor fi șterse definitiv și î
     <string name="face_reenroll_notification_content">Setarea este necesară pentru a îmbunătăți atât securitatea, cât și performanța</string>
     <string name="face_reenroll_notification_title">Trebuie să configurați din nou deblocarea facială</string>
     <string name="feedback_alerted">Sistemul &lt;b&gt;a actualizat automat această notificare la categoria Implicită&lt;/b&gt;.</string>
-    <string name="feedback_demoted">Această notificare a fost &lt;b&gt;retrogradată automat mai jos&lt;/b&gt pe panoul dvs.;.</string>
+    <string name="feedback_demoted">Această notificare a fost &lt;b&gt;mutată în mod automat în sus pe panoul de bord&lt;/b&gt;.</string>
     <string name="feedback_ok">OK</string>
-    <string name="feedback_promoted">Această notificare a fost &lt;b&gt;mutată în sus&lt;/b&gt automat pe panoul dvs;.</string>
+    <string name="feedback_promoted">Această notificare a fost &lt;b&gt;mutată în mod automat în jos pe panoul de bord&lt;/b&gt;.</string>
     <string name="feedback_prompt">Trimiteți feedback-ul dumneavoastră dezvoltatorului. Asta a fost corect?</string>
     <string name="feedback_response">Mulțumesc pentru părerea ta.</string>
     <string name="feedback_silenced">Sistemul a &lt;b&gt;relegat automat această notificare de mai jos la categoria Silențioasă&lt;/b&gt;.</string>
