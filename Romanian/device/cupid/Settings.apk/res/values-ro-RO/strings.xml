@@ -608,17 +608,17 @@ pentru ^2"</string>
     <string name="bluetooth_ask_lasting_discovery_no_name">O aplicație dorește să vă facă telefonul vizibil altor dispozitive Bluetooth. Puteți modifica acest lucru mai târziu din setările Bluetooth.</string>
     <string name="bluetooth_battery_level">%1$s acumulator</string>
     <string name="bluetooth_battery_level_untethered">S: %1$s acumulator, D: %2$s acumulator</string>
-    <string name="bluetooth_companion_app_body">%1$s sa už nebude pripájať k zariadeniu %2$s</string>
-    <string name="bluetooth_companion_app_remove_association_confirm_button">Odpojiť aplikáciu</string>
-    <string name="bluetooth_companion_app_remove_association_dialog_title">Chcete aplikáciu odpojiť?</string>
-    <string name="bluetooth_connect_access_dialog_content">"%1$s sa chce pripojiť k tomuto telefónu.
+    <string name="bluetooth_companion_app_body">%1$s nu se va mai conecta la dispozitivul %2$s</string>
+    <string name="bluetooth_companion_app_remove_association_confirm_button">Deconectați aplicația</string>
+    <string name="bluetooth_companion_app_remove_association_dialog_title">Doriți să deconectați aplicația?</string>
+    <string name="bluetooth_connect_access_dialog_content">"%1$s vrea să se conecteze la acest telefon.
 
-K zariadeniu %2$s ste sa ešte nikdy nepripojili."</string>
-    <string name="bluetooth_connect_access_dialog_negative">Nepripojiť</string>
-    <string name="bluetooth_connect_access_dialog_positive">Pripojiť</string>
-    <string name="bluetooth_connect_access_dialog_title">Chcete sa pripojiť k zariadeniu s rozhraním Bluetooth?</string>
-    <string name="bluetooth_connect_access_notification_content">Zariadenie sa chce pripojiť. Klepnutím zobrazíte podrobnosti.</string>
-    <string name="bluetooth_connect_access_notification_title">K dispozícii je zariadenie s rozhraním Bluetooth</string>
+Nu v-ați mai conectat niciodată la dispozitivul %2$s înainte."</string>
+    <string name="bluetooth_connect_access_dialog_negative">Nu vă conectați</string>
+    <string name="bluetooth_connect_access_dialog_positive">Conectați-vă</string>
+    <string name="bluetooth_connect_access_dialog_title">Doriți să vă conectați la un dispozitiv Bluetooth?</string>
+    <string name="bluetooth_connect_access_notification_content">Dispozitivul vrea să se conecteze. Atingeți pentru a vedea detaliile.</string>
+    <string name="bluetooth_connect_access_notification_title">Este disponibil un dispozitiv cu interfață Bluetooth</string>
     <string name="bluetooth_connect_failed">Nu s-a putut conecta. Încercați din nou.</string>
     <string name="bluetooth_connected_battery_level">Conectat | Acumulator %1$s %2$s</string>
     <string name="bluetooth_connected_multiple_devices_summary">Conectat la mai multe dispozitive</string>
@@ -647,7 +647,7 @@ K zariadeniu %2$s ste sa ešte nikdy nepripojili."</string>
     <string name="bluetooth_hearingaid_right_battery_level">Dreapta - %1$s acumulator</string>
     <string name="bluetooth_hearingaid_right_pairing_message">Se asociază Ajutorul Ascultare dreapta…</string>
     <string name="bluetooth_left_name">Stânga</string>
-    <string name="bluetooth_main_switch_title">Použiť Bluetooth</string>
+    <string name="bluetooth_main_switch_title">Utilizați Bluetooth</string>
     <string name="bluetooth_max_connected_audio_devices_dialog_title">Selectați numărul maxim de dispozitive audio Bluetooth conectate</string>
     <string name="bluetooth_max_connected_audio_devices_string">Numărul maxim de dispozitive audio Bluetooth conectate</string>
     <string name="bluetooth_middle_name">Carcasă</string>
@@ -659,9 +659,9 @@ K zariadeniu %2$s ste sa ešte nikdy nepripojili."</string>
     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Utilizați audio de înaltă calitate</string>
     <string name="bluetooth_profile_hearing_aid">Ajutor ascultare</string>
     <string name="bluetooth_right_name">Dreapta</string>
-    <string name="bluetooth_scanning_on_info_message">"Keď je zapnuté rozhranie Bluetooth, zariadenie môže komunikovať s ostatnými zariadeniami s rozhraním Bluetooth v okolí.
+    <string name="bluetooth_scanning_on_info_message">"Când Bluetooth-ul este activat, dispozitivul poate comunica cu alte dispozitive Bluetooth din apropiere.
 
-Na zlepšenie prostredia zariadenia môžu aplikácie a služby kedykoľvek vyhľadávať zariadenia v okolí, a to aj vtedy, keď je rozhranie Bluetooth vypnuté. Vďaka tomu je napríklad možné zlepšiť funkcie a služby podmienené polohou. Môžete to zmeniť v "</string>
+Pentru a îmbunătăți experiența de utilizare a dispozitivului, aplicațiile și serviciile pot căuta dispozitive din apropiere în orice moment, chiar și atunci când Bluetooth-ul este dezactivat. De exemplu, acest lucru face posibilă îmbunătățirea funcțiilor și serviciilor bazate pe locație. Îl puteți schimba în"</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bluetooth Audio - Biți pe mostră</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Declanșează codecul Bluetooth audio:
 Selecție: Biți per eșantion"</string>
@@ -683,17 +683,17 @@ Selecție"</string>
     <string name="bluetooth_select_avrcp_version_string">Versiunea Bluetooth AVRCP</string>
     <string name="bluetooth_select_map_version_dialog_title">Selectați versiunea Bluetooth MAP</string>
     <string name="bluetooth_select_map_version_string">Versiune Bluetooth MAP</string>
-    <string name="bluetooth_setting_off">Vypnuté</string>
-    <string name="bluetooth_setting_on">Zapnuté</string>
+    <string name="bluetooth_setting_off">Oprit</string>
+    <string name="bluetooth_setting_on">Pornit</string>
     <string name="bluetooth_show_devices_without_names">Afișați dispozitivele Bluetooth fără nume</string>
     <string name="bluetooth_show_devices_without_names_summary">Vor fi afișate dispozitivele Bluetooth fără nume (numai adresele MAC)</string>
     <string name="bluetooth_show_files_received_via_bluetooth">Fișiere primite prin Bluetooth</string>
-    <string name="bluetooth_sim_card_access_dialog_content">"Zariadenie s rozhraním Bluetooth %1$s požaduje prístup k údajom na vašej SIM karte. Zahŕňa to aj kontakty.
+    <string name="bluetooth_sim_card_access_dialog_content">"Dispozitivul Bluetooth %1$s solicită acces la datele de pe cartela SIM. Acest lucru include și contactele.
 
-Počas pripojenia bude zariadenie %2$s prijímať všetky hovory smerujúce na číslo %3$s."</string>
-    <string name="bluetooth_sim_card_access_dialog_title">Chcete povoliť prístup k SIM karte?</string>
-    <string name="bluetooth_sim_card_access_notification_content">Zariadenie požaduje prístup k vašej SIM karte. Klepnutím zobrazíte podrobnosti.</string>
-    <string name="bluetooth_sim_card_access_notification_title">Žiadosť o prístup k SIM karte</string>
+În timp ce este conectat, %2$s va primi toate apelurile către %3$s."</string>
+    <string name="bluetooth_sim_card_access_dialog_title">Doriți să permiteți accesul la cartela SIM?</string>
+    <string name="bluetooth_sim_card_access_notification_content">Dispozitivul solicită acces la cartela SIM. Atingeți pentru a vedea detaliile.</string>
+    <string name="bluetooth_sim_card_access_notification_title">Cerere de acces la cartela SIM</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
     <string name="bluetooth_talkback_computer">Computer</string>
     <string name="bluetooth_talkback_headphone">Căști</string>
@@ -707,7 +707,7 @@ Počas pripojenia bude zariadenie %2$s prijímať všetky hovory smerujúce na �
     <string name="bluetooth_unpair_dialog_title">Uitați dispozitivul?</string>
     <string name="bluetooth_untethered_unpair_dialog_body">%1$s nu va mai fi asociat cu niciun dispozitiv legat la acest cont</string>
     <string name="boot_sounds_title">Sunete la pornire</string>
-    <string name="bottomsheet_action_expand_halfway">Rozbaliť napoly</string>
+    <string name="bottomsheet_action_expand_halfway">Extindeți pe jumătate</string>
     <string name="bubble_app_setting_all">Toate conversațiile pot afișa bule</string>
     <string name="bubble_app_setting_bubble_conversation">Activați afișarea bulelor pentru această conversație</string>
     <string name="bubble_app_setting_excluded_conversation_title">Toate conversațiile pot afișa bule, cu excepția</string>
@@ -722,7 +722,7 @@ Počas pripojenia bude zariadenie %2$s prijímať všetky hovory smerujúce na �
     <string name="bubbles_conversation_toggle_title">Afișează bule pentru această conversație</string>
     <string name="bubbles_feature_disabled_button_approve">Activați</string>
     <string name="bubbles_feature_disabled_button_cancel">Renunțați</string>
-    <string name="bubbles_feature_disabled_dialog_text">"Zapnutím bublín pre túto aplikáciu aktivujete tiež bubliny pre zariadenie.
+    <string name="bubbles_feature_disabled_dialog_text">"Prin activarea bulelor pentru această aplicație, veți activa și bulele pentru dispozitiv.
 
 Acest lucru afectează alte aplicații sau conversații în care ați activat anterior bulele."</string>
     <string name="bubbles_feature_disabled_dialog_title">Activați bulele pentru dispozitiv?</string>
@@ -736,29 +736,29 @@ Acest lucru afectează alte aplicații sau conversații în care ați activat an
     <string name="cached_apps_freezer_reboot_dialog_text">Dispozitivul dvs. trebuie repornit pentru ca această modificare să se aplice. Reporniți acum sau anulați.</string>
     <string name="call_category">Apelare</string>
     <string name="call_volume_option_title">Volum apel</string>
-    <string name="calls_and_sms">Hovory a SMS</string>
+    <string name="calls_and_sms">Apeluri și SMS-uri</string>
     <string name="calls_and_sms_ask_every_time">Întreabă de fiecare dată</string>
-    <string name="calls_and_sms_category">Volanie cez Wi‑Fi</string>
+    <string name="calls_and_sms_category">Apelare prin Wi-Fi</string>
     <string name="calls_preference">Preferințe apeluri</string>
-    <string name="calls_preference_title">Hovory</string>
-    <string name="calls_sms_calls_preferred">preferovaný na hovory</string>
-    <string name="calls_sms_footnote">Volanie cez Wi‑Fi umožňuje volať a prijímať hovory cez siete Wi‑Fi, ktoré nepatria operátorovi. </string>
-    <string name="calls_sms_no_sim">Žiadna SIM karta</string>
-    <string name="calls_sms_preferred">preferované</string>
-    <string name="calls_sms_sms_preferred">preferovaný na SMS</string>
-    <string name="calls_sms_temp_unavailable">Dočasne nedostupný</string>
-    <string name="calls_sms_unavailable">nie je k dispozícii</string>
-    <string name="calls_sms_wfc_summary">Volajte a prijímajte hovory cez sieť Wi‑Fi</string>
+    <string name="calls_preference_title">Apeluri</string>
+    <string name="calls_sms_calls_preferred">preferat pentru apeluri</string>
+    <string name="calls_sms_footnote">Apelarea Wi-Fi vă permite să efectuați și să primiți apeluri prin rețele Wi-Fi fără operator. </string>
+    <string name="calls_sms_no_sim">Fără cartelă SIM</string>
+    <string name="calls_sms_preferred">preferat</string>
+    <string name="calls_sms_sms_preferred">preferat pentru SMS</string>
+    <string name="calls_sms_temp_unavailable">Temporar indisponibil</string>
+    <string name="calls_sms_unavailable">nu este disponibil</string>
+    <string name="calls_sms_wfc_summary">Efectuați și primiți apeluri prin Wi-Fi</string>
     <string name="camera_double_tap_power_gesture_desc">Deschidere rapidă a aplicației de Cameră foto fără deblocarea ecranului</string>
     <string name="camera_double_tap_power_gesture_title">Atingeți de două ori pentru deschiderea Camerei foto</string>
     <string name="camera_gesture_desc">Deschidere a aplicației de Cameră foto prin rotirea de două ori a încheieturii mâinii</string>
     <string name="camera_gesture_title">Rotire dublă a încheieturii pentru deschiderea Camerei</string>
     <string name="camera_laser_sensor_switch">Senzor Laser Cameră</string>
-    <string name="camera_toggle_title">Prístup k fotoaparátu</string>
+    <string name="camera_toggle_title">Acces la camera foto</string>
     <string name="cancel_lock_screen_dialog_button_label">Renunțați</string>
     <string name="cannot_change_apn_toast">Acest APN nu poate fi modificat.</string>
     <string name="captioning_caption_appearance_summary">dimensiunea textului %1$s</string>
-    <string name="captions_category_title">Titulky</string>
+    <string name="captions_category_title">Subtitrări</string>
   <string name="capture_system_heap_dump_title">Captează un jurnal de sistem</string>
   <string name="capturing_system_heap_dump_message">Se captează un jurnal de sistem</string>
     <string name="cards_passes_lower">carduri și permise</string>
@@ -766,21 +766,21 @@ Acest lucru afectează alte aplicații sau conversații în care ați activat an
     <string name="carrier">Operator</string>
     <string name="carrier_and_update_now_text">Actualizat de către ^1 chiar acum</string>
     <string name="carrier_and_update_text">Actualizat de către ^1 ^2 în urmă</string>
-    <string name="carrier_network_change_mode">Mení sa sieť operátora</string>
+    <string name="carrier_network_change_mode">Rețeaua operatorului se schimbă</string>
     <string name="carrier_provisioning">Informații Provizionare Operator</string>
     <string name="carrier_settings_euicc">Operator</string>
     <string name="carrier_settings_title">Setări Operator</string>
     <string name="carrier_settings_version">Versiune setări</string>
-    <string name="carrier_wifi_network_title">Sieť W+</string>
-    <string name="carrier_wifi_offload_summary">Umožnite službe Google Fi zlepšovať rýchlosť a silu signálu pomocou sietí W+</string>
-    <string name="carrier_wifi_offload_title">Pripojenia W+</string>
-    <string name="category_name_appearance">Vzhľad</string>
-    <string name="category_name_brightness">Jas</string>
-    <string name="category_name_color">Farba</string>
-    <string name="category_name_display_controls">Ďalšie ovládanie obrazovky</string>
-    <string name="category_name_general">Všeobecné</string>
-    <string name="category_name_lock_display">Uzamknutie obrazovky</string>
-    <string name="category_name_others">Iné</string>
+    <string name="carrier_wifi_network_title">Rețea W+</string>
+    <string name="carrier_wifi_offload_summary">Activați Google Fi pentru a îmbunătăți viteza și puterea semnalului cu rețelele W+</string>
+    <string name="carrier_wifi_offload_title">Conexiuni W+</string>
+    <string name="category_name_appearance">Aspect</string>
+    <string name="category_name_brightness">Luminozitate</string>
+    <string name="category_name_color">Culoare</string>
+    <string name="category_name_display_controls">Comenzi suplimentare ale ecranului</string>
+    <string name="category_name_general">În general</string>
+    <string name="category_name_lock_display">Blocarea ecranului</string>
+    <string name="category_name_others">Altele</string>
     <string name="cdma_lte_data_service">Setați serviciul de date</string>
     <string name="cdma_subscription_dialogtitle">abonament</string>
     <string name="cdma_subscription_summary">Comutați între RUIM/SIM și NV</string>
@@ -789,13 +789,13 @@ Acest lucru afectează alte aplicații sau conversații în care ați activat an
     <string name="cdma_system_select_summary">Modificați modul de roaming CDMA</string>
     <string name="cdma_system_select_title">Selectare sistem</string>
     <string name="cell_data_limit">^1 limită de date</string>
-    <string name="cell_data_off_content_description">Mobilné dáta sú vypnuté</string>
+    <string name="cell_data_off_content_description">Datele mobile sunt dezactivate</string>
     <string name="cell_data_template">^1 date mobile</string>
     <string name="cell_data_warning">^1 avertisment date</string>
     <string name="cell_data_warning_and_limit">^1 avertisment date / ^2 Limită de date</string>
     <string name="cellular_data_usage">Utilizare date mobile</string>
-    <string name="certificate_management_app">Aplik. na správu certifikátov</string>
-    <string name="certificate_management_app_description">Certifikáty vás overia pri používaní aplikácií a webových adries nižšie</string>
+    <string name="certificate_management_app">Aplicație pentru gestionarea certificatelor</string>
+    <string name="certificate_management_app_description">Certificatele vă autentifică atunci când utilizați aplicațiile și site-urile web de mai jos</string>
     <string name="change_wifi_state_app_detail_summary">Permiteți acestei aplicații să activeze sau să dezactiveze Wi-Fi-ul, să scaneze și să se conecteze la rețelele Wi-Fi, să adauge sau să elimine rețele, sau să pornească un hotspot doar local</string>
     <string name="change_wifi_state_app_detail_switch">Permiteți aplicației să controleze Wi-Fi-ul</string>
     <string name="change_wifi_state_title">Control asupra Wi-Fi</string>
@@ -805,13 +805,13 @@ Acest lucru afectează alte aplicații sau conversații în care ați activat an
     <string name="character_counter_overflowed_content_description">Limita de caractere a depășit %1$d din %2$d</string>
     <string name="charge_length_format">cu %1$s în urmă</string>
     <string name="choose_network_title">Selectați rețeaua</string>
-    <string name="choose_sim_activating">Aktivuje sa…</string>
-    <string name="choose_sim_could_not_activate">Momentálne sa nedá aktivovať</string>
-    <string name="choose_sim_item_summary_unknown">Neznáme číslo</string>
-    <string name="choose_sim_text">{count,plural, =1{V tomto zariadení je k dispozícii 1 číslo, naraz sa dá však použiť iba jedno}=2{V tomto zariadení sú k dispozícii 2 čísla, naraz sa dá však použiť iba jedno}few{V tomto zariadení sú k dispozícii # čísla, naraz sa dá však použiť iba jedno}many{# numbers are available on this device, but only one can be used at a time}other{V tomto zariadení je k dispozícii # čísel, naraz sa dá však použiť iba jedno}}</string>
-    <string name="choose_sim_title">Vyberte číslo, ktoré chcete použiť</string>
+    <string name="choose_sim_activating">Se activează…</string>
+    <string name="choose_sim_could_not_activate">Nu poate fi activat momentan</string>
+    <string name="choose_sim_item_summary_unknown">Număr necunoscut</string>
+    <string name="choose_sim_text">{count,plural, =1{Există 1 număr disponibil pe acest dispozitiv, dar numai unul poate fi folosit odată}=2{Există 2 numere disponibile pe acest dispozitiv, dar numai unul poate fi folosit la un moment dat}puține{# numere sunt disponibile pe acest dispozitiv, dar numai unul poate fi folosit odată}mai multe{# numere sunt disponibile pe acest dispozitiv, dar numai unul poate fi folosit la un moment dat}altul{Există # numere disponibile pe acest dispozitiv, dar numai unul poate fi folosit la un moment dat}}</string>
+    <string name="choose_sim_title">Selectați numărul pe care doriți să-l utilizați</string>
     <string name="choose_spell_checker">Selectați corectorul ortografic</string>
-    <string name="clear">Vymazať</string>
+    <string name="clear">Ștergeți</string>
     <string name="clear_instant_app_confirmation">Doriți să eliminați această aplicație?</string>
     <string name="clear_instant_app_data">Eliminați aplicația</string>
     <string name="clear_text_end_icon_content_description">Goliți textul</string>
@@ -826,50 +826,50 @@ Acest lucru afectează alte aplicații sau conversații în care ați activat an
     <string name="color_temperature">Temperatură de culoare</string>
     <string name="color_temperature_desc">Utilizați culori mai vii</string>
     <string name="color_temperature_toast">Pentru a aplica modificarea, stingeți ecranul</string>
-    <string name="columbus_gesture_detected">Bolo rozpoznané rýchle poklepanie.</string>
-    <string name="columbus_gesture_enrollment_complete">Hotovo</string>
-    <string name="columbus_gesture_enrollment_do_it_later">Teraz nie</string>
-    <string name="columbus_gesture_enrollment_settings">Prejsť do Nastavení</string>
-    <string name="columbus_gesture_enrollment_try_it">Vyskúšať</string>
-    <string name="columbus_gesture_training_action_no_selection_error">Vyberte akciu, ktorá sa má vykonať</string>
-    <string name="columbus_gesture_training_action_text">Zistite, čo sa stane pri rýchlom poklepaní. Neskôr to môžete zmeniť v nastaveniach.</string>
-    <string name="columbus_gesture_training_action_title">Vyberte možnosť rýchleho poklepania</string>
-    <string name="columbus_gesture_training_enrolling_first_gesture">… Bolo rozpoznané jedno dvojité klepnutie z dvoch</string>
-    <string name="columbus_gesture_training_enrolling_first_gesture_text">Skúste to ešte raz. Rýchlo dvakrát klepnite na zadnú stranu telefónu.</string>
-    <string name="columbus_gesture_training_enrolling_first_gesture_title">Výborne!</string>
-    <string name="columbus_gesture_training_enrolling_second_gesture">… Boli rozpoznané dve dvojité klepnutia z dvoch</string>
-    <string name="columbus_gesture_training_enrolling_second_gesture_text">Hotovo, môžete začať používať rýchle poklepanie</string>
-    <string name="columbus_gesture_training_enrolling_second_gesture_title">Správne!</string>
-    <string name="columbus_gesture_training_enrolling_text">Rýchlo dvakrát klepnite na zadnú stranu telefónu.</string>
-    <string name="columbus_gesture_training_enrolling_title">Vyskúšajte rýchle poklepanie</string>
-    <string name="columbus_gesture_training_finished_text">Ak chcete zmeniť silu poklepania potrebnú na použitie rýchleho poklepania, prejdite do Nastavení.</string>
-    <string name="columbus_gesture_training_finished_title">Nastavili ste rýchle poklepanie</string>
-    <string name="columbus_gesture_training_intro_text_accidental">Práve ste dvakrát klepli na zadnú stranu svojho zariadenia, takže môžete používať Asistenta kdekoľvek. Toto gesto môžete prispôsobiť v nastaveniach.</string>
-    <string name="columbus_gesture_training_intro_text_suw">Dvoma klepnutiami vytvorte snímku obrazovky, zobrazte upozornenia alebo spustite ďalšiu akciu.</string>
-    <string name="columbus_gesture_training_intro_title">Rýchle poklepanie na rýchle akcie</string>
-    <string name="columbus_gesture_training_launch_no_selection_error">Vyberte aplikáciu, ktorá sa má otvoriť</string>
-    <string name="columbus_gesture_training_launch_text">Vyberte aplikáciu, ktorú chcete otvoriť rýchlym poklepaním</string>
-    <string name="columbus_gesture_training_launch_title">Vyberte, ktorá aplikácia sa má otvoriť</string>
-    <string name="columbus_launch_app_extra_widget_a11y_label">Nastavenia skratiek aplikácie %1$s</string>
-    <string name="columbus_launch_settings_activity_title">Nastavenia rýchleho poklepania</string>
-    <string name="columbus_name">Rýchle poklepanie</string>
-    <string name="columbus_radio_button_extra_widget_a11y_label">Nastavenia akcie %1$s</string>
-    <string name="columbus_setting_action_assistant_title">Pristupovať k digitálnemu asistentovi</string>
-    <string name="columbus_setting_action_launch_summary_no_selection">Nie je vybraná žiadna aplikácia</string>
-    <string name="columbus_setting_action_launch_summary_not_installed">Aplikácia nie je nainštalovaná</string>
-    <string name="columbus_setting_action_launch_title">Otvoriť aplikáciu</string>
-    <string name="columbus_setting_action_notification_title">Zobraziť upozornenia</string>
-    <string name="columbus_setting_action_open_app_title">Otvoriť aplikáciu</string>
-    <string name="columbus_setting_action_overview_title">Zobraziť nedávne aplikácie</string>
-    <string name="columbus_setting_action_play_pause_title">Prehrať alebo pozastaviť médiá</string>
-    <string name="columbus_setting_action_screenshot_title">Vytvoriť snímku obrazovky</string>
-    <string name="columbus_setting_actions_title">Dvojitým klepnutím na zadnú stranu telefónu môžete</string>
-    <string name="columbus_setting_additional_settings_title">Sila rýchleho poklepania</string>
-    <string name="columbus_setting_app_selection_help_text">Vyberte, ktorá aplikácia sa má otvoriť, keď dvakrát klepnete na zadnú stranu telefónu. Ak danú aplikáciu odinštalujete, rýchle poklepanie sa vypne. Keď vyberiete inú aplikáciu, znova sa zapne.</string>
-    <string name="columbus_setting_app_shortcut_selection_help_text">Vyberte, čo sa má stať, keď rýchlym poklepaním otvoríte túto aplikáciu.</string>
-    <string name="columbus_setting_enable_switch_title">Použiť rýchle poklepanie</string>
-    <string name="columbus_setting_sensitivity_title">Vyžadovať silnejšie klepnutia</string>
-    <string name="condition_airplane_summary">Siete nie sú k dispozícii</string>
+    <string name="columbus_gesture_detected">A fost detectată o atingere rapidă.</string>
+    <string name="columbus_gesture_enrollment_complete">Totul este gata</string>
+    <string name="columbus_gesture_enrollment_do_it_later">Nu acum</string>
+    <string name="columbus_gesture_enrollment_settings">Mergeți la Setări</string>
+    <string name="columbus_gesture_enrollment_try_it">Încercați</string>
+    <string name="columbus_gesture_training_action_no_selection_error">Selectați acțiunea de efectuat</string>
+    <string name="columbus_gesture_training_action_text">Aflați ce se întâmplă cu o atingere rapidă. O puteți schimba mai târziu din setări.</string>
+    <string name="columbus_gesture_training_action_title">Selectați opțiunea de atingere dublă rapidă</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture">… A fost detectată o atingere dublă din două</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_text">Înceercați din nou. Atingeți rapid de două ori partea din spate a telefonului.</string>
+    <string name="columbus_gesture_training_enrolling_first_gesture_title">Excelent!</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture">… Au fost detectate două atingeri duble din două</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_text">Gata, puteți începe să utilizați atingerea rapidă</string>
+    <string name="columbus_gesture_training_enrolling_second_gesture_title">Corect!</string>
+    <string name="columbus_gesture_training_enrolling_text">Atingeți rapid de două ori partea din spate a telefonului.</string>
+    <string name="columbus_gesture_training_enrolling_title">Încercați o atingere rapidă</string>
+    <string name="columbus_gesture_training_finished_text">Pentru a modifica puterea de atingere necesară pentru a utiliza Atingerea rapidă, accesați Setările.</string>
+    <string name="columbus_gesture_training_finished_title">Ați configurat o atingere rapidă</string>
+    <string name="columbus_gesture_training_intro_text_accidental">Trebuie doar să atingeți de două ori partea din spate a dispozitivului, astfel încât să puteți utiliza Asistentul oriunde. Puteți personaliza acest gest din setări.</string>
+    <string name="columbus_gesture_training_intro_text_suw">Faceți o captură de ecran, afișați notificări sau începeți o altă acțiune cu două atingeri.</string>
+    <string name="columbus_gesture_training_intro_title">Atingeți rapid pentru acțiuni rapide</string>
+    <string name="columbus_gesture_training_launch_no_selection_error">Selectați aplicația de deschis</string>
+    <string name="columbus_gesture_training_launch_text">Selectați aplicația pe care doriți să o deschideți printr-o atingere rapidă</string>
+    <string name="columbus_gesture_training_launch_title">Selectați ce aplicație doriți să deschideți</string>
+    <string name="columbus_launch_app_extra_widget_a11y_label">Setări comenzi rapide pentru aplicații %1$s</string>
+    <string name="columbus_launch_settings_activity_title">Setări pentru atingere rapidă</string>
+    <string name="columbus_name">O atingere rapidă</string>
+    <string name="columbus_radio_button_extra_widget_a11y_label">Setări pentru acțiunea %1$s</string>
+    <string name="columbus_setting_action_assistant_title">Accesați asistentul digital</string>
+    <string name="columbus_setting_action_launch_summary_no_selection">Nu este selectată nicio aplicație</string>
+    <string name="columbus_setting_action_launch_summary_not_installed">Aplicația nu este instalată</string>
+    <string name="columbus_setting_action_launch_title">Deschideți aplicația</string>
+    <string name="columbus_setting_action_notification_title">Arată notificări</string>
+    <string name="columbus_setting_action_open_app_title">Deschideți aplicația</string>
+    <string name="columbus_setting_action_overview_title">Afișați aplicațiile recente</string>
+    <string name="columbus_setting_action_play_pause_title">Redați sau întrerupeți conținutul media</string>
+    <string name="columbus_setting_action_screenshot_title">Creați o captură de ecran</string>
+    <string name="columbus_setting_actions_title">Atingând de două ori partea din spate a telefonului, puteți</string>
+    <string name="columbus_setting_additional_settings_title">Puterea atingerii rapide</string>
+    <string name="columbus_setting_app_selection_help_text">Alegeți ce aplicație să deschideți când atingeți de două ori partea din spate a telefonului. Dacă dezinstalați aplicația, atingerea rapidă se va dezactiva. Când selectați o altă aplicație, aceasta se pornește din nou.</string>
+    <string name="columbus_setting_app_shortcut_selection_help_text">Alegeți ce se întâmplă când atingeți pentru a deschide această aplicație.</string>
+    <string name="columbus_setting_enable_switch_title">Folosiți o atingere rapidă</string>
+    <string name="columbus_setting_sensitivity_title">Necesită atingeri mai puternice</string>
+    <string name="condition_airplane_summary">Rețelele nu sunt disponibile</string>
     <string name="condition_airplane_title">Modul Avion este activ</string>
     <string name="condition_battery_summary">Performanța este redusă. Serviciile de localizare și datele în fundal sunt dezactivate.</string>
     <string name="condition_battery_title">Economisirea acumulatorului este activă</string>
@@ -896,7 +896,6 @@ Acest lucru afectează alte aplicații sau conversații în care ați activat an
     <string name="condition_zen_summary_phone_muted">Telefon redus la tăcere</string>
     <string name="condition_zen_summary_with_exceptions">Cu excepții</string>
     <string name="condition_zen_title">Modul Nu deranjați este activ</string>
-    <string name="config_backup_settings_label" />
     <string name="configure">Configurați</string>
     <string name="configure_notification_settings">Configurați notificările</string>
     <string name="configure_section_header">Configurați</string>
@@ -914,18 +913,18 @@ Acest lucru afectează alte aplicații sau conversații în care ați activat an
     <string name="connected_device_previously_connected_screen_title">Conectat anterior</string>
     <string name="connected_device_previously_connected_title">Dispozitive conectate anterior</string>
     <string name="connected_device_saved_title">Dispozitive salvate</string>
-    <string name="connected_device_see_all_summary">Zapne sa Bluetooth</string>
+    <string name="connected_device_see_all_summary">Bluetooth-ul se activează</string>
     <string name="connected_devices_dashboard_android_auto_no_driving_mode_summary">Bluetooth, Android Auto, NFC</string>
     <string name="connected_devices_dashboard_android_auto_no_nfc_no_driving_mode">Bluetooth, Android Auto</string>
     <string name="connected_devices_dashboard_android_auto_no_nfc_summary">Bluetooth, Android Auto, mod condus</string>
     <string name="connected_devices_dashboard_android_auto_summary">Bluetooth, Android Auto, mod condus, NFC</string>
-    <string name="connected_devices_dashboard_default_summary">Bluetooth, párovanie</string>
+    <string name="connected_devices_dashboard_default_summary">Bluetooth, asociere</string>
     <string name="connected_devices_dashboard_no_driving_mode_no_nfc_summary">Bluetooth</string>
     <string name="connected_devices_dashboard_no_driving_mode_summary">Bluetooth, NFC</string>
     <string name="connected_devices_dashboard_no_nfc_summary">Bluetooth, mod condus</string>
     <string name="connected_devices_dashboard_summary">Bluetooth, Proiectare, NFC</string>
     <string name="connected_devices_dashboard_title">Dispozitive conectate</string>
-    <string name="connected_to_metered_access_point">Pripojené k meranej sieti</string>
+    <string name="connected_to_metered_access_point">Conectat la rețeaua contorizată</string>
     <string name="connected_via_app">Conectat via %1$s</string>
     <string name="connected_via_carrier">Conectat via %1$s</string>
     <string name="connected_via_network_scorer">Conectat în mod automat prin %1$s</string>
@@ -951,7 +950,7 @@ Aceste informații identifică dacă persoanele de contact pot utiliza anumite f
     <string name="contextual_card_removed_message">Sugestie eliminată</string>
     <string name="contextual_card_undo_dismissal_text">Anulați</string>
     <string name="conversation_category_title">Conversație</string>
-    <string name="conversation_notifs_category">Konverzácia</string>
+    <string name="conversation_notifs_category">Conversaţie</string>
     <string name="conversation_onboarding_summary">"După ce marcați o conversație ca prioritate sau faceți orice alte modificări la conversații, acestea vor apărea aici. 
 
 Pentru a modifica setările conversației: 
@@ -959,7 +958,7 @@ Glisați în jos din partea de sus a ecranului pentru a deschide perdeaua vertic
     <string name="conversation_onboarding_title">Conversațiile prioritare și modificările vor apărea aici</string>
     <string name="conversation_section_switch_summary">Permiteți aplicației să utilizeze secțiunea de conversație</string>
     <string name="conversation_section_switch_title">Secțiunea de conversație</string>
-    <string name="conversation_settings_clear_recents">Vymazať nedávne konverzácie</string>
+    <string name="conversation_settings_clear_recents">Ștergeți conversațiile recente</string>
     <string name="conversations_category_title">Conversații</string>
     <string name="convert_to_fbe_warning">"Convertiți partiția de date la criptarea pe bază de fișier.
 ATENȚIE: Acest lucru va șterge TOATE DATELE dumneavoastră.
@@ -970,16 +969,16 @@ Apăsați butonul \"Ștergeți și convertiți…\" pentru a continua."</string>
     <string name="convert_to_file_encryption_enabled">Se convertește…</string>
     <string name="convo_not_supported_summary">%1$s nu acceptă majoritatea funcțiilor de conversație. Nu puteți seta o conversație ca prioritate, iar conversațiile nu vor apărea ca bule plutitoare.</string>
     <string name="copy">Copiați</string>
-    <string name="copy_toast_msg">Odkaz bol skopírovaný do schránky</string>
+    <string name="copy_toast_msg">Linkul a fost copiat în clipboard</string>
     <string name="copyable_slice_toast">%1$s copiat în clipboard.</string>
-    <string name="creating_new_user_dialog_message">Vytvára sa nový používateľ…</string>
+    <string name="creating_new_user_dialog_message">Se crează un utilizator nou…</string>
     <string name="credential_contains">Această intrare conține:</string>
     <string name="credential_for_vpn_and_apps">Instalat pentru VPN și aplicații</string>
     <string name="credential_for_wifi">Instalat pentru Wi-Fi</string>
     <string name="cross_profile_calendar_summary">Afișează evenimentele de servici în calendarul personal</string>
   <string name="cross_profile_calendar_title">Calendar cross-profil</string>
-    <string name="daltonizer_mode_grayscale_title">Odfarbenie</string>
-    <string name="dark_theme_main_switch_title">Použiť tmavý motív</string>
+    <string name="daltonizer_mode_grayscale_title">Decolorare</string>
+    <string name="dark_theme_main_switch_title">Folosiți o temă întunecată</string>
     <string name="dark_theme_slice_subtitle">Ajută la prelungirea duratei de viață a acumulatorului</string>
     <string name="dark_theme_slice_title">Încercați tema întunecată</string>
     <string name="dark_ui_activation_off_auto">Dezactivați până la apus</string>
@@ -1048,10 +1047,10 @@ Apăsați butonul \"Ștergeți și convertiți…\" pentru a continua."</string>
     <string name="debug_autofill_category">Completare automată</string>
     <string name="decline_remote_bugreport_action">Renunțați</string>
     <string name="decryption_settings_summary">Telefonul nu este criptat</string>
-    <string name="default_active_sim_calls">hovory</string>
-    <string name="default_active_sim_mobile_data">mobilné dáta</string>
+    <string name="default_active_sim_calls">apeluri telefonice</string>
+    <string name="default_active_sim_mobile_data">de date mobile</string>
     <string name="default_active_sim_sms">SMS</string>
-    <string name="default_admin_support_msg">Ak máte nejaké otázky, obráťte sa na svojho správcu IT</string>
+    <string name="default_admin_support_msg">Dacă aveți întrebări, vă rugăm să contactați administratorul IT</string>
     <string name="default_calendar_app_title">Aplicația Calendar</string>
     <string name="default_contacts_app_title">Aplicația Contacte</string>
     <string name="default_digital_assistant_title">Aplicația implicită de asistare digitală</string>
@@ -1063,8 +1062,8 @@ Apăsați butonul \"Ștergeți și convertiți…\" pentru a continua."</string>
     <string name="default_keyboard_layout">Implicit</string>
     <string name="default_map_app_title">Aplicația pentru hărți</string>
     <string name="default_notification_assistant">Asistent notificări</string>
-    <string name="default_print_service_main_switch_title">Používať tlačovú službu</string>
-    <string name="default_see_all_apps_title">Zobraziť všetky aplikácie</string>
+    <string name="default_print_service_main_switch_title">Utilizați serviciul de imprimare</string>
+    <string name="default_see_all_apps_title">Afișați toate aplicațiile</string>
     <string name="default_theme">Implicită</string>
     <string name="delete_blob_confirmation_text">Sigur doriți să ștergeți aceste date partajate?</string>
     <string name="delete_blob_text">Ștergeți datele partajate</string>
@@ -1077,7 +1076,7 @@ Apăsați butonul \"Ștergeți și convertiți…\" pentru a continua."</string>
     <string name="dev_logpersist_clear_warning_message">Când nu mai monitorizăm cu logger-ul persistent, trebuie să ștergem datele reziduale de pe dispozitiv.</string>
     <string name="dev_logpersist_clear_warning_title">Ștergeți stocarea logger-ului persistent?</string>
     <string name="dev_settings_disabled_warning">Activați mai întâi opțiunile de dezvoltator</string>
-    <string name="developer_options_main_switch_title">Používať nastavenia pre vývojárov</string>
+    <string name="developer_options_main_switch_title">Utilizați setările pentru dezvoltatori</string>
     <string name="developer_smallest_width">Cea mai mică lățime</string>
     <string name="development_settings_enable">Activați opțiunile pentru dezvoltare</string>
     <string name="device_admin_warning_simplified">Acest dispozitiv va fi gestionat și monitorizat de către %1$s.</string>
@@ -1086,9 +1085,6 @@ Apăsați butonul \"Ștergeți și convertiți…\" pentru a continua."</string>
     <string name="device_theme">Tema dispozitivului</string>
     <string name="device_usage_list_summary">Utilizare dispozitiv de la încărcarea completă</string>
     <string name="devices_title">Dispozitive</string>
-    <string name="dialog_aware_settings_message" />
-    <string name="dialog_aware_settings_ok" />
-    <string name="dialog_aware_settings_title" />
     <string name="dialog_background_check_message">"Telefonul dvs nu poate gestiona acumulatorul în mod normal deoarece %1$s tot trezește telefonul.
 
 Pentru a încerca să remediați această problemă, puteți opri %1$s și preveni rularea acesteia în fundal."</string>
@@ -1123,12 +1119,12 @@ Dacă problema persistă, este posibil să trebuiască să dezinstalați aplica�
     <string name="disabled_by_admin">Dezactivată de către administrator</string>
     <string name="disabled_by_admin_summary_text">Controlată de către administrator</string>
     <string name="disabled_by_administrator_summary">Indisponibil</string>
-    <string name="disabled_by_policy_content_biometric_parental_consent">Odovzdaj telefón rodičovi, aby mohol začať túto funkciu nastavovať</string>
+    <string name="disabled_by_policy_content_biometric_parental_consent">Dați telefonul unui părinte, astfel încât să poată începe să configureze această funcție</string>
     <string name="disabled_by_policy_title">Acțiune nepermisă</string>
     <string name="disabled_by_policy_title_adjust_volume">"Nu se poate modifica volumul"</string>
-    <string name="disabled_by_policy_title_biometric_parental_consent">Vyžaduje sa rodič</string>
+    <string name="disabled_by_policy_title_biometric_parental_consent">Este necesar un părinte</string>
     <string name="disabled_by_policy_title_camera">Nu este permisă utilizarea camerei</string>
-    <string name="disabled_by_policy_title_financed_device">Blokované vaším poskytovateľom úveru</string>
+    <string name="disabled_by_policy_title_financed_device">Blocat de către creditorul dvs.</string>
     <string name="disabled_by_policy_title_outgoing_calls">Nu sunt permise apelurile</string>
     <string name="disabled_by_policy_title_screen_capture">Nu sunt permise capturile de ecran</string>
     <string name="disabled_by_policy_title_sms">SMS-urile nu sunt permise</string>
@@ -1154,61 +1150,61 @@ Dacă problema persistă, este posibil să trebuiască să dezinstalați aplica�
     <string name="do_disclosure_generic">Acest dispozitiv este gestionat de către organizația dumneavoastră.</string>
     <string name="do_disclosure_learn_more_separator">" "</string>
     <string name="do_disclosure_with_name">Acest dispozitiv este gestionat de către %s.</string>
-    <string name="do_not_disturb_main_switch_title_off">Zapnúť</string>
-    <string name="do_not_disturb_main_switch_title_on">Vypnúť</string>
-    <string name="dock_summary_charging_phone">Nabíjanie telefónu</string>
+    <string name="do_not_disturb_main_switch_title_off">Comutați</string>
+    <string name="do_not_disturb_main_switch_title_on">Opriți</string>
+    <string name="dock_summary_charging_phone">Încărcare telefon</string>
     <string name="domain_url_section_title">Aplicații instalate</string>
     <string name="domain_urls_apps_summary_off">Nicio aplicație nu suportă accesarea link-urilor</string>
     <string name="double_tap_power_for_camera_suggestion_title">Porniți rapid camera</string>
     <string name="double_tap_power_for_camera_summary">Pentru a porni rapid camera, apăsați de două ori butonul de pornire. Acest lucru este posibil din orice ecran.</string>
     <string name="double_tap_power_for_camera_title">Porniți rapid Camera</string>
-    <string name="double_twist_for_camera_mode_summary">Režim selfie vo Fotoaparáte Google zapnete alebo vypnete tak, že dvakrát otočíte zariadením, keď máte aplikáciu otvorenú.</string>
+    <string name="double_twist_for_camera_mode_summary">Activați sau dezactivați modul selfie în Camera Google rotind dispozitivul de două ori în timp ce aplicația este deschisă.</string>
     <string name="double_twist_for_camera_mode_title">Schimbă camera pentru un selfie</string>
     <string name="double_twist_for_camera_suggestion_title">Faceți rapid selfi-uri</string>
-    <string name="downloaded_sim_category_title">STIAHNUTÁ SIM KARTA</string>
-    <string name="downloads_backup_text">Stiahnuté súbory budú zálohované na Disk Google</string>
+    <string name="downloaded_sim_category_title">CARTELĂ SIM DESCĂRCATĂ</string>
+    <string name="downloads_backup_text">Fișierele descărcate vor fi salvate în Google Drive</string>
     <string name="doze_always_on_summary">Utilizare crescută a acumulatorului</string>
     <string name="doze_always_on_title">Ecran activ permanent</string>
-    <string name="dsds_activation_failure_body_msg1">Vyberte SIM kartu a znova ju vložte. Ak bude problém pretrvávať, reštartujte zariadenie.</string>
-    <string name="dsds_activation_failure_body_msg2">Skúste SIM kartu znova zapnúť. Ak bude problém pretrvávať, reštartujte zariadenie.</string>
-    <string name="dsds_activation_failure_title">SIM kartu sa nepodarilo aktivovať</string>
-    <string name="dsds_notification_after_suw_text">Vyberte aktívnu SIM kartu alebo používajte dve naraz</string>
-    <string name="dsds_notification_after_suw_title">Nastavte ďalšiu SIM kartu</string>
+    <string name="dsds_activation_failure_body_msg1">Scoateți cartela SIM și reintroduceți-o. Dacă problema persistă, reporniți dispozitivul.</string>
+    <string name="dsds_activation_failure_body_msg2">Încercați să porniți din nou cartela SIM. Dacă problema persistă, reporniți dispozitivul.</string>
+    <string name="dsds_activation_failure_title">Cartela SIM nu a putut fi activată</string>
+    <string name="dsds_notification_after_suw_text">Alegeți o cartelă SIM activă sau utilizați-le pe ambele simultan</string>
+    <string name="dsds_notification_after_suw_title">Configurați o altă cartelă SIM</string>
     <string name="dual_cdma_sim_warning_notification_channel_title">Combinație SIM</string>
     <string name="dual_cdma_sim_warning_notification_summary">Utilizarea %1$s poate limita funcționalitatea. Atingeți pentru a afla mai multe.</string>
-    <string name="duration_less_than_one_minute">menej ako 1 minúta</string>
+    <string name="duration_less_than_one_minute">mai puțin de 1 minut</string>
     <string name="edge_to_edge_navigation_summary">Pentru a naviga Acasă, glisați în sus din partea de jos a ecranului. Pentru a comuta între aplicații, glisați în sus din partea de jos, mențineți, apoi eliberați. Pentru a reveni, glisați din partea stângă sau dreaptă a ecranului.</string>
     <string name="edge_to_edge_navigation_title">Navigare utilizând gesturi</string>
     <string name="emergency_address_summary">Utilizată ca și locația dvs. atunci când realizați un apel de urgență prin Wi-Fi</string>
     <string name="emergency_address_title">Adresa pentru Urgențe</string>
-    <string name="emergency_dashboard_summary">Pomoc v tiesni, zdravotné údaje, upozornenia</string>
-    <string name="emergency_gesture_call_for_help_dialog_title">Číslo na volanie o pomoc</string>
-    <string name="emergency_gesture_call_for_help_summary">%1$s. Zmeníte klepnutím.</string>
-    <string name="emergency_gesture_call_for_help_title">Volanie o pomoc</string>
-    <string name="emergency_gesture_category_call_for_help_title">Volanie o pomoc</string>
-    <string name="emergency_gesture_entrypoint_summary">Spravované aplikáciou %1$s</string>
-    <string name="emergency_gesture_number_override_notes">"Keď zadáte linku, ktorá nie je tiesňová:
- • vaše zariadenie musí byť odomknuté, aby sa dalo použiť na volanie o pomoc v tiesni;
- • hovor nemusí byť prijatý."</string>
-    <string name="emergency_gesture_screen_summary">Ak chcete spustiť akcie nižšie, stlačte vypínač aspoň päťkrát rýchlo po sebe</string>
-    <string name="emergency_gesture_screen_title">Pomoc v tiesni</string>
-    <string name="emergency_gesture_sound_setting_summary">Pri spustení pomoci v tiesni prehrať hlasný zvuk</string>
-    <string name="emergency_gesture_sound_setting_title">Prehrať upozornenie na odpočítavanie</string>
-    <string name="emergency_gesture_switchbar_title">Používať pomoc v tiesni</string>
+    <string name="emergency_dashboard_summary">Ajutor de urgență, date de sănătate, notificări</string>
+    <string name="emergency_gesture_call_for_help_dialog_title">Număr la care să suni pentru ajutor</string>
+    <string name="emergency_gesture_call_for_help_summary">%1$s. Atingeți pentru a modifica.</string>
+    <string name="emergency_gesture_call_for_help_title">Un strigăt de ajutor</string>
+    <string name="emergency_gesture_category_call_for_help_title">Un strigăt de ajutor</string>
+    <string name="emergency_gesture_entrypoint_summary">Aplicație gestionată %1$s</string>
+    <string name="emergency_gesture_number_override_notes">"Când introduceți o linie care nu este de urgență:
+  • dispozitivul dumneavoastră trebuie să fie deblocat pentru a fi folosit pentru a solicita ajutor în caz de urgență;
+  • este posibil ca apelul să nu fie primit."</string>
+    <string name="emergency_gesture_screen_summary">Pentru a declanșa acțiunile de mai jos, apăsați butonul de pornire de cel puțin cinci ori în succesiune rapidă</string>
+    <string name="emergency_gesture_screen_title">Ajutor când sunteți în primejdie</string>
+    <string name="emergency_gesture_sound_setting_summary">Redați un sunet puternic atunci când este declanșat apelul de urgență</string>
+    <string name="emergency_gesture_sound_setting_title">Redați notificarea cu numărătoarea inversă</string>
+    <string name="emergency_gesture_switchbar_title">Folosiți asistența de urgență</string>
     <string name="emergency_info_summary">Informații și contacte pentru %1$s</string>
     <string name="emergency_info_title">Informații de urgență</string>
-    <string name="emergency_settings_preference_title">Bezpečnosť a stav tiesne</string>
+    <string name="emergency_settings_preference_title">Securitate și stare de urgență</string>
     <string name="empty_networks_list">Nu s-a găsit nicio rețea.</string>
-    <string name="enable_2g_summary">Použite mobilné pripojenie 2G. Pre tiesňové volania je 2G stále zapnuté.</string>
-    <string name="enable_2g_title">Povoliť 2G</string>
+    <string name="enable_2g_summary">Utilizați o conexiune mobilă 2G. 2G este întotdeauna activat pentru apelurile de urgență.</string>
+    <string name="enable_2g_title">Permiteți 2G</string>
     <string name="enable_adb_wireless">Depanare wireless</string>
     <string name="enable_adb_wireless_summary">Mod depanare când este conectat la Wi-Fi</string>
     <string name="enable_freeform_support">Activați ferestrele cu formă liberă</string>
     <string name="enable_freeform_support_summary">Activați suportul pentru efectul experimental de ferestre cu formă liberă.</string>
     <string name="enable_mms_notification_channel_title">Mesaj MMS</string>
     <string name="enable_mms_notification_summary">Atingeți pentru a permite mesageria MMS pe %1$s când datele mobile sunt oprite</string>
-    <string name="enable_non_resizable_multi_window">Povoliť v režime viac. okien aplik. bez možn. zmeny veľkosti</string>
-    <string name="enable_non_resizable_multi_window_summary">Povoliť v režime viacerých okien aplikácie bez možnosti zmeny veľkosti</string>
+    <string name="enable_non_resizable_multi_window">Activați în modul mai multe. ferestre de aplicație fara posibilitatea modificării dimensiunii</string>
+    <string name="enable_non_resizable_multi_window_summary">Activați aplicațiile neredimensionabile în modul cu mai multe ferestre</string>
     <string name="enable_receiving_mms_notification_title">Mesaj MMS primit</string>
     <string name="enable_sending_mms_notification_title">Nu se poate trimite mesajul MMS</string>
     <string name="enable_verbose_vendor_logging">Activați jurnalizarea detaliată a furnizorului</string>
@@ -1216,24 +1212,24 @@ Dacă problema persistă, este posibil să trebuiască să dezinstalați aplica�
     <string name="enabled_by_admin">Activat de către administrator</string>
     <string name="encryption_and_credential_settings_summary">Telefon criptat</string>
     <string name="encryption_and_credential_settings_title">Criptare și acreditări</string>
-    <string name="encryption_interstitial_message_password_for_biometrics">"Okrem odomknutia pomocou biometrie môžete svoje zariadenie ochrániť aj vyžadovaním hesla pred spustením. Toto zariadenie nemôže prijímať hovory, správy ani upozornenia (vrátane budíkov), dokým sa nespustí.
+    <string name="encryption_interstitial_message_password_for_biometrics">"Pe lângă deblocarea cu datele biometrice, vă puteți proteja dispozitivul solicitând o parolă înainte de pornire. Acest dispozitiv nu poate primi apeluri, mesaje sau notificări (inclusiv alarme) până când nu este pornit.
 
-Pomáha to chrániť údaje v stratených alebo ukradnutých zariadeniach. Vyžadovať heslo na spustenie zariadenia?"</string>
+Acest lucru ajută la protejarea datelor de pe dispozitivele pierdute sau furate. Aveți nevoie de parolă pentru a porni dispozitivul?"</string>
     <string name="encryption_interstitial_message_password_for_face">"În plus față de utilizarea chipului pentru a debloca telefonul, vă puteți proteja dispozitivul solicitând parola înainte de putea fi pornit. Până când nu va porni nu se vor putea primi apeluri, mesaje sau notificări și nici alarma nu va suna. 
 
 Acest lucru vă ajută să vă protejați datele dacă vă pierdeți telefonul sau dacă vă este furat. Solicitați parola pentru a porni telefonul?"</string>
-    <string name="encryption_interstitial_message_pattern_for_biometrics">"Okrem odomknutia pomocou biometrie môžete svoje zariadenie ochrániť aj vyžadovaním bezpečnostného vzoru pred spustením. Toto zariadenie nemôže prijímať hovory, správy ani upozornenia (vrátane budíkov), dokým sa nespustí.
+    <string name="encryption_interstitial_message_pattern_for_biometrics">"Pe lângă deblocarea cu datele biometrice, vă puteți proteja și dispozitivul solicitând un model de securitate înainte de pornire. Acest dispozitiv nu poate primi apeluri, mesaje sau notificări (inclusiv alarme) până când nu este pornit.
 
-Pomáha to chrániť údaje v stratených alebo ukradnutých zariadeniach. Vyžadovať vzor na spustenie zariadenia?"</string>
+Acest lucru ajută la protejarea datelor de pe dispozitivele pierdute sau furate. Este necesar un model de pornire a dispozitivului?"</string>
     <string name="encryption_interstitial_message_pattern_for_face">"În plus față de utilizarea chipului pentru a debloca telefonul, vă puteți proteja dispozitivul solicitând modelul înainte de putea fi pornit. Până când nu va porni nu se vor putea primi apeluri, mesaje sau notificări și nici alarma nu va suna. 
 
 Acest lucru vă ajută să vă protejați datele dacă vă pierdeți telefonul sau dacă vă este furat. Solicitați modelul pentru a porni telefonul?"</string>
-    <string name="encryption_interstitial_message_pin_for_biometrics">"Okrem odomknutia pomocou biometrie môžete toto zariadenie ochrániť aj vyžadovaním kódu PIN pred spustením. Toto zariadenie nemôže prijímať hovory, správy ani upozornenia (vrátane budíkov), dokým sa nespustí.
+    <string name="encryption_interstitial_message_pin_for_biometrics">"Pe lângă deblocarea cu datele biometrice, puteți proteja și acest dispozitiv solicitând un PIN înainte de pornire. Acest dispozitiv nu poate primi apeluri, mesaje sau notificări (inclusiv alarme) până când nu este pornit.
 
-Pomáha to chrániť údaje v stratených alebo ukradnutých zariadeniach. Vyžadovať kód PIN na spustenie zariadenia?"</string>
-    <string name="encryption_interstitial_message_pin_for_face">"Okrem odomknutia odtlačkom prsta môžete toto zariadenie ochrániť aj vyžadovaním kódu PIN pred spustením. Zariadenie nemôže prijímať hovory, správy ani upozornenia (vrátane budíkov), dokým sa nespustí.
+Acest lucru ajută la protejarea datelor de pe dispozitivele pierdute sau furate. Aveți nevoie de un PIN pentru a porni dispozitivul?"</string>
+    <string name="encryption_interstitial_message_pin_for_face">"Pe lângă deblocarea cu amprentă, puteți proteja și acest dispozitiv solicitând un cod PIN înainte de pornire. Dispozitivul nu poate primi apeluri, mesaje sau notificări (inclusiv alarme) până când este pornit.
 
-Pomáha to chrániť dáta v stratených alebo ukradnutých zariadeniach. Vyžadovať kód PIN na spustenie zariadenia?"</string>
+Acest lucru ajută la protejarea datelor de pe dispozitivele pierdute sau furate. Aveți nevoie de un PIN pentru a porni dispozitivul?"</string>
     <string name="encryption_interstitial_no">Nu</string>
     <string name="encryption_interstitial_yes">Da</string>
     <string name="enhanced_4g_lte_mode_summary_4g_calling">Utilizați serviciile 4G pentru a îmbunătăți comunicațiile vocale și altele (recomandat)</string>
@@ -1245,7 +1241,7 @@ Pomáha to chrániť dáta v stratených alebo ukradnutých zariadeniach. Vyža
     <string name="enterprise_privacy_always_on_vpn_work">VPN permanent pornit activat în profilul de servici</string>
     <string name="enterprise_privacy_apps_count_estimation_info">Numărul aplicațiilor este estimativ. Este posibil să nu includă aplicațiile instalate din afara Play Store.</string>
     <string name="enterprise_privacy_bug_reports">Cel mai recent raport cu erori</string>
-    <string name="enterprise_privacy_ca_certs_device">Dôveryhodné poverenia</string>
+    <string name="enterprise_privacy_ca_certs_device">Acreditări de încredere</string>
     <string name="enterprise_privacy_ca_certs_personal">Acreditări de încredere în profilul personal</string>
     <string name="enterprise_privacy_ca_certs_work">Acreditări de încredere în profilul de servici</string>
     <string name="enterprise_privacy_camera_access">Permisiuni Cameră</string>
@@ -1275,20 +1271,20 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="enterprise_privacy_settings_summary_with_name">Modificări și setări gestionate de către %s</string>
     <string name="enterprise_privacy_usage_stats">Timpul petrecut în fiecare aplicație și datele</string>
     <string name="enterprise_privacy_wipe_device">Administratorul poate șterge toate datele din telefon</string>
-    <string name="erase_euicc_data_button">Vymazať</string>
-    <string name="erase_sim_confirm_button">Vymazať</string>
-    <string name="erase_sim_dialog_text">"Vymazaním tejto SIM karty odstránite službu operátora %1$s z tohto zariadenia.
+    <string name="erase_euicc_data_button">Ștergeți</string>
+    <string name="erase_sim_confirm_button">Ștergeți</string>
+    <string name="erase_sim_dialog_text">"Ștergerea acestui card SIM va elimina serviciul operator %1$s de pe acest dispozitiv.
 
-Služba operátora %1$s sa nezruší."</string>
-    <string name="erase_sim_dialog_title">Chcete vymazať túto stiahnutú SIM kartu?</string>
-    <string name="erase_sim_fail_text">"SIM karta sa nedá vymazať, pretože došlo k chybe.
+Serviciul de operator %1$s nu va fi anulat."</string>
+    <string name="erase_sim_dialog_title">Doriți să ștergeți această cartelă SIM descărcată?</string>
+    <string name="erase_sim_fail_text">"Cartela SIM nu poate fi ștearsă deoarece a apărut o eroare.
 
-Reštartujte zariadenie a skúste to znova."</string>
-    <string name="erase_sim_fail_title">SIM karta sa nedá vymazať</string>
-    <string name="erasing_sim">Odstraňuje sa SIM karta…</string>
+Reporniți dispozitivul și încercați din nou."</string>
+    <string name="erase_sim_fail_title">Cartela SIM nu poate fi ștearsă</string>
+    <string name="erasing_sim">Cartela SIM este în curs de îndepărtare…</string>
     <string name="error_adding_apn_type">Operatorul nu permite adăugarea de APN-uri de tipul %s.</string>
     <string name="error_capturing_system_heap_dump_message">Nu s-a putut capta jurnalul de sistem</string>
-    <string name="error_icon_content_description">Chyba</string>
+    <string name="error_icon_content_description">Eroare</string>
     <string name="estimated_charging_time_left">Până la încărcarea completă</string>
     <string name="estimated_time_description">Estimarea se poate modifica în funcție de utilizare</string>
     <string name="estimated_time_left">Timpul rămas estimat</string>
@@ -1299,32 +1295,31 @@ Reštartujte zariadenie a skúste to znova."</string>
     <string name="ethernet_tethering_subtext">Partajați conexiunea la internet a telefonului prin USB Ethernet</string>
     <string name="expand_button_title">Avansat</string>
     <string name="experimental_category_title">Experimental</string>
-    <string name="exposed_dropdown_menu_content_description">Zobraziť rozbaľovaciu ponuku</string>
+    <string name="exposed_dropdown_menu_content_description">Afișați meniul drop-down</string>
     <string name="external_source_switch_title">Permiteți din această sursă</string>
     <string name="external_source_trusted">Permisă</string>
     <string name="external_source_untrusted">Nepermisă</string>
-    <string name="extra_app_info_label">Optimalizácia hry</string>
-    <string name="extra_app_info_summary" />
+    <string name="extra_app_info_label">Optimizarea jocului</string>
     <string name="face_add_max">Puteți adăuga maxim %d chipuri</string>
-    <string name="face_enrolling_center_head">Umiestnite tvár do vnútorného rámčeka</string>
-    <string name="face_enrolling_description">Keď odstránite všetky dlaždice, zachytíte tvár zo všetkých uhlov.</string>
-    <string name="face_enrolling_do_it_later">Neskôr</string>
-    <string name="face_enrolling_gaze_dialog_cancel">Zrušiť</string>
-    <string name="face_enrolling_gaze_dialog_continue">Nastaviť bez otvorených očí</string>
-    <string name="face_enrolling_gaze_dialog_message">Chcete nastaviť odomknutie tvárou bez vyžadovania otvorených očí? Ak nastavíte tento spôsob, telefón bude môcť odomknúť hocikto, kto ho bez vášho vedomia namieri na vašu tvár.</string>
-    <string name="face_enrolling_gaze_dialog_title">Nastavenie bez otvorených očí</string>
-    <string name="face_enrolling_how_to_setup">Postup nastavenia</string>
-    <string name="face_enrolling_title">Držte telefón nehybne a pomaly otáčajte hlavou.</string>
-    <string name="face_enrolling_title_accessibility">Pozrite sa priamo do telefónu</string>
-    <string name="face_enrolling_title_accessibility_progress">Stále sa pozerajte priamo na telefón</string>
-    <string name="face_enrolling_too_close">Oddiaľte telefón</string>
-    <string name="face_enrolling_too_far">Priblížte telefón</string>
-    <string name="face_enrolling_too_high">Posuňte telefón nižšie</string>
-    <string name="face_enrolling_too_left">Posuňte telefón doprava</string>
-    <string name="face_enrolling_too_low">Posuňte telefón vyššie</string>
-    <string name="face_enrolling_too_right">Posuňte telefón doľava</string>
-    <string name="face_enrolling_turn_head_to_arrow">Otočte hlavu smerom k šípke</string>
-    <string name="face_enrolling_turned_too_far">Natočte hlavu o niečo menej</string>
+    <string name="face_enrolling_center_head">Așezați chipul în interiorul cadrului</string>
+    <string name="face_enrolling_description">Când eliminați toate plăcile, veți capta fața din toate unghiurile.</string>
+    <string name="face_enrolling_do_it_later">Mai târziu</string>
+    <string name="face_enrolling_gaze_dialog_cancel">Anulați</string>
+    <string name="face_enrolling_gaze_dialog_continue">Setați fără ochii deschiși</string>
+    <string name="face_enrolling_gaze_dialog_message">Doriți să configurați deblocarea facială fără a fi nevoie să deschideți ochii? Dacă setați această metodă, telefonul va putea fi deblocat de oricine care îl îndreaptă spre dvs. fără știrea dvs.</string>
+    <string name="face_enrolling_gaze_dialog_title">Setare fără ochii deschiși</string>
+    <string name="face_enrolling_how_to_setup">Procedura de configurare</string>
+    <string name="face_enrolling_title">Țineți telefonul nemișcat și întoarceți încet capul.</string>
+    <string name="face_enrolling_title_accessibility">Priviți direct către telefon</string>
+    <string name="face_enrolling_title_accessibility_progress">Continuați să priviți direct către telefon</string>
+    <string name="face_enrolling_too_close">Mutați telefonul departe</string>
+    <string name="face_enrolling_too_far">Apropiați telefonul</string>
+    <string name="face_enrolling_too_high">Mutați telefonul în jos</string>
+    <string name="face_enrolling_too_left">Glisați telefonul spre dreapta</string>
+    <string name="face_enrolling_too_low">Mutați telefonul în sus</string>
+    <string name="face_enrolling_too_right">Glisați telefonul spre stânga</string>
+    <string name="face_enrolling_turn_head_to_arrow">Întoarceți capul înspre săgeată</string>
+    <string name="face_enrolling_turned_too_far">Întoarceți capul mai puțin</string>
     <string name="face_intro_error_max">Ați adăugat numărul maxim de chipuri</string>
     <string name="face_intro_error_unknown">Nu se mai pot adăuga chipuri</string>
     <string name="face_unlock_set_unlock_password">Deblocare facială + Parolă</string>
@@ -1332,9 +1327,9 @@ Reštartujte zariadenie a skúste to znova."</string>
     <string name="face_unlock_set_unlock_pin">Deblocare facială + Cod PIN</string>
     <string name="face_unlock_skip_face">Continuați fără deblocare facială</string>
     <string name="face_unlock_title">Puteți debloca telefonul utilizând chipul. Din motive de securitate, această opțiune necesită o a doua metodă de blocare a ecranului.</string>
-    <string name="fallback_menu_item_copy_link">Kopírovať odkaz</string>
-    <string name="fallback_menu_item_open_in_browser">Otvoriť v prehliadači</string>
-    <string name="fallback_menu_item_share_link">Zdieľať odkaz</string>
+    <string name="fallback_menu_item_copy_link">Copiați linkul</string>
+    <string name="fallback_menu_item_open_in_browser">Deschis în browser</string>
+    <string name="fallback_menu_item_share_link">Distribuiți linkul</string>
     <string name="filter_install_sources_apps">Poate instala alte aplicații</string>
     <string name="filter_instant_apps">Aplicații instant</string>
     <string name="filter_manage_external_storage">Poate accesa toate fișierele</string>
@@ -1343,22 +1338,22 @@ Reštartujte zariadenie a skúste to znova."</string>
     <string name="filter_notif_dnd_channels">Categorii: Suprascrie modul Nu deranjați</string>
     <string name="filter_notif_low_channels">Categorii: Importanță redusă</string>
     <string name="filter_notif_urgent_channels">Categorii: Importanță maximă</string>
-    <string name="financed_privacy_data">Údaje spojené s vaším účtom, napríklad pošta a údaje z kalendára</string>
-    <string name="financed_privacy_exposure_category">Typy informácií, ktoré vidí správca vášho zariadenia</string>
-    <string name="financed_privacy_exposure_changes_category">Zmeny, ktoré vykonal správca vášho zariadenia</string>
-    <string name="financed_privacy_failed_password_wipe_device">Počet nesprávnych zadaní hesla pred odstránením dát zariadenia</string>
-    <string name="financed_privacy_header">"Poskytovateľ úveru môže v tomto zariadení meniť nastavenia a inštalovať softvér.
+    <string name="financed_privacy_data">Date asociate contului dvs., cum ar fi datele de e-mail și calendar</string>
+    <string name="financed_privacy_exposure_category">Tipurile de informații pe care le poate vedea administratorul dispozitivului dvs</string>
+    <string name="financed_privacy_exposure_changes_category">Modificări făcute de administratorul dispozitivului</string>
+    <string name="financed_privacy_failed_password_wipe_device">Numărul de introduceri incorecte ale parolei înainte ca datele dispozitivului să fie șterse</string>
+    <string name="financed_privacy_header">"Creditorul poate modifica setările și poate instala software pe acest dispozitiv.
 
-Viac sa dozviete od poskytovateľa úveru."</string>
-    <string name="financed_privacy_lock_device">Správca zariadenia môže zamknúť toto zariadenie a resetovať heslo</string>
-    <string name="financed_privacy_settings">Informácie o financovanom zariadení</string>
-    <string name="financed_privacy_wipe_device">Správca zariadenia môže odstrániť všetky dáta zariadenia</string>
+Aflați mai multe de la furnizorul de împrumuturi."</string>
+    <string name="financed_privacy_lock_device">Administratorul dispozitivului poate bloca acest dispozitiv și poate reseta parola</string>
+    <string name="financed_privacy_settings">Informații despre dispozitivul finanțat</string>
+    <string name="financed_privacy_wipe_device">Administratorul dispozitivului poate șterge toate datele dispozitivului</string>
     <string name="fingerprint_delete_message">Doriți să eliminați această amprentă?</string>
     <string name="fingerprint_delete_title">Eliminați %1$s</string>
     <string name="fingerprint_gesture_screen_title">Glisați amprenta</string>
     <string name="fingerprint_intro_error_max">Ați adăugat numărul maxim de amprente</string>
     <string name="fingerprint_intro_error_unknown">Nu se mai pot adăuga amprente</string>
-    <string name="fingerprint_last_delete_message_profile_challenge">Nebudete môcť odomykať pracovný profil, schvaľovať nákupy ani sa prihlasovať do pracovných aplikácií odtlačkom prsta.</string>
+    <string name="fingerprint_last_delete_message_profile_challenge">Nu veți putea să vă deblocați profilul de serviciu, să aprobați achiziții sau să vă conectați la aplicațiile de serviciu cu amprenta dvs.</string>
     <string name="fingerprint_swipe_for_notifications_suggestion_title">Vedeți notificările rapid</string>
     <string name="fingerprint_swipe_for_notifications_summary">Pentru a verifica notificările, glisați în jos pe senzorul de amprentă de pe spatele telefonului.</string>
     <string name="fingerprint_swipe_for_notifications_title">Glisați amprenta pentru notificări</string>
@@ -1367,8 +1362,8 @@ Viac sa dozviete od poskytovateľa úveru."</string>
     <string name="fingerprint_unlock_set_unlock_pin">Amprentă + PIN</string>
     <string name="fingerprint_unlock_skip_fingerprint">Continuați fără amprentă</string>
     <string name="fingerprint_unlock_title">Puteți debloca telefonul utilizând amprenta. Din motive de siguranță, această opțiune necesită o metodă de blocare a ecranului de rezervă.</string>
-    <string name="fingerprint_v2_delete_message">Týmto odstránite obrázky a model odtlačku prsta spojené s identifikátorom %1$s, ktoré sú uložené vo vašom zariadení</string>
-    <string name="fix_connectivity">Odstrániť problém s pripojením</string>
+    <string name="fingerprint_v2_delete_message">Aceasta va șterge imaginile și modelul de amprentă asociate cu %1$s care sunt stocate pe dispozitivul dvs.</string>
+    <string name="fix_connectivity">Remediați problema conexiunii</string>
     <string name="font_size_make_larger_desc">Măriți</string>
     <string name="font_size_make_smaller_desc">Micșorați</string>
     <string name="font_size_preview_text_body">"Şi zicând aceste, pune tarniţa pe cal, anină armele la oblânc, îşi ia merinde şi bani de ajuns, schimburi în desagi şi o ploscă plină cu apă. Apoi sărută mâna tată-său, primind carte de la dânsul către împăratul, zice rămas bun fraţilor săi şi a treia zi către seară porneşte şi el, mergând din pasul calului. Şi merge el, şi merge, până se înnoptează bine. Şi, prin dreptul podului, numai iaca îi iese şi lui ursul înainte, mornăind înfricoşat. Calul atunci dă năvală asupra ursului, şi fiul craiului, ridicând buzduganul să dea, numai iaca ce aude glas de om zicând:
@@ -1379,37 +1374,37 @@ Viac sa dozviete od poskytovateľa úveru."</string>
     <string name="font_size_preview_text_headline">Exemplu de text</string>
     <string name="font_size_preview_text_subtitle">Povestea lui Harap Alb, de Ion Creangă</string>
     <string name="font_size_preview_text_title">Povestea lui Harap Alb</string>
-    <string name="footer_learn_more_content_description">Ďalšie informácie o funkcii %1$s</string>
+    <string name="footer_learn_more_content_description">Mai multe informații despre funcția %1$s</string>
     <string name="forbidden_network">(interzisă)</string>
     <string name="force_allow_on_external">Forțați permisiunile aplicației de a scrie în memoria externă</string>
     <string name="force_allow_on_external_summary">Face posibilă scrierea oricărei aplicații în memoria externă, indiferent de valorile manifestate</string>
-    <string name="force_bold_text">Tučný text</string>
+    <string name="force_bold_text">Text îngroșat</string>
     <string name="force_desktop_mode">Forțează modul desktop</string>
     <string name="force_desktop_mode_summary">Forțează modul experimental desktop pe ecranele secundare</string>
-    <string name="force_high_refresh_rate_desc">Najvyššia frekvencia obnovenia zlepšujúca dotykovú odozvu a kvalitu animácií. Zvýši sa spotreba batérie.</string>
-    <string name="force_high_refresh_rate_toggle">Vynútiť vrcholovú frekvenciu obnovenia</string>
+    <string name="force_high_refresh_rate_desc">Cea mai mare rată de reîmprospătare, îmbunătățind răspunsul la atingere și calitatea animației. Consumul bateriei va crește.</string>
+    <string name="force_high_refresh_rate_toggle">Forțați rata de reîmprospătare maximă</string>
     <string name="force_resizable_activities">Forțați redimensionarea aplicațiilor</string>
     <string name="force_resizable_activities_summary">Face toate aplicațiile redimensionabile pentru ecran scindat, indiferent de valorile manifestate.</string>
     <string name="forget_passpoint_dialog_message">Este posibil să pierdeți accesul la orice durată sau date rămase. Verificați împreună cu operatorul înainte de a elimina.</string>
     <string name="forgot_password_text">Vă poate ajuta să vă resetați codul PIN, modelul sau parola</string>
     <string name="forgot_password_title">Contactați administratorul IT</string>
-    <string name="game_dashboard_always_on_summary">Zobrazovať v hrách odkaz na herný panel</string>
-    <string name="game_dashboard_always_on_title">Herný panel</string>
-    <string name="game_dashboard_dnd_rule_name">Hry</string>
-    <string name="game_dashboard_dnd_summary">Dostávajte počas hrania hier upozornenia iba od dôležitých ľudí a aplikácií</string>
-    <string name="game_dashboard_dnd_title">Režim bez vyrušení pre hry</string>
-    <string name="game_mode_battery_description">Zníži snímkovú frekvenciu, šetrí batériu</string>
-    <string name="game_mode_battery_title">Šetrič batérie</string>
-    <string name="game_mode_performance_description">Maximalizuje snímkovú frekvenciu, viac spotrebúva batériu</string>
-    <string name="game_mode_performance_title">Výkonnosť</string>
-    <string name="game_mode_standard_description">Používa predvolené nastavenia hry</string>
-    <string name="game_mode_standard_title">Štandardný</string>
-    <string name="game_optimization_unavailable">Nie je k dispozícii pre túto hru</string>
-    <string name="game_settings_summary">Zapnutie odkazu na herný panel a podobne</string>
-    <string name="game_settings_title">Nastavenia hier</string>
+    <string name="game_dashboard_always_on_summary">Afișați un link către bara de joc în jocuri</string>
+    <string name="game_dashboard_always_on_title">Panoul de joc</string>
+    <string name="game_dashboard_dnd_rule_name">Jocuri</string>
+    <string name="game_dashboard_dnd_summary">Primiți notificări numai de la persoane și aplicații importante în timp ce jucați jocuri</string>
+    <string name="game_dashboard_dnd_title">Mod fără întreruperi pentru jocuri</string>
+    <string name="game_mode_battery_description">Reduceți rata de cadre și economisește bateria</string>
+    <string name="game_mode_battery_title">Economizor de baterie</string>
+    <string name="game_mode_performance_description">Maximizează rata de cadre, consumă mai multă baterie</string>
+    <string name="game_mode_performance_title">Performanţă</string>
+    <string name="game_mode_standard_description">Utilizați setările implicite ale jocului</string>
+    <string name="game_mode_standard_title">Standard</string>
+    <string name="game_optimization_unavailable">Nu este disponibil pentru acest joc</string>
+    <string name="game_settings_summary">Activarea link-ului către bara de joc și așa</string>
+    <string name="game_settings_title">Setările jocului</string>
     <string name="game_storage_settings">Jocuri</string>
-    <string name="general_category_title">Všeobecné</string>
-    <string name="general_notification_header">Spravovanie</string>
+    <string name="general_category_title">În general</string>
+    <string name="general_notification_header">Administrare</string>
     <string name="gentle_notifications_also_display">Afișează de asemenea și în</string>
     <string name="gentle_notifications_display_lock">Blocarea ecranului</string>
     <string name="gentle_notifications_display_status">Bara de stare</string>
@@ -1419,7 +1414,7 @@ Viac sa dozviete od poskytovateľa úveru."</string>
     <string name="gentle_notifications_display_summary_shade_status_lock">Afișează în perdeaua de glisare în jos, în bara de stare și în Blocarea ecranului</string>
     <string name="gentle_notifications_education">Notificările Gentile sunt întotdeauna silențioase și apar mereu în perdeaua de glisare în jos</string>
     <string name="gentle_notifications_title">Notificări Gentile</string>
-    <string name="gesture_aware_confirmation_action_button">Dobre</string>
+    <string name="gesture_aware_confirmation_action_button">În regulă</string>
     <string name="gesture_aware_disabled_info_dialog_content" />
     <string name="gesture_aware_footer" />
     <string name="gesture_aware_off_dialog_content" />
@@ -1437,15 +1432,15 @@ Viac sa dozviete od poskytovateľa úveru."</string>
     <string name="gesture_silence_off_summary" />
     <string name="gesture_silence_on_summary" />
     <string name="gesture_silence_summary" />
-    <string name="gesture_silence_title">Gesto vypnutia zvukov upozornení</string>
-    <string name="gesture_skip_direction_ltr">Zľava doprava</string>
-    <string name="gesture_skip_direction_rtl">Sprava doľava</string>
-    <string name="gesture_skip_direction_title">Smer preskočenia</string>
+    <string name="gesture_silence_title">Gest pentru a dezactiva sunetele de notificare</string>
+    <string name="gesture_skip_direction_ltr">De la stânga la dreapta</string>
+    <string name="gesture_skip_direction_rtl">De la dreapta la stânga</string>
+    <string name="gesture_skip_direction_title">Omite direcția</string>
     <string name="gesture_skip_footer" />
     <string name="gesture_skip_off_summary" />
     <string name="gesture_skip_on_summary" />
     <string name="gesture_skip_summary" />
-    <string name="gesture_skip_title">Gesto preskočenia</string>
+    <string name="gesture_skip_title">Săriți peste gest</string>
     <string name="gesture_tap_footer" />
     <string name="gesture_tap_on_summary" />
     <string name="gesture_tap_summary" />
@@ -1453,15 +1448,15 @@ Viac sa dozviete od poskytovateľa úveru."</string>
     <string name="global_actions_panel_summary">Pentru a afișa panoul de acțiuni globale, apăsați și mențineți apăsat butonul de Pornire</string>
     <string name="global_actions_panel_title">Afișează acțiunile globale</string>
     <string name="go_back_button_label">Mergeți înapoi</string>
-    <string name="graphics_driver_app_preference_production_driver">Ovládač hry</string>
-    <string name="graphics_driver_main_switch_title">Používanie predvolieb grafického ovládača</string>
+    <string name="graphics_driver_app_preference_production_driver">Controlor de joc</string>
+    <string name="graphics_driver_main_switch_title">Utilizarea preferințelor driverului grafic</string>
     <string name="guest_exit_guest">Eliminați vizitatorul</string>
     <string name="guest_new_guest">Adăugați un vizitator</string>
     <string name="guest_nickname">Vizitator</string>
-    <string name="guest_reset_guest">Obnoviť reláciu hosťa</string>
-    <string name="guest_reset_guest_confirm_button">Resetovať</string>
-    <string name="guest_reset_guest_dialog_title">Chcete resetovať reláciu hosťa?</string>
-    <string name="guest_resetting">Relácia hosťa sa resetuje…</string>
+    <string name="guest_reset_guest">Restabiliți sesiunea pentru invitați</string>
+    <string name="guest_reset_guest_confirm_button">Resetați</string>
+    <string name="guest_reset_guest_dialog_title">Doriți să resetați sesiunea pentru invitați?</string>
+    <string name="guest_resetting">Sesiunea pentru invitați este resetată…</string>
     <string name="hardware_info">Model și hardware</string>
     <string name="hardware_revision">Versiune hardware</string>
     <string name="help_feedback_label">Ajutor și feedback</string>
@@ -1518,7 +1513,7 @@ Viac sa dozviete od poskytovateľa úveru."</string>
     <string name="interact_across_profiles_title">Aplicații personale și de servici conectate</string>
     <string name="interaction_control_category_title">Controale interacțiune</string>
     <string name="internet_connectivity_panel_title">Conectivitate Internet</string>
-    <string name="item_view_role_description">Tabulátor</string>
+    <string name="item_view_role_description">Tabulator</string>
     <string name="join_two_unrelated_items">%1$s, %2$s</string>
     <string name="keyboard_assistance_category">Asistență tastatură</string>
     <string name="keyboard_disconnected">Neconectată</string>
@@ -2624,9 +2619,11 @@ Pentru a utiliza fixarea aplicației: \u0009
 Model tváre sa bezpečným spôsobom natrvalo odstráni.
 
 Po jeho odstránení budete na odomknutie telefónu alebo overovanie v aplikáciách potrebovať PIN, vzor alebo heslo."</string>
-    <string name="security_settings_face_enroll_improve_face_alert_body">"Ștergeți datele actuale ale feței pentru a configura din nou deblocarea facială.
+    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint">"Ak chcete odomknutie tvárou nastaviť znova, odstráňte aktuálny model tváre.
 
-Datele feței utilizate de deblocarea facială vor fi șterse definitiv și în siguranță. După eliminare, veți avea nevoie de codul PIN, modelul sau parola pentru a vă debloca telefonul, pentru a vă conecta la aplicații și pentru a confirma plățile."</string>
+Model tváre sa bezpečným spôsobom natrvalo odstráni.
+
+Po jeho odstránení budete na odomknutie telefónu alebo overovanie v aplikáciách potrebovať odtlačok prsta, PIN, vzor alebo heslo."</string>
     <string name="security_settings_face_enroll_improve_face_alert_title">Setați deblocarea facială</string>
     <string name="security_settings_face_enroll_introduction_accessibility">Utilizați setarea pentru accesibilitate</string>
     <string name="security_settings_face_enroll_introduction_accessibility_diversity" />
