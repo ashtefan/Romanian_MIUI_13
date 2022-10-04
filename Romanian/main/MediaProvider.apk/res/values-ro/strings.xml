@@ -30,7 +30,7 @@
     <string name="allow">Permiteți</string>
     <string name="app_label">Stocare multimedia</string>
     <string name="artist_label">Artist</string>
-    <string name="cache_clearing_dialog_text">%s aș dori să șteargă unele fișiere temporare. Acest lucru poate duce la o utilizare crescută a bateriei sau a datelor celulare.</string>
+    <string name="cache_clearing_dialog_text">%s aș dori să șteargă unele fișiere temporare. Acest lucru poate duce la o utilizare crescută a acumulatorului sau a datelor celulare.</string>
     <string name="cache_clearing_dialog_title">Ștergeți fișierele temporare ale aplicației</string>
     <string name="cache_clearing_in_progress_title">Se șterg fișierele temporare ale aplicației…</string>
     <string name="clear">Goliți</string>

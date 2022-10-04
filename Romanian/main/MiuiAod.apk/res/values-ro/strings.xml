@@ -325,8 +325,8 @@ dd.MM"</string>
     <string name="send">Trimiteți</string>
     <string name="share">Partajați</string>
     <string name="share_to_community">Partajați Comunității Mi</string>
-    <string name="show_battery">Afișează starea bateriei</string>
-    <string name="show_battery_status">Afișează starea bateriei</string>
+    <string name="show_battery">Afișează starea acumulatorului</string>
+    <string name="show_battery_status">Afișează starea acumulatorului</string>
     <string name="show_lunar">Afișează calendarul Tradițional Chinezesc</string>
     <string name="show_lunar_desc">Ceasul dual nu suportă calendarul Tradițional Chinezesc</string>
     <string name="show_notification">Afișează notificările</string>

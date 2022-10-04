@@ -2105,7 +2105,7 @@ Pentru a relua utilizarea telefonului, trebuie să efectuaţi o resetare la valo
     <string name="crypt_keeper_failed_title">Criptare nereuşită</string>
     <string name="crypt_keeper_final_desc">Operaţiunea de criptare este ireversibilă şi întreruperea ei va duce la pierderea datelor. Criptarea durează cel puţin o oră, timp în care telefonul va reporni de mai multe ori.</string>
     <string name="crypt_keeper_force_power_cycle">Pentru a debloca telefonul, opriți-l și apoi reporniți-l.</string>
-    <string name="crypt_keeper_low_charge_text">Încărcaţi bateria şi încercaţi din nou.</string>
+    <string name="crypt_keeper_low_charge_text">Încărcaţi acumulatorul şi încercaţi din nou.</string>
     <string name="crypt_keeper_settings_title">Criptare</string>
     <string name="crypt_keeper_setup_description">Aşteptaţi criptarea telefonului. Finalizat ^1%.</string>
     <string name="crypt_keeper_setup_time_remaining">Așteptați până când criptarea se finalizează. Timp rămas: ^1</string>
@@ -2198,7 +2198,7 @@ Pentru a relua utilizarea telefonului, trebuie să efectuaţi o resetare la valo
     <string name="dark_ui_summary_on_auto_mode_auto">Se va dezactiva în mod automat la răsărit</string>
     <string name="dark_ui_summary_on_auto_mode_custom">Se va dezactiva în mod automat la %1$s</string>
     <string name="dark_ui_summary_on_auto_mode_never">Nu se va dezactiva în mod automat niciodată</string>
-    <string name="dark_ui_text">Tema întunecată folosește un fundal negru pentru a menține bateria în viață mai mult pe unele ecrane. Programările temei întunecate așteaptă să se activeze până când ecranul este oprit.</string>
+    <string name="dark_ui_text">Tema întunecată folosește un fundal negru pentru a menține acumulatorul în viață mai mult pe unele ecrane. Programările temei întunecate așteaptă să se activeze până când ecranul este oprit.</string>
     <string name="dark_ui_title">Mod Întunecat</string>
     <string name="dark_wallpaper_mode">Ajustați imaginea de fundal la modul Întunecat</string>
     <string name="dashboard_title">Setări</string>
@@ -5781,7 +5781,7 @@ Citiți și acceptați %s înainte de a utiliza acest serviciu."</string>
     <string name="password_turned_on_text">Parola a fost activată</string>
     <string name="password_unlock_title">Blocarea ecranului</string>
     <string name="payment_summary">%1$s este implicită</string>
-    <string name="peak_refresh_rate_summary">Crește automat rata de reîmprospătare de la 60 la 90 Hz pentru un anumit conținut. Crește consumul bateriei.</string>
+    <string name="peak_refresh_rate_summary">Crește automat rata de reîmprospătare de la 60 la 90 Hz pentru un anumit conținut. Crește consumul acumulatorului.</string>
     <string name="peak_refresh_rate_title">Afișaj neted</string>
     <string name="peek_notification_icon_title">Afișează pictograme pentru notificările primite</string>
     <string name="performance_category">Performanţă</string>

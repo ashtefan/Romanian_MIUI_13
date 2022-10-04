@@ -1430,9 +1430,9 @@ Xiaomi"</string>
   <string name="weight_help_info_2">If the scale doesnt respond during weigh-in, check if the batteries are installed properly.</string>
   <string name="weight_help_info_3">If theres enough battery power, but the phone still cant find the scale, try restarting Bluetooth.</string>
   <string name="weight_help_info_4">After you follow the steps above, exit and open Mi Fit again to connect to the scale.</string>
-  <string name="weight_help_title_0">Este cîntarul prea departe?</string>
-  <string name="weight_help_title_1">Verifică bateria cîntarului</string>
-  <string name="weight_help_title_2">Is the battery installed properly?</string>
+  <string name="weight_help_title_0">Este cântarul prea departe?</string>
+  <string name="weight_help_title_1">Verifică bateria cântarului</string>
+  <string name="weight_help_title_2">Este instalată corect bateria?</string>
   <string name="weight_help_title_3">Restart Bluetooth</string>
   <string name="weight_help_title_4">How to connect scale again?</string>
   <string name="weight_instable_left_title">"Wait until the LED notification light stops blinking

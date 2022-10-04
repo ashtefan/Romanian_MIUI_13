@@ -2322,7 +2322,7 @@ Interfață UT: %5$s"</string>
     <string name="sip_profile_create_error">"Nu s-a putut crea un nou profil SIP"</string>
     <string name="sip_receive_call_disable">"Nu se pot prelua apeluri. Permiteți mai întâi acceptarea apelurilor."</string>
     <string name="sip_receive_calls">Primiţi apeluri de intrare</string>
-    <string name="sip_receive_calls_summary">Reduce durata de funcţionare a bateriei</string>
+    <string name="sip_receive_calls_summary">Reduce durata de funcţionare a acumulatorului</string>
     <string name="sip_save_register_error">"Nu s-a putut înregistra și salva un nou profil SIP"</string>
     <string name="sip_settings">Setări pentru apeluri prin internet</string>
     <string name="sip_system_decide">Automat</string>

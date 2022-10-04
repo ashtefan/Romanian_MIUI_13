@@ -3035,10 +3035,10 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_center_unoffical_battery_button">Găsiți un furnizor de servicii autorizat</string>
     <string name="power_center_unoffical_battery_dialog">Avertizare acumulator neautorizat</string>
     <string name="power_center_unoffical_battery_dialog_positive">Aflați mai multe</string>
-    <string name="power_center_unoffical_battery_dialog_summary">Se pare că un acumulator neautorizat este instalat pe acest dispozitiv. Puterea de încărcare va fi redusă pentru a vă proteja dispozitivul. Utilizarea acumulatorilor neautorizați poate duce la umflarea bateriei, supraîncălzire și scurgeri. De asemenea, poate provoca incendii sau alte pericole. Găsiți un furnizor de servicii autorizat pentru a vă înlocui acumulatorul.</string>
+    <string name="power_center_unoffical_battery_dialog_summary">Se pare că un acumulator neautorizat este instalat pe acest dispozitiv. Puterea de încărcare va fi redusă pentru a vă proteja dispozitivul. Utilizarea acumulatorilor neautorizați poate duce la umflarea acestora, supraîncălzire și scurgeri. De asemenea, poate provoca incendii sau alte pericole. Găsiți un furnizor de servicii autorizat pentru a vă înlocui acumulatorul.</string>
     <string name="power_center_unoffical_battery_noti_summary">Acumulatorul actual poate prezenta riscuri de securitate</string>
     <string name="power_center_unoffical_battery_summary1">Acest dispozitiv a fost echipat cu un acumulator încorporat care trebuie înlocuit doar de un furnizor de servicii autorizat.</string>
-    <string name="power_center_unoffical_battery_summary2">Înlocuirea acumulatorului în altă parte poate deteriora acest dispozitiv. Utilizarea acumulatorilor neautorizați poate duce la umflarea bateriei, supraîncălzire și scurgeri. De asemenea, poate provoca incendii sau alte pericole. Nu utilizați acumulatori neautorizați.</string>
+    <string name="power_center_unoffical_battery_summary2">Înlocuirea acumulatorului în altă parte poate deteriora acest dispozitiv. Utilizarea acumulatorilor neautorizați poate duce la umflarea acumulatorului, supraîncălzire și scurgeri. De asemenea, poate provoca incendii sau alte pericole. Nu utilizați acumulatori neautorizați.</string>
     <string name="power_center_unoffical_battery_tip">Informațiile despre starea de sănătate nu sunt disponibile pentru acest acumulator neautorizat. Atingeți pentru a afla despre riscurile de securitate.</string>
     <string name="power_center_unoffical_battery_title">Riscuri cauzate de utilizarea acumulatorilor neautorizați</string>
     <string name="power_center_used_time_Introduction">Timp pe acumulator de când a fost încărcată ultima dată %s</string>
@@ -3085,9 +3085,9 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_optimize_close_wlan_summary">Economisiți energie atunci când nu există dispozitive conectate</string>
     <string name="power_optimize_darkmode">Treceți la modul Întunecat</string>
     <string name="power_optimize_darkmode_dialog_confirm">Activați</string>
-    <string name="power_optimize_darkmode_dialog_summary">Modul întunecat schimbă schema de culori a interfeței de utilizare a sistemului și a aplicațiilor selectate, permițându-vă să economisiți bateria și să reduceți oboseala ochilor.</string>
+    <string name="power_optimize_darkmode_dialog_summary">Modul întunecat schimbă schema de culori a interfeței de utilizare a sistemului și a aplicațiilor selectate, permițându-vă să economisiți acumulatorul și să reduceți oboseala ochilor.</string>
     <string name="power_optimize_darkmode_dialog_title">Activați modul Întunecat</string>
-    <string name="power_optimize_darkmode_extend_summary">Modul întunecat schimbă schema de culori a interfeței de utilizare a sistemului și a aplicațiilor selectate, permițându-vă să economisiți bateria și să reduceți oboseala ochilor</string>
+    <string name="power_optimize_darkmode_extend_summary">Modul întunecat schimbă schema de culori a interfeței de utilizare a sistemului și a aplicațiilor selectate, permițându-vă să economisiți acumulatorul și să reduceți oboseala ochilor</string>
     <string name="power_optimize_darkmode_summary">Modul Întunecat consumă mai puțină energie</string>
     <string name="power_optimize_disable_5g">Restricționați conectivitatea 5G</string>
     <string name="power_optimize_disable_5g_summary">Conexiunea 5G consumă mai multă energie</string>
@@ -4702,7 +4702,7 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="vb_advanced_settings_pic_stronger_desc">Faceți obiectele în mișcare mai clare prin îmbunătățirea animațiilor. Această caracteristică necesită un consum mai mare de energie.</string>
     <string name="vb_fps_display_unit">Hz</string>
     <string name="vb_fps_settings">Rată de reîmprospătare automată</string>
-    <string name="vb_fps_settings_tips">Această funcție ajustează rata de reîmprospătare a ecranului la rata cadrelor video, ceea ce economisește bateria și face redarea mai fluidă. Activarea comentariilor plutitoare va dezactiva rata de reîmprospătare automată.</string>
+    <string name="vb_fps_settings_tips">Această funcție ajustează rata de reîmprospătare a ecranului la rata cadrelor video, ceea ce economisește acumulatorul și face redarea mai fluidă. Activarea comentariilor plutitoare va dezactiva rata de reîmprospătare automată.</string>
     <string name="vb_quick_func_auto_bgm">Recunoaște muzica de fundal</string>
     <string name="vb_quick_func_hangup_listening">Redați sunetul video cu ecranul dezactivat</string>
     <string name="vb_quick_func_screen_capture">Captură de ecran</string>
