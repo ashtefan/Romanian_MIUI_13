@@ -248,7 +248,7 @@ Puteți vizualiza rapoartele generate în Managerul de Fișiere."</string>
     <string name="ks_search_summary">Căutați</string>
     <string name="ks_title">Scurtături tastatură</string>
     <string name="launch_ai_shortcut">Scurtătură Mi AI</string>
-    launch_alipay_health_code">Cod sănătate Alipay</string>
+    <string name="launch_alipay_health_code">Cod sănătate Alipay</string>
     <string name="launch_alipay_health_code_auto_close">Comanda rapidă pentru codul de sănătate Alipay nu mai este disponibilă. Puteți comuta la o altă comandă rapidă.</string>
     <string name="launch_alipay_payment_code">Cod de plată Alipay</string>
     <string name="launch_alipay_scanner">Scaner Alipay</string>

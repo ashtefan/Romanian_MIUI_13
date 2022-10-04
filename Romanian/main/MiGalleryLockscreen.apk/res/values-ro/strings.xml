@@ -113,6 +113,7 @@
     <string name="at_least_one">Selectați cel puțin o categorie</string>
     <string name="auth_fail_warning">Sesiunea a expirat. Conectați-vă din nou.</string>
     <string name="auto_interval">La fiecare deblocare a telefonului</string>
+    <string name="back">Înapoi</string>
     <string name="back_icon_content_description">Înapoi</string>
     <string name="bind_sign_in_title">Adăugați contul Mi</string>
     <string name="cancel">Renunță</string>
@@ -149,6 +150,7 @@
     <string name="clear_text_end_icon_content_description">Goliți textul</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="close">Închideți</string>
+    <string name="close_country_code_content_description">Ștergeți codul de țară</string>
     <string name="close_gallery">Dezactivați</string>
     <string name="collect_diagnosis_log">Colectați jurnale de diagnoză</string>
     <string name="comment_pop_cancel">Nu acum</string>
@@ -273,6 +275,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="exposed_dropdown_menu_content_description">Afișează meniul de glisare în jos</string>
     <string name="external_storage_permission">Acces la stocare</string>
     <string name="external_storage_permission_summary">Pentru selectarea imaginilor de fundal personalizate și salvarea elementelor descărcate</string>
+    <string name="facebook_login_btn_content_description">Conectați-vă cu Facebook</string>
     <string name="failed_dup_secure_phone_number">Acest număr de telefon este asociat deja altui cont Mi</string>
     <string name="favor_list_no_data">Niciun element aici.</string>
     <string name="favor_list_title">Favorite</string>
@@ -342,6 +345,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="get_phone_bind_exceed_limit">Puteți asocia maxim 3 conturi Mi unui număr de telefon. Nu se mai pot adăuga conturi noi.</string>
     <string name="get_phone_verifycode_exceed_limit">S-au trimis prea multe coduri de verificare către acest număr de telefon. Așteptați 24 de ore și încercați din nou.</string>
     <string name="getverifycode_seconde">s</string>
+    <string name="google_login_btn_content_description">Conectați-vă cu Google</string>
     <string name="goto_confirm">Setări</string>
     <string name="goto_sign_up">Creați un cont</string>
     <string name="header_help">Ajutor</string>
@@ -379,13 +383,41 @@ Trimiteți acest cod supervizorului."</string>
     <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
     <string name="like">Adăugați la Favorite</string>
     <string name="liked">Adăugată la Favorite</string>
+    <string name="lks_cta_dont_mention">Nu arăta din nou</string>
+    <string name="lks_cta_ok">De acord</string>
+    <string name="lks_cta_reject">Nu sunt de acord</string>
+    <string name="lks_cta_summary1">Caruselul de imagini de fundal oferă următoarele caracteristici:</string>
+    <string name="lks_cta_summary2">"1. Imagini de fundal actualizate automat&lt;br>2. Imagini și povești noi livrate pe ecranul de blocare&lt;br>3. Opțiuni de personalizare&lt;br>Această funcție trebuie să se conecteze la internet pentru a funcționa normal.&lt;br>&lt;br>Pentru a oferi servicii suplimentare, este posibil să cerem permisiunea de a accesa și de a salva articole în spațiul de stocare al acestui dispozitiv. Citiți și acceptați &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Acordul nostru de utilizare&lt;/font>&lt;/a> și &lt;font color ='#37A5FF'>&lt; ;a href='%2$s'>Politica de confidențialitate&lt;/font>&lt;/a> înainte de a continua."</string>
+    <string name="lks_cta_title">Termeni și condiții</string>
+    <string name="lks_current_lks_wallpaper" />
+    <string name="lks_data_warning_toast_1">"Folosiți date mobile pentru a căuta imagini de fundal.
+Acest lucru poate genera taxe suplimentare."</string>
+    <string name="lks_dislike">Nu îmi place</string>
     <string name="lks_left_net_deny">Accesul la rețea este restricționat</string>
     <string name="lks_left_net_error">"Nu s-a putut conecta la rețea."</string>
     <string name="lks_left_top_notice">Atingeți aici pentru a reveni în partea de sus</string>
     <string name="lks_left_top_notice_refresh">Atingeți pentru a vedea elementele noi</string>
     <string name="lks_logo_desc2">Imagini de fundal noi, în fiecare zi</string>
     <string name="lks_logo_desc_search">Imagini de fundal noi, în fiecare zi</string>
+    <string name="lks_loop_icon_ask_cancle">Renunțați</string>
+    <string name="lks_loop_icon_ask_dlg">Activați prezentarea de diapozitive pe ecranul de blocare pentru a obține imagini și povești noi livrate zilnic pe ecranul de blocare.</string>
+    <string name="lks_loop_icon_ask_ok">Activați</string>
+    <string name="lks_loop_icon_ask_title">Expunere de diapozitive în ecranul de blocare</string>
+    <string name="lks_loop_icon_close_cancle">Renunțați</string>
+    <string name="lks_loop_icon_close_dlg">Prezentarea de diapozitive cu ecran de blocare va fi dezactivată dacă setați această imagine ca ecran de blocare. Setați acum ca ecran de blocare?</string>
+    <string name="lks_loop_icon_close_ok">OK</string>
+    <string name="lks_loop_icon_close_title">Atenție</string>
+    <string name="lks_loop_icon_dlg_title">Expunere de diapozitive în ecranul de blocare</string>
+    <string name="lks_loop_icon_open_dlg">Expunerea de diapozitive pe ecranul de blocare este activată și oferă zilnic imagini și povești noi pe ecranul de blocare.</string>
+    <string name="lks_loop_icon_open_ok">Am înțeles</string>
+    <string name="lks_more_pics_coming_toast">Imagini noi sunt pe drum</string>
+    <string name="lks_new_user_help_anime">Glisați în sus pentru a vedea mai multe din Caruselul de imagini de fundal</string>
+    <string name="lks_no_network">Nu s-a putut conecta la rețea</string>
+    <string name="lks_please_reload">Reîncărcați</string>
+    <string name="lks_retry">Încercați din nou</string>
     <string name="lks_subscription_toast">Imagine de fundal schimbată cu succes</string>
+    <string name="lks_to_history">Istoric</string>
+    <string name="lks_to_setting">Setări Carusel de imagini de fundal</string>
     <string name="llks_add_cate">Abonați-vă la %s</string>
     <string name="llks_auto_switch_wp">Abonați-vă la categoriile preferate</string>
     <string name="llks_display_error">Sunt necesare permisiuni</string>
@@ -744,6 +776,7 @@ mm"</string>
     <string name="pull_to_refresh_pull_up_label">Glisați în sus pentru a reîmprospăta</string>
     <string name="pull_to_refresh_refreshing_label">Reîmprospătare…</string>
     <string name="pull_to_refresh_release_label">Eliberați pentru a reîmpropăta</string>
+    <string name="qq_login_btn_content_description">Conectați-vă cu QQ</string>
     <string name="recommend_switch_desc">Primiți conținut recomandat bazat pe preferințele dvs</string>
     <string name="recommend_switch_dlg_close">Dezactivați</string>
     <string name="recommend_switch_dlg_desc">"Nu veți mai putea primi recomandări bazate pe preferințele dvs. dacă dezactivați această caracteristică."</string>
@@ -1090,6 +1123,8 @@ mm"</string>
     <string name="wednesday">Miercuri</string>
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mi</string>
+    <string name="weibo_login_btn_content_description">Conectați-vă cu Weibo</string>
+    <string name="weixin_login_btn_content_description">Conectați-vă cu WeChat</string>
     <string name="wlan_download">Actualizați doar prin Wi-Fi</string>
     <string name="wlan_download_cn">Actualizați doar atunci când sunteți conectat la Wi-Fi</string>
     <string name="wm_storage_left">Disponibil: </string>

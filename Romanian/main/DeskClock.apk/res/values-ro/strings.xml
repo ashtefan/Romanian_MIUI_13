@@ -295,6 +295,8 @@
     <string name="menu_item_sort_by_gmt_offset">Sortaţi după fusul orar</string>
     <string name="menu_item_sort_by_name">Sortaţi după nume</string>
     <string name="midnight">Noapte</string>
+    <string name="miuix_access_state_desc">Selectat</string>
+    <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
@@ -309,6 +311,8 @@
     <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
     <string name="miuix_appcompat_select_item">Selectați elementele</string>
+    <string name="miuix_indexer_collect">Colecții</string>
+    <string name="miuix_indexer_selected">Selectat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -712,6 +716,9 @@
     <string name="wednesday_shortest">Mi</string>
     <string name="week_ringtone_recommend_desc">Alarma naturală redă diferite sunete în funcție de dată. O setați ca alarmă implicită?</string>
     <string name="white_noise">Sunet ambiental</string>
+    <string name="white_noise_guide_desc">Adăugați un sunet de fundal pentru a vă menține concentrat</string>
+    <string name="white_noise_not_selected">Neselectat</string>
+    <string name="white_noise_selected">Selectat</string>
     <string name="white_noise_selector">Selectați sunetul</string>
     <string name="workday_alarm_clock">Alarmă în zilele lucrătoare</string>
     <string name="worldclock_edit_label">Ceas global</string>
