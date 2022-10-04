@@ -1427,7 +1427,7 @@ despre somn"</string>
     <string name="snore_detection_abnormal_state">Sesiunea a fost întreruptă</string>
     <string name="snore_detection_abnormal_state_description">Microfonul este oprit</string>
     <string name="snore_detection_close_prompt">Detecția sforăitului și a vorbitului în somn este dezactivată</string>
-    <string name="snore_detection_close_prompt_desc">Nu ați detectat sforăitul și vorbirea de ceva vreme. Am dezactivat această funcție pentru a economisi bateria. Atingeți pentru a verifica setările.</string>
+    <string name="snore_detection_close_prompt_desc">Nu ați detectat sforăitul și vorbirea de ceva vreme. Am dezactivat această funcție pentru a economisi acumulatorul. Atingeți pentru a verifica setările.</string>
     <string name="snore_detection_close_title">Dezactivați detectarea sforăitului și a vorbitului în somn?</string>
     <string name="snore_detection_enable">Detectează sforăitul și vorbitul în somn</string>
     <string name="snore_detection_guide_one_description">Pe durata somnului se vor înregistra sunete. Inteligența artificială permite aplicației Sănătate Xiaomi să detecteze sforăitul, vorbitul în somn și sunetele puternice și salvează înregistrările pe dispozitiv.</string>

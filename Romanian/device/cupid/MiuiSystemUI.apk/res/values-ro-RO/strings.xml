@@ -18,7 +18,7 @@
     <string name="accessibility_assistant_poodle">Căutare vocală</string>
     <string name="accessibility_authenticate_hint">verificați</string>
     <string name="accessibility_banner_message_dismiss">Închideți</string>
-    <string name="accessibility_battery_unknown">Procentul bateriei este necunoscut.</string>
+    <string name="accessibility_battery_unknown">Procentul acumulatorului este necunoscut.</string>
     <string name="accessibility_control_move_down">Derulați în jos</string>
     <string name="accessibility_control_move_left">Mutați ​​la stânga</string>
     <string name="accessibility_control_move_right">Mutați la dreapta</string>
@@ -130,7 +130,7 @@ Dacă această permisiune este dezactivată, alarmele curente și evenimentele p
     <string name="battery_info_status_charging_slow">Se încarcă lent</string>
     <string name="battery_info_status_charging_wireless">Se incarcă wireless</string>
     <string name="battery_state_unknown_notification_text">Atingeți pentru a vedea mai multe informații</string>
-    <string name="battery_state_unknown_notification_title">A apărut o problemă la citirea indicatorului bateriei</string>
+    <string name="battery_state_unknown_notification_title">A apărut o problemă la citirea indicatorului acumulatorului</string>
     <string name="biometric_dialog_authenticated">Autentificat</string>
     <string name="biometric_dialog_confirm">Confirmați</string>
     <string name="biometric_dialog_credential_attempts_before_wipe">Încercați din nou. Încercarea %1$d din %2$d.</string>
@@ -281,11 +281,11 @@ Datele chipului utilizate de Deblocarea facială vor fi șterse definitiv și î
     <string name="game_dashboard_game_mode_off">Mod joc: oprit</string>
     <string name="game_dashboard_record_shortcut_available">Există o comandă rapidă pentru a începe înregistrarea</string>
     <string name="game_dashboard_screenshot_shortcut_available">Există o comandă rapidă pentru a face o captură de ecran</string>
-    <string name="game_launch_battery">Optimizat pentru durata de viață a bateriei</string>
+    <string name="game_launch_battery">Optimizat pentru durata de viață a acumulatorului</string>
     <string name="game_launch_change">Modificați</string>
     <string name="game_launch_dnd_on">Modul Nu deranjați pentru jocuri este activat</string>
     <string name="game_launch_performance">Optimizat pentru performanță</string>
-    <string name="game_menu_game_mode_description">Alegeți performanța sau economisirea bateriei</string>
+    <string name="game_menu_game_mode_description">Alegeți performanța sau economisirea acumulatorului</string>
     <string name="game_menu_game_mode_title">Optimizați</string>
     <string name="game_menu_youtube_live_stream_widget_description">Transmiteți-vă jocul în flux</string>
     <string name="game_menu_youtube_live_stream_widget_title">YouTube live</string>
@@ -297,7 +297,7 @@ Datele chipului utilizate de Deblocarea facială vor fi șterse definitiv și î
     <string name="game_mode_performance_title">Performanţă</string>
     <string name="game_mode_restart_dialog_cancel">Anulați</string>
     <string name="game_mode_restart_dialog_confirm">Reporniți</string>
-    <string name="game_mode_restart_dialog_message_battery">Durata de viață a bateriei este optimizată după repornirea jocului</string>
+    <string name="game_mode_restart_dialog_message_battery">Durata de viață a acumulatorului este optimizată după repornirea jocului</string>
     <string name="game_mode_restart_dialog_message_performance">Când jocul repornește, performanța acestuia va fi optimizată</string>
     <string name="game_mode_restart_dialog_message_standard">Când jocul repornește, vor fi utilizate setările implicite</string>
     <string name="game_mode_restart_dialog_title">Doriți să reporniți acest joc?</string>
@@ -506,7 +506,7 @@ Vă rugăm să contactați organizația dacă aveți întrebări %2$s."</string>
     <string name="require_unlock_for_nfc">Deblocați pentru a utiliza NFC</string>
     <string name="reverse_charging_device_name_text">Un alt Pixel</string>
     <string name="reverse_charging_device_providing_charge_text">%1$s încarcă (%2$s)</string>
-    <string name="reverse_charging_low_battery_notification_content">Nivelul bateriei este mai mic de %1$s. Faceți clic pentru a afla mai multe.</string>
+    <string name="reverse_charging_low_battery_notification_content">Nivelul acumulatorului este mai mic de %1$s. Faceți clic pentru a afla mai multe.</string>
     <string name="reverse_charging_off_notification_content">Plasați al doilea dispozitiv direct pe Pixel. Faceți clic pentru a afla mai multe.</string>
     <string name="reverse_charging_off_notification_overheat_content">Pixel este prea fierbinte. Așteptați să se răcească și încercați din nou.</string>
     <string name="reverse_charging_off_notification_title">Al doilea dispozitiv nu se încarcă</string>

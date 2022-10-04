@@ -329,18 +329,18 @@ Puteți schimba această comandă rapidă într-o altă funcție din Setări &gt
      <string name="badPin">Codul PIN vechi introdus nu este corect.</string>
      <string name="badPuk">Codul PUK introdus nu este corect.</string>
     <string name="battery_saver_charged_notification_summary">Telefonul are suficientă energie. Funcțiile nu mai sunt restricționate.</string>
-    <string name="battery_saver_description">"Pentru a prelungi durata de viață a bateriei, Economisirea acumulatorului:
+    <string name="battery_saver_description">"Pentru a prelungi durata de viață a acumulatorului, Economisirea acumulatorului:
 
 •Activează Tema întunecată
 •Dezactivează sau restricționează activitatea de fundal, unele efecte vizuale și alte funcții precum „Hei Google”"</string>
-    <string name="battery_saver_description_with_learn_more">"Pentru a prelungi durata de viață a bateriei, Economisirea acumulatorului:
+    <string name="battery_saver_description_with_learn_more">"Pentru a prelungi durata de viață a acumulatorului, Economisirea acumulatorului:
 
 •Activează Tema întunecată
 •Dezactivează sau restricționează activitatea de fundal, unele efecte vizuale și alte funcții precum „Hei Google”
 
 "<annotation id="url">Aflați mai multe</annotation></string>
      <string name="battery_saver_notification_channel_name">Economisirea acumulatorului</string>
-    <string name="battery_saver_off_notification_title">Economisirea bateriei a fost dezactivată.</string>
+    <string name="battery_saver_off_notification_title">Economisirea acumulatorului a fost dezactivată.</string>
      <string name="beforeOneMonthDurationPast">Cu o lună înainte</string>
     <string name="biometric_app_setting_name">Utilizați date biometrice</string>
     <string name="biometric_dialog_default_subtitle">Folosiți un biometric pentru a continua</string>
@@ -1257,7 +1257,7 @@ Notificările îmbunătățite pot accesa conținutul notificărilor, inclusiv i
     <string name="permdesc_accessBackgroundLocation">Această aplicație poate accesa locația în orice moment, chiar dacă aplicația nu este utilizată.</string>
     <string name="permdesc_accessCoarseLocation">Această aplicație vă poate obține locația aproximativă din serviciile de localizare în timp ce aplicația este utilizată. Serviciile de localizare pentru dispozitivul dvs. trebuie să fie activate pentru ca aplicația să obțină locația.</string>
      <string name="permdesc_accessDrmCertificates">Permite aplicației să furnizeze și să utilizeze certificate DRM. Nu ar trebui să fie necesară pentru aplicaţiile obișnuite.</string>
-    <string name="permdesc_accessFineLocation">Această aplicație vă poate obține locația precisă din serviciile de localizare în timp ce aplicația este utilizată. Serviciile de localizare pentru dispozitivul dvs. trebuie să fie activate pentru ca aplicația să obțină locația. Acest lucru poate crește utilizarea bateriei.</string>
+    <string name="permdesc_accessFineLocation">Această aplicație vă poate obține locația precisă din serviciile de localizare în timp ce aplicația este utilizată. Serviciile de localizare pentru dispozitivul dvs. trebuie să fie activate pentru ca aplicația să obțină locația. Acest lucru poate crește utilizarea acumulatorului.</string>
      <string name="permdesc_accessImsCallService">Permite aplicației să utilizeze serviciul IMS pentru a efectua apeluri fără intervenția dumneavoastră.</string>
      <string name="permdesc_accessLocationExtraCommands">Permite aplicaţiei să acceseze comenzi suplimentare pentru furnizorul locaţiei. Aplicaţia ar putea să utilizeze această permisiune pentru a influenţa operaţiile GPS sau ale altor surse de localizare.</string>
      <string name="permdesc_accessNetworkConditions">Permite unei aplicații să asculte observații despre starea rețelei. Nu ar trebui să fie necesară pentru aplicațiile obișnuite.</string>
