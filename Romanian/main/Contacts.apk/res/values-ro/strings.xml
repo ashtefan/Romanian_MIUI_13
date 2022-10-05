@@ -60,8 +60,8 @@
     <string name="add_organization">Adăugaţi o organizaţie</string>
     <string name="add_to_my_contacts">Adăugaţi în Agendă</string>
     <string name="add_wait">Adăugaţi un interval de aşteptare</string>
-    <string name="add_xiaomi_account_dialog_btn">Utilizaţi contul Mi</string>
-    <string name="add_xiaomi_account_dialog_msg">Sincronizaţi contactele în contul Mi pentru a le accesa de oriunde.</string>
+    <string name="add_xiaomi_account_dialog_btn">Utilizaţi contul Xiaomi</string>
+    <string name="add_xiaomi_account_dialog_msg">Sincronizaţi contactele în contul Xiaomi pentru a le accesa de oriunde.</string>
     <string name="add_xiaomi_account_dialog_title">Selectaţi contul</string>
     <string name="afternoon">După amiază</string>
     <string name="aggregation_suggestion_edit_dialog_message">Comutaţi la funcţia de editare a contactului din agendă selectat? Informaţiile introduse până acum vor fi copiate.</string>
@@ -421,7 +421,8 @@
     <string name="calllog_menu_blacklist">Blocaţi</string>
     <string name="calllog_menu_edit_before_call">Editaţi</string>
     <string name="calllog_menu_send_sms">Trimiteţi un mesaj</string>
-    <string name="callrecordview_item_newcontact">Contact nou</string>
+    <string name="calllog_record_none_toast">Nu există înregistrări de apeluri de afișat</string>
+    <string name="calllog_record_searching_toast">Se caută înregistrări ale apelurilor…</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d min și %2$d sec</string>
     <string name="callrecordview_item_op_time_missed">Nu a răspuns</string>
     <string name="callrecordview_item_op_time_only_minutes">%d min</string>
@@ -991,7 +992,7 @@ Motivul: \"%s\""</string>
     <string name="import_to_xiaomi_account_progress_finish">Import finalizat</string>
     <string name="import_to_xiaomi_account_progress_message">Se importă…</string>
     <string name="import_to_xiaomi_account_progress_title">Importaţi contacte în contul Mi</string>
-    <string name="import_to_xiaomi_account_title">Importaţi în contul Mi</string>
+    <string name="import_to_xiaomi_account_title">Importaţi în contul Xiaomi</string>
     <string name="import_vcard_description">"Importaţi contacte din stocarea telefonului"</string>
     <string name="import_vcard_dialog_message">Importați vCard?</string>
     <string name="importing_sim_contacts_miui">Se importă contacte de pe cartela SIM…</string>
@@ -1002,6 +1003,12 @@ Motivul: \"%s\""</string>
     <string name="insertContactDescription">Creaţi un contact în agendă</string>
     <string name="insertGroupDescription">Creaţi un grup</string>
     <string name="invalidContactMessage">Contact inexistent</string>
+    <string name="invisible_mode_dialog_cancel">Renunțați</string>
+    <string name="invisible_mode_dialog_to_close">Dezactivați</string>
+    <string name="invisible_mode_title">Sunteți incognito</string>
+    <string name="invisible_mode_unable_connect_camera">Dezactivați modul Incognito pentru a putea folosi camera. Dezactivați acum?</string>
+    <string name="invisible_mode_unable_get_location">Dezactivați modul Incognito pentru a putea utiliza serviciile de localizare și pentru a importa contacte de pe alte dispozitive prin Bluetooth. Dezactivați acum?</string>
+    <string name="item_offical">Oficial</string>
     <string name="keep_local">Nu se sincronizează</string>
     <string name="keep_local_btn">Utilizaţi stocarea internă a telefonului</string>
     <string name="label_custom_type">Personalizat</string>
@@ -1037,6 +1044,9 @@ Motivul: \"%s\""</string>
     <string name="lunar_calendar">Calendar lunar</string>
     <string name="lunar_leap">Salt la lună</string>
     <string name="make_primary">Reţineţi această alegere</string>
+    <string name="manage_external_storage_dialog_message">Permiteți acestei aplicații să acceseze toate fișierele pentru a gestiona înregistrările apelurilor.</string>
+    <string name="manage_external_storage_dialog_positive">Setări</string>
+    <string name="manage_external_storage_dialog_title">Sunt necesare unele permisiuni</string>
     <string name="map_custom">Vizualizaţi adresa %s</string>
     <string name="map_home">Vizualizaţi adresa de domiciliu</string>
     <string name="map_other">Vizualizaţi adresa poştală</string>
@@ -1423,9 +1433,9 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="pref_key_sim_manage">Cartele SIM</string>
     <string name="pref_key_sim_manage1">Configuraţi cartela SIM1</string>
     <string name="pref_key_sim_manage2">Configuraţi cartela SIM2</string>
-    <string name="pref_summary_import_from_account">Importaţi contactele din conturile Google şi Exchange în contul dvs. Mi</string>
+    <string name="pref_summary_import_from_account">Importaţi contactele din conturile Google şi Exchange în contul dvs. Xiaomi</string>
     <string name="pref_title_account_import">Importați contacte</string>
-    <string name="pref_title_import_from_account">Importați în contul Mi</string>
+    <string name="pref_title_import_from_account">Importați în contul Xiaomi</string>
     <string name="preference_auto_ip_summary_disable">Dezactivat</string>
     <string name="preference_auto_ip_summary_on">Prefixul IP al operatorului: %s</string>
     <string name="preference_auto_ip_title">Prefix IP automat</string>

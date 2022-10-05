@@ -404,7 +404,8 @@
     <string name="is_playing">Rulează…</string>
     <string name="just_now">acum</string>
     <string name="kilobyteShort">KB</string>
-    <string name="kuaipan_label">Kuaipan</string>
+    <string name="lack_perm_msg">Managerul de fișiere necesită următoarele permisiuni pentru a funcționa normal: &lt;b>%s&lt;/b></string>
+    <string name="lack_perm_title">Sunt necesare unele permisiuni</string>
     <string name="launcher_icon_add_description">Adăugați o scurtătură pe Ecranul principal</string>
     <string name="launcher_icon_remove_description_content">Managerul de Fișiere este o aplicație de sistem. Nu veți putea gestiona fișierele de pe dispozitiv după ce ați eliminat comanda rapidă de pe ecranul de pornire.</string>
     <string name="launcher_icon_remove_description_title">Eliminați \"Managerul de Fișiere\" de pe Ecranul principal?</string>
@@ -430,6 +431,9 @@
     <string name="login_expired">Sesiunea a expirat. Conectați-vă din nou</string>
     <string name="login_failed_tip">"Nu s-a putut conecta; încercați din nou mai târziu"</string>
     <string name="login_success_tip">Conectat cu succes</string>
+    <string name="main_button_continue">Setări</string>
+    <string name="main_button_ok">OK</string>
+    <string name="main_button_quit">Renunțați</string>
     <string name="make_private">Ascundeți</string>
     <string name="make_private_msg_1">Ascundeți acest fișier?</string>
     <string name="make_private_msg_2">Ascundeți aceste fișiere?</string>
@@ -456,6 +460,7 @@
     <string name="message_praise_comment">" au apreciat acest comentariu"</string>
     <string name="message_praise_video">" au apreciat acest videoclip"</string>
     <string name="message_reply_prefix">Răspuns</string>
+    <string name="message_request_manage_external_storage_perm">Managerul de fișiere are nevoie de permisiunea de a accesa fișierele pentru a putea gestiona fișierele de pe dispozitiv. Puteți acorda această permisiune din Setări.</string>
     <string name="mi_router_label">Router</string>
     <string name="mi_share">Partajare Mi</string>
     <string name="midnight">Noapte</string>
@@ -703,6 +708,7 @@
     <string name="password_toggle_content_description">Afișează parola</string>
     <string name="path_name_email">E-mail</string>
     <string name="path_recent_file">Gestionați fișierele de pe telefon</string>
+    <string name="perm_manage_external_storage">Accesarea tuturor fișierelor</string>
     <string name="permission_denial">"Nu s-au putut accesa fișierele. Permiteți Exploratorului de fișiere să acceseze fișiere din Setări."</string>
     <string name="permission_description">Detalii permisiuni</string>
     <string name="permission_required">"Nu s-au putut accesa fișierele. Permiteți Exploratorului de fișiere să acceseze fișiere din Setări.​"</string>
@@ -1015,7 +1021,7 @@
     <string name="title_enable_documentsui">Activați DocumentsUI</string>
     <string name="title_expire_video">Expiră în curând</string>
     <string name="title_recent">Recent</string>
-    <string name="title_report_video">Raportați</string>
+    <string name="title_request_manage_external_storage_perm">Sunt necesare unele permisiuni</string>
     <string name="title_select_volume">Selectaţi dosarul</string>
     <string name="to_open">Setări</string>
     <string name="to_setting">Setări</string>

@@ -70,7 +70,7 @@
     <string name="app_clean_group_image_send">Imagini trimise</string>
     <string name="app_description_content">Aplicația Curățare găsește fișiere inutile din telefon și eliberează spațiul de stocare. Asigurați-vă că nu aveți nevoie de aceste caracteristici înainte de a dezinstala aplicația.</string>
     <string name="app_description_title">Despre aplicația Curățare</string>
-    <string name="app_name">blur</string>
+    <string name="app_name">JunkEngine</string>
     <string name="app_usage_never">Neutilizată recent</string>
     <string name="app_usage_recently">Utilizată recent</string>
     <string name="appcleaner_g_audio_summary_qq">Ștergeți definitiv mesajele vocale QQ</string>
@@ -224,6 +224,35 @@
     <string name="clip_board_history_desc">Conținutul copiat/tăiat</string>
     <string name="clipboard">Clipboard</string>
     <string name="close">Închideți</string>
+    <string name="columbus_ad_flag_text">RECLAME</string>
+    <string name="columbus_player_close_desc">Veți pierde recompensa</string>
+    <string name="columbus_player_close_resume">RELUARE VIDEOCLIP</string>
+    <string name="columbus_player_close_title">Închideți videoclipul?</string>
+    <string name="columbus_player_close_video">ÎNCHIDE VIDEOCLIPUL</string>
+    <string name="columbus_player_install_now">INSTALEAZĂ ACUM</string>
+    <string name="columbus_player_learn_more">Aflați mai multe</string>
+    <string name="columbus_player_speed_title">Omiteți videoclipul?</string>
+    <string name="columbus_player_speed_video">Sari peste VIDEOCLIP</string>
+    <string name="columbus_player_unit_sec">sec</string>
+    <string name="columbus_skip_ad">Omiteți</string>
+    <string name="common_google_play_services_enable_button">Activați</string>
+    <string name="common_google_play_services_enable_text">%1$s nu va funcționa decât dacă activați serviciile Google Play.</string>
+    <string name="common_google_play_services_enable_title">Activați serviciile Google Play</string>
+    <string name="common_google_play_services_install_button">Instalați</string>
+    <string name="common_google_play_services_install_text">%1$s nu va rula fără serviciile Google Play, care lipsesc de pe dispozitiv.</string>
+    <string name="common_google_play_services_install_title">Obțineți serviciile Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilitatea serviciilor Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Eroare la serviciile Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s are probleme cu serviciile Google Play. Vă rugăm să încercați din nou.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s nu va rula fără serviciile Google Play, care nu sunt acceptate de dispozitivul dvs.</string>
+    <string name="common_google_play_services_update_button">Actualizați</string>
+    <string name="common_google_play_services_update_text">%1$s nu va rula decât dacă actualizați serviciile Google Play.</string>
+    <string name="common_google_play_services_update_title">Actualizați serviciile Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s nu va rula fără serviciile Google Play, care se actualizează în prezent.</string>
+    <string name="common_google_play_services_wear_update_text">Este necesară o nouă versiune a serviciilor Google Play. Se vor actualiza în mod automat în scurt timp.</string>
+    <string name="common_open_on_phone">Deschideți pe telefon</string>
+    <string name="common_signin_button_text">Conectați-vă</string>
+    <string name="common_signin_button_text_long">Conectați-vă cu Google</string>
     <string name="confirm_auto_cleaner">OK</string>
     <string name="conn_of_function_safe">Conexiune la rețea</string>
     <string name="connecting">Conectare…</string>
@@ -466,6 +495,8 @@
     <string name="go_to">Continuă</string>
     <string name="golbal_wa_backend_alert_dialog_btn">Deschideți</string>
     <string name="goto_set">Setare</string>
+    <string name="gps_prompt_context">Descărcați utilizând datele mobile?</string>
+    <string name="gps_prompt_title">Sfaturi</string>
     <string name="grabage_rank_title">Curățat astăzi</string>
     <string name="guide_dc_dialog_message">"Aveți mai puțin de 2GB spațiu liber de stocare. Acest lucru v-ar putea încetini telefonul. Faceți o curățare profundă pentru a elibera spațiu de stocare."</string>
     <string name="guide_dc_dialog_message_new">Aveți mai puțin de %d GB spațiu liber de stocare. Acest lucru v-ar putea încetini telefonul. Faceți o curățare profundă pentru a elibera spațiu de stocare.</string>
@@ -726,7 +757,13 @@
     <string name="notification_wechat_clean_middle_level_text_b">Gunoiul WeChat încetinește aplicațiile</string>
     <string name="notification_whatsapp_clean_button_text">Goliți</string>
     <string name="notification_whatsapp_clean_size">Memoria cache WhatsApp a atins %s</string>
-    <string name="notify_when">Atenționează-mă când dimensiunea coșului de gunoi atinge 100 MB</string>
+    <string name="offline_notification_text">Atingeți pentru a deschide reclama</string>
+    <string name="offline_notification_title">Vizualizați reclama pe care ați salvat-o când erați offline</string>
+    <string name="offline_opt_in_confirm">OK</string>
+    <string name="offline_opt_in_confirmation">Veți primi o notificare cu linkul când veți reveni online</string>
+    <string name="offline_opt_in_decline">Nu, mulțumesc</string>
+    <string name="offline_opt_in_message">Vă vom trimite o notificare cu un link către site-ul agentului de publicitate.</string>
+    <string name="offline_opt_in_title">Deschideți reclama când sunteți din nou online.</string>
     <string name="ok">OK</string>
     <string name="one_tap_clean_GB">%s GB</string>
     <string name="one_tap_clean_M">%d MB</string>
@@ -832,9 +869,13 @@
     <string name="resutl_function_deep_clean_summary"><Data>&lt;font color=#ff0000 >%1$s&lt;/font> mai multe fișiere pot fi curățate. Eliberați mai mult spațiu.</Data></string>
     <string name="resutl_function_qq_clean_summary"><Data>Puteți goli &lt;font color=#ff0000 >%1$s&lt;/font> din memoria cache generate de QQ</Data></string>
     <string name="resutl_function_wechat_clean_summary"><Data>&lt;font color=#ff0000 >%1$s&lt;/font> din cache-ul WeChat. Eliberați mai mult spațiu.</Data></string>
-    <string name="rs_clean_size_free_space">Eliberați %s</string>
-    <string name="rs_clean_size_storage_size">Ocupat %1$s/%2$s</string>
-    <string name="rs_clean_size_storage_title">Stocare</string>
+    <string name="s1">Salvează imaginea</string>
+    <string name="s2">Permiteți reclamei să stocheze imaginea în Galerie?</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Refuz</string>
+    <string name="s5">Creați un eveniment în calendar</string>
+    <string name="s6">Permiteți anunțurilor să creeze un eveniment în calendar?</string>
+    <string name="s7">Testați Reclama</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>

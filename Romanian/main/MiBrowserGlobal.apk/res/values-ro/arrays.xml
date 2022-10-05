@@ -93,6 +93,20 @@
         <item>BBC</item>
         <item>http://www.bbc.co.uk/</item>
     </string-array>
+    <string-array name="bookshelf__general_shared__main_categories">
+        <item>Raftul cu cărți</item>
+        <item>Librarie</item>
+        <item>Raftul cu cărți</item>
+    </string-array>
+    <string-array name="exo_playback_speeds">
+        <item>0,25x</item>
+        <item>0,5x</item>
+        <item>0,75x</item>
+        <item>@string/exo_controls_playback_speed_normal</item>
+        <item>1,25x</item>
+        <item>1,5x</item>
+        <item>2x</item>
+    </string-array>
     <string-array name="google">
         <item>Google</item>
         <item>google.com</item>
@@ -268,6 +282,13 @@
         <item>UTF-8</item>
         <item>https://api.bing.com/osjson.aspx?query={searchTerms}&amp;market={language}</item>
     </string-array>
+    <string-array name="personal__language_name_arr">
+        <item>Engleză</item>
+        <item>Spaniolă (Spania)</item>
+        <item>Spaniolă (America)</item>
+        <item>Bahasa Indonesia</item>
+        <item>Filipineză</item>
+    </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>Înainte/Înapoi</item>
         <item>Comutare file</item>
@@ -302,6 +323,19 @@
         <item>Desktop</item>
         <item>iPhone</item>
         <item>iPad</item>
+    </string-array>
+    <string-array name="pref_web_permissions">
+        <item>Restricționați</item>
+        <item>Întreabă</item>
+        <item>Permiteți</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_one">
+        <item>Restricționați</item>
+        <item>Întreabă</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_two">
+        <item>Restricționați</item>
+        <item>Permiteți</item>
     </string-array>
     <string-array name="protection_name">
         <item>Auto</item>
