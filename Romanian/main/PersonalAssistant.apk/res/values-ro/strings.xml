@@ -1587,9 +1587,12 @@ Verificați numărul de urmărire."</string>
     <string name="pa_accessibility_picker_home_search">Căutați widgeturi</string>
     <string name="pa_accessibility_picker_home_smallBanner_slected">Selectat %1$s, rrândul %2$d, numărul %3$d. Atingeți de două ori pentru a începe.</string>
     <string name="pa_accessibility_picker_home_title">Adăugați un widget</string>
+    <string name="pa_accessibility_picker_home_widget_replace">Selectate %s. Se comută widget-urile.</string>
+    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">Widget: %s. Atingeți de două ori butonul de sub acesta pentru a-l înlocui cu un alt widget.</string>
     <string name="pa_accessibility_picker_home_widget_slected">Selectat %1$s, rândul %2$d, numărul %3$d. Atingeți de două ori pentru a vedea detaliile. Apăsați și mențineți apăsat pentru a muta elementul.</string>
     <string name="pa_accessibility_picker_home_widget_with_add_slected">Selectat %1$s, rândul %2$d, numărul %3$d. Atingeți de două ori pentru a vedea detaliile.</string>
     <string name="pa_accessibility_picker_search_cancel">Bara de căutare widgeturi. Apăsați de două ori pentru a anula.</string>
+    <string name="pa_accessibility_picker_search_clear">Goliți textul</string>
     <string name="pa_accessibility_picker_search_tips">Bara de căutare widgeturi. Apăsați de două ori pentru a căuta.</string>
     <string name="pa_accessibility_picker_suit_item_add_to_desktop">Magazinul de widgeturi. %s selectat. Bara de căutare widgeturi. Apăsați de două ori pentru a vedea detaliile.</string>
     <string name="pa_accessibility_picker_suit_item_add_to_minus_desktop">Magazinul de widgeturi. %s selectat. Bara de căutare widgeturi. Apăsați de două ori pentru a vedea detaliile.</string>
@@ -1871,7 +1874,7 @@ Rămâneţi aproape!"</string>
     <string name="pa_picker_list_app_widget_count">%s</string>
     <string name="pa_picker_list_load_complete">Atingeți pentru a încărca mai multe</string>
     <string name="pa_picker_list_load_end">Nu mai există articole de afișat</string>
-    <string name="pa_picker_list_load_failed">"Elementele nu au putut fi încărcate. Încercați din nou."</string>
+    <string name="pa_picker_list_load_failed">Elementele nu au putut fi încărcate. Încercați din nou.</string>
     <string name="pa_picker_list_loading">Doar o secundă…</string>
     <string name="pa_picker_list_recommend">Recomandate</string>
     <string name="pa_picker_loading">Doar o secundă…</string>
@@ -1882,6 +1885,7 @@ pentru a afișa widgeturi."</string>
     <string name="pa_picker_request">Setări</string>
     <string name="pa_picker_retry">Încercați din nou</string>
     <string name="pa_picker_search">Căutați</string>
+    <string name="pa_picker_search_card_filter_button_text">Toate widget-urile</string>
     <string name="pa_picker_search_card_header_accessibility_filter_icon">Filtru</string>
     <string name="pa_picker_search_card_more_all_applications">Mai multe aplicații</string>
     <string name="pa_picker_search_card_more_all_suits">Mai multe seturi de widget-uri</string>
@@ -1897,7 +1901,7 @@ pentru a afișa widgeturi."</string>
     <string name="pa_picker_suit_list_activity_title">Pachete de personalizare</string>
     <string name="pa_picker_tab_title_category">Categorii</string>
     <string name="pa_picker_tab_title_recommend">Recomandate</string>
-    <string name="pa_picker_tips_count_limit_forbidden">"Nu se pot adăuga mai multe widget-uri. Ștergeți widget-urile mai vechi pentru a adăuga altele noi."</string>
+    <string name="pa_picker_tips_count_limit_forbidden">Nu se pot adăuga mai multe widget-uri. Ștergeți widget-urile mai vechi pentru a adăuga altele noi.</string>
     <string name="pa_picker_toast_add_successfully">Adăugat cu succes</string>
     <string name="pa_picker_toast_count_limit_forbidden">"Nu se mai pot adăuga widget-uri"</string>
     <string name="pa_picker_toast_count_limit_forbidden_for_type">"Nu se pot adăuga mai multe widget-uri de acest tip"</string>
@@ -1931,6 +1935,7 @@ pentru a afișa widgeturi."</string>
     <string name="pa_setting_app_usage_auth_dialog_message">"Nu veți mai putea utiliza widgetul \"Sugestiile de aplicații\" după ce dezactivați această funcție. O dezactivați oricum?"</string>
     <string name="pa_setting_app_usage_auth_dialog_title">Atenție</string>
     <string name="pa_setting_bugreport">Feedback</string>
+    <string name="pa_setting_perm_empty">Nimic aici încă</string>
     <string name="pa_setting_privacy_auth">Permiteți analiza utilizării aplicației</string>
     <string name="pa_setting_privacy_auth_summary">"Veți primi sugestii bazate pe obiceiurile dvs. de utilizare"</string>
     <string name="pa_setting_privacy_category_perm">Permisiuni</string>

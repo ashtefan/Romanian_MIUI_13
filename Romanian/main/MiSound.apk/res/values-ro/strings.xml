@@ -72,7 +72,7 @@
     <string name="equalizer">Egalizator</string>
     <string name="expand_button_title">Avansat</string>
     <string name="first_note">Testați percepția auditivă pentru a regla corespunzător volumul.</string>
-    <string name="four_note">Testul va dura circa 3 minute.</string>
+    <string name="four_note">Testul va dura circa %d minute.</string>
     <string name="headset_use_long_time">Se pare că ați purtat căștile mai mult decât timpul maxim recomandat. Scoateți-le și faceți o pauză.</string>
     <string name="headset_use_loud_volume">Ați folosit căștile la volum ridicat pentru mult timp. Pentru a vă proteja auzul, acesta a fost coborât la nivelul recomandat.</string>
     <string name="headset_use_not_support_noise_reduction">Se pare că mediul dvs. actual este foarte zgomotos. Purtarea căștilor acum vă poate afecta auzul.</string>
@@ -123,7 +123,7 @@
     <string name="music_audio_effect_settings">Setări efecte</string>
     <string name="music_audio_visual_wake_lock">Păstrează ecranul pornit</string>
     <string name="music_audio_visual_wake_lock_summary">Nu opriți ecranul când sunt afișate efectele vizuale</string>
-    <string name="music_below_thirty_years">Până în 30 de ani</string>
+    <string name="music_below_thirty_years">Până în %d de ani</string>
     <string name="music_customized_sound_summary">Personalizați volumul în funcție de percepția auditivă</string>
     <string name="music_customized_sound_title">Ajustare volum</string>
     <string name="music_delete">Ștergeți</string>
@@ -220,10 +220,10 @@
     <string name="music_sound_num">Presetare personalizată %s</string>
     <string name="music_sound_sample">Presetări de sistem</string>
     <string name="music_sure_to_delete_sound_msg">Ștergeți presetările selectate acum?</string>
-    <string name="music_thirty_to_sixty_years">Între 30 și 60 de ani</string>
+    <string name="music_thirty_to_sixty_years" formatted="false">Între %d și %d ani</string>
     <string name="music_title_dolby_control">Dolby Digital Plus</string>
     <string name="music_unsupport_effect_summary">Căștile USB nu sunt acceptate</string>
-    <string name="music_upper_sixty_years">Mai mult de 60 de ani</string>
+    <string name="music_upper_sixty_years">Mai mult de %d de ani</string>
     <string name="name">Nume</string>
     <string name="not_set">Nesetat</string>
     <string name="not_support_sound_transmission_content">Această caracteristică nu este suportată de către dispozitivul conectat. Încercați cu alt dispozitiv Bluetooth.</string>

@@ -266,6 +266,7 @@
     <string name="common_google_play_services_updating_text">%1$s nu va rula fără serviciile Google Play, care momentan se actualizează.</string>
     <string name="common_google_play_services_wear_update_text">Este necesară o nouă versiune a serviciilor Google Play. Se vor actualiza automat în curând.</string>
     <string name="common_open_on_phone">Deschideți pe telefon</string>
+    <string name="common_retry_late_hint">Așteptați un minut sau două și încercați din nou</string>
     <string name="common_signin_button_text">Conectați-vă</string>
     <string name="common_signin_button_text_long">Conectați-vă cu Google</string>
     <string name="confirm_activate_email">Verificat</string>
@@ -287,6 +288,8 @@ Există o actualizare Mi Video.
 Actualizați aplicația acum pentru a evalua noile caracteristici!
 Echipa Mi Video"</string>
     <string name="description">Descriere</string>
+    <string name="desktop_widget_local_media">Fișiere media</string>
+    <string name="desktop_widget_new">Nou</string>
     <string name="detail_select_source">Selectați sursa de redare</string>
     <string name="diagnosis_log_send_failed">"Nu s-au putut trimite jurnalele. Încercați din nou."</string>
     <string name="diagnosis_log_sent_format">"Jurnale trimise cu succes.
@@ -307,6 +310,9 @@ Trimiteți acest cod supervizorului."</string>
     <string name="dialog_jumpto_choose">Nu arăta din nou</string>
     <string name="dialog_jumpto_content">Comutați la Mi Video pentru a accesa caracteristicile adiționale de redare?</string>
     <string name="dialog_jumpto_title">Mi Video</string>
+    <string name="dialog_look_offline_btn">Vizualizați conținut offline</string>
+    <string name="dialog_no_internet_des">Nu sunteți conectat la rețea. Vedeți în schimb conținut offline?</string>
+    <string name="dialog_open_internet_btn">Conectați-vă la rețea</string>
     <string name="dialog_privacy_change_info">Am actualizat Politica de confidențialitate Mi Video datorită modificărilor din serviciile pe care le oferim. Pentru a înțelege pe deplin drepturile dvs. ca utilizator, precum și modurile în care vă folosim datele, citiți și acceptați &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica noastră de confidențialitate&lt;/a> înainte de a utiliza această aplicație.</string>
     <string name="dialog_privacy_change_title">Actualizarea Politicii de Confidențialitate</string>
     <string name="dialog_privacy_info_new2">Pentru a putea utiliza serviciile sale, trebuie să fiți de acord că %1$s va colecta, procesa și utiliza informațiile dvs. personale. Se va considera că ați citit și sunteți de acord cu &lt;a href=%2$s&gt;Politica noastră de confidențialitate&lt;/a&gt; atunci când atingeți butonul \"De acord\" de mai jos.</string>
@@ -545,17 +551,31 @@ Trimiteți acest cod supervizorului."</string>
     <string name="galleryplus_gallery_video_save_video">Se crează videoclipul…</string>
     <string name="galleryplus_gallery_video_slow_edit">Mișcare lentă</string>
     <string name="galleryplus_gallery_view_tags">Afișează marcajele</string>
+    <string name="galleryplus_globalvideo_controller_go">Mergeți</string>
+    <string name="galleryplus_globalvideo_controller_hint">Consultați experiența de redare îmbunătățită a Mi Video</string>
+    <string name="galleryplus_globalvideo_controller_tip">Vedeți caracteristicile suplimentare</string>
     <string name="galleryplus_is_higher_definition">Previzualizare HD</string>
     <string name="galleryplus_network_connect_check">Nu s-a putut conecta la rețea</string>
     <string name="galleryplus_network_connect_confirm">Conectați-vă la Wi-Fi sau activați datele mobile din setările de rețea.</string>
     <string name="galleryplus_network_error">Nu s-a putut conecta la rețea</string>
     <string name="galleryplus_network_not_wifi">Utilizarea datelor mobile pentru a reda videoclipuri online poate genera taxe suplimentare de la operator</string>
+    <string name="galleryplus_next_step">Următorul</string>
     <string name="galleryplus_notification_linkvideo_subtitle1" formatted="false">Gestionați fișierele %$s Adăugați subtitrări %$s Proiectați videoclipuri %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle1_new">Utilizați imagine în imagine, redare în fundal, zoom, proiectare și multe altele %$s</string>
     <string name="galleryplus_notification_linkvideo_subtitle2">Protejați-vă videoclipurile private cu o parolă %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle2_new">Protejați prin parolă videoclipurile private și gestionați-vă fișierele %$s</string>
     <string name="galleryplus_notification_linkvideo_subtitle3">Descărcați videoclipuri de pe TikTok, Instagram și Twitter %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle3_new">Filme, videoclipuri muzicale și videoclipuri scurte de pe platformele tale preferate %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle4">Urmăriți drame populare, comedii și multe altele</string>
+    <string name="galleryplus_notification_linkvideo_subtitle5">Vizionați și abonați-vă la sport, animație, filme și multe altele</string>
     <string name="galleryplus_notification_linkvideo_title1">%$s Testați toate funcțiile Mi Video!</string>
     <string name="galleryplus_notification_linkvideo_title2">%$s Atingeți pentru a vă gestiona videoclipurile</string>
     <string name="galleryplus_notification_linkvideo_title3">%1$s Descărcați videoclipuri gratuit %2$s Gestionați fișierele</string>
+    <string name="galleryplus_notification_linkvideo_title3_new">%$s Descărcări rapide și gratuite</string>
+    <string name="galleryplus_notification_linkvideo_title4">Sute de videoclipuri, gratuite pentru un timp limitat</string>
+    <string name="galleryplus_notification_linkvideo_title5">Transmite gratuit emisiunile tale preferate</string>
+    <string name="galleryplus_notification_try_now_btn">Încercați acum</string>
+    <string name="galleryplus_notification_type_link_video">Se trece la videoclipurile locale</string>
     <string name="galleryplus_online_cta">Mi Video trebuie să se conecteze la internet pentru a funcționa în mod normal. Acceptați?</string>
     <string name="galleryplus_online_cta_agree">Accept</string>
     <string name="galleryplus_online_cta_disagree">Nu sunt de acord</string>
@@ -565,6 +585,8 @@ Trimiteți acest cod supervizorului."</string>
     <string name="galleryplus_orientation_unlock">Orientarea ecranului este deblocată</string>
     <string name="galleryplus_permission_content">Acordați Mi Video permisiunile necesare pentru a putea utiliza această caracteristică.</string>
     <string name="galleryplus_permission_content_opt">Mi Video are nevoie de unele permisiuni pentru a funcționa în mod normal. Ștergeți toate datele aplicației din Setări și deschideți din nou aplicația.</string>
+    <string name="galleryplus_permission_content_opt2">"Mi Video are nevoie de permisiuni pentru a funcționa normal. Ștergeți toate datele aplicației din Setări și deschideți din nou aplicația.
+Această operațiune nu va afecta fotografiile din galerie."</string>
     <string name="galleryplus_permission_content_xms">Mi Video are nevoie de unele permisiuni pentru a funcționa în mod normal. Mergeți la Setări și acordați Mi Video permisiunile necesare.</string>
     <string name="galleryplus_permission_open_settings">Setări</string>
     <string name="galleryplus_permission_refuse">Renunțați</string>
@@ -600,7 +622,9 @@ Trimiteți acest cod supervizorului."</string>
     <string name="galleryplus_talkback_btn_send">Trimiteți</string>
     <string name="galleryplus_talkback_btn_unfold_speed_view">Viteza de redare</string>
     <string name="galleryplus_talkback_btn_unmute">Cu sunet</string>
+    <string name="galleryplus_talkback_btn_volume_adjust">Volum</string>
     <string name="galleryplus_talkback_focused_speed">Selectat, %sX</string>
+    <string name="galleryplus_talkback_miplay_volume_change">Modificați volumul la %d</string>
     <string name="galleryplus_talkback_sound_track_item_ai_music">Coloană sonoră automată</string>
     <string name="galleryplus_talkback_sound_track_item_local_music">Coloană sonoră locală</string>
     <string name="galleryplus_talkback_sound_track_item_no_music">Fără coloană sonoră</string>
@@ -646,6 +670,52 @@ Trimiteți acest cod supervizorului."</string>
     <string name="i_know">OK</string>
     <string name="id_namespace">hungama</string>
     <string name="identity">Identificare</string>
+    <string name="incentive_details">Detalii</string>
+    <string name="incentive_dialog_cancel_not_interested">Nu, mulțumesc</string>
+    <string name="incentive_dialog_continue_to_watch">Continuați</string>
+    <string name="incentive_dialog_default_message">Urmăriți încă %1$s pentru a câștiga %2$s!</string>
+    <string name="incentive_dialog_default_title">Continuați să urmăriți?</string>
+    <string name="incentive_dialog_exit">Ieșiți</string>
+    <string name="incentive_dialog_negative_give_up">Nu, mulțumesc</string>
+    <string name="incentive_dialog_negative_play_next_video">Redați videoclipul următor</string>
+    <string name="incentive_dialog_ok_receive_task">Finalizați</string>
+    <string name="incentive_dialog_positive_get_credits">Revendicați puncte</string>
+    <string name="incentive_dialog_positive_login_and_get_credits">Conectați-vă</string>
+    <string name="incentive_exchange">Răscumpărați</string>
+    <string name="incentive_exchange_code">Cod</string>
+    <string name="incentive_exchange_code_copy">Copiați</string>
+    <string name="incentive_exchange_code_copy_and_start">Utilizați</string>
+    <string name="incentive_exchange_details">Detalii</string>
+    <string name="incentive_exchange_details_current">Total comandă</string>
+    <string name="incentive_exchange_details_dotask">Câștigați puncte</string>
+    <string name="incentive_exchange_details_total">Balanță</string>
+    <string name="incentive_exchange_empty_tip">Nimic aici încă. Valorificați puncte pentru a începe.</string>
+    <string name="incentive_exchange_expire_tip">Punctele nerevendicate vor dispărea la miezul nopții</string>
+    <string name="incentive_exchange_lack">Indisponibil</string>
+    <string name="incentive_exchange_successful">Răscumpărat cu succes</string>
+    <string name="incentive_exchange_tip">Aceste puncte sunt disponibile doar astăzi</string>
+    <string name="incentive_login_for_claim">Conectați-vă la contul dvs. Google pentru a revendica puncte</string>
+    <string name="incentive_login_success_for_already_claimd">Conectat cu succes. Puncte revendicate.</string>
+    <string name="incentive_login_tip">Conectați-vă pentru a câștiga puncte și a primi recompense</string>
+    <string name="incentive_my_points">Punctele mele</string>
+    <string name="incentive_popup_window_share">Distribuiți pentru a câștiga puncte</string>
+    <string name="incentive_popup_window_subscribe">Abonați-vă pentru a câștiga puncte</string>
+    <string name="incentive_rules_title_bar">Reguli</string>
+    <string name="incentive_tab_exchange_recore">Recompense</string>
+    <string name="incentive_tab_integral_task">Sarcini</string>
+    <string name="incentive_tab_points_details">Istoric</string>
+    <string name="incentive_tab_prize_redemption">Recompense</string>
+    <string name="incentive_task_login_receive">Conectați-vă</string>
+    <string name="incentive_task_receive">Obțineți</string>
+    <string name="incentive_task_title_daily">Sarcini zilnice</string>
+    <string name="incentive_task_title_novice">Pentru nou-veniți</string>
+    <string name="incentive_task_to_get">Începeți</string>
+    <string name="incentive_task_to_login">Conectați-vă</string>
+    <string name="incentive_toast_share_success_new">Partajat cu succes</string>
+    <string name="incentive_toast_subscribe_success_new">Abonat cu succes</string>
+    <string name="incentive_ui_tab_earn_credits">Puncte</string>
+    <string name="incentive_view_all_prizes">Vedeți toate recompensele</string>
+    <string name="incentive_view_details">Detalii</string>
     <string name="inconsistent_pwd">Parolele nu se potrivesc</string>
     <string name="init_channels">Restaurați setările implicite</string>
     <string name="input_email_address_notice">"Vom folosi această adresă de e-mail pentru a vă verifica contul"</string>
@@ -659,6 +729,9 @@ Trimiteți acest cod supervizorului."</string>
     <string name="item_card_open_in">"Deschideți în "</string>
     <string name="item_card_related">Conexe</string>
     <string name="item_setting_go_back">Retragerea consimțământului</string>
+    <string name="item_title_for_search_page_hot">Populare</string>
+    <string name="item_title_unknown">Titlu necunoscut</string>
+    <string name="item_view_role_description">Filă</string>
     <string name="just_a_second">Doar o secundă…</string>
     <string name="language_later_setting_tips">Puteți modifica preferințele pentru limbă din Profil > Limbă.</string>
     <string name="language_select_tips">"Selectați limba preferată
@@ -674,12 +747,16 @@ pentru videoclipuri"</string>
     <string name="live_title">TV Live</string>
     <string name="live_tv_title">TV Live</string>
     <string name="loading">Doar o secundă…</string>
+    <string name="local_adjust_zoom_mode_hint">Urmăriți %s</string>
+    <string name="local_crop_zoom_mode">Imaginea este decupată</string>
+    <string name="local_diversion_all_local_videos">Toate videoclipurile de pe dispozitiv</string>
     <string name="local_diversion_close_recommend">Închideți</string>
     <string name="local_diversion_download_more_video">Mai multe videoclipuri</string>
     <string name="local_diversion_manage_local_video">Gestionați fișierele</string>
     <string name="local_diversion_open_mivideo">"Vedeți în Mi Video
 pentru cea mai bună experiență de vizualizare"</string>
     <string name="local_diversion_recommend_title">Populare</string>
+    <string name="local_diversion_view_more">Vizualizați</string>
     <string name="local_empty_guide">Videoclipurile pe care le filmați vor apărea aici</string>
     <string name="local_play_tip">Se redă videoclipul local</string>
     <string name="local_push_setting_power_tag">Notificări despre videoclipurile locale</string>
@@ -842,6 +919,7 @@ pentru cea mai bună experiență de vizualizare"</string>
     <string name="mediation_ad">RECLAMĂ</string>
     <string name="mediation_ad_can_not_share">Nu se poate partaja acest videoclip</string>
     <string name="mi_video">Mi Video</string>
+    <string name="mi_video_pip_mode">Imagine-în-imagine</string>
     <string name="midnight">Noapte</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
@@ -959,6 +1037,7 @@ pentru cea mai bună experiență de vizualizare"</string>
     <string name="nick_name">Pseudonim</string>
     <string name="night">Seară</string>
     <string name="no_account">Neconectat</string>
+    <string name="no_app_found_error">Nu s-a putut găsi aplicația</string>
     <string name="no_history">Niciun element aici</string>
     <string name="no_longer_prompt">Nu arăta din nou</string>
     <string name="no_more_content">Asta e tot pentru acum</string>
@@ -986,6 +1065,7 @@ pentru cea mai bună experiență de vizualizare"</string>
     <string name="notification_recall_desc">Mi Video vă poate notifica despre videoclipurile populare și despre abonările dvs.</string>
     <string name="notification_recall_title">Activați notificările</string>
     <string name="notification_tool">Cutia cu instrumente</string>
+    <string name="notification_type_channel_music">Redare muzică</string>
     <string name="notify_apk_installed">Descărcată cu succes</string>
     <string name="offline_notification_text">Atingeți pentru a deschide reclama</string>
     <string name="offline_notification_title">Vizualizați anunțul pe care l-ați salvat când erați offline</string>
@@ -995,7 +1075,11 @@ pentru cea mai bună experiență de vizualizare"</string>
     <string name="offline_opt_in_message">"Vă vom trimite o notificare cu un link către site-ul agentului de publicitate."</string>
     <string name="offline_opt_in_title">"Deschideți anunțul când sunteți din nou online."</string>
     <string name="ok">OK</string>
-    <string name="on_tip_firework_recommend">Veți primi recomandări personalizate de conținut de la Firework</string>
+    <string name="online_play_start_loading_tip">Doar o secundă…</string>
+    <string name="online_play_start_ready_loading_tip_b">Se încarcă %.2f B/s</string>
+    <string name="online_play_start_ready_loading_tip_kb">Se încarcă %.2f KB/s</string>
+    <string name="online_play_start_ready_loading_tip_mb">Se încarcă %.2f MB/s</string>
+    <string name="online_play_title">Introduceți URL-ul</string>
     <string name="open_settings">Mergeți la Setări</string>
     <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Abonări recente</string>
@@ -1350,10 +1434,12 @@ Spori securitatea contului dvs."</string>
     <string name="popup_pip_not_activated">Permiteți mai întâi Mi Video pentru a utiliza imagine-în-imagine.</string>
     <string name="privacy_revoke_setting">Dezactivând comutatorul, vă retrageți consimțământul pentru politica de confidențialitate a aplicației Mi Video.</string>
     <string name="privacy_revoke_title">Retragerea consimțământului</string>
+    <string name="privatestr">MIIBSw</string>
     <string name="pro_prize_popup_style_one">Eliminați reclamele pentru %s</string>
     <string name="pro_prize_popup_style_two">Deblocați mai multe caracteristici pentru %s</string>
     <string name="psw_hint">Parolă</string>
     <string name="psw_sign_in">Conectați-vă utilizând parola</string>
+    <string name="publicstr">MIIBtz</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Glisați în sus pentru a reîmprospăta…</string>
     <string name="pull_to_refresh_from_bottom_refreshing_label">Doar o secundă…</string>
     <string name="pull_to_refresh_from_bottom_release_label">Eliberați pentru a reîmprospăta…</string>
@@ -1505,6 +1591,12 @@ Verificați alte videoclipuri!"</string>
     <string name="sign_in_title">Conectați-vă cu contul dvs. Mi</string>
     <string name="slid_fail_message">Nu s-a putut salva</string>
     <string name="slide_save_message">Se generează videoclipul…</string>
+    <string name="small_video_cancel_button">Renunțați</string>
+    <string name="small_video_download_button">Descărcați</string>
+    <string name="small_video_load_more_hint">Glisați în sus pentru a reda mai multe videoclipuri</string>
+    <string name="small_video_snack_download_description">Descărcați SnackVideo pentru a vedea cele mai recente videoclipuri de la creatorii tăi preferați.</string>
+    <string name="small_video_snack_download_title">SnackVideo</string>
+    <string name="small_video_tab_expose_hint">Atingeți pentru mai multe videoclipuri scurte</string>
     <string name="sms_send_success">Trimis cu succes</string>
     <string name="sns_access_token_expired_warning">Sesiunea a expirat. Conectați-vă din nou pentru a reconecta acest cont.</string>
     <string name="sns_bind_limit">Prea multe încercări. Încercați alte metode de conectare.</string>
@@ -1670,10 +1762,21 @@ Verificați alte videoclipuri!"</string>
     <string name="time_picker_dialog_title">Setați ora</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
-    <string name="tip_auth_again">Deoarece nu ați fost de acord anterior cu termenii politicii de confidențialitate corespunzătoare a furnizorului de conținut terță parte, nu putem afișa conținut video în Moments. Atingeți butonul de mai jos pentru a accepta Politica de confidențialitate și pentru a accesa această funcție.</string>
-    <string name="tip_author_click">Atingeți pentru a vedea mai multe videoclipuri de la acest cont</string>
-    <string name="tip_pop"><Data>Conținutul din momente este furnizat de Firework. Pentru a vă îmbunătăți experiența de vizionare și a primi recomandări de conținut mai relevante, permiteți Firework să colecteze, să proceseze și să utilizeze informațiile dvs. personale în conformitate cu politica sa de confidențialitate. Citiți și acceptați &lt;a href=\"%1$s\">Politica de Confidențialitate Firework&lt;/a> înainte de a utiliza serviciile sale.</Data></string>
-    <string name="tip_topic_click">Atingeți pentru a găsi mai multe videoclipuri pe acest topic</string>
+    <string name="tip_content_or">SAU</string>
+    <string name="tip_download_video_to_save_here">%d. Videoclipul va fi salvat în Descărcări.</string>
+    <string name="tip_enter_the_website">%d. Deschideți un site web sau o aplicație</string>
+    <string name="tip_local_long_press_for_manager">Apăsați lung pentru a gestiona videoclipurile</string>
+    <string name="tip_local_long_press_for_manager_folder">Apăsați lung pentru a gestiona dosarele</string>
+    <string name="tip_local_manager_here">Gestionați-vă fișierele aici</string>
+    <string name="tip_login_for_your_online_playlist">Conectați-vă pentru a vedea listele dvs. de redare.</string>
+    <string name="tip_play_a_video">%d. Redați un videoclip</string>
+    <string name="tip_playlist_guide_hint_a">Vizualizați videoclipuri din listele dvs. de redare Google</string>
+    <string name="tip_playlist_guide_hint_b">Redați videoclipuri din listele dvs. de redare YouTube fără anunțuri</string>
+    <string name="tip_storage_used_space" formatted="false">Ați utilizat %.2f GB/%.2f GB</string>
+    <string name="tip_subscribe_guide_hint_a">Vedeți creatorii din abonamentele dvs. Google</string>
+    <string name="tip_subscribe_guide_hint_b">Urmăriți actualizări de la canalele YouTube la care sunteți abonat, fără anunțuri</string>
+    <string name="tip_tap_download_button">%d. Apăsați \"Descărcări\"</string>
+    <string name="title_bookmarks">Semne de carte</string>
     <string name="title_firework_recommend">Recomandări Firework</string>
     <string name="title_publisher">Creatori</string>
     <string name="title_subscribe">Abonamente</string>
@@ -1684,7 +1787,17 @@ Verificați alte videoclipuri!"</string>
     <string name="toast_bookmark_success_to_add">Semn de carte adăugat</string>
     <string name="toast_bookmark_success_to_delete">Semn de carte șters</string>
     <string name="toast_bookmark_url_error">Introduceți un URL valid</string>
-    <string name="toast_no_data">Acest element nu este disponibil acum. Reveniți mai târziu.</string>
+    <string name="toast_fail_to_delete">Nu s-a putut șterge. Încercați din nou.</string>
+    <string name="toast_fail_to_rename">Nu s-a putut redenumi. Încercați din nou.</string>
+    <string name="toast_incentive_claim_fail_11">Nu am putut revendica punctele. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="toast_incentive_claim_out_of_limit_2004">Nu se pot câștiga mai multe puncte astăzi. Contactați-ne dacă aveți întrebări.</string>
+    <string name="toast_incentive_redeem_fail_not_enough_points_2003">Nu aveți destule puncte</string>
+    <string name="toast_incentive_redeem_fail_out_of_limit_2004">Nu se poate răscumpăra această recompensă astăzi</string>
+    <string name="toast_incentive_redeem_fail_prize_expired_2005">Această recompensă nu este disponibilă</string>
+    <string name="toast_incentive_redeem_fail_prize_expired_error">Nu s-a putut răscumpăra. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="toast_incentive_redeem_fail_short_of_storage_2002">Această recompensă este momentan indisponibilă. Încercați mai târziu.</string>
+    <string name="toast_m3u8_download_path_tip">Nu se poate modifica calea de descărcare pentru conținut în format m3u8</string>
+    <string name="toast_play_error_tip">Nu se poate reda acest fișier</string>
     <string name="toast_request_too_frequently">Nu așa de repede!</string>
     <string name="toast_share_failed">"Nu s-a putut partaja. Așteptați un minut sau două și încercați din nou."</string>
     <string name="today">Astăzi</string>
@@ -1693,7 +1806,7 @@ Verificați alte videoclipuri!"</string>
     <string name="tool_bar_notification_setting_title">Bara de instrumente în Perdeaua de notificări</string>
     <string name="top_bar_game_desc">Descoperiți o mulțime de jocuri noi aici</string>
     <string name="top_bar_game_title">Canal jocuri</string>
-    <string name="trending_scroll_load_more">Glisați în sus pentru mai multe videoclipuri</string>
+    <string name="trending_history_continue_watching">Continuați să vizualizați</string>
     <string name="tuesday">Marți</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Ma</string>
@@ -1810,6 +1923,12 @@ Verificați alte videoclipuri!"</string>
     <string name="wednesday">Miercuri</string>
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mi</string>
+    <string name="widget_local_video">Videoclipuri locale</string>
+    <string name="widget_local_video_click">Atingeți pentru a viziona videoclipurile stocate pe dispozitivul dvs.</string>
+    <string name="widget_more_channel">Mai multe canale</string>
+    <string name="widget_more_channel_click">Atingeți pentru a vedea canalele TV</string>
+    <string name="widget_trending_click">Atingeți pentru a vedea cele mai populare videoclipuri de astăzi</string>
+    <string name="widget_trending_today">Populare azi</string>
     <string name="xiaomi_update_sdk_bytes_unit">%1$s B</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Conectarea Managerului de descărcări a eșuat, vă rugăm verificați starea Managerului de descărcări în Gestionarea aplicațiilor.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Vă prezentăm versiunea %1$s
@@ -1822,6 +1941,7 @@ Dimensiunea actualizării delta: %2$s"</string>
     <string name="xiaomi_update_sdk_megabytes_unit">%1$s MB</string>
     <string name="year">an</string>
     <string name="yesterday">Ieri</string>
+    <string name="yt_subscription_notification_setting_title">Notificări de abonament</string>
     <string name="ytb_account">Conturi</string>
     <string name="ytb_author_video">Videoclipuri</string>
     <string name="ytb_login">Conectați-vă</string>

@@ -1256,6 +1256,7 @@ Aruncați o privire peste recomandări!"</string>
     <string name="status_unread">Necitit</string>
     <string name="stick">Fixaţi</string>
     <string name="stick_conversation">Fixaţi conversaţia actuală</string>
+    <string name="sticked">Fixat cu succes</string>
     <string name="sticked_conversation">Conversație fixată deja</string>
     <string name="storage_dialog_attachments">Ataşamente MMS:</string>
     <string name="storage_dialog_available_space">Spaţiu disponibil:</string>
@@ -1402,6 +1403,7 @@ Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să
     <string name="unknown_sender">Expeditor necunoscut</string>
     <string name="unstick">Anulați fixarea</string>
     <string name="unstick_conversation">Anulați fixarea conversaţiei actuale</string>
+    <string name="unsticked">S-a anulat fixarea cu succes</string>
     <string name="unsticked_conversation">Conversație eliberată deja</string>
     <string name="unsubscribe">Dezabonați-vă</string>
     <string name="unsupported_media_format">Format %1$s neacceptat.</string>

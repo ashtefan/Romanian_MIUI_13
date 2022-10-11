@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Partajați prin</string>
     <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="access_denied_info">Prea multe incercari. Așteptați un minut sau două și încercați din nou.</string>
     <string name="action_collapse">Ascunde</string>
     <string name="action_expand">Afișează mai multe</string>
     <string name="action_folder_description">Vedeți dosarele</string>
@@ -353,6 +354,8 @@
     <string name="info_note_enter_desktop">Adăugată pe desktop</string>
     <string name="item_view_role_description">Filă</string>
     <string name="last_excerpt_unfinish_hint">Ultimul fragment este incomplet</string>
+    <string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API bazat pe SQLCipher</string>
+    <string name="library_android_database_sqlcipher_libraryName">SQLCipher pentru Android</string>
     <string name="loading_text">Doar o secundă…</string>
     <string name="login_sync">Conectare şi sincronizare</string>
     <string name="lunar_day">Lunar %1$s</string>
@@ -564,6 +567,8 @@
     <string name="mtrl_picker_toggle_to_day_selection">Atingeți pentru a comuta la selectarea unei zile</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Comutați la modul de introducere text</string>
     <string name="mtrl_picker_toggle_to_year_selection">Atingeți pentru a comuta la selectarea unui an</string>
+    <string name="network_error_info">A apărut o eroare de rețea. Verificați setările de rețea și încercați din nou.</string>
+    <string name="network_timeout_info">Nu s-a putut conecta la rețea. Încercați din nou.</string>
     <string name="new_app_name">Notițe Mi</string>
     <string name="new_audio_create_cancel_talkback_des">Anulată</string>
     <string name="new_audio_create_done_talkback_des">Creată</string>
@@ -695,6 +700,7 @@
     <string name="privacy_note_content_empty">Nu există elemente aici.</string>
     <string name="private_entry_available">Eliberați pentru a deschide dosarul privat</string>
     <string name="private_entry_default">Glisați în jos pentru a deschide dosarul privat</string>
+    <string name="progressbar_title">Se verifică problemele de securitate…</string>
     <string name="quick_note_link_default_text">URL</string>
     <string name="quick_note_new_user_guide">Notele rapide vă permit să creați note și extrase</string>
     <string name="recover_notes_hint">A apărut o eroare; recuperați notițele accesând i.mi.com</string>
@@ -823,6 +829,7 @@
     <string name="sync_note_folder">%1$s și %2$s</string>
     <string name="sync_note_todo">%1$s și %2$s</string>
     <string name="sync_tips">Apăsați pentru a sincroniza notele în cloud.</string>
+    <string name="system_error_info">Sistemul este ocupat. Așteptați un minut sau două și încercați din nou.</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversarea ridicării Legii Marțiale</string>
     <string name="the_anti_aggression_day">Ziua anti-agresiune</string>
     <string name="the_arbor_day">Ziua Copacului</string>
@@ -999,6 +1006,7 @@ Permiteți aplicației Note să înregistreze sunete."</string>
     <string name="tuesday_shortest">Ma</string>
     <string name="unclassfied_folder_name">Necategorisit</string>
     <string name="undo">Anulaţi</string>
+    <string name="unknown_error_info">Eroare necunoscută</string>
     <string name="unknown_source">Sursă necunoscută</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>

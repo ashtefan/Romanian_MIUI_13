@@ -135,6 +135,7 @@ Atingeți pentru a vedea"</string>
     <string name="hint_volume_down">Volum redus</string>
     <string name="hint_volume_up">Volum crescut</string>
     <string name="home_title_none">Selectați elementele</string>
+    <string name="invisible_mode_error_tip">Sunteți în modul Incognito. Nu se pot înregistra sunete audio.</string>
     <string name="is_checked">Selectat</string>
     <string name="is_go_home">Reveniți la Înregistrarea ecranului</string>
     <string name="is_go_home_summary">"Deschideți pagina de pornire a Înregistrării ecranului după ce opriți înregistrarea"</string>
