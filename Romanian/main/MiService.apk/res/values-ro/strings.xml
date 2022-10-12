@@ -112,7 +112,7 @@
     <string name="miservice_notification_open_feedback_title">Vă prezentăm aplicația \"Servicii și feedback\"</string>
     <string name="miservice_notification_scan_content">Utilizați aplicația Scaner pentru a traduce cuvinte și fraze</string>
     <string name="miservice_notification_scan_title">Traduceți într-o clipă</string>
-    <string name="miui_feedback_answer_detail_community">Puteți găsi răpunsuri la întrebările dvs. în Comunitatea Mi</string>
+    <string name="miui_feedback_answer_detail_community">Puteți găsi răpunsuri la întrebările dvs. în Comunitatea Xiaomi</string>
     <string name="miui_feedback_answer_detail_feedback_resolved">Da</string>
     <string name="miui_feedback_answer_detail_feedback_result">Vă mulțumim pentru feedback!</string>
     <string name="miui_feedback_answer_detail_feedback_title">V-a fost utilă această informație?</string>
@@ -318,7 +318,7 @@
     <string name="permission_china_version_msg"><Data>Înainte de a utiliza aplicația \"Servicii și feedback\", trebuie să citiți și să acceptați &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica noastră de Confidențialitate&lt;/a>. Această aplicație trebuie de asemenea să se conecteze la internet pentru a funcționa în mod normal.</Data></string>
     <string name="permission_complete">Finalizat</string>
     <string name="permission_contacts_info">Acces la informațiile despre cont</string>
-    <string name="permission_contacts_introduce">Pentru conectarea utilizând Contul Mi</string>
+    <string name="permission_contacts_introduce">Pentru conectarea utilizând Contul Xiaomi</string>
     <string name="permission_device_info">Acces la informațiile despre dispozitiv</string>
     <string name="permission_device_introduce">Pentru determinarea perioadei limitate de garanție</string>
     <string name="permission_exit">Ieșiți</string>

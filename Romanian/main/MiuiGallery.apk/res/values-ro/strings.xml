@@ -228,7 +228,7 @@
     <string name="asus_phone">Asus</string>
     <string name="authorize_to_device_failed">Nu s-a putut autoriza</string>
     <string name="authorize_watch_on_tv_failed">Nu s-a putut autoriza vizualizarea pe TV</string>
-    <string name="auto_backup_introduce">Sincronizare automată fotografii și videoclipuri (este necesar un cont Mi)</string>
+    <string name="auto_backup_introduce">Sincronizare automată fotografii și videoclipuri (este necesar un cont Xiaomi)</string>
     <string name="auto_download_media_title">Descărcați în mod automat</string>
     <string name="auto_download_title">Selectați calitatea imaginii</string>
     <string name="auto_update_face">Adăugați fotografii în mod automat</string>
@@ -240,6 +240,7 @@
     <string name="auto_upload_disable_tip">Sincronizarea în cloud este dezactivată</string>
     <string name="auto_upload_disable_toast_long_press_menu">Sincronizarea în cloud este dezactivată</string>
     <string name="auto_upload_enable_toast_long_press_menu">Sincronizarea în cloud este activată</string>
+    <string name="autocrop_enter">Xiaomi ProCut</string>
     <string name="baby_album">Albumele copiilor</string>
     <string name="baby_album_change_background">Modificați imaginea de fundal</string>
     <string name="baby_album_needs_auto_backup_tip">Nu se poate dezactiva sincronizarea automată a albumului copilului</string>
@@ -466,7 +467,7 @@
     <string name="cloud_action_open">Activați</string>
     <string name="cloud_action_upgrade">Actualizați</string>
     <string name="cloud_action_view">Vedeți</string>
-    <string name="cloud_authorize_to_share_to_device">Autorizați vizualizarea elementelor pe televizoarele asociate contului dvs Mi</string>
+    <string name="cloud_authorize_to_share_to_device">Autorizați vizualizarea elementelor pe televizoarele asociate contului dvs Xiaomi</string>
     <string name="cloud_authorizing_to_device">Se autorizează…</string>
     <string name="cloud_backup_enable_title">Sincronizați</string>
     <string name="cloud_backup_open_button">Activați</string>
@@ -595,6 +596,7 @@
     <string name="default_relation_name">Grup nou</string>
     <string name="define_by_user">Personalizat</string>
     <string name="delete">Ştergeţi</string>
+    <string name="delete_account_message">Aplicația Galerie trebuie să golească memoria cache a aplicației, deoarece v-ați deconectat de la contul Xiaomi.</string>
     <string name="delete_album_failed">Nu s-a putut șterge albumul.</string>
     <string name="delete_album_msg_format">Ștergeți \"%2$s\" album %1$s %3$s?</string>
     <string name="delete_album_msg_format_cloud">Ștergeți %1$s %2$s din Xiaomi Cloud și de pe toate dispozitivele sincronizate?</string>
@@ -637,11 +639,13 @@
     <string name="document_provider_guide_step_3">%d. Atingeți butonul de meniu lateral.</string>
     <string name="document_provider_guide_step_4">%d. Selectați \"Card SD\".</string>
     <string name="document_provider_guide_step_5">%d. Atingeți \"Selectare\".</string>
+    <string name="dolby_vision_icon">Pictograma Dolby Vision</string>
     <string name="doodle_paint_select_heavy_talkback">Gros</string>
     <string name="doodle_paint_select_light_talkback">Subţire</string>
     <string name="doodle_paint_select_medium_talkback">Obișnuit</string>
     <string name="doodle_paint_select_talkback">Lățimea cursei</string>
     <string name="double_tap_for_hr_preview_108m">Atingeți din nou de 2 ori pentru a comuta la previzualizarea 108 MP</string>
+    <string name="double_tap_for_hr_preview_200m">Atingeți din nou de 2 ori pentru a comuta la previzualizarea 200 MP</string>
     <string name="double_tap_to_higher_definition">Atingeți din nou de 2 ori pentru a deschide previzualizarea HD</string>
     <string name="download_canceled">Descărcarea a fost întreruptă</string>
     <string name="download_error_format">"Nu s-a putut descărca %s"</string>
@@ -723,7 +727,7 @@
     <string name="error_external_sdcard_write_action">Schimbați spațiul de stocare</string>
     <string name="error_external_sdcard_write_msg">Mergeți la Setări-Stocare, schimbați spațiul de stocare și reîncercați.</string>
     <string name="error_external_sdcard_write_tip">"Nu s-au putut salva elementele pe cardul SD."</string>
-    <string name="error_forbidden">Sincronizarea a fost dezactivată datorită unor probleme legate de contul dvs. Mi.</string>
+    <string name="error_forbidden">Sincronizarea a fost dezactivată datorită unor probleme legate de contul dvs. Xiaomi.</string>
     <string name="error_install_connect_fail">"Nu s-a putut încărca extensia. Verificați conexiunea la rețea."</string>
     <string name="error_install_sdcard_not_available">"Nu s-a putut încărca extensia datorită unei erori a cardului SD."</string>
     <string name="error_install_storage_not_enough">Eliberați spațiu de pe telefon pentru a încărca extensia.</string>
@@ -734,8 +738,8 @@
     <string name="error_network_restrict_msg">Permiteți Galeriei să se conecteze la rețea.</string>
     <string name="error_network_restrict_tip">"Nu se poate conecta la rețea."</string>
     <string name="error_no_account_action">Conectare</string>
-    <string name="error_no_account_msg">Conectați-vă la contul Mi și încercați din nou.</string>
-    <string name="error_no_account_tip">Conectați-vă la contul Mi</string>
+    <string name="error_no_account_msg">Conectați-vă la contul Xiaomi și încercați din nou.</string>
+    <string name="error_no_account_tip">Conectați-vă la contul Xiaomi</string>
     <string name="error_no_cta_permission_action">Permiteți</string>
     <string name="error_no_cta_permission_msg">Accesul la rețea este restricționat.</string>
     <string name="error_no_cta_permission_tip">Accesul la rețea este restricționat</string>
@@ -821,6 +825,10 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="feature_guidance_photo_effects">"Sunt disponibile noi
 efecte pentru fotografii"</string>
     <string name="feature_guidance_video_editor_smart_effects">Sunt disponibile noi efecte</string>
+    <string name="feedback_my_reports">Feedback</string>
+    <string name="feedback_problem">Raportați o problemă</string>
+    <string name="feedback_suggest">Trimiteți o sugestie</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">"Nu se poate tipări acest element."</string>
     <string name="file_cannot_screen_throw">"Nu se poate proiecta acest element."</string>
     <string name="file_sending">Se transferă fișierele…</string>
@@ -1108,7 +1116,7 @@ efecte pentru fotografii"</string>
     <string name="functions_are_being_developed">Această funcție va fi disponibilă în curând. Țineți aproape!</string>
     <string name="gallery_setting">Setări</string>
     <string name="gallery_sync_disable_toast">Sincronizarea fotografiilor din Galeria este dezactivată</string>
-    <string name="generate_story_summary">Faceți destule fotografii, conectați încărcătorul și opriți ecranul pentru a face să apară albumul cu amintiri</string>
+    <string name="generate_story_summary">Faceți destule fotografii, conectați încărcătorul și opriți ecranul pentru a face să apară albumul cu amintiri. Amintirile deja generate nu vor dispărea dacă dezactivați această funcție.</string>
     <string name="generate_story_title">Amintiri</string>
     <string name="get_album_info_in_process">Obţinere informaţii album…</string>
     <string name="gif_tip">GIF</string>
@@ -1164,6 +1172,7 @@ efecte pentru fotografii"</string>
     <string name="homepage_allphotos_tip_dialog_title">Ce imagini doriți să vedeți în fila \"Fotografii\"?</string>
     <string name="how_to_set_relation">Apăsați și mențineți apăsat un album pentru a crea un grup</string>
     <string name="hr_preview_108m">S-a comutat la previzualizarea 108 MP</string>
+    <string name="hr_preview_200m">S-a comutat la previzualizarea 200 MP</string>
     <string name="hybrid_check_network">Setări reţea</string>
     <string name="hybrid_data_error">A apărut o eroare</string>
     <string name="hybrid_locating_fail">Nu s-a putut găsi locația dvs.</string>
@@ -1209,6 +1218,10 @@ efecte pentru fotografii"</string>
     <string name="input_or_select_a_name">Introduceți sau selectați un nume</string>
     <string name="input_relation_name">Introduceți numele grupului</string>
     <string name="install_fail">"Nu s-a putut încărca extensia datorită unei erori apărute."</string>
+    <string name="install_media_editor_download_description">Se descarcă…</string>
+    <string name="install_media_editor_download_title">Se descarcă extensia Editor Galerie…</string>
+    <string name="install_media_editor_function_message">Descărcați cea mai recentă versiune a Editorului Galerie pentru a o putea utiliza \"%1$s\".</string>
+    <string name="install_media_editor_latest_message">Pentru a putea edita articole, descărcați mai întâi cea mai recentă extensie.</string>
     <string name="install_media_editor_message">Pentru a putea edita articole, descărcați mai întâi extensia. Descărcați acum?</string>
     <string name="install_media_editor_title">Descărcați extensia</string>
     <string name="internal_storage_device">Stocarea internă</string>
@@ -1262,7 +1275,7 @@ efecte pentru fotografii"</string>
     <string name="loading_video_fail_sync_without_network">Conectați-vă la rețea pentru a descărca datele</string>
     <string name="loading_video_fail_syncing">Așteptați până când datele sunt complet descărcate și încercați din nou</string>
     <string name="loading_video_thumbnail">Descărcare copertă videoclip…</string>
-    <string name="login_and_enable_service">Conectați-vă utilizând contul Mi</string>
+    <string name="login_and_enable_service">Conectați-vă utilizând contul Xiaomi</string>
     <string name="long_press_to_refocus">Atingeți și mențineți apăsat pentru a refocaliza</string>
     <string name="macarons_download_dialog_confirm">OK</string>
     <string name="macarons_download_dialog_message">Descărcați modulul de vinietă magică acum?</string>
@@ -1428,7 +1441,7 @@ pentru a personaliza Galeria"</string>
     <string name="mi_pad_5">Xiaomi Pad 5</string>
     <string name="mi_pad_5_pro">Xiaomi Pad 5 Pro</string>
     <string name="mi_pad_5_pro_5g">Xiaomi Pad 5 Pro 5G</string>
-    <string name="micloud_introduce">Sincronizează automat fotografiile și videoclipurile (este necesar un cont Mi)</string>
+    <string name="micloud_introduce">Sincronizează automat fotografiile și videoclipurile (este necesar un cont Xiaomi)</string>
     <string name="midnight">Noapte</string>
     <string name="mishare_all_devices">Toate dispozitivele</string>
     <string name="miuix_access_state_desc">Selectat</string>
@@ -1951,6 +1964,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="play_gif_desc">Redă animația GIF</string>
     <string name="play_video_desc">Redă videoclipul</string>
     <string name="pm">PM</string>
+    <string name="pref_today_of_year_summary">Amintiți-vă de momentele pe care le-ați surprins în această zi de-a lungul anilor. Amintirile deja generate nu vor dispărea dacă dezactivați această funcție.</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
     <string name="prepare_to_drop">Se salvează în %s</string>
     <string name="preparing_data">Doar o secundă…</string>
@@ -2183,8 +2197,8 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="search_image_result_title">Căutați rezultate</string>
     <string name="search_login_now">Conectați-vă</string>
     <string name="search_login_sub_title">Conectați-vă pentru a găsi mai multe fotografii</string>
-    <string name="search_login_title">Cont Mi</string>
-    <string name="search_login_title_full_screen">Conectați-vă la contul Mi pentru a găsi mai multe persoane și obiecte</string>
+    <string name="search_login_title">Cont Xiaomi</string>
+    <string name="search_login_title_full_screen">Conectați-vă la contul Xiaomi pentru a găsi mai multe persoane și obiecte</string>
     <string name="search_mark_feedback_false_negative_title">OK</string>
     <string name="search_mark_feedback_false_positive_title">Reparați</string>
     <string name="search_menu_title">Căutați</string>
@@ -2238,6 +2252,8 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="select_item_face">"Este '%s'?"</string>
     <string name="select_origin_tip">Fișierul original (%s)</string>
     <string name="send">Trimiteți</string>
+    <string name="send_dolby_vision_duration_more_than_40s">Videoclipurile Dolby Vision mai lungi de 4 minute pot fi partajate numai în formatul video original, care este posibil să nu fie acceptat de dispozitivul de recepție. Continuați oricum?</string>
+    <string name="send_dolby_vision_video_continue">Continuă</string>
     <string name="send_file_beautify_failed">Nu s-a putut partaja</string>
     <string name="send_files_by">Trimiteți fișierele prin</string>
     <string name="send_files_to">Trimiteți elementele către</string>
@@ -2680,6 +2696,12 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="toast_orientation_unlock">Orientarea ecranului este deblocată</string>
     <string name="toast_rename_exit">Acest fișier există deja</string>
     <string name="today">Astăzi</string>
+    <string name="today_of_year">În această zi</string>
+    <string name="today_of_year_empty_tip">Nicio amintire aici deocamdată</string>
+    <string name="today_of_year_function_closed_btn_tip">Activați</string>
+    <string name="today_of_year_function_closed_tip">Nu ați activat încă „În această zi”.</string>
+    <string name="today_of_year_location_num">Locații</string>
+    <string name="today_of_year_photo_num">Fotografii</string>
     <string name="tomorrow">Mâine</string>
     <string name="too_many_recipients">Nu puteţi adăuga mai mult de %2$s destinatari (aţi adăugat %1$s).</string>
     <string name="trash_bin">Coș de gunoi</string>
@@ -3160,7 +3182,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="xiaomi_9">Mi 9</string>
     <string name="xiaomi_9_pro">Mi 9 Pro 5G</string>
     <string name="xiaomi_9_se">Mi 9 SE</string>
-    <string name="xiaomi_account_not_exists_toast">"Contul Mi nu există"</string>
+    <string name="xiaomi_account_not_exists_toast">Contul Xiaomi nu există</string>
     <string name="xiaomi_cc_9">Mi CC9</string>
     <string name="xiaomi_cc_9_custom">Mi CC9 Meitu Edition</string>
     <string name="xiaomi_cc_9_pro">Mi CC9 Pro</string>

@@ -32,6 +32,11 @@
     <string name="afternoon">După amiază</string>
     <string name="am">AM</string>
     <string name="app_name">MIUI+ Beta</string>
+    <string name="app_no_storage_permission">Permiteți mai întâi %1$s să acceseze spațiul de stocare în Setări > Aplicații > %2$s > Permisiuni</string>
+    <string name="app_opened_in_new_window">S-a deschis această aplicație într-o fereastră nouă</string>
+    <string name="call_error_notify_button">Comutați</string>
+    <string name="call_error_notify_content">Puteți reveni la telefon pentru a continua acest apel</string>
+    <string name="call_error_notify_title">Conexiune instabilă la rețea</string>
     <string name="cancel">Renunțați</string>
     <string name="cast_mcc_tips_button_cancel">Ignorați</string>
     <string name="cast_mcc_tips_button_ok">Setări</string>
@@ -272,7 +277,7 @@
     <string name="screen_num_over_limit">Nu se mai pot deschide alte ferestre</string>
     <string name="search_menu_title">Căutați</string>
     <string name="send">Trimiteți</string>
-    <string name="settings_connect">Cum vă puteți conecta</string>
+    <string name="settings_bluetooth_enable_summary">Pentru a putea găsi dispozitivele din apropiere, activați mai întâi Bluetooth. Îl porniți acum?</string>
     <string name="settings_connect_more_help"><u>Ajutor</u></string>
     <string name="settings_connect_summary1">Descărcați și instalați MIUI+ Beta pe computer: https://plus.miui.com.</string>
     <string name="settings_connect_summary2">Scanați codul QR de pe ecranul computerului cu dispozitivul dvs. mobil. Puteți utiliza mai multe aplicații de sistem (de exemplu, scaner, cameră, Mi Browser) pentru a face acest lucru.</string>
@@ -292,6 +297,7 @@
     <string name="settings_feature_files_drag_title">Transferați fișiere</string>
     <string name="settings_feature_keep_screen_summary">Păstrați dispozitivul deblocat pentru a preveni deconectările neașteptate</string>
     <string name="settings_feature_keep_screen_title">Nu bloca ecranul</string>
+    <string name="settings_handoff_enable_bluetooth">Activați Bluetooth-ul</string>
     <string name="settings_history">Istoricul de conectare</string>
     <string name="settings_history_clear">Goliți</string>
     <string name="settings_history_clear_dialog_title">Goliți istoricul de conectare acum?</string>

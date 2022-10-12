@@ -658,7 +658,7 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
 - Stocare"</string>
     <string name="request_all_permission_title">Sunt necesare unele permisiuni</string>
     <string name="restore_data_to_device_content">"Elementele dvs. au fost sincronizate în Xiaomi Cloud.
-Conectați-vă la contul Mi pentru a le restaura."</string>
+Conectați-vă la contul Xiaomi pentru a le restaura."</string>
     <string name="restore_data_to_device_title">Restaurați elementele pe acest dispozitiv</string>
     <string name="restore_right_now">Restaurați</string>
     <string name="revoke">Retrageți consimțământul</string>
@@ -723,6 +723,7 @@ Eliberați cel puțin %s."</string>
     <string name="sender_finish_title">Transfer încheiat cu succes</string>
     <string name="sender_scanning_code">Plasați imaginea în cadrul ramei</string>
     <string name="sender_scanning_connecting">Se conectează cu noul dispozitiv…</string>
+    <string name="set_new_device_account">Sincronizați în contul Xiaomi</string>
     <string name="settings_phone">Setările telefonului</string>
     <string name="settings_powerkeeper">Date numărare pași</string>
     <string name="settings_sms">Setări mesagerie</string>

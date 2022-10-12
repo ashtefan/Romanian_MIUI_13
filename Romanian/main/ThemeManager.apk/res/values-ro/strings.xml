@@ -48,6 +48,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="ad_app_is_downloading">Descărcare…</string>
     <string name="ad_begin_to_download_tip">Începe descărcarea…</string>
     <string name="ad_begin_to_install_tip">Se instalează…</string>
+    <string name="ad_close">S-a închis acest anunț</string>
     <string name="ad_closed_tip">"Veți vedea mai puține reclame de acest gen"</string>
     <string name="ad_details">Detalii</string>
     <string name="ad_download_download">Descărcați</string>
@@ -135,8 +136,10 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="classification_more_understand_you">Selectați categoria favorită</string>
     <string name="clear_text_end_icon_content_description">Goliți textul</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
+    <string name="clock">Instalați aplicația Ceas</string>
     <string name="close">Închideţi</string>
     <string name="close_custom_permission_warning_text">Fără permisiunile de accesare stocare, această aplicație nu va putea descărca elemente și nici nu va putea personaliza dispozitivul dvs. Dezactivați oricum?</string>
+    <string name="close_custom_permission_warning_text_above_eleven">Fără permisiunile de accesare stocare, această aplicație nu vă va putea personaliza dispozitivul. O dezactivați oricum?</string>
     <string name="common_applying">Se aplică…</string>
     <string name="common_downloading">Se descarcă…</string>
     <string name="common_format_date_no_year">dd.MM</string>
@@ -169,6 +172,9 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="current_version">Versiunea curentă: %1$s</string>
     <string name="current_version_incompatible">Incompatibilă</string>
     <string name="custom_storage_permission_desc">Pentru a putea modifica preferințele de personalizare și a salva articolele descărcate, permiteți mai întâi ca această funcție să acceseze spațiul de stocare. Puteți acorda această permisiune din Setări > Confidențialitate.</string>
+    <string name="custom_storage_permission_desc_above_eleven">Pentru a putea modifica preferințele de personalizare, permiteți mai întâi ca această funcție să acceseze spațiul de stocare. Puteți acorda această permisiune în Setări.</string>
+    <string name="custom_theme">nume, id</string>
+    <string name="custom_widget">Widgeturi recomandate</string>
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="de_apply_icons">Pictogramele aplicației</string>
@@ -495,7 +501,10 @@ Pentru a dezactiva această funcție, mergeți la Setări > Sunete și vibrații
     <string name="incompatible_dialog_message">"Această temă nu este compatibilă cu versiunea MIUI instalată. Unele elemente ale MIUI pot funcționa necorespunzător dacă aplicați această temă."</string>
     <string name="incompatible_dialog_ok">Am înțeles</string>
     <string name="incompatible_dialog_title">Probleme de compatibilitate</string>
+    <string name="install_clock">Nu ați instalat încă aplicația Ceas. O descărcați acum?</string>
     <string name="install_failed">Nu s-a putut instala</string>
+    <string name="install_gallery_content">Nu ați instalat încă aplicația Galerie. O descărcați acum?</string>
+    <string name="install_gallery_title">Instalați aplicația Galerie</string>
     <string name="is_setting_wallpaper_message">Setare imagine de fundal…</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarme</string>
     <string name="item_resource_audio_optional_color_ring">Ton notificare</string>
@@ -505,6 +514,7 @@ Pentru a dezactiva această funcție, mergeți la Setări > Sunete și vibrații
     <string name="kuyin_user_agreement_content">Abonamentele pentru sunete de apel personalizate sunt furnizate de către iFlytek. Trebuie să acceptați %s înainte de a utiliza abonamentele pentru sunete de apel personalizate. Sunteți de acord?</string>
     <string name="kuyin_user_agreement_content_href">Politica de Confidențialitate iFlytek</string>
     <string name="lab">Laborator Teme</string>
+    <string name="label">Etichetă</string>
     <string name="like_list">Elemente care mi-au plăcut</string>
     <string name="live_wallpaper">Imagini de fundal dinamică</string>
     <string name="load_from_local_photos">Galerie</string>
@@ -682,6 +692,7 @@ mm"</string>
     <string name="mtrl_picker_a11y_next_month">Treceți la luna următoare</string>
     <string name="mtrl_picker_a11y_prev_month">Treceți la luna anterioară</string>
     <string name="mtrl_picker_announce_current_selection">Selecția curentă: %1$s</string>
+    <string name="mtrl_picker_confirm">OK</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Selectați Data</string>
     <string name="mtrl_picker_date_header_unselected">Data selectată</string>
@@ -708,6 +719,7 @@ mm"</string>
     <string name="mtrl_picker_toggle_to_day_selection">Atingeți pentru a comuta la selectarea unei zile</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Comutați la modul de introducere text</string>
     <string name="mtrl_picker_toggle_to_year_selection">Atingeți pentru a comuta la selectarea unui an</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
     <string name="multi_sim_mms_ringtone_settings_dialog_message">Acest sunet de apel va fi aplicat pentru ambele cartele SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_message">Sunetul de apel este setat pentru ambele cartele SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">Am înțeles</string>
@@ -864,6 +876,7 @@ Toate elementele de personalizare utilizate în prezent pe acest dispozitiv. Pre
     <string name="privacy_phone_logoff_theme_service_detail_title">Citiți și acceptați \"Declarația privind anularea serviciilor Teme\" înainte de a anula serviciile noastre.</string>
     <string name="privacy_phone_logoff_theme_service_introduce">"Sunteți pe cale să anulați serviciile Teme."</string>
     <string name="privacy_phone_read_and_write_storage">Acces la stocare</string>
+    <string name="privacy_phone_read_and_write_storage_above_eleven">Accesarea stocării</string>
     <string name="privacy_phone_read_theme_logoff_privacy_policy"><Data>"Am citit și am fost de acord cu \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Declarația privind anularea serviciilor Teme&lt;/a>&lt;/font>\"."</Data></string>
     <string name="privacy_phone_read_theme_privacy_policy"><Data>"Am citit și am fost de acord cu \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Declarația privind retragerea consimțământului pentru politica de confidențialitate a Temelor&lt;/a>&lt;/font>\"."</Data></string>
     <string name="privacy_phone_revoke_agree_content_3">3. Toate temele, imaginile de fundal, imaginile de fundal dinamice, fonturile, pictogramele și tonurile de apel descărcate pe acest dispozitiv.</string>
@@ -1103,6 +1116,7 @@ Puteți acorda această permisiune din Setări > Confidențialitate."</string>
     <string name="resource_search_color_hint_purple">Violet</string>
     <string name="resource_search_color_hint_red">Roşu</string>
     <string name="resource_search_color_hint_yellow">Galben</string>
+    <string name="resource_search_history">Istoricul de căutare</string>
     <string name="resource_search_list_empty">Nu a fost găsit nimic.</string>
     <string name="resource_see_more">Mai multe</string>
     <string name="resource_select">Selectaţi</string>
@@ -1185,6 +1199,7 @@ Puteți acorda această permisiune din Setări > Confidențialitate."</string>
     <string name="send">Trimiteți</string>
     <string name="server_internal_error">A apărut e eroare de server. Așteptați un minut sau două și încercați din nou.</string>
     <string name="set_as_colorring">Setați ca sunet de apel personalizat</string>
+    <string name="set_calling">Setați</string>
     <string name="set_color_ring_back_tone">Setați un sunet de apelare înapoi personalizat</string>
     <string name="set_home_wallpaper_failed">"%s. Nu se poate aplica imaginea de fundal pentru Ecranul principal."</string>
     <string name="set_wallpaper_group_success">Imaginea de fundal \"%1$s\" a fost aplicată cu succes</string>
@@ -1295,6 +1310,7 @@ Puteți acorda această permisiune din Setări > Confidențialitate."</string>
     <string name="system_cta_runtime_perm_desc_get_accounts">Pentru accesarea IMEI-ului și furnizarea de servicii de descărcare</string>
     <string name="system_cta_runtime_perm_desc_read_phone_state">Accesarea ID-ului dispozitivului pentru identificarea acestuia</string>
     <string name="system_cta_runtime_perm_desc_storage">Pentru utilizarea elementelor stocate pe dispozitiv în scopul personalizării și salvării elementelor achiziționate</string>
+    <string name="system_cta_runtime_perm_desc_storage_above_eleven">Pentru modificarea preferințelor de personalizare</string>
     <string name="system_cta_runtime_perm_desc_storage_pad">Pentru utilizarea elementelor stocate pe dispozitiv în scopul personalizării și salvării elementelor achiziționate</string>
     <string name="system_precust">Pre-instalate</string>
     <string name="tag_ad">Reclamă</string>
@@ -1458,6 +1474,16 @@ Puteți acorda această permisiune din Setări > Confidențialitate."</string>
     <string name="title_system_audio_resource">Sunete de sistem</string>
     <string name="title_system_wallpaper_resource">Imagini de fundal ale sistemului</string>
     <string name="to_activate_the_account">Activaţi contul dvs. Mi acum</string>
+    <string name="toast_both_all_apply_failured">Nu s-a putut aplica la Ecranul de pornire sau de blocare</string>
+    <string name="toast_both_all_apply_success">Aplicat cu succes la Ecranele de pornire și de blocare</string>
+    <string name="toast_home_apply_failured">Nu s-a putut aplica la Ecranul de pornire</string>
+    <string name="toast_home_apply_success">Aplicat cu succes la Ecranul de pornire</string>
+    <string name="toast_lockscreen_apply_failured">Nu s-a putut aplica la Ecranul de blocare</string>
+    <string name="toast_lockscreen_apply_failured_but_home_apply_success">Aplicat cu succes la Ecranul de pornire. Nu s-a putut aplica la Ecranul de blocare.</string>
+    <string name="toast_lockscreen_apply_success">Aplicat cu succes la Ecranul de blocare</string>
+    <string name="toast_lockscreen_apply_success_but_home_apply_failured">Aplicat cu succes la Ecranul de blocare. Nu s-a putut aplica la Ecranul de pornire.</string>
+    <string name="toast_transparent_wallpaper_filter_set_failured">Nu s-a putut aplica</string>
+    <string name="toast_transparent_wallpaper_filter_set_successfully">Aplicată cu succes</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>
     <string name="trans_wallpaper_offline_notice">Imaginile de fundal transparente nu sunt disponibile</string>
@@ -1536,7 +1562,10 @@ Mergeți la Teme>Contul meu>Laborator teme pentru mai multe opțiuni."</string>
     <string name="wallpaper_24h">24 h</string>
     <string name="wallpaper_apply">Aplicați</string>
     <string name="wallpaper_apply_full">Toate</string>
+    <string name="wallpaper_apply_inner">Aplicați pe ecranul interior</string>
     <string name="wallpaper_apply_large">Ecran interior</string>
+    <string name="wallpaper_apply_outer">Aplicați pe ecranul exterior</string>
+    <string name="wallpaper_apply_outer_and_inner">Aplicați pe ecranele interior și exterior</string>
     <string name="wallpaper_apply_pcmode">Setați imaginea de fundal pentru modul PC</string>
     <string name="wallpaper_apply_small">Ecran exterior</string>
     <string name="wallpaper_crop">Decupaţi</string>

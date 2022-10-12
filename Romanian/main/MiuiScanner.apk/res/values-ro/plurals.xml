@@ -72,4 +72,8 @@
         <item quantity="other">cu %d minute în urmă</item>
         <item quantity="one">cu 1 minut în urmă</item>
     </plurals>
+    <plurals name="word_limit_prompt">
+        <item quantity="other">%d caractere peste limită</item>
+        <item quantity="one">%d caracter peste limită</item>
+    </plurals>
 </resources>

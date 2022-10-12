@@ -115,6 +115,14 @@ Notă: Fișierul va fi de asemenea șters din telefon."</item>
         <item quantity="other">&lt;font color=\"red\">%d melodii&lt;/font> se descarcă</item>
         <item quantity="one">&lt;font color==\"red\">%d melodie&lt;/font> se descarcă</item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Repede înainte %d secunde</item>
+        <item quantity="one">Repede înainte %d secundă</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Înapoi %d secunde</item>
+        <item quantity="one">Înapoi %d secundă</item>
+    </plurals>
     <plurals name="free_downloads_num_hint">
         <item quantity="other">%d descărcări gratuite rămase</item>
         <item quantity="one">%d descărcare gratuită rămasă</item>
@@ -193,6 +201,10 @@ Notă: Fișierul va fi de asemenea șters din telefon."</item>
     <plurals name="sound_fade_duration_in_seconds">
         <item quantity="other">Tranziție între melodii: %d secunde</item>
         <item quantity="one">Tranziție între melodii: %d secundă</item>
+    </plurals>
+    <plurals name="task_guide">
+        <item quantity="other">Câștigați %1$d monede astăzi</item>
+        <item quantity="one">Câștigați %1$d monedă astăzi</item>
     </plurals>
     <plurals name="video_count">
         <item quantity="other">Videoclipuri</item>

@@ -151,6 +151,7 @@
     <string name="content_desc_activity_main_add_city">Adăugați orașul</string>
     <string name="content_desc_activity_main_add_city_manage">Gestionare orașe</string>
     <string name="content_desc_activity_main_more_settings">Mai multe setări</string>
+    <string name="content_desc_activity_main_page">Pagina %1$d din %2$d</string>
     <string name="content_desc_back_button">Înapoi</string>
     <string name="content_desc_city_manage_del">Ștergeți</string>
     <string name="content_desc_city_manage_edit">Editați</string>
@@ -431,7 +432,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="particulate_matter_not_exceeded">Normal</string>
     <string name="particulate_matter_serious_exceeded">Prea înalt</string>
     <string name="permission_device_info">Informații despre dispozitiv</string>
-    <string name="permission_device_introduce">Pentru recunoașterea ID-ului dispozitivului bazată pe modelul și IMEI-ul acestuia și furnizarea de servicii localizate în funcție de preferințele de limbă</string>
+    <string name="permission_device_introduce">Pentru recunoașterea dispozitivelor pe baza modelului de dispozitiv și furnizarea de servicii localizate pe baza preferințelor de limbă</string>
     <string name="permission_exit">Ieșiți</string>
     <string name="permission_privacy">Politica de Confidențialitate (obligatorie)</string>
     <string name="permission_select_all">Selectați tot</string>

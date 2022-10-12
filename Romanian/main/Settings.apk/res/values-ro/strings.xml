@@ -3473,6 +3473,11 @@ Când activați crearea automată a copiei de rezervă, datele dispozitivului ș
     <string name="go_back_button_label">Mergeți înapoi</string>
     <string name="go_to_sleep">Închide ecranul</string>
     <string name="google_account_title">Google</string>
+    <string name="google_assistant_guide_cancel">Renunțați</string>
+    <string name="google_assistant_guide_message">Puteți apăsa și să țineți apăsat butonul de pornire timp de %s secunde pentru a începe să vorbiți cu Asistentul Google. Setați această comandă rapidă acum?</string>
+    <string name="google_assistant_guide_ok">Setați</string>
+    <string name="google_assistant_guide_tip">*Apăsați și mențineți apăsat butonul de pornire timp de %s secunde pentru a deschide meniul de oprire.</string>
+    <string name="google_assistant_guide_title">Asistent Google</string>
     <string name="google_assistant_label">Asistent Google</string>
     <string name="google_backup_enable">Activați crearea copiilor de rezervă</string>
     <string name="google_backup_section_title">Copii de rezervă Google</string>

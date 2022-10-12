@@ -168,12 +168,23 @@
     <string name="antispam_notificaiton_type_show_none">Niciodată</string>
     <string name="antispam_notification_setting_title">Notificări</string>
     <string name="antispam_xpace_text">Comutați la Spațiul Principal pentru a seta lista blocărilor</string>
+    <string name="antivirus_antidefraud_risk_desc">Această aplicație este clasificată ca o aplicație de fraudă financiară de către Centrul Național Antifraudă. Dezinstalați-o pentru a evita posibilele riscuri.</string>
+    <string name="antivirus_antidefraud_risk_type">Fraudă financiară</string>
+    <string name="antivirus_antidefraud_risk_type_label">Fraude financiare și riscuri de securitate</string>
     <string name="antivirus_browser_check">Verificați site-urile în Mi Browser</string>
     <string name="antivirus_browser_check_summary">Verificați site-urile în Mi Browser în mod automat și primiți avertizări despre posibilele riscuri</string>
     <string name="antivirus_choose_engine">Se utilizează definiţiile din %s</string>
     <string name="antivirus_choose_engine_dialog_title">Selectaţi definiţiile</string>
     <string name="antivirus_choose_engine_settings">Setări definiţii viruşi</string>
     <string name="antivirus_choose_engine_title">Definiţii</string>
+    <string name="antivirus_detect_apps_dialog_cancel">Am înțeles</string>
+    <string name="antivirus_detect_apps_dialog_content_text">Această aplicație poate prezenta riscuri pentru securitatea informațiilor dvs. personale.</string>
+    <string name="antivirus_detect_apps_dialog_message">Dacă personalul de asistență pentru clienți, autoritățile sau persoanele pe care le cunoașteți vă solicită să utilizați această aplicație, <Date>&lt;font color=#F22424>verificați-le identitatea înainte de a continua&lt;/font>.</Data></string>
+    <string name="antivirus_detect_apps_dialog_message_reject_permission">Permisiunile solicitate de această aplicație au fost restricționate. Puteți gestiona permisiunile aici: %s.</string>
+    <string name="antivirus_detect_apps_dialog_uninstall">Dezinstalați</string>
+    <string name="antivirus_detect_apps_noti_message">Această aplicație prezintă riscuri de securitate</string>
+    <string name="antivirus_detect_apps_noti_title">Mai multe aplicații, inclusiv %s, pot prezenta riscuri de securitate</string>
+    <string name="antivirus_detect_single_app_noti_title">%s ar putea prezenta riscuri de securitate</string>
     <string name="antivirus_longtime_no_update">Se pare că definiția virușilor este veche. Actualizările în mod regulat ajută la obținerea unor rezultate mai bune ale scanării. Permiteți aplicației de Securitate să se conecteze la internet și să actualizeze definițiile virușilor?</string>
     <string name="antivirus_longtime_no_update1">Se pare că definiția virușilor este veche. Actualizările în mod regulat ajută la obținerea unor rezultate mai bune ale scanării. Actualizați definițiile și încercați din nou.</string>
     <string name="antivirus_main_activity_back">Înapoi</string>
@@ -185,6 +196,7 @@
     <string name="antivirus_monitored_app_empty">Nu s-au găsit aplicații de plată compatibile</string>
     <string name="antivirus_monitored_tips">Verificați în mod automat mediul de plată pentru a detecta posibile riscuri</string>
     <string name="antivirus_none_engine_dialog_ok">OK</string>
+    <string name="antivirus_not_remind_for_app">Nu mai avertiza despre această aplicație</string>
     <string name="antivirus_not_wlan">"Nu sunteți conectat la Wi-Fi. Utilizarea datelor mobile poate genera costuri suplimentare. Continuați oricum?"</string>
     <string name="antivirus_privacy_dialog_cloudscan">Încărcați numele și detaliile aplicațiilor</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">Pentru a detecta și neutraliza virușii mai eficient, vom încărca numele și detaliile pachetelor pentru a le scana utilizând un motor din cloud.</string>
@@ -543,10 +555,13 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="app_permission_use_title">Permisiuni</string>
     <string name="app_predict_black_list_empty">Niciun element aici încă</string>
     <string name="app_predict_black_list_setting_title">Listă sugerată pentru blocarea aplicațiilor</string>
+    <string name="app_predict_classification_search_empty">Nu s-au putut găsi rezultate</string>
     <string name="app_predict_dialog_button">Adăugați pe Ecranul principal</string>
     <string name="app_predict_dialog_message">AI vă va sugera aplicații de care este posibil să aveți nevoie în acel moment</string>
     <string name="app_predict_dialog_success">Adăugat cu succes pe Ecranul principal</string>
     <string name="app_predict_folder_name">Căutați</string>
+    <string name="app_predict_folder_tips">Sugestii bazate pe obiceiurile dvs. de utilizare</string>
+    <string name="app_predict_go_shop_search_app">Căutați în GetApps</string>
     <string name="app_predict_guide_button">Adăugați</string>
     <string name="app_predict_guide_message">AI vă va sugera aplicații de care este posibil să aveți nevoie în acel moment</string>
     <string name="app_predict_guide_title">Sugetii inteligente de aplicații</string>
@@ -558,6 +573,8 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="app_predict_setting_switch_message">Primiți sugestii de aplicații bazat pe obiceiurile dvs. de utilizare</string>
     <string name="app_predict_setting_switch_title">Personalizați sugestiile</string>
     <string name="app_predict_setting_title">Sugestii de aplicații</string>
+    <string name="app_predict_settings_train_tip">Optimizați automat acuratețea sugestiilor</string>
+    <string name="app_predict_widget_experience_now">Încercați</string>
     <string name="app_predict_widget_name_2x4">Sugestii de aplicații</string>
     <string name="app_running_tip_dialog_negative">Renunțați</string>
     <string name="app_running_tip_dialog_positive">OK</string>
@@ -840,6 +857,8 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="boot_time_day">Pornire: %2$s %1$d z</string>
     <string name="boot_time_day_tomorrow">Pornire: %1$s</string>
     <string name="bottom_func_guide_default_text">Mai multe caracteristici</string>
+    <string name="bottom_notice_title">Glisați în sus pentru a deschide caseta de instrumente</string>
+    <string name="bottomsheet_action_expand_halfway">Extindeți pe jumătate</string>
     <string name="btn_back">Înapoi</string>
     <string name="btn_finish_diagnostic">OK</string>
     <string name="btn_start_diagnostic">Testare reţea</string>
@@ -857,6 +876,13 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="btn_text_quick_save_power">Răcire</string>
     <string name="btn_text_quick_scan">Scanare</string>
     <string name="btn_text_stop">Opriţi</string>
+    <string name="bubble_app_empty_page">Nu s-au putut găsi aplicații care acceptă bule de conversație pe acest dispozitiv</string>
+    <string name="bubble_app_manage">Gestionați bulele de conversație</string>
+    <string name="bubble_mode_barrage_switch_tips">Activați pentru a afișa bulele de conversație pentru aplicațiile minimizate ca comentarii pe ecran</string>
+    <string name="bubble_mode_barrage_tips">Baloanele de conversație pentru aplicațiile minimizate vor fi afișate ca comentarii pe ecran</string>
+    <string name="bubble_notification">Baloane de conversație</string>
+    <string name="bubble_notification_switch">Afișează bule de conversație</string>
+    <string name="bubble_notification_switch_desc">Când o aplicație de mesagerie într-o fereastră plutitoare este ascunsă la marginea ecranului, afișați mesajele primite în bule</string>
     <string name="button_background_connection">Permiteți</string>
     <string name="button_block_calls_from_cantacts">Deblocați</string>
     <string name="button_block_calls_from_strangers">Deblocați</string>
@@ -957,6 +983,9 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="cetus_invisible_mode_warn_location">Sunteți în modul incognito. Permisiunile pentru locație sunt suspendate.</string>
     <string name="cetus_invisible_mode_warn_open">Modul incognito suspendă permisiunile legate de microfon, cameră și locație pentru toate aplicațiile. Îl porniți acum?</string>
     <string name="cetus_invisible_mode_warn_record_audio">Sunteți în modul incognito. Permisiunile pentru microfon sunt suspendate.</string>
+    <string name="character_counter_content_description">Caractere introduse %1$d din %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limita de caractere a fost depășită %1$d of %2$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="charger_detect_button_ok">Am înțeles</string>
     <string name="charger_detect_info1">Verificați dacă încărcătorul și cablul sunt conectate corespunzător.</string>
     <string name="charger_detect_info2">Încărcarea poate încetini, de asemenea, dacă utilizați adaptoare și cabluri vechi sau necorespunzătoare.</string>
@@ -965,6 +994,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="charging_text_battery_full_time">"Ultima încărcare a durat "</string>
     <string name="charging_text_battery_nearly_full">Încărcat aproape complet</string>
     <string name="charging_text_battery_perfect">Încărcat complet</string>
+    <string name="chip_text">Fragment de text</string>
     <string name="choose">Selectaţi</string>
     <string name="choose_gs_show_way">Selectați orientarea paginii inițiale</string>
     <string name="clean_immediately">Goliți</string>
@@ -980,6 +1010,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="cleaned">Golit</string>
     <string name="clear_garbage">Goliți Coșul de gunoi pentru a elibera spațiu</string>
     <string name="clear_immediately">Curățați acum</string>
+    <string name="clear_text_end_icon_content_description">Goliți textul</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="close">Închideți</string>
     <string name="close_callwait">Oprit</string>
@@ -1213,6 +1244,7 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="empty_title_root_apps">Nicio aplicație cu permisiune root</string>
     <string name="enable_extreme_power_save_mode">Economisire extremă a acumulatorului</string>
     <string name="enable_network">Activaţi reţeaua mai întâi</string>
+    <string name="error_icon_content_description">Eroare</string>
     <string name="evening">După amiază</string>
     <string name="every_day">În fiecare zi</string>
     <string name="ew_alert_arrive_location">Unda seismică a ajuns la %s</string>
@@ -1457,6 +1489,7 @@ cutremure"</string>
     <string name="exo_track_surround_7_point_1">Sunet surround 7.1</string>
     <string name="exo_track_unknown">Necunoscut</string>
     <string name="expand_button_title">Avansat</string>
+    <string name="exposed_dropdown_menu_content_description">Afișați meniul de glisare în jos</string>
     <string name="extreme_power_save_mode_card_summary">Activați modul Extrem pentru a economisi energia atunci când nivelul acumulatorului este scăzut.</string>
     <string name="extreme_power_save_mode_title">Modul Extrem de economisire a acumulatorului</string>
     <string name="face_unlock_be_on_the_screen">Țineți telefonul în fața dvs</string>
@@ -1639,6 +1672,8 @@ cutremure"</string>
     <string name="free_time_traffic_settings">Limita de date în afara orelor de vârf</string>
     <string name="free_time_traffic_title">Introduceţi limita de date în afara orelor de vârf</string>
     <string name="free_traffic_settings">Setări utilizare date în afara orelor de vârf</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Atingeți o aplicație din bara laterală pentru a o deschide într-o fereastră plutitoare.
+· Trageți o aplicație în centrul ecranului pentru a o deschide într-o fereastră plutitoare sau în lateral pentru a utiliza Ecran scindat."</string>
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
@@ -1816,6 +1851,7 @@ cutremure"</string>
     <string name="gb_game_macro_toast_tips">"Încercați combo-urile!
 Înregistrați secvențe și utilizați-le oricând!"</string>
     <string name="gb_game_time_toast">Temporizatorul este disponibil acum!</string>
+    <string name="gb_game_tips_restart">Jocul va fi repornit pentru a aplica modificările</string>
     <string name="gb_game_video_bottom_tips">Revizitați momentele cheie din sesiunile dvs. de jocuri din Jocuri Turbo. Videoclipurile vor fi șterse automat după 7 zile.</string>
     <string name="gb_game_video_item_tag">Moment cheie</string>
     <string name="gb_game_video_page_delete_success">Șters cu succes</string>
@@ -1845,6 +1881,17 @@ cutremure"</string>
     <string name="gb_new_feature">Caracteristică nouă</string>
     <string name="gb_not_support_on_device">Această aplicație nu poate fi utilizată pe ecranul extern</string>
     <string name="gb_operat_frequently">Nu așa de repede!</string>
+    <string name="gb_performace_guide_disable_desc"><Data>"Nu se poate comuta la modul Echilibrat în Game Turbo când modul de performanță la nivelul întregului sistem este activat. Puteți modifica setările bateriei în Securitate.&lt;br>&lt;a href=\"#\">Deschideți Securitate&lt;/a>"</Data></string>
+    <string name="gb_performace_switch_toast">Am trecut în modul Performanță. Este posibil ca dispozitivul dvs. să se încălzească și să consume mai multă energie.</string>
+    <string name="gb_performace_tips_button">Comutați</string>
+    <string name="gb_performace_tips_title">Comutați la modul Performanță pentru o experiență mai bună</string>
+    <string name="gb_performance_balance">Echilibrat</string>
+    <string name="gb_performance_balance_tips">"Modul echilibrat economisește energie
+reducând în același timp rata de reîmprospătare și limitele de temperatură"</string>
+    <string name="gb_performance_high">Performanță</string>
+    <string name="gb_performance_mode">Mod Jocuri</string>
+    <string name="gb_performance_tips">"Modul de performanță îmbunătățește performanța grafică,
+dar crește și consumul de energie și permite supraîncălzirea dispozitivului"</string>
     <string name="gb_shortcut_pref_title">Scurtătură pe Ecranul principal</string>
     <string name="gb_shoulder_key">Butoane de umăr</string>
     <string name="gb_shoulder_key_add_show_btn">Afișați butoanele virtuale în timpul jocurilor</string>
@@ -2059,6 +2106,8 @@ pentru a vă alătura vânătorii de ouă!"</string>
     <string name="hot">Popular</string>
     <string name="hot_today">Popular astăzi</string>
     <string name="i_know">Am înțeles</string>
+    <string name="icon_content_description">Pictogramă Dialog</string>
+    <string name="icon_created_settings_preference">Adăugată</string>
     <string name="icon_text_size_giga_byte">%.1f G</string>
     <string name="icon_text_size_max">9,9 G</string>
     <string name="icon_text_size_mega_byte">%d M</string>
@@ -2126,6 +2175,7 @@ pentru a vă alătura vânătorii de ouă!"</string>
     <string name="item_mms">Filtru mesaje nedorite</string>
     <string name="item_system_auto_download">Descărcați actualizările în mod automat</string>
     <string name="item_usb_debug">Depanare USB</string>
+    <string name="item_view_role_description">Filă</string>
     <string name="item_virus_lib">Actualizare automată a definițiilor de viruși</string>
     <string name="keyguard_charging_info_drained_time_format">%1$s %2$s</string>
     <string name="kilobyteShort">KB</string>
@@ -2273,6 +2323,21 @@ răspunsul operatorului"</string>
     <string name="mark_time_setting_dialog_title">Raportați numărul</string>
     <string name="mark_time_text">%d</string>
     <string name="marked_by_user">"L-ați marcat ca fiind "</string>
+    <string name="material_clock_display_divider">:</string>
+    <string name="material_clock_toggle_content_description">Selectați AM sau PM</string>
+    <string name="material_hour_selection">Selectați ora</string>
+    <string name="material_hour_suffix">"%1$s o'clock"</string>
+    <string name="material_minute_selection">Selectați minutele</string>
+    <string name="material_minute_suffix">%1$s minute</string>
+    <string name="material_slider_range_end">Sfârșitul intervalului,</string>
+    <string name="material_slider_range_start">Începutul intervalului,</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Comutați în modul ceas pentru introducerea orei.</string>
+    <string name="material_timepicker_hour">Ora</string>
+    <string name="material_timepicker_minute">Minutul</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Selectați ora</string>
+    <string name="material_timepicker_text_input_mode_description">Comutați la modul de introducere a textului pentru introducerea orei.</string>
     <string name="megabyteShort"> MB</string>
     <string name="megabyte_per_second">MB/s</string>
     <string name="memory_check_content">Eliberați %s</string>
@@ -2280,6 +2345,8 @@ răspunsul operatorului"</string>
     <string name="memory_clean_no_need_clean">Totul arată bine</string>
     <string name="memory_clean_no_need_clean_1" formatted="false">"S-au eliberat %s.
 Viteza telefonului a crescut cu %d%%."</string>
+    <string name="memory_clean_no_need_clean_1_new" formatted="false">"S-au eliberat %s.
+Viteza telefonului a crescut cu %s."</string>
     <string name="memory_clear_unused">Goliți memoria cache (%s)</string>
     <string name="memory_title">Disponibil: %1$s\u0009\u0009Total: %2$s</string>
     <string name="menu_add">Adăugați</string>
@@ -2445,10 +2512,51 @@ Viteza telefonului a crescut cu %d%%."</string>
     <string name="more_settings">Mai multe</string>
     <string name="morning">Dimineață</string>
     <string name="mtp_ptp_mode_summary">MTP sau PTP sunt active</string>
+    <string name="mtrl_badge_numberless_content_description">Notificare nouă</string>
+    <string name="mtrl_chip_close_icon_content_description">Eliminați %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Mai mult de %1$d notificări noi</string>
+    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+    <string name="mtrl_picker_a11y_next_month">Comutați la luna următoare</string>
+    <string name="mtrl_picker_a11y_prev_month">Comutați la luna anterioară</string>
+    <string name="mtrl_picker_announce_current_selection">Selecția curentă: %1$s</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Selectați o Dată</string>
+    <string name="mtrl_picker_date_header_unselected">Data selectată</string>
+    <string name="mtrl_picker_day_of_week_column_header">Coloana zilelor: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Format nevalid.</string>
+    <string name="mtrl_picker_invalid_format_example">Exemplu: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Utilizați: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Interval nevalid.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navigați la anul %1$s</string>
+    <string name="mtrl_picker_out_of_range">Înafara intervalului: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data de start – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data de sfârșit</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Selectați un interval de timp</string>
+    <string name="mtrl_picker_range_header_unselected">Data de start – Data de sfârșit</string>
+    <string name="mtrl_picker_save">Salvați</string>
+    <string name="mtrl_picker_text_input_date_hint">Data</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data de sfârșit</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data de start</string>
+    <string name="mtrl_picker_text_input_day_abbr">z</string>
+    <string name="mtrl_picker_text_input_month_abbr">l</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Comutați la modul introducere calendar</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Atingeți pentru a comuta la selectarea unei zile</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Comutați la modul introducere text</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Atingeți pentru a comuta la selectarea unui an</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
     <string name="na_main_card_ad_subtitle">O multitudine de date, apeluri gratuite, costuri mici</string>
     <string name="na_main_card_ad_text">Găsiți un abonament care vi se potrivește</string>
     <string name="na_main_card_ad_title">Promoție card Mi Fan</string>
-    <string name="na_main_card_title_sim">"Card "</string>
+    <string name="na_main_card_title_sim">"Cartela "</string>
+    <string name="na_open_at_once">Activați</string>
+    <string name="na_operator_not_support_correction">Acest operator nu acceptă solicitări de taxe și sold</string>
+    <string name="na_query_and_correction">Verificați și calibrați balanța</string>
+    <string name="na_query_and_correction_msg">"Puteți verifica și calibra soldul contului și statisticile datelor mobile trimițând un SMS gratuit operatorului dvs. Aceste mesaje sunt criptate.
+Mesajele de solicitare a soldului nu sunt stocate în Messaging și nu vor fi afișate.
+Puteți dezactiva oricând opțiunea „Ajustare automată a statisticilor de utilizare a datelor”."</string>
     <string name="na_text_checking">"Testare: "</string>
     <string name="name">Nume</string>
     <string name="nd_result_button_optimize">Optimizați</string>
@@ -2742,6 +2850,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="password_promotion_not_login_xiaomi_account_message">Adăugați contul dvs. Mi pentru a vă putea reseta parola în caz că o uitați.</string>
     <string name="password_promotion_postbutton_text">Adăugați</string>
     <string name="password_promotion_title">Adăugați contul Mi</string>
+    <string name="password_toggle_content_description">Afișează parola</string>
     <string name="password_type">Schimbați parola</string>
     <string name="password_type_underline"><u>Modificați parola</u></string>
     <string name="password_xspace_forget_pattern_message">Pentru a modifica parola Spațiului secundar, trebuie să ștergeți Spațiul Secundar curent și să creați ulterior un altul.</string>
@@ -3901,6 +4010,10 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="sp_sos_title">Urgență SOS</string>
     <string name="sp_system_security_title">Securitate sistem</string>
     <string name="sp_toast_removed_from_sign_white_list">Eliminat din lista excepțiilor. Va fi scanat data viitoare.</string>
+    <string name="sp_unshelf_dialog_cancel_pay">Renunțați</string>
+    <string name="sp_unshelf_dialog_content">%s nu a trecut testele de securitate GetApps. Folosirea plăților în aplicație poate provoca pierderi financiare. Plătiți oricum?</string>
+    <string name="sp_unshelf_dialog_continue_pay">Plătiți</string>
+    <string name="sp_unshelf_dialog_title">Au fost detectate riscuri</string>
     <string name="sp_website_scan_summary">Navigare web securizată</string>
     <string name="sp_website_scan_title">Verificați site-urile</string>
     <string name="special_number_group">Blocați numerele raportate</string>
@@ -4161,6 +4274,10 @@ Pentru a utiliza acest ^1, va trebui să-l montați mai întâi."</string>
     <string name="storage_dialog_unsupported">"Acest dispozitiv nu suportă acest ^1.
 
 Pentru a utiliza acest ^1 cu acest dispozitiv, va trebui să-l setați mai întâi."</string>
+    <string name="storage_fbo_clear">Reîmprospătare stocare FBO</string>
+    <string name="storage_fbo_des">Stocarea internă suferă de fragmentare, ceea ce ar putea încetini în mod semnificativ dispozitivul. Reîmprospătarea stocării FBO funcționează automat când nu utilizați dispozitivul. Vă organizează fizic fișierele în cel mai mic număr de fragmente, reducând decalajul.</string>
+    <string name="storage_fbo_number_tip">Procesat pe %1$s</string>
+    <string name="storage_fbo_tools">Optimizare stocare</string>
     <string name="storage_format_failure">Nu s-a putut formata %1$s</string>
     <string name="storage_format_success">%1$s a fost formatat cu succes</string>
     <string name="storage_item_apk_name">APKs</string>
@@ -4170,6 +4287,7 @@ Pentru a utiliza acest ^1 cu acest dispozitiv, va trebui să-l setați mai înt�
     <string name="storage_item_doc_name">Documente</string>
     <string name="storage_item_other_name">Altele</string>
     <string name="storage_item_picture_name">Imagini</string>
+    <string name="storage_item_system_data">Fișiere de sistem</string>
     <string name="storage_item_system_name">Sistem</string>
     <string name="storage_item_video_name">Video</string>
     <string name="storage_menu_mount">Montați</string>

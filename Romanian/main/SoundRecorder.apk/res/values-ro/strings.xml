@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Partajați prin</string>
     <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="access_denied_info">Prea multe incercari. Așteptați un minut sau două și încercați din nou.</string>
     <string name="actionbar_button_up_description">Înapoi</string>
     <string name="add_remark_hint">Introduceți comentariul dvs. aici</string>
     <string name="add_remark_tip">Atingeți pentru a adăuga un comentariu</string>
@@ -84,6 +85,8 @@
     <string name="dialog_privacy_revoke_tips">"După ce veți revoca autorizarea, aplicația nu va mai colecta date, iar toate datele vor fi șterse de pe servere. Acest lucru poate face aplicația virtual inutilizabilă. Revocați autorizarea oricum? Pentru a vă asigura securitatea contului, conectați-vă la to i.mi.com înainte de a revoca autorizarea pentru serviciile Xiaomi Cloud."</string>
     <string name="dialog_title_storage_full">Spaţiu insuficient</string>
     <string name="download">Descărcați</string>
+    <string name="download_pause">Descărcarea a fost întreruptă. Atingeți pentru a relua.</string>
+    <string name="downloading">Se descarcă. Atingeți pentru a întrerupe.</string>
     <string name="duration_format_hour">%s h</string>
     <string name="duration_format_minute">%s m</string>
     <string name="duration_format_second">%s s</string>
@@ -192,6 +195,8 @@
     <string name="korea_permission_record_resc">Pentru înregistrarea de sunete</string>
     <string name="korea_permission_storage">Stocare</string>
     <string name="korea_permission_storage_desc">Pentru salvarea înregistrărilor</string>
+    <string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API bazat pe SQLCipher</string>
+    <string name="library_android_database_sqlcipher_libraryName">SQLCipher pentru Android</string>
     <string name="loading_more">Doar o secundă…</string>
     <string name="loading_order_list">Doar o secundă…</string>
     <string name="loading_order_list_empty">Nicio comandă aici.</string>
@@ -215,9 +220,9 @@
     <string name="material_timepicker_text_input_mode_description">Comutați la modul Introducere text pentru introducerea orei.</string>
     <string name="menu">Meniu</string>
     <string name="message_file_size_error">Înregistrarea a atins lungimea maximă susţinută de %s</string>
-    <string name="mi_account_msg">Conectați-vă utilizând contul Mi pentru a transcrie fișiere în Cloud și a obține primele 60 de minute gratuit.</string>
+    <string name="mi_account_msg">Conectați-vă utilizând contul Xiaomi pentru a transcrie fișiere în Cloud și a obține primele 60 de minute gratuit.</string>
     <string name="mi_account_ok">Conectați-vă</string>
-    <string name="mi_account_title">Conectați-vă utilizând contul Mi</string>
+    <string name="mi_account_title">Conectați-vă utilizând contul Xiaomi</string>
     <string name="midnight">Noapte</string>
     <string name="miuix_access_state_desc">Selectat</string>
     <string name="miuix_alphabet_indexer_name">Bara de index</string>
@@ -321,7 +326,9 @@
     <string name="mtrl_picker_toggle_to_day_selection">Atingeți pentru a comuta la selectarea unei zile</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Comutați la modul de introducere text</string>
     <string name="mtrl_picker_toggle_to_year_selection">Atingeți pentru a comuta la selectarea unui an</string>
-    <string name="network_tip_dialog_cancel">"Nu sunt de acord"</string>
+    <string name="network_error_info">A apărut o eroare de rețea. Verificați setările de rețea și încercați din nou.</string>
+    <string name="network_timeout_info">Nu s-a putut conecta la rețea. Încercați din nou.</string>
+    <string name="network_tip_dialog_cancel">Nu sunt de acord</string>
     <string name="network_tip_dialog_content">Aplicația de Înregistrare trebuie să se conecteze la internet pentru a funcționa în mod normal. Sunteți de acord?</string>
     <string name="network_tip_dialog_ok">De acord</string>
     <string name="network_tip_dialog_title">Este necesară conexiunea la internet</string>
@@ -413,6 +420,7 @@
     <string name="privacy_policy_title">Politica de Confidențialitate</string>
     <string name="privacy_settings">Confidențialitate</string>
     <string name="progress">Bara de progres a redării</string>
+    <string name="progressbar_title">Se verifică problemele de securitate…</string>
     <string name="recognition_button_add_to_queue">Adăugați în lista de sarcini</string>
     <string name="recognition_button_cancel">Nu acum</string>
     <string name="recognition_button_start">Transcrieți</string>
@@ -586,6 +594,8 @@
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>
+    <string name="sync_desc_state_complete">Sincronizate în Cloud: %1$s</string>
+    <string name="system_error_info">Sistemul este ocupat. Așteptați un minut sau două și încercați din nou.</string>
     <string name="tab_all">Toate</string>
     <string name="tab_apps">Aplicații</string>
     <string name="tab_call">Apeluri</string>
@@ -668,6 +678,7 @@
     <string name="tuesday_shortest">Ma</string>
     <string name="uninstall_warning_content">Aplicația de Înregistrare este o aplicație de sistem. Nu veți mai putea înregistra sau transcrie sunete audio și apeluri vocale după ce o dezinstalați.</string>
     <string name="uninstall_warning_title">Dezinstalați aplicația de Înregistrare?</string>
+    <string name="unknown_error_info">Eroare necunoscută</string>
     <string name="usage_description">Transcrierea înregistrărilor audio și sincronizarea elementelor în cloud</string>
     <string name="user_feedback">Feedback</string>
     <string name="v7_preference_off">OPRIT</string>

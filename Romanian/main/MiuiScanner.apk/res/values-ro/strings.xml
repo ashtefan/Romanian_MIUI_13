@@ -135,6 +135,7 @@
     <string name="create_again">Reîmprospătați</string>
     <string name="crop_cancel_description">Renunțați</string>
     <string name="crop_done_description">Finalizat</string>
+    <string name="crop_frame_you_box_selection_cannot_crop_this_picture">Zona de selecție ar trebui să aibă patru laturi</string>
     <string name="crop_frame_you_selected_cannot_crop_this_picture">Patrulaterul de tăiere nu poate fi un patrulater concav, iar unghiul maxim nu poate depăși 140 de grade</string>
     <string name="crop_title_study">Decupați fotografia</string>
     <string name="crop_title_translation">Selectați textul de tradus</string>
@@ -199,9 +200,9 @@
     <string name="error_server_error">A apărut o eroare de server.</string>
     <string name="evening">După amiază</string>
     <string name="expand_button_title">Avansat</string>
-    <string name="experience_new_feature_tips">Conectați-vă la contul dvs Mi pentru a aplica pentru permisiunile de utilizare a versiunii Beta. Veți putea utiliza versiunea Beta după ce vă vom revizui aplicarea. Versiunea Beta poate conține erori.</string>
+    <string name="experience_new_feature_tips">Conectați-vă la contul dvs Xiaomi pentru a aplica pentru permisiunile de utilizare a versiunii Beta. Veți putea utiliza versiunea Beta după ce vă vom revizui aplicarea. Versiunea Beta poate conține erori.</string>
     <string name="experience_new_features">Versiune Beta</string>
-    <string name="experiential_version_of_the_prompt_content">Conectați-vă la contul dvs Mi pentru a accesa aplicația Scaner Beta. Vă conectați acum?</string>
+    <string name="experiential_version_of_the_prompt_content">Conectați-vă la contul dvs Xiaomi pentru a accesa aplicația Scaner Beta. Vă conectați acum?</string>
     <string name="express_no_empty">Introduceți mai întâi numărul de ordine</string>
     <string name="failed_to_get_xiaomi_account">Nu s-a putut conecta</string>
     <string name="fax">Fax</string>
@@ -278,6 +279,7 @@
     <string name="food_module_thumbs_up">Îmi place</string>
     <string name="food_module_tip">Plasați mâncarea în interiorul ramei</string>
     <string name="food_module_title_food">Calorii</string>
+    <string name="form_preview_title">Previzualizare tabel excel</string>
     <string name="format_error">Parolă nevalidă</string>
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
@@ -341,6 +343,8 @@
     <string name="link_to_network">Conectați-vă</string>
     <string name="local_ocr_recognition">Recunoaștere OCR locală</string>
     <string name="local_ocr_recognition_str">S-a comutat la traducerea offline</string>
+    <string name="location_permission_message">Pentru conectarea la Wi-Fi</string>
+    <string name="location_permissions_text">Permiteți accesul la locație din Setări pentru a putea folosi această funcție.</string>
     <string name="logistics">Livrare expres</string>
     <string name="logout_service">Retrageți consimțământul</string>
     <string name="low_version_tip">Actualizați MIUI la cea mai recentă versiune pentru a utiliza aplicația Scaner.</string>
@@ -456,6 +460,8 @@
     <string name="no_support_to_translate_type">"Această limbă nu este suportată"</string>
     <string name="noon">Amiază</string>
     <string name="not_insert_contact">"Nu se poate adăuga contactul"</string>
+    <string name="not_permissions_hint">Permiteți accesul la cameră pentru a putea folosi această funcție.</string>
+    <string name="not_permissions_title">Permisiuni necesare</string>
     <string name="not_recommend_access_web_url">Accesați site-ul oricum</string>
     <string name="not_set">Nesetat</string>
     <string name="note">Remarcă:</string>
@@ -607,6 +613,11 @@
     <string name="scanHistory_close">Dezactivați</string>
     <string name="scanHistory_isOpen">Porniți salvarea istoricului elementelor scanate?</string>
     <string name="scanHistory_open">Activați</string>
+    <string name="scan_document_top_tip">Scanați un document pe hârtie pentru a crea un .pdf</string>
+    <string name="scan_document_top_tip_second">Scanați mai multe elemente pentru a crea un .pdf</string>
+    <string name="scan_form">Scanați tabelul</string>
+    <string name="scan_form_top_tip">Scanați, salvați și editați tabele</string>
+    <string name="scan_general_top_tip">Recunoașteți plante, oameni și produse</string>
     <string name="scan_result">Rezultat</string>
     <string name="scan_support_type">WeChat, Alipay, Coduri QR, coduri de bare</string>
     <string name="sdk_not_ready">Pregătire SDK. Încercați din nou mai târziu.</string>
@@ -737,6 +748,8 @@
     <string name="title_desktop_uninstall">Dezinstalați aplicația Scaner?</string>
     <string name="to_install_title">Acest cod QR redirecționează către o aplicație neinstalată. Descărcați această aplicație acum?</string>
     <string name="to_pay">Finalizați plata</string>
+    <string name="toast_net_2g">Nu s-a putut conecta la rețea. Schimbați rețelele și încercați din nou.</string>
+    <string name="toast_net_timeout">Cererea a expirat. Așteptați un minut sau două și încercați din nou.</string>
     <string name="today">Astăzi</string>
     <string name="toinstall">Descărcați</string>
     <string name="tomorrow">Mâine</string>
@@ -826,6 +839,9 @@
     <string name="xiaoai_dialog">"Încercați să spuneți Mi AI ceea ce
 doriți să scanați"</string>
     <string name="xiaoai_text">Micuțul buton dragoste</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Nu acum</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">actualizați</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Este disponibilă o actualizare</string>
     <string name="yesterday">Ieri</string>
     <string name="you_have_permission_to_download">Atingeți pentru a descărca versiunea Beta</string>
     <string name="you_id">"ID-ul dvs: "</string>
