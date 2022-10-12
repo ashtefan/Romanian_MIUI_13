@@ -828,7 +828,6 @@ efecte pentru fotografii"</string>
     <string name="feedback_my_reports">Feedback</string>
     <string name="feedback_problem">Raportați o problemă</string>
     <string name="feedback_suggest">Trimiteți o sugestie</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">"Nu se poate tipări acest element."</string>
     <string name="file_cannot_screen_throw">"Nu se poate proiecta acest element."</string>
     <string name="file_sending">Se transferă fișierele…</string>

@@ -55,7 +55,6 @@
     <string name="blackshark_3_pro">Black Shark 3 Pro</string>
     <string name="blackshark_helo">Black Shark Helo</string>
     <string name="blackshark_phone">Black Shark</string>
-    <string name="both_stroke_and_substrate_are_not_supported">@string/text_edit_dialog_style_toast</string>
     <string name="btn_cancel">Renunțați</string>
     <string name="btn_cancel_send">Anulați acest transfer</string>
     <string name="btn_exit_send">Ieșiți</string>
