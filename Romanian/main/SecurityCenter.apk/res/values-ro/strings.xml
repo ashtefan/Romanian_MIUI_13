@@ -179,7 +179,7 @@
     <string name="antivirus_choose_engine_title">Definiţii</string>
     <string name="antivirus_detect_apps_dialog_cancel">Am înțeles</string>
     <string name="antivirus_detect_apps_dialog_content_text">Această aplicație poate prezenta riscuri pentru securitatea informațiilor dvs. personale.</string>
-    <string name="antivirus_detect_apps_dialog_message">Dacă personalul de asistență pentru clienți, autoritățile sau persoanele pe care le cunoașteți vă solicită să utilizați această aplicație, <Date>&lt;font color=#F22424>verificați-le identitatea înainte de a continua&lt;/font>.</Data></string>
+    <string name="antivirus_detect_apps_dialog_message">Dacă personalul de asistență pentru clienți, autoritățile sau persoanele pe care le cunoașteți vă solicită să utilizați această aplicație, <Data>&lt;font color=#F22424>verificați-le identitatea înainte de a continua&lt;/font>.</Data></string>
     <string name="antivirus_detect_apps_dialog_message_reject_permission">Permisiunile solicitate de această aplicație au fost restricționate. Puteți gestiona permisiunile aici: %s.</string>
     <string name="antivirus_detect_apps_dialog_uninstall">Dezinstalați</string>
     <string name="antivirus_detect_apps_noti_message">Această aplicație prezintă riscuri de securitate</string>

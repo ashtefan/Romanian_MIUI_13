@@ -369,7 +369,7 @@ Dezactivați pentru a opri sincronizarea."</string>
     <string name="branch_give_relevant_permissions">Acordați Mi Browser permisiunile relevante din Setări</string>
     <string name="branch_grant_permission">Sunt necesare unele permisiuni</string>
     <string name="branch_local_search_settings">Setări de căutare locală</string>
-    <string name="branch_search_guide_privacy">"Această funcție este oferită de Branch Metrics Inc. Vom împărtăși locația dvs., căutările și ID-ul Google Ads. Citiți și acceptați „<font color="#B3000000"><a href="http://url1">Termenii și condițiile</a></font> și <font color="#B3000000"><a. href="http://url2">Politica de confidențialitate</a></font> înainte de a continua.</string>
+    <string name="branch_search_guide_privacy">"Această funcție este oferită de Branch Metrics Inc. Vom împărtăși locația dvs., căutările și ID-ul Google Ads. Citiți și acceptați "<font color="#B3000000"><a href="http://url1">Termenii și Condițiile lor</a></font> precum și <font color="#B3000000"><a href="http://url2">Politica de Confidențialitate</a></font> înainte de a continua.</string>
     <string name="branch_search_in_browser">Căutați \"%1$s\" în Browser</string>
     <string name="branch_setting">Setări</string>
     <string name="branch_short_message">Mesagerie</string>
