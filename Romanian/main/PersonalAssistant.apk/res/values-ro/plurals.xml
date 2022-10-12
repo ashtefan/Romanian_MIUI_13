@@ -230,8 +230,8 @@
         <item quantity="one">%d element selectat</item>
     </plurals>
     <plurals name="pa_express_settings_title_2">
-        <item quantity="other">"Ați adăugat %d numere de telefon"</item>
-        <item quantity="one">"Ați adăugat %d număr de telefon"</item>
+        <item quantity="other">Ați adăugat %d numere de telefon</item>
+        <item quantity="one">Ați adăugat %d număr de telefon</item>
     </plurals>
     <plurals name="pa_express_widget_list_left_panel_subtitle_abandoned">
         <item quantity="other">%d pachete abandonate</item>
@@ -258,8 +258,8 @@
         <item quantity="one">%d pachet în tranzit</item>
     </plurals>
     <plurals name="pa_express_widget_list_left_panel_subtitle_reject">
-        <item quantity="other">"%d pachete nu au putut fi livrate"</item>
-        <item quantity="one">"%d pachet nu a putut fi livrat"</item>
+        <item quantity="other">%d pachete nu au putut fi livrate</item>
+        <item quantity="one">%d pachet nu a putut fi livrat</item>
     </plurals>
     <plurals name="pa_express_widget_list_left_panel_subtitle_sign">
         <item quantity="other">%d pachete livrate</item>

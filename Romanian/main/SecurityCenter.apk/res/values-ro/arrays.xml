@@ -36,14 +36,14 @@
     </string-array>
     <string-array name="daily_brand">
         <item>Personalizat</item>
-        <item>Cartelă Mi Fan</item>
+        <item>Cartelă Xiaomi Fan</item>
         <item>Cartelă Xiao Tiansheng</item>
         <item>Cartelă Tencent King</item>
     </string-array>
     <string-array name="daily_rent_card_brands">
         <item>Personalizat</item>
         <item>Mi Mobile</item>
-        <item>Card Mi Fan</item>
+        <item>Card Xiaomi Fan</item>
         <item>Card Tianshen</item>
         <item>Card Tencent</item>
     </string-array>

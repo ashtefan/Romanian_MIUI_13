@@ -620,6 +620,16 @@
     <string name="scan_general_top_tip">Recunoașteți plante, oameni și produse</string>
     <string name="scan_result">Rezultat</string>
     <string name="scan_support_type">WeChat, Alipay, Coduri QR, coduri de bare</string>
+    <string name="scan_support_type_new">Scanați codul QR sau codul de bare</string>
+    <string name="scan_text">Scanați textul</string>
+    <string name="scan_text_top_tip">Recunoașteți și copiați textul</string>
+    <string name="scan_translate_top_tip">Traduceți tot textul dintr-o fotografie</string>
+    <string name="screenshot_copy_text">Copiați textul</string>
+    <string name="screenshot_save_image">Salvați imaginea</string>
+    <string name="screenshot_save_image_error">Nu s-a putut salva imaginea</string>
+    <string name="screenshot_save_image_success">Imagine salvată cu succes</string>
+    <string name="screenshot_shared_image">Distribuiți imaginea</string>
+    <string name="screenshot_translation_running">Se traduce…</string>
     <string name="sdk_not_ready">Pregătire SDK. Încercați din nou mai târziu.</string>
     <string name="search_menu_title">Căutați</string>
     <string name="secure_access_web_url">Accesați site-ul</string>

@@ -32,7 +32,7 @@
     <string name="accessibility_battery_level_charging">Acumulatorul se încarcă, %d procente.</string>
     <string name="actionbar_button_up_description">Înapoi</string>
     <string name="add_custom_image">Imagine personalizată</string>
-    <string name="add_from_album">Adăugați din Galerie</string>
+    <string name="add_from_local">Selectați imaginea</string>
     <string name="afternoon">După amiază</string>
     <string name="align_center_horizontally">Orizontal și aliniat la centru</string>
     <string name="align_center_vertically">Stivuite și aliniate la centru</string>

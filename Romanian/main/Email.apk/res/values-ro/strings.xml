@@ -74,8 +74,9 @@ Pentru a înțelege pe deplin drepturile dumneavoastră ca utilizator, precum ș
     <string name="account_setting_message_body_load_head_only">Doar titlul</string>
     <string name="account_setting_message_body_load_text">Doar conținutul</string>
     <string name="account_settings_action">Setări cont</string>
-    <string name="account_settings_background_attachments_label">Descărcaţi ataşamentele</string>
-    <string name="account_settings_background_attachments_summary">Descărcaţi ataşamentele prin WLAN</string>
+    <string name="account_settings_background_attachments_security_summary">Verificați atașamentele care conțin pachete de instalare pentru riscuri de securitate</string>
+    <string name="account_settings_background_attachments_security_title">Verificați atașamentele pentru riscuri</string>
+    <string name="account_settings_background_attachments_summary">Descărcaţi ataşamentele prin Wi-Fi</string>
     <string name="account_settings_background_attachments_summary_inter">Descărcaţi ataşamentele prin Wi-Fi</string>
     <string name="account_settings_background_attachments_title">Descarcă atașamentele în mod automat</string>
     <string name="account_settings_data_usage">Setări sincronizare</string>
@@ -293,6 +294,10 @@ Actualizaţi acum?"</string>
     <string name="attachment_unknown">Fişier %s</string>
     <string name="attachment_video">Video</string>
     <string name="attachments_header">Ataşamente</string>
+    <string name="attachments_security_alert_install_message">Acest atașament este un pachet de instalare. Asigurați-vă că aveți încredere în sursă înainte de a o deschide. Instalați acum?</string>
+    <string name="attachments_security_alert_install_title">Atenție</string>
+    <string name="attachments_security_alert_message">Acest mesaj conține un pachet de instalare. Asigurați-vă că aveți încredere în sursă înainte de a-l deschide.</string>
+    <string name="attachments_security_install">Instalați</string>
     <string name="attendee_needed">Adăugați cel puțin un invitat.</string>
     <string name="auto_advance_help_title">După ștergerea unui mesaj, se vizualizează…</string>
     <string name="auto_advance_label">Ștergere flux de mesaje</string>
@@ -382,6 +387,8 @@ Actualizaţi acum?"</string>
     <string name="click_download_all_content">[ Apăsați pentru a descărca conținutul ]</string>
     <string name="click_to_reload">Atingeți ecranul pentru a încărca din nou</string>
     <string name="close">Închideți</string>
+    <string name="close_custom_folder">Ascundeți sub-dosarele</string>
+    <string name="close_tips">Închide memento-ul</string>
     <string name="collapse_recipient_details">Restrângeţi detaliile destinatarului</string>
     <string name="compose">Compuneţi</string>
     <string name="compose_add_attachment_permission_denied">Nu se poate redirecționa e-mailul. Sunt necesare permisiuni pentru accesarea stocării externe.</string>
@@ -706,6 +713,7 @@ Actualizaţi acum?"</string>
     <string name="folder_junk_name_en2">E-mailuri nedorite</string>
     <string name="folder_junk_name_en3">E-mail nedorit</string>
     <string name="folder_junk_name_en4">Gunoi</string>
+    <string name="folder_junk_name_en5">Nedorit</string>
     <string name="folder_list_current_account">Contul curent</string>
     <string name="folder_list_display_all">Se afişează toate dosarele</string>
     <string name="folder_list_display_only_import">Se afişează doar dosarele importante</string>
@@ -1020,6 +1028,7 @@ Această problemă ar putea fi cauzată de autentificarea în doi factori a cont
     <string name="message_details_title">Detalii mesaj</string>
     <string name="message_discarded">Mesaj eliminat</string>
     <string name="message_invite_accept">Da</string>
+    <string name="message_invite_calendar_download_prompt">Descărcați aplicația Calendar pentru a putea folosi această funcție</string>
     <string name="message_invite_calendar_view">Afişaţi în Calendar</string>
     <string name="message_invite_decline">Nu</string>
     <string name="message_invite_end_time">Ora de sfârșit</string>
