@@ -1580,7 +1580,7 @@ Verificați numărul de urmărire."</string>
     <string name="pa_accessibility_olympic_the_first">Primul loc: %s</string>
     <string name="pa_accessibility_olympic_the_second">Al doilea loc: %s</string>
     <string name="pa_accessibility_olympic_the_third">Al treilea loc: %s</string>
-    <string name="pa_accessibility_picker_app_group_list_item">%1$s, 共%2$d个小部件。</string>
+    <string name="pa_accessibility_picker_app_group_list_item">Widgetul %1$s din %2$d</string>
     <string name="pa_accessibility_picker_back">Reveniți.</string>
     <string name="pa_accessibility_picker_home_appList_entrance">Vedeți lista widgeturilor suportate</string>
     <string name="pa_accessibility_picker_home_bigBanner_slected">Selectat %1$s, rândul %2$d, numărul %3$d. Atingeți de două ori pentru a începe.</string>
@@ -1752,6 +1752,9 @@ De asemenea, puteți urmări livrarea rapidă pe site-urile oficiale ale servici
     <string name="pa_express_widget_logout">Conectați-vă pentru a vedea pachetele cu livrare expres</string>
     <string name="pa_express_widget_order_42">Introduceți numărul de urmărire</string>
     <string name="pa_express_widget_post">Trimiteți pachetul</string>
+    <string name="pa_filter_accessibility_filter_item">S-a selectat %s. Atingeți de două ori pentru a filtra alte selecții.</string>
+    <string name="pa_filter_accessibility_filter_popup_item_selected">Atingeți de două ori pentru a selecta %s.</string>
+    <string name="pa_filter_accessibility_filter_popup_item_unselected">%s. Atingeți de două ori pentru a selecta.</string>
     <string name="pa_filter_replace_bt">Aplicați</string>
     <string name="pa_filter_search_title">Rezultate pentru \"%s\"</string>
     <string name="pa_filter_title">Mai multe widgeturi</string>
@@ -1879,7 +1882,7 @@ Rămâneţi aproape!"</string>
     <string name="pa_picker_list_recommend">Recomandate</string>
     <string name="pa_picker_loading">Doar o secundă…</string>
     <string name="pa_picker_maml_list_activity_title">Adăugați widgeturi</string>
-    <string name="pa_picker_no_relevant_content">"Nu s-au putut găsi rezultate"</string>
+    <string name="pa_picker_no_relevant_content">Nu s-au putut găsi rezultate</string>
     <string name="pa_picker_permission_denied">"Asistentul inteligent trebuie să acceseze starea instalării
 pentru a afișa widgeturi."</string>
     <string name="pa_picker_request">Setări</string>
@@ -1893,7 +1896,7 @@ pentru a afișa widgeturi."</string>
     <string name="pa_picker_search_error">"Nu s-a putut conecta la rețea"</string>
     <string name="pa_picker_search_layout_cancel">Renunțați</string>
     <string name="pa_picker_search_recommendation_title">Recomandate</string>
-    <string name="pa_picker_search_result_empty">"Nu s-au putut găsi rezultate"</string>
+    <string name="pa_picker_search_result_empty">Nu s-au putut găsi rezultate</string>
     <string name="pa_picker_search_result_type_application">Aplicații</string>
     <string name="pa_picker_search_result_type_recommend">Recomandate</string>
     <string name="pa_picker_search_result_type_suit">Seturi de widgeturi</string>
@@ -1978,7 +1981,7 @@ pentru a afișa widgeturi."</string>
     <string name="pa_shopping_dialog_privacy_authorize_message">Bun venit la Cumpărături! Puteți folosi acest widget pentru a obține reduceri și oferte de cumpărături. Citiți și acceptați Declarația noastră privind serviciile terților și Politica de confidențialitate înainte de a continua.</string>
     <string name="pa_shopping_dialog_privacy_authorize_title">Termeni și condiții</string>
     <string name="pa_shopping_dialog_privacy_desc">Politica de Confidențialitate</string>
-    <string name="pa_shopping_dialog_privacy_withdraw_message">"Dacă continuați, vă veți retrage consimțământul cu privire la Politica de confidențialitate pentru Cumpărături. Vom înceta să colectăm informațiile dumneavoastră personale. Informațiile personale deja colectate și păstrate vor fi șterse în perioada specifică, în conformitate cu legile și reglementările aplicabile, dacă nu se cere altfel. Cum Shopping își oferă serviciile pe baza colectării informațiilor personale necesare, retragerea consimțământului dvs. va fi considerată ca un refuz de a accepta aceste servicii.."</string>
+    <string name="pa_shopping_dialog_privacy_withdraw_message">Dacă veți continua, vă veți retrage consimțământul cu privire la Politica de confidențialitate pentru Cumpărături. Vom înceta să colectăm informațiile dumneavoastră personale. Informațiile personale deja colectate și păstrate vor fi șterse în perioada specifică, în conformitate cu legile și reglementările aplicabile, dacă nu se cere altfel. Cum aplicația Cumpărături își oferă serviciile pe baza colectării informațiilor personale necesare, retragerea consimțământului dvs. va fi considerată ca un refuz de a accepta aceste servicii.</string>
     <string name="pa_shopping_dialog_privacy_withdraw_title">Retragerea consimțământului</string>
     <string name="pa_shopping_dialog_statement_desc">Declarație privind serviciile terților</string>
     <string name="pa_shopping_page_product_action_bar_title">Toate produsele</string>
@@ -1994,11 +1997,11 @@ pentru a afișa widgeturi."</string>
     <string name="pa_shopping_widget_empty_content_desc">Nimic aici deocamdată</string>
     <string name="pa_shopping_widget_full_bottom_desc">Toate produsele</string>
     <string name="pa_shopping_widget_no_cta_content_desc">Atingeți pentru a acorda permisiunea de a folosi Cumpărături</string>
-    <string name="pa_shopping_widget_no_network_content_desc">"Nu s-a putut conecta la rețea"</string>
+    <string name="pa_shopping_widget_no_network_content_desc">Nu s-a putut conecta la rețea</string>
     <string name="pa_shopping_widget_no_privacy_content_desc">Sunteți de acord cu Politica de confidențialitate pentru Cumpărături pentru a putea folosi această funcție. Atingeți pentru a vizualiza.</string>
     <string name="pa_shopping_widget_no_setting_content_desc">Setări</string>
     <string name="pa_shopping_widget_title">Cumpărături</string>
-    <string name="pa_shortcut_accessibility_description">"Asistentul inteligent oferă comenzi rapide pentru aplicațiile terțe selectate. Aceste comenzi rapide nu vor funcționa dacă dezactivați funcția."</string>
+    <string name="pa_shortcut_accessibility_description">Asistentul inteligent oferă comenzi rapide pentru aplicațiile terțe selectate. Aceste comenzi rapide nu vor funcționa dacă dezactivați funcția.</string>
     <string name="pa_shortcut_accessibility_service">Asistentul inteligent</string>
     <string name="pa_shortcut_add_limit">Puteți adăuga maxim %1$d comenzi rapide</string>
     <string name="pa_shortcut_apps">Aplicații</string>

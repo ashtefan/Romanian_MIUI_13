@@ -181,6 +181,7 @@
     <string name="dlg_hide_message">Ascundere…</string>
     <string name="dlg_info_creating_message">Creare mesaj…</string>
     <string name="dlg_info_save_to_gallery_message">Se salvează imaginea în Galerie…</string>
+    <string name="dlg_info_save_to_local_message">Se salvează…</string>
     <string name="dlg_message_password_reset">"Parola pentru notițele ascunse va fi înlocuită cu parola pentru protejarea confidențialității care este utilizată pentru mesaje, fotografii și dosare ascunse"</string>
     <string name="dlg_message_set_password">Parola pentru protejarea confidențialității este utilizată pentru mesaje, fotografii și dosare ascunse</string>
     <string name="dlg_message_use_privacy_password">Utilizați parola pentru protejarea confidențialității. Aceasta este utilizată pentru mesaje, fotografii și dosare ascunse.</string>
@@ -663,6 +664,8 @@
     <string name="permission_phone_state_desc">Pentru oprirea înregistrării notițelor vocale pe durata apelurilor</string>
     <string name="permission_read_contact_desc">Asocierea notițelor create pe durata apelurilor cu persoanele din agendă</string>
     <string name="permission_storage_desc">Pentru salvarea notițelor ca imagini</string>
+    <string name="permission_storage_desc_new_v12">Pentru adăugarea de imagini la note și salvarea notițelor ca imagini</string>
+    <string name="permission_storage_desc_pad_new_v12">Pentru adăugarea de imagini la note și salvarea notițelor ca imagini</string>
     <string name="permission_storage_desc_pad_v12">Pentru adăugarea de imagini la notițe și salvarea acestora ca imagini</string>
     <string name="permission_storage_desc_v12">Pentru adăugarea de imagini la notițe și salvarea acestora ca imagini</string>
     <string name="permission_xiaoai_desc"><Data>Mi AI va colecta înregistrările vocale și ID-ul dispozitivului pentru a transcrie și crea notițe vocale. Aflați mai multe din &lt;a href=\"%1$s\">Politica de Confidențialitate Mi AI&lt;/a>.</Data></string>
@@ -750,6 +753,9 @@
     <string name="save_to_gallery_failure_message">"Nu s-a putut salva"</string>
     <string name="save_to_gallery_icon_name">Salvează în Galerie</string>
     <string name="save_to_gallery_success_message">Salvată cu succes</string>
+    <string name="save_to_local_failure_message">Nu s-a putut salva</string>
+    <string name="save_to_local_icon_name">Salvați</string>
+    <string name="save_to_local_success_message">Salvat cu succes</string>
     <string name="search">Note</string>
     <string name="search_hint">Căutaţi note</string>
     <string name="search_keyword_notes">Note;Memento</string>

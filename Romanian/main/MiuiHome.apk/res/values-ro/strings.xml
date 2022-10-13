@@ -509,6 +509,9 @@ Securitate sporită."</string>
     <string name="midnight">Noapte</string>
     <string name="minus_one_screen">Asistentul inteligent</string>
     <string name="miui_screen_config_title">Setări pentru Ecranul principal</string>
+    <string name="miui_widget_menu_replace_text">Comutați</string>
+    <string name="miuix_access_state_desc">Selectat</string>
+    <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>

@@ -223,6 +223,9 @@
     <string name="assistant_page_discovery">Descoperiți</string>
     <string name="assistant_page_label">Amintiri</string>
     <string name="assistant_page_server_error">Verificați setările de rețea</string>
+    <string name="assistant_today_of_year_function_closed_tip">Activați</string>
+    <string name="assistant_today_of_year_function_no_address_tip">Înapoi în timp</string>
+    <string name="assistant_today_of_year_function_no_photo_tip">Începeți</string>
     <string name="associate_face_album">Selectați un album</string>
     <string name="asus">Asus</string>
     <string name="asus_phone">Asus</string>
@@ -576,6 +579,7 @@
     <string name="crop_label">Fotografii trunchiate</string>
     <string name="cta_agreement_declare"><Data>Pentru a înțelege pe deplin drepturile dvs. ca și utilizator, precum și modurile în care utilizăm datele dvs., citiți și acceptați &lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a> și &lt;a href=\"%2$s\">Politica de Confidențialitate&lt;/a> înainte de a utiliza această aplicație.</Data></string>
     <string name="cta_network_declare">Pentru a sincroniza fotografiile și videoclipurile în Xiaomi Cloud, această aplicație trebuie să se conecteze la internet.</string>
+    <string name="cta_screenthrow_declare">Pentru a putea proiecta ecranul acestui dispozitiv pe monitoare externe, această aplicație trebuie să se conecteze la internet.</string>
     <string name="custom_select_title_deselect_all">Deselectați</string>
     <string name="custom_select_title_quickly_share">Partajați</string>
     <string name="custom_select_title_select_all">Selectați tot</string>
@@ -816,6 +820,7 @@ Faceți mai multe fotografii prietenilor!"</string>
     <string name="face_name_input">Introduceți numele</string>
     <string name="face_recommend">Recomandări</string>
     <string name="fail_hint">"Operaţiune eşuată"</string>
+    <string name="fail_reason_migrate">Se procesează articolele…Așteptați un minut sau două și încercați din nou.</string>
     <string name="fail_to_pick_email">Adresă de e-mail incorectă</string>
     <string name="fail_to_sync_album">Sincronizarea albumului a eşuat. Verificați conexiunea la rețea şi încercaţi din nou.</string>
     <string name="family_member_invitation_text">Alt membru al familiei</string>
@@ -1163,6 +1168,8 @@ efecte pentru fotografii"</string>
     <string name="home_page_custom">Personalizat</string>
     <string name="home_page_empty_action">Realizați o fotografie</string>
     <string name="home_page_label">Fotografii</string>
+    <string name="home_sdcard_op_tip_msg">Această acțiune nu a putut fi finalizată pentru toate imaginile selectate. Demontați și montați din nou cardul SD.</string>
+    <string name="home_sdcard_tip_msg">Se pare că cardul SD este doar pentru citire. Demontați și montați-l din nou în Setări > Despre telefon > Stocare.</string>
     <string name="homepage_allphotos_tip_dialog_button_negative">Omiteți</string>
     <string name="homepage_allphotos_tip_dialog_button_positive">OK</string>
     <string name="homepage_allphotos_tip_dialog_description_all">Toate</string>
@@ -1652,6 +1659,8 @@ pentru a personaliza Galeria"</string>
     <string name="ocr_save_to_note">Salvați</string>
     <string name="ocr_save_to_note_new">Salvați în Notițe</string>
     <string name="ocr_send">Partajați</string>
+    <string name="ocr_switch_hint">Recunoașteți textul afișat pe imagini pentru a-l putea selecta sau pentru a realiza alte acțiuni</string>
+    <string name="ocr_switch_title">Recunoașteți textul din imagini</string>
     <string name="ocr_text_copied">Copiat cu succes</string>
     <string name="ocr_title">Rezultat</string>
     <string name="ocr_using_cellular_negative">Recunoaște</string>
@@ -2015,7 +2024,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="projection_cancel">Renunțați</string>
     <string name="projection_checkbox_text">Reține acest ecran</string>
     <string name="projection_device_connection_failed">"Nu s-a putut conecta la proiector"</string>
-    <string name="projection_local_mobile">Acest telefon</string>
+    <string name="projection_local_mobile">Acest dispozitiv</string>
     <string name="projection_multi_title">Listă dispozitive</string>
     <string name="projection_screen_project_in_screening">"Utilizați dispozitivul pentru proiectare acum"</string>
     <string name="projection_single_title">Distribuiți la %s</string>
