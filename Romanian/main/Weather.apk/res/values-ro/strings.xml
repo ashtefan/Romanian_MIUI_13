@@ -310,7 +310,12 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
     <string name="indices_title_chance_of_rain">Șanse de ploaie</string>
     <string name="indices_title_feel">Temperatura resimțită</string>
     <string name="indices_title_pressure">Pres. atm.</string>
+    <string name="indices_title_uv">UV</string>
     <string name="indices_title_wind_speed">Viteza vântului</string>
+    <string name="indices_wind_direction_east">E</string>
+    <string name="indices_wind_direction_north">N</string>
+    <string name="indices_wind_direction_south">S</string>
+    <string name="indices_wind_direction_west">W</string>
     <string name="information_settings_title">Informații meteo</string>
     <string name="install">Instalați</string>
     <string name="international_details_pressure_title">PRESIUNE</string>
@@ -497,6 +502,8 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="send">Trimiteți</string>
     <string name="set_degree_centigrade">°C</string>
     <string name="set_fahrenheit">°F</string>
+    <string name="setting_notification_manager">Notificări</string>
+    <string name="setting_used_to_push_reminder">Primiți alerte și avertismente meteo</string>
     <string name="settings">Setări</string>
     <string name="settings_atmospheric_pressure_atm">Atmosfere standard (atm)</string>
     <string name="settings_atmospheric_pressure_default">0</string>

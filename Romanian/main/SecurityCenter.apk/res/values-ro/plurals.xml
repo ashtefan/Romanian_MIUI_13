@@ -598,6 +598,14 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
         <item quantity="other">Dispozitivul dvs. se va închide în %d secunde</item>
         <item quantity="one">Dispozitivul dvs. se va închide în %d secundă</item>
     </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s ore</item>
+        <item quantity="one">%s oră</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s minute</item>
+        <item quantity="one">%s minut</item>
+    </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">ori</item>
         <item quantity="one">dată</item>
@@ -681,6 +689,14 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
     <plurals name="power_main_battery_last_minute">
         <item quantity="other">%s minute rămase</item>
         <item quantity="one">%s minut rămas</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">%s minute de ecran activ rămase</item>
+        <item quantity="one">%s minute de ecran activ rămas</item>
+    </plurals>
+    <plurals name="power_main_open_last_minute_screen_on">
+        <item quantity="other">Activați pentru a adăuga %s minute de timp ecran activ</item>
+        <item quantity="one">Activați pentru a adăuga %s minut de timp ecran activ</item>
     </plurals>
     <plurals name="power_off_warning_button_ok_time">
         <item quantity="other">Am înțeles (%ds)</item>
