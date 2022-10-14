@@ -144,6 +144,9 @@
     <string name="add_miservice_dialog_title">MIUI Service Framework</string>
     <string name="add_to_whitelist_button">Gestionare excepţii roaming</string>
     <string name="add_whitelist">Adăugaţi în lista excepțiilor</string>
+    <string name="added_game_notification_summary">Începeți să jucați acum</string>
+    <string name="added_game_notification_title">%s este acum în Game Turbo</string>
+    <string name="added_game_start_game">Jucați</string>
     <string name="address">Adresă</string>
     <string name="address_choose_hint">%1$s, %2$s, și %3$d alte locații</string>
     <string name="adjust_sms_cmd"><u>Ajustați modelul SMS-ului de calibrare</u></string>
@@ -889,8 +892,8 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="btn_text_stop">Opriţi</string>
     <string name="bubble_app_empty_page">Nu s-au putut găsi aplicații care acceptă bule de conversație pe acest dispozitiv</string>
     <string name="bubble_app_manage">Gestionați bulele de conversație</string>
-    <string name="bubble_mode_barrage_switch_tips">Activați pentru a afișa bulele de conversație pentru aplicațiile minimizate ca comentarii pe ecran</string>
-    <string name="bubble_mode_barrage_tips">Baloanele de conversație pentru aplicațiile minimizate vor fi afișate ca comentarii pe ecran</string>
+    <string name="bubble_mode_barrage_switch_tips">Activați pentru a afișa bulele de conversație pentru aplicațiile minimizate ca și comentarii pe ecran</string>
+    <string name="bubble_mode_barrage_tips">Baloanele de conversație pentru aplicațiile minimizate vor fi afișate ca și comentarii pe ecran</string>
     <string name="bubble_notification">Baloane de conversație</string>
     <string name="bubble_notification_switch">Afișează bule de conversație</string>
     <string name="bubble_notification_switch_desc">Când o aplicație de mesagerie într-o fereastră plutitoare este ascunsă la marginea ecranului, afișați mesajele primite în bule</string>
@@ -1141,9 +1144,18 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="diagnostic_attention_dialog_message">"Diagnosticarea pentru %1$s este în curs. Așteptați finalizarea procesului și reîncercați."</string>
     <string name="dialog_app_roaming_message">%1$s nu poate utiliza datele mobile în roaming. Când sunteţi în roaming internațional, doar aplicațiile pe care le-ați adăugat la excepţii pot utiliza datele mobile.</string>
     <string name="dialog_app_roaming_title">Roamingul internațional nu este activat pentru %1$s</string>
+    <string name="dialog_btn_delete_icon">Eliminați</string>
+    <string name="dialog_btn_no_create_icon">Renunțați</string>
+    <string name="dialog_btn_yes_create_icon">Adăugați</string>
     <string name="dialog_change_package_type_summary">Modificarea planului de date va reseta toate setările pentru utilizarea datelor (de ex. limitele de date) la valoarea lor implicită. Modificați planul de date oricum?</string>
     <string name="dialog_change_package_type_title">Modificare tip plan de date</string>
     <string name="dialog_msg_auto_start_declare">Unele aplicații pot indica în mod greșit că MIUI le-a împiedicat să pornească. Verificați permisiunile care au fost acordate aplicațiilor individuale în Setări > Aplicații.</string>
+    <string name="dialog_msg_create_icon_content">Adăugați acum o comandă rapidă pe Ecranul principal?</string>
+    <string name="dialog_msg_create_icon_not_remain_anymore">Nu afișa din nou</string>
+    <string name="dialog_msg_delete_icon_content_pad">Aplicația Securitate vă permite să curățați gunoiul de pe dispozitiv, să găsiți și să neutralizați viruși, să economisiți bateria, să gestionați permisiunile și multe altele.</string>
+    <string name="dialog_msg_delete_icon_content_phone">Aplicația Securitate vă permite să curățați gunoiul de pe dispozitiv, să găsiți și să neutralizați viruși, să economisiți bateria, să gestionați permisiunile și multe altele.</string>
+    <string name="dialog_msg_delete_icon_title_pad">Eliminați această comandă rapidă de pe Ecranul principal?</string>
+    <string name="dialog_msg_delete_icon_title_phone">Eliminați această comandă rapidă de pe Ecranul principal?</string>
     <string name="dialog_msg_stop_virus_scan">"Opriți scanarea de securitate înainte de a fi terminată?"</string>
     <string name="dialog_no_longer_alert">"Nu arăta din nou"</string>
     <string name="dialog_remobe_luckymoney_cancle">Vechi</string>
@@ -1874,6 +1886,11 @@ cutremure"</string>
     <string name="gb_advance_settings_vibration_4d_summary2">Vibrează când apar sincope în jocuri</string>
     <string name="gb_audition_instruction">Apăsați și mențineți apăsat pentru a înregistra (%1$s-%2$ss)</string>
     <string name="gb_audition_play_instruction">Folosiți căști pentru a obține cel mai bun efect</string>
+    <string name="gb_beauty_cold_light">Rece</string>
+    <string name="gb_beauty_face">Înfrumuseţare</string>
+    <string name="gb_beauty_light">Lumina de umplere</string>
+    <string name="gb_beauty_nature_light">Naturală</string>
+    <string name="gb_beauty_warm_light">Caldă</string>
     <string name="gb_collimator_color">Culoare</string>
     <string name="gb_collimator_size">Dimensiune</string>
     <string name="gb_collimator_style">Tip</string>
@@ -2356,6 +2373,7 @@ răspunsul operatorului"</string>
     <string name="managed_user_title">Toate aplicațiile de Servici</string>
     <string name="manual_input_free_traffic">Setaţi utilizarea datelor în afara orelor de vârf</string>
     <string name="manual_input_traffic">Setaţi utilizarea datelor</string>
+    <string name="manual_item_create_icon_title">Comandă rapidă pe Ecranul principal</string>
     <string name="manual_item_white_list_summary">Se împiedică optimizarea elementelor selectate</string>
     <string name="manual_item_white_list_title">Excepţii</string>
     <string name="mark_agent">Blocare apeluri de la agenții</string>
@@ -3130,6 +3148,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_center_battery_detail">Detalii</string>
     <string name="power_center_battery_duration">Timp rămas</string>
     <string name="power_center_battery_duration_format">%1$s %2$s</string>
+    <string name="power_center_battery_duration_screen_on">Durată ecran activ rămasă</string>
     <string name="power_center_battery_hardware">Hardware %s</string>
     <string name="power_center_battery_health_poor_tip">Se pare că starea acumulatorului este precară. Verificați acumulatorul într-un centru de service autorizat.</string>
     <string name="power_center_battery_health_summary">Încărcați complet acumulatorul și apoi descărcați-l de %1$d-%2$d ori pentru a crește acuratețea statisticilor despre starea lui</string>
@@ -3150,6 +3169,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_center_consume_fast">Descărcare</string>
     <string name="power_center_dialog_msg_bottom">Puteți crește durata de viață a acumulatorului cu %1$dh și %2$dm. Activați Economisirea acumulatorului?</string>
     <string name="power_center_dialog_msg_title">Activați pentru a obține %1$s timp suplimentar. Următoarele acțiuni vor fi realizate pentru a economisi energia acumulatorului:</string>
+    <string name="power_center_dialog_msg_title_screen_on">Veți obține %1$s timp de ecran activ dacă activați această funcție. Iată măsurile care vor economisi acumulatorul:</string>
     <string name="power_center_dialog_msg_top">Când Economisirea acumulatorului este activă, MIUI va face următoarele optimizări:</string>
     <string name="power_center_hints_scan_danger_result">Puteți remedia problemele legate de acumulator acum</string>
     <string name="power_center_list_item_auto_brightness">Ajustați iluminarea ecranului în mod automat</string>
@@ -3243,6 +3263,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_idle">Telefon inactiv</string>
     <string name="power_main_battery_last_day_hour">%1$sz și %2$sh rămase</string>
     <string name="power_main_battery_last_hour_minute">%1$sh și %2$sm rămase</string>
+    <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s durată de ecran activ rămas</string>
+    <string name="power_main_open_last_hour_minute_screen_on">Activați pentru a adăuga %1$s %2$s timp de ecran activ</string>
     <string name="power_off_warning_button_ok">Am înțeles</string>
     <string name="power_off_warning_message">Acumulatorul este descărcat. Telefonul se va opri în %d secunde. Conectați încărcătorul.</string>
     <string name="power_off_warning_notification_title">Pe cale să se închidă</string>

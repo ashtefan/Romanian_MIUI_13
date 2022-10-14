@@ -424,7 +424,9 @@ Protocol de conectare mai rapid."</string>
     <string name="hdcp_checking_dialog_title">Setați comportamentul verificării HDCP</string>
     <string name="hdcp_checking_title">Verificare HDCP</string>
     <string name="headset_battery_fw_failed">Încărcați mai întâi acumulatorul</string>
+    <string name="headset_battery_low">Acumulator descărcat. Încărcați-vă căștile acum.</string>
     <string name="headset_connect_device">Conectați dispozitivul</string>
+    <string name="headset_connect_timeout">Conexiunea a expirat. Încercați din nou.</string>
     <string name="headset_device_check_failed">Nu s-au putut căuta actualizări</string>
     <string name="headset_device_donot_move">Nu îndepărtați dispozitivul</string>
     <string name="headset_device_enter_upgrade_failed">Nu s-a putut iniția actualizarea</string>
@@ -449,6 +451,7 @@ Protocol de conectare mai rapid."</string>
     <string name="headset_fw_file_readfailed">Nu s-au putut obține informațiile despre actualizare</string>
     <string name="headset_loss_notify_summary">Se pare că cel puțin una dintre căști nu se află în carcasa de încărcare. Verificați cu atenție!</string>
     <string name="headset_loss_notify_title">Alertă lipsă căști</string>
+    <string name="headset_not_in_case">Puneți ambele căști în carcasă și începeți de la capăt.</string>
     <string name="headset_read_fw_state">Nu s-au putut obține informații despre actualizare</string>
     <string name="headset_update_failed">Nu s-a putut actualiza</string>
     <string name="headset_update_ok">Finalizat</string>
