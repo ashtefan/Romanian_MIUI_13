@@ -2128,6 +2128,9 @@ din sesiunile dvs. de joc"</string>
     <string name="get_detail_by_click">Atingeți pentru a vedea detalii</string>
     <string name="get_sys_info">Obținere informații…</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_satisfaction_notification_button">Evaluați</string>
+    <string name="global_satisfaction_notification_subhead">Povestiți-ne despre experiența dvs.</string>
+    <string name="global_satisfaction_notification_title">Evaluați acest dispozitiv</string>
     <string name="global_wa_setting_alert_dialog_content">Puteți elibera %s</string>
     <string name="global_wa_setting_alert_dialog_title">Curățare WhatsApp</string>
     <string name="gmscore_support_remind">Activați această caracteristică dacă întâmpinați probleme în utilizarea Gmail, Hărți Google și în alte aplicații Google. Acest lucru va reduce durata de viață a acumulatorului.</string>
@@ -4019,7 +4022,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="setting">Setări</string>
     <string name="setting_online_service">Servicii online</string>
     <string name="setting_privacy_password">Adăugați un model de deblocare</string>
-    <string name="setting_wireless_reverse_charging_fg_control_summary">Opriți încărcarea fără fir inversă când acumulatorul acestui dispozitiv ajunge la %s</string>
+    <string name="setting_wireless_reverse_charging_fg_control_summary">Opriți încărcarea fără fir inversă când acumulatorul acestui dispozitiv este mai mic de %s</string>
     <string name="setting_wireless_reverse_charging_summary">Așezați dispozitivul care acceptă încărcarea fără fir Qi (de exemplu, telefon sau dispozitiv portabil) în centrul spatelui acestui dispozitiv</string>
     <string name="settings">Setări utilizare date</string>
     <string name="settings_battery_consume_abnormal_summary">Primiți notificări atunci când acumulatorul se descarcă foarte rapid</string>

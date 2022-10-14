@@ -75,6 +75,8 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="app_name">Teme</string>
     <string name="app_name_pad">Personalizare</string>
     <string name="application_list_permission_desc">Pentru afișarea aplicațiilor compatibile cu imaginile de fundal transparente</string>
+    <string name="application_notify_title">Atenție</string>
+    <string name="apply_4k_video_wallpaper_warning">Videoclipurile 4K și 8K nu pot fi folosite ca imagini de fundal video.</string>
     <string name="apply_choosen_type_resource">Aplicați elementele selectate</string>
     <string name="apply_default_font_tip">Păstrați fontul actual de sistem?</string>
     <string name="apply_failed">Nu s-a putut aplica</string>
