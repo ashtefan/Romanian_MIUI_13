@@ -57,8 +57,8 @@
         <item quantity="one">%d notificare nouă</item>
     </plurals>
     <plurals name="net_booster_expire_notification_tip">
-        <item quantity="other">%d zile rămase până la încheierea sesiunii de accelerare a vitezei rețelei. Reînnoiți sesiunea pentru a evita problemele de viteză a rețelei.</item>
-        <item quantity="one">%d zi rămasă până la încheierea sesiunii de accelerare a vitezei rețelei. Reînnoiți sesiunea pentru a evita problemele de viteză a rețelei.</item>
+        <item quantity="other">Sesiunea dvs. de creștere a vitezei rețelei se va încheia în %d zile. Este posibil să începeți să aveți întârzieri în rețea. Reînnoiți sesiunea acum?</item>
+        <item quantity="one">Sesiunea dvs. de creștere a vitezei rețelei se va încheia în %d zi. Este posibil să începeți să aveți întârzieri în rețea. Reînnoiți sesiunea acum?</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">cu %d minute în urmă</item>
@@ -80,5 +80,17 @@
     <plurals name="find_applications">
         <item quantity="other">Căutați printre %d aplicații</item>
         <item quantity="one">Căutați %d aplicație</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s ore</item>
+        <item quantity="one">%s oră</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s minute</item>
+        <item quantity="one">%s minut</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">%s minute de timp de ecran activ rămas</item>
+        <item quantity="one">%s minut de timp de ecran activ rămas</item>
     </plurals>
 </resources>

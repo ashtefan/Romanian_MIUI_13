@@ -1121,6 +1121,8 @@ efecte pentru fotografii"</string>
     <string name="functions_are_being_developed">Această funcție va fi disponibilă în curând. Țineți aproape!</string>
     <string name="gallery_setting">Setări</string>
     <string name="gallery_sync_disable_toast">Sincronizarea fotografiilor din Galeria este dezactivată</string>
+    <string name="gallery_uninstall_description_content">Aplicația Galerie este o aplicație de sistem care vă permite să vizualizați, să gestionați și să sincronizați fotografii și videoclipuri pe toate dispozitivele conectate. Dacă dezinstalați aplicația Galerie, veți pierde elementele pe care le-ați făcut private și alte funcții legate de vizualizarea și selectarea elementelor din Galerie nu vor mai fi disponibile pentru dvs. O dezinstalați oricum?</string>
+    <string name="gallery_uninstall_description_title">Dezinstalați aplicația Galerie?</string>
     <string name="generate_story_summary">Faceți destule fotografii, conectați încărcătorul și opriți ecranul pentru a face să apară albumul cu amintiri. Amintirile deja generate nu vor dispărea dacă dezactivați această funcție.</string>
     <string name="generate_story_title">Amintiri</string>
     <string name="get_album_info_in_process">Obţinere informaţii album…</string>
