@@ -606,9 +606,13 @@
     <string name="saveDone">Salvat cu succes</string>
     <string name="save_as_PDF">Salvați ca .pdf</string>
     <string name="save_as_picture">Salvați ca imagine</string>
+    <string name="save_documents_ui">Salvați în Gestionarul de Fișiere</string>
+    <string name="save_excel_result_title">Salvați</string>
+    <string name="save_excel_title">Salvați fișierul Excel</string>
     <string name="save_fail">Nu s-a putut salva</string>
     <string name="save_pictures_repeatedly">Salvați imaginile în mod repetat</string>
     <string name="save_sucess">Salvat cu succes</string>
+    <string name="save_word">Salvați</string>
     <string name="scanHistory">Istoricul de scanare</string>
     <string name="scanHistory_close">Dezactivați</string>
     <string name="scanHistory_isOpen">Porniți salvarea istoricului elementelor scanate?</string>

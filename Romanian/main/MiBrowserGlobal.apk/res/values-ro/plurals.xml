@@ -467,9 +467,9 @@
         <item quantity="other">%d melodii populare</item>
         <item quantity="one">%d melodie populară</item>
     </plurals>
-    <plurals name="transfer_prompt">
-        <item quantity="other">Redă videoclipul în %1$d secunde</item>
-        <item quantity="one">Redă videoclipul în %1$d secundă</item>
+    <plurals name="tag_count">
+        <item quantity="other">%d file</item>
+        <item quantity="one">%d filă</item>
     </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="other">Au fost selectate %1$d elemente</item>

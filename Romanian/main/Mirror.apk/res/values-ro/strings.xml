@@ -358,6 +358,12 @@ pentru a continua"</string>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>
+    <string name="switch_wlan_action">Conectați-vă</string>
+    <string name="switch_wlan_failed">Nu s-a putut conecta</string>
+    <string name="switch_wlan_failed_desc">Nu s-a putut conecta automat la această rețea Wi-Fi. Încercați să vă conectați manual din Setări.</string>
+    <string name="switch_wlan_success">Conectat cu succes</string>
+    <string name="switch_wlan_tips">Conectați-vă la aceeași rețea</string>
+    <string name="switch_wlan_tips_desc">Vă puteți conecta la aceeași rețea Wi-Fi ca și celălalt dispozitiv pentru o experiență mai bună. Vă conectați acum?</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversarea ridicării Legii Marțiale</string>
     <string name="the_anti_aggression_day">Ziua anti-agresiune</string>
     <string name="the_arbor_day">Ziua Copacului</string>

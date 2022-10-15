@@ -1484,9 +1484,10 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="preference_telocation_summary_teloc_on">Afişaţi locaţia contactului</string>
     <string name="preference_telocation_title">Locaţie</string>
     <string name="preference_tone_title">Tonuri</string>
-    <string name="prepare_import">Import contacte</string>
-    <string name="preview_contact_card_title">Import contacte…</string>
-    <string name="preview_incall_show_entry">Previzualizare videoclip</string>
+    <string name="preference_yellowpage_function_setting">Setări Pagini Aurii</string>
+    <string name="presentation_payphone">Telefon public</string>
+    <string name="presentation_private">Număr privat</string>
+    <string name="presentation_unknown">Număr necunoscut</string>
     <string name="previous">Înapoi</string>
     <string name="privacy_password_message1">Parola de protecție a confidențialității funcționează pentru fotografii, note și foldere ascunse.</string>
     <string name="privacy_password_message2">Utilizați parola de protecție a confidențialității. Funcționează pentru fotografii, note și foldere ascunse.</string>
@@ -1948,7 +1949,7 @@ Alegeţi una dintre următoarele opţiuni:"</string>
     <string name="video_chat">Chat video</string>
     <string name="viewContactDesription">Vizualizaţi contactul</string>
     <string name="viewContactTitle">Detalii contact</string>
-    <string name="view_details">Vedeți detalii</string>
+    <string name="view_more_call_logs">Vedeți mai multe</string>
     <string name="view_updates_from_group">Afişaţi actualizările</string>
     <string name="voicemail">Mesagerie vocală</string>
     <string name="voicemail_buffering">Se încarcă memoria tampon…</string>

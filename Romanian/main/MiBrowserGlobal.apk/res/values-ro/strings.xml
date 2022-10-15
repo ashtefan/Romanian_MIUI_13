@@ -114,6 +114,7 @@
     <string name="adblock_rules_updated_toast">Actualizare efectuată</string>
     <string name="adblock_websites_settings_empyt_hint">Nu ați blocat niciun site.</string>
     <string name="adblock_websites_settings_title">Site-uri blocate</string>
+    <string name="add">Adăugați</string>
     <string name="add_bookmark_group">Adăugaţi un grup</string>
     <string name="add_bookmarks">Semne de carte</string>
     <string name="add_bookshelf_popup_text">Adăugată pe raft</string>
@@ -130,6 +131,7 @@
     <string name="add_shortcut">Adăugați o scurtătură</string>
     <string name="add_shortcut_success">Scurtătură adăugată cu succes</string>
     <string name="add_to_bookmark">Semne de carte</string>
+    <string name="add_to_desktop">Adăugați pe Ecranul principal</string>
     <string name="add_to_quicklink">Pagina de pornire</string>
     <string name="add_to_trust_device">Acesta este un dispozitiv de încredere</string>
     <string name="added_to_bookmarks">Adăugat la marcaje</string>
@@ -387,7 +389,7 @@ Dezactivați pentru a opri sincronizarea."</string>
     <string name="camera_permission_name">Folosiți camera</string>
     <string name="can_not_send_with_too_many">Nu se pot trimite atât de multe articole deodată</string>
     <string name="cancel">Anulare</string>
-    <string name="cancel_label">X</string>
+    <string name="cancel_label">x</string>
     <string name="cancel_operation">Anulați operațiunea</string>
     <string name="cancelled_by_user">Operațiunea a fost anulată</string>
     <string name="cannot_download">Se pot descărca numai adrese URL \"http\" sau \"https\".</string>
@@ -2767,7 +2769,7 @@ Try to modify your keyword?"</string>
     <string name="reading__wait_to_unlock_toast_go_to_chapter">View</string>
     <string name="reading__wait_to_unlock_toast_success">Chapter unlocked!</string>
     <string name="reading__wait_to_unlock_toast_target_chapter">Chapter %s unlocked for free</string>
-    <string name="reading_fiction_detail_copyright">-Copyright holder：%s</string>
+    <string name="reading_fiction_detail_copyright">-Deținător drepturi de autor： %s</string>
     <string name="reading_shared_add_to_library">Add to library</string>
     <string name="reading_shared_added_in_library">Added successfully</string>
     <string name="reading_shared_do_you_like_it_add_lib">Like the story? Add it to your library!</string>
@@ -3158,7 +3160,7 @@ Try to modify your keyword?"</string>
     <string name="tab_yellowpage">Link-uri</string>
     <string name="tabs_description">File</string>
     <string name="tag_undo">Anulează</string>
-    <string name="tag_undo_title">S-a ]nchis %s</string>
+    <string name="tag_undo_title">S-a închis %s</string>
     <string name="talk_back_voice_search">Căutare vocală</string>
     <string name="temporary_not_available">Această funcție nu este disponibilă încă</string>
     <string name="terms_policy">Termeni și condiții</string>

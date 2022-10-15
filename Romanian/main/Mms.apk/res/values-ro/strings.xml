@@ -1187,6 +1187,7 @@ Aruncați o privire peste recomandări!"</string>
     <string name="sim_full_body">Ştergeţi câteva mesaje pentru a crea spaţiu pentru mesajele noi.</string>
     <string name="sim_full_title">Cartelă SIM plină</string>
     <string name="sim_manage_messages_title">Mesaje text pe cartela SIM</string>
+    <string name="sim_not_support_mms">Acest SIM nu suportă MMS-uri</string>
     <string name="sim_view">Vizualizaţi</string>
     <string name="slide_number">Diapozitiv %d</string>
     <string name="slide_show_part">Partea %1$d/%2$d</string>
