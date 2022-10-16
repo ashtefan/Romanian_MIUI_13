@@ -127,6 +127,7 @@
     <string name="cast_closed_captions_unavailable">Subtitrările nu sunt disponibile</string>
     <string name="cast_connecting_to_device">Se conectează la %1$s</string>
     <string name="cast_disconnect">Deconectați-vă</string>
+    <string name="cast_dynamic_group_name_format">%1$s + %2$d</string>
     <string name="cast_expanded_controller_ad_image_description">Imagine afișată în timp ce receptorul redă un anunț</string>
     <string name="cast_expanded_controller_ad_in_progress">Anunț în desfășurare…</string>
     <string name="cast_expanded_controller_background_image">Grafica albumului</string>
@@ -171,6 +172,9 @@
     <string name="choose">Selectați</string>
     <string name="choose_to_signin">Da</string>
     <string name="choose_to_signup">Nu, voi crea unul</string>
+    <string name="chromecast_connecting">Se conectează la Chromecast…</string>
+    <string name="chromecast_playing">Urmăriți acest videoclip cu Chromecast</string>
+    <string name="clear_text_end_icon_content_description">Goliți textul</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="click_to_open_pip">Atingeți pentru a comuta la imagine-în-imagine</string>
     <string name="click_to_play_video_push_context">Atingeți pentru a reda videoclipul</string>
@@ -718,6 +722,9 @@ Această operațiune nu va afecta fotografiile din galerie."</string>
     <string name="incentive_view_details">Detalii</string>
     <string name="inconsistent_pwd">Parolele nu se potrivesc</string>
     <string name="init_channels">Restaurați setările implicite</string>
+    <string name="inline_auto_play_tip">"Se utilizează datele mobile… "</string>
+    <string name="inline_auto_play_to_set">Setări</string>
+    <string name="inline_mute_click_tip">Atingeți pentru a activa sunetul</string>
     <string name="input_email_address_notice">"Vom folosi această adresă de e-mail pentru a vă verifica contul"</string>
     <string name="input_new_pwd">Introduceți noua parolă</string>
     <string name="input_size_tips">Puteți introduce maxim 1000 caractere</string>
@@ -758,6 +765,7 @@ pentru cea mai bună experiență de vizualizare"</string>
     <string name="local_diversion_recommend_title">Populare</string>
     <string name="local_diversion_view_more">Vizualizați</string>
     <string name="local_empty_guide">Videoclipurile pe care le filmați vor apărea aici</string>
+    <string name="local_play_end_drag_up_guide">Atingeți sau glisați în sus pentru a juca Shorts</string>
     <string name="local_play_tip">Se redă videoclipul local</string>
     <string name="local_push_setting_power_tag">Notificări despre videoclipurile locale</string>
     <string name="local_push_title">Populare astăzi</string>
@@ -808,6 +816,7 @@ pentru cea mai bună experiență de vizualizare"</string>
     <string name="lp_video_zoom_title">Mărire</string>
     <string name="lv_advance_sound">Intensificare sunet</string>
     <string name="lv_airkan_control_device_des">Pentru a controla redarea, atingeți bara din partea de jos.</string>
+    <string name="lv_airkan_device_my_device">Dispozitivul meu</string>
     <string name="lv_airkan_device_xiaomi_phone">Telefon meu Mi</string>
     <string name="lv_airkan_playing">Se transmite pe %s</string>
     <string name="lv_airkan_tips">Atingeţi pentru a transmite</string>
@@ -997,10 +1006,10 @@ pentru cea mai bună experiență de vizualizare"</string>
     <string name="month_september_shortest">Sep</string>
     <string name="more">Mai mult</string>
     <string name="morning">Dimineață</string>
-    <string name="mr_button_content_description">Butonul de proiecție</string>
-    <string name="mr_cast_button_connected">Butonul de proiecție. Conectat</string>
-    <string name="mr_cast_button_connecting">Butonul de proiecție. Se conectează</string>
-    <string name="mr_cast_button_disconnected">Butonul de proiecție. Deconectat</string>
+    <string name="mr_button_content_description">Proiectare</string>
+    <string name="mr_cast_button_connected">Proiectare. Conectat</string>
+    <string name="mr_cast_button_connecting">Proiectare. Se conectează</string>
+    <string name="mr_cast_button_disconnected">Proiectare. Deconectat</string>
     <string name="mr_cast_dialog_title_view_placeholder">Nu există informații disponibile</string>
     <string name="mr_chooser_searching">Se caută dispozitive</string>
     <string name="mr_chooser_title">Proiectați pe</string>
@@ -1017,8 +1026,9 @@ pentru cea mai bună experiență de vizualizare"</string>
     <string name="mr_controller_stop">Opriți</string>
     <string name="mr_controller_stop_casting">Nu mai proiectați</string>
     <string name="mr_controller_volume_slider">Glisor pentru volum</string>
-    <string name="mr_dialog_device_header">Proiectați pe un dispozitiv</string>
-    <string name="mr_dialog_route_header">Redați într-un grup</string>
+    <string name="mr_dialog_default_group_name">Grup</string>
+    <string name="mr_dialog_groupable_header">Adăugați un dispozitiv</string>
+    <string name="mr_dialog_transferable_header">Redați într-un grup</string>
     <string name="mr_system_route_name">Sistem</string>
     <string name="mr_user_route_category_name">Dispozitive</string>
     <string name="mtrl_chip_close_icon_content_description">Eliminați %1$s</string>

@@ -106,17 +106,21 @@
     <string name="app_description_content">Aplicația Muzică este o aplicație de sistem care conține un player audio și vă permite să gestionați fișierele audio. Veți putea reda în continuare fișiere audio după ce eliminați comanda rapidă de pe Ecranul principal.</string>
     <string name="app_description_title">Eliminați \"Muzică\" de pe Ecranul principal?</string>
     <string name="app_label">Descărcări</string>
-    <string name="app_name">SdkCommon</string>
+    <string name="app_name">MarketDeveloper</string>
     <string name="app_permission_confirm">Am înțeles</string>
     <string name="app_permission_optional">Permisiuni opționale</string>
     <string name="app_permission_require">Permisiuni obligatorii</string>
     <string name="app_permission_use_desc">Permisiuni</string>
     <string name="app_permission_use_group_account">Conturi</string>
-    <string name="app_permission_use_group_account_desc">Pentru obținerea informațiilor despre contul Mi</string>
+    <string name="app_permission_use_group_account_desc">Pentru obținerea informațiilor despre contul Xiaomi</string>
     <string name="app_permission_use_group_phone">Telefon</string>
     <string name="app_permission_use_group_phone_desc">Pentru serviciile Google Push</string>
     <string name="app_permission_use_group_storage">Stocare</string>
     <string name="app_permission_use_group_storage_desc">Pentru găsirea și redarea melodiilor salvate pe dispozitiv</string>
+    <string name="apply_for_the_following_permissions">Această aplicație solicită următoarele permisiuni:</string>
+    <string name="apply_permissions_greater_than_pie">Puteți acorda această permisiune din Setări > Aplicații > Permisiuni > Permisiuni > Fișiere și media > Muzică.</string>
+    <string name="apply_permissions_less_than_pie">Puteți acorda această permisiune din Setări > Aplicații > Permisiuni > Permisiuni > Accesați și modificați fișierele din stocarea internă > Muzică.</string>
+    <string name="apply_permissions_tips_content">Permiteți acestei aplicații să acceseze fișierele pentru a descoperi muzică pe dispozitiv.</string>
     <string name="artist">Artişti</string>
     <string name="artist_area_all">Toate</string>
     <string name="artist_area_china">China</string>
@@ -198,6 +202,9 @@
     <string name="choose_download_quality">Selectaţi calitatea descărcării</string>
     <string name="choose_music_lang_pref">Limba preferată pentru melodii</string>
     <string name="choose_stream_quality">Selectaţi calitatea fluxului de redare</string>
+    <string name="clause_content_first">Pe baza cerințelor legale, Mi Music are nevoie de acordul dvs. pentru a vă oferi servicii relevante.</string>
+    <string name="clause_content_second">Vă vom proteja informațiile personale în conformitate cu standardele de securitate din industrie.</string>
+    <string name="clause_content_third">Vă vom proteja informațiile personale în conformitate cu standardele de securitate din industrie.</string>
     <string name="clear_text_end_icon_content_description">Goliți textul</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="click_and_watch_video_tip">Atingeți pentru a reda videoclipul muzical</string>
@@ -276,6 +283,7 @@
     <string name="confirm_exit">Salvați modificările?</string>
     <string name="connect_now">Conectați-vă</string>
     <string name="connecting_apk">Conectare…</string>
+    <string name="content_failed_to_load">Nu s-a putut încărca conținutul</string>
     <string name="copy">Copiați</string>
     <string name="create_playlist">Creaţi o listă de redare</string>
     <string name="create_playlist_failure">"Nu s-a putut crea lista de redare"</string>
@@ -478,6 +486,7 @@
     <string name="enabled">Activat</string>
     <string name="enjoy_hungama_pro">Bucurați-vă de Hungama PRO</string>
     <string name="enter_garbage_clean">Curăță stocarea internă.</string>
+    <string name="entertainment">Distracție</string>
     <string name="eq_auto">Personalizată</string>
     <string name="eq_blues">Blues</string>
     <string name="eq_classical">Clasic</string>
@@ -505,17 +514,27 @@
     <string name="error_title">"Nu se poate sincroniza cu contul Mi"</string>
     <string name="error_unauthorized">Sincronizarea a fost oprită din cauza prea multor încercări de conectare.</string>
     <string name="evening">După amiază</string>
+    <string name="exceed_binded_phone_times_notice">Acest număr de telefon este deja asociat cu un alt cont Mi.</string>
+    <string name="exo_controls_cc_disabled_description">Activează subtitrarea</string>
+    <string name="exo_controls_cc_enabled_description">Dezactivează subtitrarea</string>
     <string name="exo_controls_fastforward_description">Repede înainte</string>
-    <string name="exo_controls_fullscreen_description">Mod Ecran complet</string>
+    <string name="exo_controls_fullscreen_enter_description">Intrați în modul Ecran complet</string>
+    <string name="exo_controls_fullscreen_exit_description">Ieșiți din modul Ecran complet</string>
     <string name="exo_controls_hide">Ascundeți controalele playerului</string>
     <string name="exo_controls_next_description">Piesa următoare</string>
+    <string name="exo_controls_overflow_hide_description">Ascundeți setările suplimentare</string>
+    <string name="exo_controls_overflow_show_description">Afișați setările suplimentare</string>
     <string name="exo_controls_pause_description">Pauză</string>
     <string name="exo_controls_play_description">Redă</string>
+    <string name="exo_controls_playback_speed">Viteza</string>
+    <string name="exo_controls_playback_speed_normal">Normală</string>
     <string name="exo_controls_previous_description">Piesa anterioară</string>
     <string name="exo_controls_repeat_all_description">Repetă tot</string>
     <string name="exo_controls_repeat_off_description">Nu repeta nimic</string>
     <string name="exo_controls_repeat_one_description">Repetă una</string>
     <string name="exo_controls_rewind_description">Derulează înapoi</string>
+    <string name="exo_controls_seek_bar_description">Progresul redării</string>
+    <string name="exo_controls_settings_description">Setări</string>
     <string name="exo_controls_show">Afișează controalele playerului</string>
     <string name="exo_controls_shuffle_off_description">Oprește amestecarea</string>
     <string name="exo_controls_shuffle_on_description">Amestecă</string>
@@ -559,7 +578,7 @@
     <string name="failed_to_connect_hint">Verificați setările de rețea și încercați din nou</string>
     <string name="failed_to_connect_text">Nu s-a putut conecta la rețea</string>
     <string name="fans">Urmăritori</string>
-    <string name="fav_login_msg">Conectați-vă la contul Mi pentru a descărca melodiile</string>
+    <string name="fav_login_msg">Conectați-vă la contul Xiaomi pentru a descărca melodiile</string>
     <string name="favorite_canceled">Eliminat din favorite</string>
     <string name="favorite_playlist">Favorite</string>
     <string name="favorite_singer">Artişti favoriţi</string>
@@ -570,6 +589,7 @@
     <string name="fcm_fallback_notification_channel_label">Diverse</string>
     <string name="feed_back">Feedback</string>
     <string name="feedback_send_email_body_extra_info">Nu ștergeți următoarele informații. Ne vor ajuta să localizăm problema.</string>
+    <string name="file_and_media_permissions_for_display">Acces la fișiere: pentru scanarea, afișarea și redarea fișierelor locale</string>
     <string name="file_not_found">"Fişierul nu există"</string>
     <string name="filter_by_MP4">Afișează dosarele cu fișiere MP4</string>
     <string name="filter_by_duration">După durată</string>
@@ -691,6 +711,7 @@
     <string name="global_search_title_movie">Coloane sonore</string>
     <string name="global_search_title_prenatal">Muzică prenatală</string>
     <string name="global_search_title_radar">Recunoaștere melodii</string>
+    <string name="go_agree">OK</string>
     <string name="google_account_login">Conectați-vă prin Google</string>
     <string name="goto_local_search">Căutați pe dispozitiv</string>
     <string name="goto_online_search">Căutați online</string>
@@ -768,7 +789,7 @@
     <string name="is_scanning_support_online">"Verificare stocare…
 (Între timp, puteți reda muzică online)"</string>
     <string name="item_view_role_description">Filă</string>
-    <string name="joox_account_bind_mi_account">Adăugați contul Mi</string>
+    <string name="joox_account_bind_mi_account">Adăugați contul Xiaomi</string>
     <string name="joox_account_cancel_login">Renunțați</string>
     <string name="joox_account_continue_login">Conectați-vă</string>
     <string name="joox_account_fans_center">Fan Center</string>
@@ -847,8 +868,10 @@
     <string name="local_page_song_download">Melodii din telefon</string>
     <string name="local_page_song_download_history">Descărcări</string>
     <string name="login_instantly">Conectați-vă</string>
-    <string name="login_mi_account_and_gain_more_rights">Conectați-vă cu contul Mi pentru a avea acces la funcții suplimentare.</string>
+    <string name="login_mi_account_and_gain_more_rights">Conectați-vă cu contul Xiaomi pentru a avea acces la funcții suplimentare.</string>
+    <string name="login_out_tip">Nu se poate deconecta deocamdată. În schimb, puteți șterge toate datele aplicației.</string>
     <string name="long_press_to_select_lyric">Apăsați și mențineți apăsat pentru a selecta fișierul local cu versuri</string>
+    <string name="lots_of_songs_for_free">Ascultați milioane de melodii gratuit</string>
     <string name="low_sound_quality">Scăzută</string>
     <string name="lrc_search_failed">"Nu s-au găsit versurile"</string>
     <string name="lrc_searching">Căutare…</string>
@@ -1051,7 +1074,7 @@
     <string name="music_settings">Muzică</string>
     <string name="mv_metered_play_summary">"Nu afișa avertismentul pentru utilizarea datelor​"</string>
     <string name="mv_metered_play_title">Redă videoclipurile online utilizând datele mobile</string>
-    <string name="my_account">Cont Mi</string>
+    <string name="my_account">Cont Xiaomi</string>
     <string name="my_music_empty">Lista de redare este goală.</string>
     <string name="my_music_empty_goto_online">Nu au fost găsite melodii</string>
     <string name="my_playlist_add_song">Adăugați melodii</string>
@@ -1263,6 +1286,10 @@ Dacă nu sunteți de acord să utilizați serviciile menționate mai sus, nu ve�
     <string name="radar_retry">Reîncercați</string>
     <string name="radar_searching_state">Căutare…</string>
     <string name="radar_support_by">Oferit de ACRCloud</string>
+    <string name="read_and_agree_hungama_protocol"><Data>"Am citit și accept &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Politica de confidențialitate Hungama&lt;/a>&lt;/font>"</Data></string>
+    <string name="read_and_agree_joox_protocol"><Data>"Am citit și accept &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Politica de confidențialitate&lt;/a>&lt;/font>"</Data></string>
+    <string name="read_and_agree_mi_protocol"><Data>"Am citit și accept &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a>&lt;/font> și &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Politica de Confidențialitate Xiaomi&lt;/a>&lt;/font>"</Data></string>
+    <string name="read_and_agree_protocol">Citiți și acceptați Acordul de utilizare și Politica de confidențialitate înainte de a continua.</string>
     <string name="ready_to_play">Urmează</string>
     <string name="really_pay">Achitaţi acum?</string>
     <string name="recently_played">Redată recent</string>
@@ -1471,6 +1498,7 @@ Fiți fericit"</string>
     <string name="storage_cloned_app">Stocare pentru aplicații clonate</string>
     <string name="storage_internal">Stocare internă</string>
     <string name="storage_sd_card">Card SD</string>
+    <string name="storage_space_permissions_for_display">Acces la stocarea dispozitivului: pentru scanarea, afișarea și redarea fișierelor locale</string>
     <string name="storage_usb">Stocare USB</string>
     <string name="streamloadingtext">Conectare la %s</string>
     <string name="suggest_text">Persoanelor cărora le-a plăcut aceasta, de asemenea, le-a plăcut</string>
@@ -1517,6 +1545,7 @@ Fiți fericit"</string>
     <string name="talkback_search">Căutați</string>
     <string name="talkback_show_navigation_draw">Arată sertarul</string>
     <string name="task_already_exist">Sarcina există deja</string>
+    <string name="telephone_permissions_for_push">Permisiuni de apelare: pentru furnizarea serviciilor de notificare push Google</string>
     <string name="terms_of_service">Termenii Serviciului</string>
     <string name="test_mode">Mod testare</string>
     <string name="text_separator">|</string>
@@ -1584,7 +1613,7 @@ Fiți fericit"</string>
     <string name="toast_cant_collect_mine_playlist">Nu se pot adăuga propriile liste de redare la favorite</string>
     <string name="toast_cant_commit_without_title">Introduceți titlul melodiei</string>
     <string name="toast_download_error_by_count_limit">Ați atins limita de descărcări pentru luna aceasta.</string>
-    <string name="toast_download_error_by_not_login">Conectați-vă la contul Mi și încercați din nou.</string>
+    <string name="toast_download_error_by_not_login">Conectați-vă la contul Xiaomi și încercați din nou.</string>
     <string name="toast_download_error_by_vip_required">Obțineți un pachet de Melodii Premium pentru a descărca această melodie.</string>
     <string name="toast_download_in_process">Descărcare în curs</string>
     <string name="toast_favorite_has_been_added">Adăugată cu succes în lista de redare</string>
@@ -1650,7 +1679,7 @@ Fiți fericit"</string>
     <string name="upload_favorite_setting_title">Sincronizați melodiile</string>
     <string name="upload_playlist_to_hungama_negative_text">Nu sincroniza</string>
     <string name="upload_playlist_to_hungama_positive_text">Sincronizează</string>
-    <string name="upload_playlist_to_hungama_title">Sincronizează melodiile online în Hungama pentru a le putea accesa de pe alte dispozitive pe care utilizați contul Mi.</string>
+    <string name="upload_playlist_to_hungama_title">Sincronizează melodiile online în Hungama pentru a le putea accesa de pe alte dispozitive pe care utilizați contul Xiaomi.</string>
     <string name="upload_playlist_to_hungama_toast">Melodiile online vor fi sincronizate în Hungama</string>
     <string name="user_agreement">Acordul utilizatorului</string>
     <string name="user_playlist_plaza">Liste de redare</string>
@@ -1688,7 +1717,7 @@ Fiți fericit"</string>
     <string name="wednesday">Miercuri</string>
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mi</string>
-    <string name="welcome_to_new_music">Bine ați venit la noua versiune Muzică Mi</string>
+    <string name="welcome_to_entertainment">Consultați noua funcție Divertisment pentru jocuri muzicale și multe altele</string>
     <string name="wifi_required_body" formatted="false">"Conectați-vă la o rețea Wi-Fi pentru a finaliza descărcarea %s. 
 
 Atingeți %s pentru a porni descărcarea când veți fi conectat la Wi-Fi."</string>
