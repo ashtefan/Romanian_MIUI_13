@@ -688,7 +688,7 @@ mm"</string>
     <string name="more_sub_comment">Vedeți toate răspunsurile (%1$d)&gt;</string>
     <string name="more_system_wallpaper">Mai multe imagini de fundal de sistem</string>
     <string name="morning">Dimineață</string>
-    <string name="mtrl_badge_numberless_content_description">Notificări noi</string>
+    <string name="mtrl_badge_numberless_content_description">Notificare noi</string>
     <string name="mtrl_chip_close_icon_content_description">Eliminați %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Mai mult de %1$d notificări noi</string>
     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>

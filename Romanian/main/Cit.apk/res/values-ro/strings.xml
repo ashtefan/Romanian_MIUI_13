@@ -80,8 +80,10 @@
     <string name="battery_reverse_wireless_charge_summary">test încărcare wireless inversată</string>
     <string name="battery_reverse_wireless_charge_time_out">timp încărcare wireless inversată expirat</string>
     <string name="battery_reverse_wireless_charge_title">încărcare wireless inversată</string>
+    <string name="battery_third_connector">Tensiune conector baterie</string>
     <string name="battery_value">Energie</string>
     <string name="begin_to_save_finger_data">Începeți pentru a salva datele amprentei</string>
+    <string name="bottom_speaker_title">Testul difuzorului de jos</string>
     <string name="bt_address">Adresa:</string>
     <string name="bt_name">Numele:</string>
     <string name="button_ok">OK</string>
@@ -101,6 +103,22 @@
     <string name="capacitance_test">TEST DE CAPACITATE</string>
     <string name="charger_test_end">"
 Testul de încărcare s-a finalizat; deconectați încărcătorul"</string>
+    <string name="cit_DP_check_summary">Liniile DP trebuie conectate în timpul procesului de testare</string>
+    <string name="cit_DP_check_title">DP</string>
+    <string name="cit_DP_in_start_test">Vă rugăm să introduceți linia DP pentru a începe testarea</string>
+    <string name="cit_DP_plug_err">"Testul a eșuat
+  Nu am primit valoarea"</string>
+    <string name="cit_DP_plug_fail">"Testul a eșuat
+  Această linie nu este o linie DP, înlocuiți o altă linie pentru testare"</string>
+    <string name="cit_DP_plug_out_err">"Eșecul testului
+Nu am primit valoarea"</string>
+    <string name="cit_DP_plug_out_fail">"A fost detectată o conexiune întreruptă
+Testul a eșuat
+"</string>
+    <string name="cit_DP_plug_out_pass">"A fost detectată o conexiune întreruptă
+Test trecut"</string>
+    <string name="cit_DP_plug_pass">Linia DP conectată este detectată, vă rugăm să observați dacă proiecția ecranului a reușit și să faceți clic pe butonul corespunzător</string>
+    <string name="cit_DP_plug_re_plugin">Testul DP a fost finalizat, vă rugăm să vedeți dacă ecranul a reușit și să faceți clic pe butonul corespunzător</string>
     <string name="cit_OTG_plug_check_summary">Pe durata testului, conectați și inversați conectorul dispozitivului USB_OTG</string>
     <string name="cit_OTG_plug_check_title">OTG</string>
     <string name="cit_OTG_plugin_check_summary">Când este conectat dispozitivul OTG, ar trebui să apară mai jos textul \"Dispozitiv USB OTG detectat\".</string>
@@ -110,8 +128,24 @@ Testul de încărcare s-a finalizat; deconectați încărcătorul"</string>
     <string name="cit_OTG_waiting_in">Conectați dispozitivul USB OTG acum</string>
     <string name="cit_OTG_waiting_in_charge">Conectați dispozitivul USB OTG acum</string>
     <string name="cit_OTG_waiting_out">Deconectați dispozitivul USB OTG și inversați conectorul</string>
-    <string name="cit_Reserse_charge_check_title">Test încărcare inversată</string>
-    <string name="cit_SAR_TEST_TOOL">PORNIRE TEST SAR</string>
+    <string name="cit_OTG_waiting_out_end">Conectați dispozitivul USB_OTG, terminați testul</string>
+    <string name="cit_USB3_OTG_error_condition">"A fost detectată o inserție de dispozitiv OTG, dar nu s-au putut obține informațiile despre dispozitiv
+  Testul a eșuat"</string>
+    <string name="cit_USB3_check_summary">Dispozitivele care acceptă USB3.0 trebuie introduse în timpul testării</string>
+    <string name="cit_USB3_check_title">USB3.0</string>
+    <string name="cit_USB3_error_condition">"Inserarea dispozitivului a fost detectată, dar nu s-au putut obține informații despre dispozitiv
+  Testul a eșuat"</string>
+    <string name="cit_USB3_in_need_plugout">Dispozitiv USB conectat detectat, scoateți pentru a începe testul</string>
+    <string name="cit_USB3_in_start_test">Introduceți dispozitivele compatibile cu USB3.0 și începeți testarea</string>
+    <string name="cit_USB3_plug_err">Nu ați citit valoarea corectă, vă rugăm să contactați dezvoltarea pentru a vedea motivul</string>
+    <string name="cit_USB3_plug_fail">Dispozitivul de testare nu acceptă USB3.0 și testul a eșuat</string>
+    <string name="cit_USB3_plug_out_test_err">"Dispozitivul s-a scos, testul a eșuat
+Nu ați primit valoarea corectă, vă rugăm să contactați studentul de cercetare și dezvoltare pentru a afla motivul"</string>
+    <string name="cit_USB3_plug_out_test_fail">"Dispozitivul s-a scos, testul a eșuat
+Se recomandă retestarea echipamentului de înlocuire"</string>
+    <string name="cit_USB3_plug_out_test_pass">Dispozitivul a fost scos, testul a trecut</string>
+    <string name="cit_USB3_plug_pass">Testul USB3.0 a trecut, vă rugăm să scoateți dispozitivele</string>
+    <string name="cit_USB3_plug_re_plugin">"Testul USB3.0 s-a încheiat, vă rugăm să nu repetați testul"</string>
     <string name="cit_abnormal_reboot_summary">Așteptați...Se citesc datele despre stabilitatea sistemului.</string>
     <string name="cit_abnormal_reboot_title">Date despre stabilitatea sistemului</string>
     <string name="cit_ac_charger_in">Încărcare via (USB_DCP)</string>
@@ -236,8 +270,10 @@ Vorbiți la microfonul superior și ar trebui să auziți vocea în difuzor"</st
   <string name="cit_calibration_pass">Calibrare efectuată</string>
   <string name="cit_camera_calibration_summary">"Instrucțiuni pentru test:
 
-1.Atingeți butonul de calibrare de mai jos pentru a începe calibrarea OIS.
-2.Se va afișa o etichetă de calibrare finalizată atunci când calibrarea OIS va fi realizată"</string>
+1.Atingeți butonul Cameră de mai jos pentru a intra în interfața de previzualizare a camerei
+2.Atingeți butonul declanșator
+3.Sistemul va salva fotografia automat după captare
+4.Fotografia pe care ați făcut-o trebuie să fie afișată pe ecran, apăsați Treci pentru a finaliza testul."</string>
     <string name="cit_camera_fast_check_title">Test rapid cameră</string>
     <string name="cit_camera_rearsub">Test pentru camera secundară posterioară în curs; vă rog așteptați…</string>
     <string name="cit_camera_sdcard_error">Nu se poate fotografia. Cardul SD este plin.</string>
@@ -255,10 +291,15 @@ Vorbiți la microfonul superior și ar trebui să auziți vocea în difuzor"</st
     <string name="cit_charger_test_tips_pd">Dispozitivul curent trebuie să facă un test USB_PD</string>
   <string name="cit_charger_waiting_in">Conectați încărcătorul</string>
   <string name="cit_charger_waiting_out">Deconectați încărcătorul acum</string>
+    <string name="cit_cust_img_version">Interogați informațiile despre versiunea CUST</string>
     <string name="cit_depth_camera_check_title">Camera pentru adâncime</string>
     <string name="cit_diag_signal_summary">Copiați fișierele conținând jurnalul de stabilitate a semnalului pe cardul SD</string>
     <string name="cit_diag_signal_title">Citiți jurnalul de stabilitate a semnalului</string>
     <string name="cit_dial_emergencycall">Apelați 112</string>
+    <string name="cit_digital_hall_sensor_cali_summary">Vă rugăm să păstrați dispozitivul închis pentru calibrare</string>
+    <string name="cit_digital_hall_sensor_cali_title">Test de calibrare Digital Hall</string>
+    <string name="cit_digital_hall_sensor_check_summary">Valoarea unghiului este prezentată mai jos</string>
+    <string name="cit_digital_hall_sensor_check_title">Test Digital Hall</string>
     <string name="cit_display_check_summary">Confirmați că nuanțele sunt afișate consistent pe tot ecranul. Asigurați-vă că nu există puncte neregulate mai deschise sau mai închise la culoare.</string>
   <string name="cit_display_check_title">Afișaj</string>
   <string name="cit_display_continue">Atingeți ecranul pentru a începe testul</string>
@@ -350,6 +391,7 @@ Atingeți ecranul pentru a porni GPS-ul…"</string>
   <string name="cit_headset_pull_hint">Disconnect headphones now</string>
   <string name="cit_hide_menu">Hide menu</string>
     <string name="cit_init_fp_fod_test_tip">Mediu de Testare Inițială pentru Amprentă</string>
+    <string name="cit_ispv3_test">Test ISPv3</string>
   <string name="cit_kayboard_volume_down">Button: VOLUME DOWN</string>
   <string name="cit_kayboard_volume_up">Button: VOLUME UP</string>
   <string name="cit_keyboard_back">Button: BACK</string>
@@ -415,6 +457,7 @@ When calibrating, make sure there's nothing between the sensor and your hand (e.
   <string name="cit_reset_check_summary">This test will reboot the device. All previous test data will be lost.</string>
   <string name="cit_reset_check_title">Reboot test</string>
   <string name="cit_reset_test">Test</string>
+  <string name="cit_reverse_charge_check_summary">Vă rugăm să introduceți dispozitivul de încărcare inversă OTG pentru a încărca dispozitivul celeilalte părți</string>
     <string name="cit_sd_fail">A apărut o eroare.</string>
     <string name="cit_sd_mount">Montați cardul SD</string>
     <string name="cit_sd_mount_sucess">Card SD montat</string>
@@ -445,6 +488,7 @@ După ce plasați fișierul \"music.mp3\" în directorul cardului SD, atingeți 
   <string name="cit_sim_state_puk_required">PUK required</string>
   <string name="cit_sim_state_ready">SIM card ready</string>
   <string name="cit_sim_state_unkown">Unknown</string>
+    <string name="cit_soft_light_check_title">Lumină slabă</string>
     <string name="cit_soft_torch_off">Dezactivați blițul redus</string>
   <string name="cit_start_calibration">Calibrate</string>
   <string name="cit_stop_calibration">Stop calibrating</string>
@@ -590,6 +634,7 @@ După ce plasați fișierul \"music.mp3\" în directorul cardului SD, atingeți 
     <string name="cit_tool_bluetooth_tx_type">BR0/EDR1:</string>
     <string name="cit_tool_cal_accelerometer">Unealtă de calibrare Acc</string>
     <string name="cit_tool_cal_camera">Unealtă de calibrare Cameră</string>
+    <string name="cit_tool_current_size">Dimensiunea curentă</string>
   <string name="cit_tool_drx_only">DRX</string>
   <string name="cit_tool_enable_3A_log">Enable 3A log Switch</string>
   <string name="cit_tool_enable_display_3A_log">Enable Display 3A log</string>
@@ -672,6 +717,51 @@ După ce plasați fișierul \"music.mp3\" în directorul cardului SD, atingeți 
   <string name="cit_tool_wifi_tx_st">Tx: ST</string>
   <string name="cit_tool_wifi_tx_st_chan">channel:</string>
   <string name="cit_tool_wifi_txrx_chain_selection">Select antenna</string>
+  <string name="cit_tool_wlan">Wi-Fi test tool</string>
+    <string name="cit_tool_wlan_chain_1">1</string>
+    <string name="cit_tool_wlan_chain_1_2">1+2</string>
+    <string name="cit_tool_wlan_chain_2">2</string>
+    <string name="cit_tool_wlan_circular_capture">Captură Circulară</string>
+    <string name="cit_tool_wlan_clear">goliți</string>
+    <string name="cit_tool_wlan_exit">Exit</string>
+    <string name="cit_tool_wlan_export">Exportați</string>
+    <string name="cit_tool_wlan_rx_ap">Rx: AP</string>
+    <string name="cit_tool_wlan_rx_ap_name">MT</string>
+    <string name="cit_tool_wlan_rx_chan">Rx: Channel</string>
+    <string name="cit_tool_wlan_rx_count_error">Output value is not a number</string>
+    <string name="cit_tool_wlan_rx_dut_ip">192.168.1.12</string>
+    <string name="cit_tool_wlan_rx_error">An error occurred while running the program</string>
+    <string name="cit_tool_wlan_rx_exit">Rx:exit</string>
+    <string name="cit_tool_wlan_rx_run">Run</string>
+    <string name="cit_tool_wlan_rx_stop">Stop</string>
+    <string name="cit_tool_wlan_rxac_test">Rx: ac</string>
+    <string name="cit_tool_wlan_rxax_test">Rx: ax</string>
+    <string name="cit_tool_wlan_rxbg_test">Rx: a/b/g</string>
+    <string name="cit_tool_wlan_rxbg_test_channel">channel:</string>
+    <string name="cit_tool_wlan_rxn_test">Rx: n</string>
+    <string name="cit_tool_wlan_rxn_test_bw">bandwidth:</string>
+    <string name="cit_tool_wlan_rxn_test_channel">channel:</string>
+    <string name="cit_tool_wlan_sniffer">Wi-Fi Sniffer tool</string>
+    <string name="cit_tool_wlan_sniffer_settings">Sniffer Settings</string>
+    <string name="cit_tool_wlan_sniffer_test_title">Wi-Fi sniffer test tool</string>
+    <string name="cit_tool_wlan_test_title">Wi-Fi test tool</string>
+    <string name="cit_tool_wlan_tx_ac">Tx: ac</string>
+    <string name="cit_tool_wlan_tx_ax">Tx: ax</string>
+    <string name="cit_tool_wlan_tx_ax_gI">Guard Interval:</string>
+    <string name="cit_tool_wlan_tx_bg">Tx: a/b/g</string>
+    <string name="cit_tool_wlan_tx_bg_chan">channel:</string>
+    <string name="cit_tool_wlan_tx_bg_ducl">dutycl:</string>
+    <string name="cit_tool_wlan_tx_bg_txpr">txpower:</string>
+    <string name="cit_tool_wlan_tx_bg_txrt">datarate:</string>
+    <string name="cit_tool_wlan_tx_n">Tx: n</string>
+    <string name="cit_tool_wlan_tx_n_bandwidth">bandwidth:</string>
+    <string name="cit_tool_wlan_tx_n_chan">channel:</string>
+    <string name="cit_tool_wlan_tx_n_txpr">txpower:</string>
+    <string name="cit_tool_wlan_tx_n_txrt">datarate: MCS</string>
+    <string name="cit_tool_wlan_tx_st">Tx: ST</string>
+    <string name="cit_tool_wlan_tx_st_chan">channel:</string>
+    <string name="cit_tool_wlan_txrx_chain_selection">Select antenna</string>
+    <string name="cit_tool_wlan_update_ap_list">Actualizați lista AP</string>
   <string name="cit_torch_modify">Modify flash light</string>
   <string name="cit_torch_off">Turn off flash light</string>
   <string name="cit_torch_on">Turn on flash light</string>
@@ -727,6 +817,7 @@ faceți clic pe buton pentru a comuta modul tactil în modul THP sau modul FW"</
     <string name="cit_wifi_state_refresh">Reîmprospătați</string>
     <string name="cit_x_tele_camera_check_title">Tele5X camera</string>
     <string name="cit_yellow_torch_on">Porniți ledul galben</string>
+    <string name="cold_light_title">Lumină Rece</string>
     <string name="delete">Ștergeți</string>
     <string name="description_info">Informații</string>
     <string name="dispaly_sar_sensor_values">Afișați toate valorile senzorului curent</string>
@@ -741,6 +832,11 @@ faceți clic pe buton pentru a comuta modul tactil în modul THP sau modul FW"</
     <string name="failed_to_test">TESTAREA A EȘUAT</string>
     <string name="fingerprint">Amprentă:</string>
     <string name="fingerprint_input_title">test introducere amprentă</string>
+    <string name="fod_check_start_error">"Nu se poate porni programul de verificare a senzorilor
+Testul a eșuat!"</string>
+    <string name="fod_check_summary">"Instrucțiuni de testare:
+Test automat bazat pe tipul de senzor
+Evaluați rezultatul testului faceți clic pe butonul de trecere sau eșuare"</string>
     <string name="fod_check_title">Verificare senzor de amprentă</string>
     <string name="get_BLUETOOTH">BLUETOOTH</string>
     <string name="get_BLUETOOTHPAN">BLUETOOTHPAN</string>
@@ -755,10 +851,15 @@ faceți clic pe buton pentru a comuta modul tactil în modul THP sau modul FW"</
     <string name="get_WIFI">WIFI</string>
     <string name="get_base_finger">Extrage imaginea: obține degetul de bază</string>
     <string name="get_dsi_tips">Valoarea curentă DSI</string>
-    <string name="image_quality_test">TEST CALITATE IMAGINE</string>
-    <string name="info">Informații</string>
-    <string name="init">inițializare</string>
-    <string name="ir_camera_test_title">Test Cameră IR</string>
+    <string name="headset_plug_check_tip">Acum redați caseta, ascultați setul cu cască, vă rugăm să scoateți setul cu cască când închideți testarea</string>
+    <string name="headset_press">Press</string>
+    <string name="headset_record">Recording, please say something to the headset, and the recording will be stopped within 3 seconds</string>
+    <string name="headset_test">Headset test</string>
+    <string name="headset_test_tips">This will test the headset insertion, pull out, headset MIC, and headset button, and all tests will be successful</string>
+    <string name="headset_unplug_check_tip">Please insert the headset</string>
+    <string name="inputaddress">\u0009</string>
+    <string name="inputdefine">确定</string>
+    <string name="interval_vibrator">Interval vibrator</string>
     <string name="keyboard">TASTATURĂ</string>
     <string name="keyboard_vibrator_test">Testare tastatură</string>
     <string name="keyboard_vibrator_test_old">Testare tastatură și vibrare</string>
@@ -778,8 +879,10 @@ faceți clic pe buton pentru a comuta modul tactil în modul THP sau modul FW"</
     <string name="radio_info_sim_status">Stare SIM:</string>
     <string name="radio_info_unknown">Necunoscută</string>
   <string name="remove_headset_and_starttest">Please remove headset and press start to test</string>
+  <string name="sar_algo_data_check_description">Colectare date Sar Algo</string>
     <string name="sar_sensor_set">setați senzorul sar</string>
     <string name="sar_sensor_setting">stare senzor sar</string>
+    <string name="soft_light_title">Lumină slabă</string>
   <string name="speak_from_mic">Speaking to the MIC, the speaker playback. Judge whether there is sound.</string>
   <string name="start">Start</string>
     <string name="successfully_obtained_permission">Detectarea controlului în cloud cu succes, funcția intră în vigoare</string>
@@ -787,9 +890,10 @@ faceți clic pe buton pentru a comuta modul tactil în modul THP sau modul FW"</
     <string name="test_top_speaker">difuzor superior</string>
     <string name="testagain">Puteți apăsa butonul ACASĂ pentru a testa din nou</string>
     <string name="testing">Rulare AutoTest...</string>
+    <string name="top_speaker_title">Testare difuzor superior</string>
   <string name="touch_auto">Touch panel self test ongoing, please wait....</string>
   <string name="tp_color">TP Color:</string>
   <string name="tp_version">TP Version:</string>
     <string name="waiting">Se așteaptă 4sec.</string>
-    <string name="yes">Da</string>
+    <string name="warm_light_title">Lumină Caldă</string>
 </resources>

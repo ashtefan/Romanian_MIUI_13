@@ -53,7 +53,7 @@
     <string name="unreadable_input">Nu s-a putut citi documentul</string>
     <string name="waiting_to_send">Se așteaptă trimiterea</string>
     <string name="wifi_direct">Wi-Fi Direct</string>
-    <string name="wifi_direct_permission_rationale">Serviciul Implicit de Tipărire necesită permisiunea de accesare a locației pentru a găsi dispozitivele din apropiere.</string>
+    <string name="wifi_direct_permission_rationale">Serviciul Implicit de Tipărire necesită permisiunea de accesare a dispozitivelor din apropiere pentru a găsi dispozitivele din apropiere.</string>
     <string name="wifi_direct_printers">Imprimante cu Wi-Fi Direct</string>
     <string name="wifi_direct_printing">Tipărire prin Wi-Fi Direct</string>
 </resources>

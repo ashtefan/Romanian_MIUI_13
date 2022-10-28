@@ -31,6 +31,7 @@
     <string name="afternoon">După amiază</string>
     <string name="am">AM</string>
     <string name="app_name">Ferestre plutitoare</string>
+    <string name="bottom_bar_smallwindow_drag_text">Trageți aici pentru a fixa</string>
     <string name="bottom_bar_smallwindow_text">Eliberați pentru a fixa</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="contentDescription">Mutarea ferestrei</string>
@@ -113,6 +114,9 @@
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
+    <string name="fullscreen_slide_to_small_freeform">Minimizați o aplicație</string>
+    <string name="fullscreen_slide_to_small_freeform_summary">Glisați din partea de jos a ecranului în colțul din dreapta sus</string>
+    <string name="fullscreen_slide_to_small_freeform_summary_squarehot">Glisați de la marginea de jos spre marginea superioară a ecranului</string>
     <string name="how_to_close_or_fullscreen_freeform">Închiderea ferestrelor plutitoare sau comutarea la modul Ecran complet</string>
     <string name="how_to_drop_down_to_fullscreen">Comutați la modul Ecran complet</string>
     <string name="how_to_drop_down_to_fullscreen_summary">Atingeți și mențineți apăsat, iar apoi glisați în jos bara de acțiune a unei ferestre plutitoare</string>
@@ -129,6 +133,8 @@
     <string name="how_to_slide_up_to_close_summary">Glisați în sus bara de acțiune a unei ferestre plutitoare</string>
     <string name="how_to_use_freeform">Modul de utilizare al ferestrelor plutitoare</string>
     <string name="midnight">Noapte</string>
+    <string name="miuix_access_state_desc">Selectat</string>
+    <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
@@ -143,6 +149,8 @@
     <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
     <string name="miuix_appcompat_select_item">Selectați elementele</string>
+    <string name="miuix_indexer_collect">Colecții</string>
+    <string name="miuix_indexer_selected">Selectat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -204,6 +212,7 @@
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>
     <string name="search_menu_title">Căutați</string>
+    <string name="send">Trimiteți</string>
     <string name="solar_term_autumn_begins">Începutul toamnei</string>
     <string name="solar_term_autumn_equinox">Echinocțiul de toamnă</string>
     <string name="solar_term_clear_and_bright">Senin și strălucitor</string>

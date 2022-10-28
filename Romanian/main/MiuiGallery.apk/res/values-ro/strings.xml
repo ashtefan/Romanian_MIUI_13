@@ -285,7 +285,7 @@
     <string name="backup_device_space_low_btn_text">Goliți</string>
     <string name="backup_device_space_low_desc">Eliberați spațiu pentru a continua sincronizarea elementelor</string>
     <string name="backup_device_space_low_title">Spațiu de stocare insuficient</string>
-    <string name="backup_dirty_num">Total: %s</string>
+    <string name="backup_dirty_num">|Total: %s</string>
     <string name="backup_dirty_tip">Fotografiile și videoclipurile nu s-au sincronizat</string>
     <string name="backup_file_over_size_desc">"Fotografiile mai mari de %1$s și videoclipurile mai mari de %2$s nu pot fi rezervate."</string>
     <string name="backup_immediately">Sincronizați</string>
@@ -2892,7 +2892,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="video_editor_unzip_file_fail">"Nu s-a putut decoda videoclipul."</string>
     <string name="video_editor_video_is_short">"Nu se poate edita acest videoclip."</string>
     <string name="video_editor_video_loading">Se pregătește videoclipul… Așteptați o secundă sau două și reîncercați.</string>
-    <string name="video_editor_watermark">Filigran</string>
+    <string name="video_editor_watermark">Amprentă</string>
     <string name="video_err">"Imposibil de redat videoclipul"</string>
     <string name="video_not_exist">"Videoclip inexistent"</string>
     <string name="video_post_cancel_download">Renunțați</string>

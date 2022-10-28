@@ -43,6 +43,7 @@ această opțiune va fi activată în mod automat în spațiul secundar."</strin
     <string name="air_space_exit">Părăsire spațiu</string>
     <string name="air_space_setting">Setări Spațiu</string>
     <string name="airspace_users_full">"Nu se poate crea încă un Spațiu pentru Servici"</string>
+    <string name="alwaysUsePrompt">Reține alegerea mea</string>
     <string name="am">AM</string>
     <string name="appData">Aplicații instalate</string>
     <string name="app_name">Componentă de bază de securitate</string>
@@ -334,6 +335,8 @@ Le puteți de asemenea descărca separat."</string>
     <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
     <string name="miuix_appcompat_select_item">Selectați elementele</string>
+    <string name="miuix_indexer_collect">Colecții</string>
+    <string name="miuix_indexer_selected">Selectat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -720,6 +723,7 @@ Unele aplicații clonate necesită suportul Google Services Framework. În acest
     <string name="xspace_guide_description">"Fiecare cont
 merită aplicația sa"</string>
     <string name="xspace_guide_title">Încercați Aplicațiile clonate</string>
+    <string name="xspace_head">Aplicație clonată</string>
     <string name="xspace_header">Aplicații clonate</string>
     <string name="xspace_instagram_title">Instagram</string>
     <string name="xspace_install_complete">&lt;font>Aplicație clonată creată cu succes. &lt;/font>&lt;font color=#0D84FF>Deschideți acum&lt;/font>.</string>
@@ -735,6 +739,7 @@ merită aplicația sa"</string>
     <string name="xspace_notification_error">Conectați-vă la WeChat-ul clonat și încercați din nou</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">"Ștergeți conturile aplicațiilor clonate"</string>
+    <string name="xspace_resolver_activity_title">Selectați aplicația</string>
     <string name="xspace_setting_label">Setări aplicații clonate</string>
     <string name="xspace_settins">Setat</string>
     <string name="xspace_start">Creați</string>

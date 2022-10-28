@@ -45,6 +45,10 @@
         <item quantity="other">%s controale adăugate.</item>
         <item quantity="one">%s control adăugat.</item>
     </plurals>
+    <plurals name="fgs_manager_footer_label">
+        <item quantity="other">%s aplicații active</item>
+        <item quantity="one">%s aplicație activă</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Cu o jumătate de oră în urmă</item>
     </plurals>

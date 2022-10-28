@@ -15,6 +15,44 @@
     <string name="wifi_available_title_connected">Conectați-vă la rețeaua Wi-Fi</string>
     <string name="wifi_available_title_connecting">Se conectează la rețeaua Wi-Fi</string>
     <string name="wifi_available_title_failed_to_connect">Nu s-a putut conecta la rețeaua Wi-Fi</string>
+    <string name="wifi_ca_cert_dialog_abort_text">Nu, nu mă conecta</string>
+    <string name="wifi_ca_cert_dialog_continue_text">Da, conectează-mă</string>
+    <string name="wifi_ca_cert_dialog_message_contact_text">"Contactați:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_hint">"Permiteți conectarea acestei rețele numai dacă informațiile de mai jos par corecte.
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_issuer_name_text">"Numele emitentului:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_organization_text">"Organizație:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_server_name_text">"Nume Server:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_message_signature_name_text">"Semnătură:
+%1$s
+
+"</string>
+    <string name="wifi_ca_cert_dialog_preT_abort_text">Nu mă conecta</string>
+    <string name="wifi_ca_cert_dialog_preT_continue_text">Conectează-mă oricum</string>
+    <string name="wifi_ca_cert_dialog_preT_message_hint">Rețelei %1$s îi lipsește un certificat.</string>
+    <string name="wifi_ca_cert_dialog_preT_message_link">Aflați cum să adăugați certificate</string>
+    <string name="wifi_ca_cert_dialog_preT_title">Nu se poate verifica această rețea</string>
+    <string name="wifi_ca_cert_dialog_title">Este această rețea de încredere??</string>
+    <string name="wifi_ca_cert_failed_to_install_ca_cert">Instalarea certificatului a eșuat.</string>
+    <string name="wifi_ca_cert_notification_message">Examinați detaliile rețelei pentru %1$s înainte de a vă conecta. Apasă pentru a continua.</string>
+    <string name="wifi_ca_cert_notification_preT_abort_text">Nu mă conecta</string>
+    <string name="wifi_ca_cert_notification_preT_continue_text">Conectează-mă oricum</string>
+    <string name="wifi_ca_cert_notification_preT_message">Rețelei %1$s îi lipsește un certificat. Atingeți pentru a afla cum să adăugați certificate.</string>
+    <string name="wifi_ca_cert_notification_preT_title">Nu se poate verifica această rețea</string>
+    <string name="wifi_ca_cert_notification_title">Rețeaua trebuie verificată</string>
     <string name="wifi_cannot_connect_with_randomized_mac_message">Atingeți pentru a modifica setările de confidențialitate și reîncercați</string>
     <string name="wifi_cannot_connect_with_randomized_mac_title">Nu se poate conecta la %1$s</string>
     <string name="wifi_connect_alert_message">Aplicația %1$s dorește să se conecteze la rețeaua Wi-Fi %2$s</string>
@@ -28,6 +66,9 @@ Această modificare poate determina monitorizarea locației telefonului de cătr
     <string name="wifi_disable_mac_randomization_dialog_network_not_found">Rețea negăsită</string>
     <string name="wifi_disable_mac_randomization_dialog_success">Setare actualizată. Încercați să vă conectați din nou.</string>
     <string name="wifi_disable_mac_randomization_dialog_title">Modificați setarea de confidențialitate?</string>
+    <string name="wifi_eap_error_message_code_16384">%1$s : Eroare autentificare EAP 16384</string>
+    <string name="wifi_eap_error_message_code_16385">%1$s : Eroare autentificare EAP 16385</string>
+    <string name="wifi_eap_error_message_code_32756">%1$s : Eroare autentificare EAP 32756</string>
     <string name="wifi_eap_error_message_code_32760">%1$s : Eroare autentificare EAP 32760</string>
     <string name="wifi_eap_error_message_code_32761">%1$s : Eroare autentificare EAP 32761</string>
     <string name="wifi_eap_error_message_code_32762">%1$s : Eroare autentificare EAP 32762</string>
@@ -35,6 +76,17 @@ Această modificare poate determina monitorizarea locației telefonului de cătr
     <string name="wifi_eap_error_message_code_32764">%1$s : Eroare autentificare EAP 32764</string>
     <string name="wifi_eap_error_message_code_32765">%1$s : Eroare autentificare EAP 32765</string>
     <string name="wifi_eap_error_message_code_32766">%1$s : Eroare autentificare EAP 32766</string>
+    <string name="wifi_eap_error_message_code_32767">%1$s : Eroare autentificare EAP 32767</string>
+    <string name="wifi_eap_error_message_unknown_error_code">%1$s : Eroare de autentificare EAP, cod de eroare necunoscut</string>
+    <string name="wifi_enable_request_dialog_message">Puteți dezactiva Wi-Fi-ul din Setări rapide</string>
+    <string name="wifi_enable_request_dialog_negative_button">Nu permite</string>
+    <string name="wifi_enable_request_dialog_positive_button">Permite</string>
+    <string name="wifi_enable_request_dialog_title">Permiteți %1$s să activeze Wi-Fi?</string>
+    <string name="wifi_interface_priority_approve">Permiteți</string>
+    <string name="wifi_interface_priority_message">Acest lucru poate cauza probleme pentru %3$s.</string>
+    <string name="wifi_interface_priority_message_plural">Acest lucru poate cauza probleme pentru aceste aplicații: %3$s.</string>
+    <string name="wifi_interface_priority_reject">Nu permiteți</string>
+    <string name="wifi_interface_priority_title">%1$s dorește să utilizeze o resursă de rețea</string>
     <string name="wifi_localhotspot_configure_ssid_default">AndroidShare</string>
     <string name="wifi_p2p_enter_pin_message">Introduceți codul PIN:</string>
     <string name="wifi_p2p_frequency_conflict_message">Telefonul se va deconecta temporar de la Wi-Fi cât timp este conectat la %1$s</string>

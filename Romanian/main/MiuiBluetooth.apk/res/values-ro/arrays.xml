@@ -39,7 +39,7 @@
         <item>Găsește butonul Mi-key</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Utilizați preferința sistemului (Implicit)</item>
+        <item>Utilizați selecția sistemului (Implicit)</item>
         <item>16 biți/eșantion</item>
         <item>24 biți/eșantion</item>
         <item>32 biți/eșantion</item>
@@ -118,9 +118,9 @@
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
-        <item>" | Activ"</item>
-        <item>" | Activ (media)"</item>
-        <item>" | Activ (telefon)"</item>
+        <item>, activ</item>
+        <item>, activ (media)</item>
+        <item>, activ (telefon)</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Implicit)</item>

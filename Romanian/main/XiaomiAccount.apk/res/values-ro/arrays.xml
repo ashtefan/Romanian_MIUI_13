@@ -7,71 +7,71 @@
     <string-array name="settings_search_account_and_authority_global">
         <item>Conturi</item>
         <item>Adăugați și gestionați conturile terțe</item>
-        <item>Conturi;SNS;Facebook;Google;Cont Mi;Cont</item>
+        <item>Conturi;SNS;Facebook;Google;Cont Xiaomi;Cont</item>
     </string-array>
     <string-array name="settings_search_account_and_authority_non_global">
         <item>Conturi</item>
         <item>Adăugați și gestionați conturile terțe</item>
-        <item>Conturi;SNS;WeChat;QQ;Weibo;Cont Mi;Cont</item>
+        <item>Conturi;SNS;WeChat;QQ;Weibo;Cont Xiaomi;Cont</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>Modificați parola</item>
-        <item>Modificați parola contului Mi</item>
-        <item>Modificați parola;Actualizați parola;Cont Mi;Cont</item>
+        <item>Modificați parola contului Xiaomi</item>
+        <item>Modificați parola;Actualizați parola;Cont Xiaomi;Cont</item>
     </string-array>
     <string-array name="settings_search_help_center">
         <item>Ajutor</item>
-        <item>Obțineți ajutor și suport referitor la Contul Mi</item>
-        <item>Cont Mi;Cont;Ajutor cont;Centrul de ajutor</item>
+        <item>Obțineți ajutor și suport referitor la Contul Xiaomi</item>
+        <item>Cont Xiaomi;Cont;Ajutor cont;Centrul de ajutor</item>
     </string-array>
     <string-array name="settings_search_login_2_step_verify">
         <item>Verificare în 2 pași</item>
-        <item>Setați verificarea în 2 pași pentru contul dvs. Mi</item>
-        <item>Conectați-vă;Autentificați-vă;2 pași;verificare;Xiaomi;Cont;Cont Mi;Cont</item>
+        <item>Setați verificarea în 2 pași pentru contul dvs. Xiaomi</item>
+        <item>Conectați-vă;Autentificați-vă;2 pași;verificare;Xiaomi;Cont;Cont Xiaomi;Cont</item>
     </string-array>
     <string-array name="settings_search_login_and_security">
         <item>Securitate cont</item>
         <item>Număr de telefon și adresă de e-mail pentru recuperare, gestionare parolă</item>
-        <item>Securitate cont;Conectare;Telefon pentru recuperare;E-mail pentru recuperare;Protecție cont;Număr de telefon;E-mail;Modificați parola;Adăugați numărul de telefon;Adăugați adresa de e-mail;Cont Mi;Cont</item>
+        <item>Securitate cont;Conectare;Telefon pentru recuperare;E-mail pentru recuperare;Protecție cont;Număr de telefon;E-mail;Modificați parola;Adăugați numărul de telefon;Adăugați adresa de e-mail;Cont Xiaomi;Cont</item>
     </string-array>
     <string-array name="settings_search_manage_device">
         <item>Dispozitive</item>
-        <item>Gestionați dispozitivele asociate contului dvs. Mi</item>
-        <item>Gestionați dispozitivele;Dispozitivele mele;Dispozitive;Lista dispozitivelor;Cont Mi;Cont</item>
+        <item>Gestionați dispozitivele asociate contului dvs. Xiaomi</item>
+        <item>Gestionați dispozitivele;Dispozitivele mele;Dispozitive;Lista dispozitivelor;Cont Xiaomi;Cont</item>
     </string-array>
     <string-array name="settings_search_payment_information">
         <item>Informații despre plăți</item>
         <item>Vedeți și gestionați informațiile despre plăți</item>
-        <item>Plătiți;Plată;Metodă de plată;Cont Mi;Cont</item>
+        <item>Plătiți;Plată;Metodă de plată;Cont Xiaomi;Cont</item>
     </string-array>
     <string-array name="settings_search_privacy_policy">
         <item>Politica de confidențialitate</item>
-        <item>Vedeți Politica de confidențialitate a contului Mi</item>
-        <item>Cont Mi;Cont;Politica de Confidențialitate</item>
+        <item>Vedeți Politica de confidențialitate a contului Xiaomi</item>
+        <item>Cont Xiaomi;Cont;Politica de Confidențialitate</item>
     </string-array>
     <string-array name="settings_search_security_email_address">
         <item>Adresă de e-mail pentru recuperare</item>
         <item>Adăugați o adresă de e-mail pentru recuperare</item>
-        <item>E-mail pentru recuperare;E-mail;Adăugați adresa de e-mail;Cont Mi;Cont</item>
+        <item>E-mail pentru recuperare;E-mail;Adăugați adresa de e-mail;Cont Xiaomi;Cont</item>
     </string-array>
     <string-array name="settings_search_security_phone_number">
         <item>Număr de telefon pentru recuperare</item>
         <item>Adăugați un număr de telefon pentru recuperare</item>
-        <item>Telefon pentru recuperare;Adăugați un număr de telefon;Cont Mi;Cont</item>
+        <item>Telefon pentru recuperare;Adăugați un număr de telefon;Cont Xiaomi;Cont</item>
     </string-array>
     <string-array name="settings_search_system_ad">
         <item>Reclame</item>
         <item>Gestionați reclamele de sistem</item>
-        <item>Reclame;Cont Mi;Cont</item>
+        <item>Reclame;Cont Xiaomi;Cont</item>
     </string-array>
     <string-array name="settings_search_user_information">
         <item>Informațiile despre cont</item>
         <item>Vedeți fotografia de profil și gestionați informațiile despre cont</item>
-        <item>Informații personale;fotografia de profil;pseudonim;informații despre cont;ID Cont Mi;ID;Cont Mi;Cont</item>
+        <item>Informații personale;fotografia de profil;pseudonim;informații despre cont;ID Cont Xiaomi;ID;Cont Xiaomi;Cont</item>
     </string-array>
     <string-array name="settings_search_user_protocol">
         <item>Acordul utilizatorului</item>
         <item>Acordul utilizatorului</item>
-        <item>Cont Mi;Cont;Acordul Utilizatorului;EULA</item>
+        <item>Cont Xiaomi;Cont;Acordul Utilizatorului;EULA</item>
     </string-array>
 </resources>
