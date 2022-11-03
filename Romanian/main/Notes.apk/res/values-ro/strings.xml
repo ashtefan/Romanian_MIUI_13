@@ -138,6 +138,7 @@
     <string name="cloud_trash_bin_title">Notițe din cloud șterse</string>
     <string name="confirm_cancel">"Nu sunt de acord"</string>
     <string name="confirm_ok">De acord</string>
+    <string name="content_preview_ratio">1:1</string>
     <string name="continuous_default_hint">Copiați textul, salvați imaginile și capturile de ecran ca extrase</string>
     <string name="continuous_new_excerpt_title">Extras nou</string>
     <string name="copy">Copiați</string>
@@ -599,8 +600,11 @@
     <string name="note_mindnote_entrance_hint_newversion">"Începeți să tastați "</string>
     <string name="note_mindnote_entrance_icon_text">Creați o hartă mentală</string>
     <string name="note_mindnote_entrance_icon_text_newversion">Creați o hartă mentală</string>
+    <string name="note_mindnote_not_support_in_phone_model">Nu se pot edita hărți mentale pe acest dispozitiv</string>
+    <string name="note_module_name">Notițe</string>
     <string name="note_not_text_stub">Fără text</string>
     <string name="note_sort_way">Sortați</string>
+    <string name="note_write_hint">Începeți să scrieți</string>
     <string name="notealert_enter">Vizualizaţi nota</string>
     <string name="notealert_ok">Renunțaţi</string>
     <string name="notes_description_content">Aplicația Notițe este o aplicație de sistem. Nu o veți mai putea utiliza după ce o dezinstalați.</string>
