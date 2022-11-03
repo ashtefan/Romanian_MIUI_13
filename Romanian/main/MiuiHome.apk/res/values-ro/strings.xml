@@ -497,6 +497,7 @@ Securitate sporită."</string>
     <string name="menu_lock">Blocare dispunere ecran principal</string>
     <string name="menu_more">Mai multe</string>
     <string name="menu_no_word">Nu afișa textul</string>
+    <string name="menu_only_widget_no_word">Eliminați textul din widget-uri</string>
     <string name="menu_picktheme">Selectaţi o temă</string>
     <string name="menu_reset_scene">Resetaţi la valorile prestabilite</string>
     <string name="menu_search">Căutare</string>

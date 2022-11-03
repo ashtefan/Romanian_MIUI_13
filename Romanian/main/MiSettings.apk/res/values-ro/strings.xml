@@ -65,6 +65,7 @@
     <string name="australian_magpie">Cochilă australiană</string>
     <string name="authorization_btn_text">Porniți</string>
     <string name="authorization_tips">Sunt necesare unele permisiuni</string>
+    <string name="avalible_per_day">Durata sesiunii</string>
     <string name="baboon_info">Babuinul de măsline trăiește în grupuri cu un rang social dezvoltat, în funcție de dominanța fiecărui individ.</string>
     <string name="back">Înapoi</string>
     <string name="bear_info">Urșii sunt cele mai mari carnivore terestre. Locuiesc în regiuni reci și sunt cunoscuți pentru simțul mirosului ascuțit.</string>
@@ -114,6 +115,9 @@
     <string name="canada_goose">Gâsca canadiană</string>
     <string name="capybara">Capybara</string>
     <string name="capybara_info">Capibarele sunt rozătoare erbivore semiacuate care își pot ține respirația sub apă timp de până la cinci minute la un moment dat.</string>
+    <string name="category_limit_notify_title">Alertă timp de utilizare ecran</string>
+    <string name="category_list_expand">Mai multe</string>
+    <string name="category_list_packup">Ascundeți</string>
     <string name="category_other">Altele</string>
     <string name="chacma_baboon">Babuin Chacma</string>
     <string name="cheetah">Ghepard</string>
@@ -128,8 +132,10 @@
     <string name="color_gamut">Gamă de culori</string>
     <string name="common_brushtail">Oposum cu coadă perie</string>
     <string name="common_ostrich">Struț</string>
+    <string name="compulsor_tip">Ecran principal</string>
     <string name="contact_description">Apăsați scurtăturile de pe Ecranul principal pentru a apela</string>
     <string name="contact_title">Scurtături ale contactelor</string>
+    <string name="continue_time">Durata sesiunii</string>
     <string name="contrast_ratio">Contrast</string>
     <string name="control_center_title">Timpul de utilizare a ecranului azi</string>
     <string name="control_center_title_new">Utilizat azi</string>
@@ -150,8 +156,13 @@
     <string name="dc_light_hint_other">Reducerea DC poate afecta rata de reîmprospătare și modul în care sunt afișate unele elemente.</string>
     <string name="dc_lignt_enable_hint">Modul anti-pâlpâire va seta rata de reîmprospătare a ecranului la 60 Hz. Treceți la modul anti-pâlpâire?</string>
     <string name="delete_first_to_add_animal">Pentru a adăuga un nou element, ștergeți mai întâi un altul.</string>
-    <string name="devices_type_pad">tabletă</string>
-    <string name="devices_type_phone">telefon</string>
+    <string name="desktop_widget_authorization">Atingeți pentru a acorda permisiuni pentru a putea vizualiza statisticile</string>
+    <string name="desktop_widget_authorization_new">Atingeți pentru a vedea statisticile timpului de utilizare</string>
+    <string name="desktop_widget_not_support">"Statisticile pentru timpul de utilizare ecran
+nu sunt generate în Spațiul Secundar"</string>
+    <string name="desktop_widget_screen_use_time">Timpul de utilizare a ecranului</string>
+    <string name="device_limit_enable">Pornit</string>
+    <string name="device_limit_un_enable">Oprit</string>
     <string name="display_description">Pictograme mai mari, text mai mare, mai puțin dezordine vizuală</string>
     <string name="display_title">Elemente mai mari</string>
     <string name="dynamic_ringtone_desc">Am explorat diferite ecosisteme și le-am recreat sunetele distincte. Începeți să explorați sunetele naturii cu noi!</string>
@@ -283,6 +294,10 @@
     <string name="focus_mode_timer_pick_dialog_title">Introduceți durata</string>
     <string name="focus_time_exception_tip">Se pare că ora sistemului s-a modificat. S-a dezactivat modul Focusat.</string>
     <string name="follow_sim1">Aplicați setările SIM 1</string>
+    <string name="force_rest">Folosiți pauzele de sesiune</string>
+    <string name="force_rest_summary">Luați pauze obligatorii când sesiunile ating limita stabilită</string>
+    <string name="force_rest_time">Durata pauzei</string>
+    <string name="fps_high">Înaltă</string>
     <string name="fps_nature_summary">Rata de reîmprospătare maximă menține totul vioi și clar</string>
     <string name="fps_nature_title">Maximă</string>
     <string name="fps_smooth_summary">O rată de reîmprospătare ridicată adaugă mai multă claritate detaliilor</string>
@@ -309,6 +324,16 @@
     <string name="green_peafowl">Peafowl verde</string>
     <string name="green_warbler_finch">Vultur verde</string>
     <string name="grey_headed_flying_fox">Vulpe zburătoare cu capul cenușiu</string>
+    <string name="guard_item_app_summary">Dezinstalați aplicațiile de la distanță</string>
+    <string name="guard_item_app_title">Gestionați aplicațiile</string>
+    <string name="guard_item_browser_summary">Controlați accesul la aplicații și conținut</string>
+    <string name="guard_item_browser_title">Restricții</string>
+    <string name="guard_item_call_summary">Permiteți anumitor persoane de contact să efectueze apeluri</string>
+    <string name="guard_item_call_title">Comunicațien</string>
+    <string name="guard_item_eye_protect_summary">Monitor postură</string>
+    <string name="guard_item_eye_protect_title">Confortul ochilor</string>
+    <string name="guard_range_from">De la</string>
+    <string name="guard_range_to">La</string>
     <string name="harp_seal">Focă cu harpă</string>
     <string name="harpy_eagle">Vultur pleșuv</string>
     <string name="has_applied">Aplicat</string>
@@ -316,10 +341,12 @@
     <string name="helmeted_guineafowl">Păsări de Guineea</string>
     <string name="high_fps_description">Rată mare de reîmprospătare a ecranului. Consum crescut de energie.</string>
     <string name="hippopotamus">Hipopotam</string>
+    <string name="holiday_limit">Zile libere</string>
     <string name="hsv_space_color">Spațiu de culoare HSV</string>
     <string name="hsv_space_color_hue">Nuanţă</string>
     <string name="hsv_space_color_saturation">Saturație</string>
     <string name="hsv_space_color_value">Valoare</string>
+    <string name="in_forbidden_period">Utilizarea este restricționată acum</string>
     <string name="intelligent_recognition_item_summary">Utilizați un ton de apel desemnat pentru apeluri de la serviciile de livrare și taxi. Această caracteristică va funcționa când %s este setat ca ton de apel implicit.</string>
     <string name="intelligent_recognition_item_title">Identificare servicii</string>
     <string name="item_anura">Anura</string>
@@ -358,6 +385,7 @@
     <string name="less_than_one">&lt; %d</string>
     <string name="lion">Leu</string>
     <string name="lion_info">Leii sunt prădători feroce și puternici. Locuiesc în grupuri și au un puternic sentiment teritorial.</string>
+    <string name="loading_error">Nu s-au putut încărca elementele</string>
     <string name="lock_summary">Protejați-vă informațiile personale</string>
     <string name="long_tai1ed_iaeger">Jaeger cu coadă lungă</string>
     <string name="low_fps_description">Rată mică de reîmprospătare a ecranului. Consum redus de energie.</string>
@@ -454,6 +482,7 @@
     <string name="nature_mix_summary">Creați un mixaj personalizat</string>
     <string name="nazca_booby">Naiba Nazca</string>
     <string name="network_error">A apărut o eroare de rețea. Încercați din nou</string>
+    <string name="next_day">"(Ziua următoare) "</string>
     <string name="night">Seară</string>
     <string name="nine_banded_armadillo">Armadillo</string>
     <string name="no_matching">Nu s-a putut găsi o aplicație pentru a deschide acest link</string>
@@ -585,6 +614,8 @@
     <string name="steady_on_screen_notification_title">Lăsați deoparte telefonul și faceți o pauză</string>
     <string name="steady_on_screen_notification_title_pad">Lăsați deoparte dispozitivul și faceți o pauză</string>
     <string name="steady_on_screen_notify">Notifică despre utilizarea neîntreruptă</string>
+    <string name="steady_on_screen_notify_new">Luați o pauză</string>
+    <string name="steady_on_screen_ntf_msg">Toate funcțiile vor fi disponibile din nou în %1$s</string>
     <string name="steady_on_screen_setting">Limita de timp pentru sesiunile neîntrerupte</string>
     <string name="steady_on_screen_summary">Limita de timp pentru sesiunile neîntrerupte</string>
     <string name="stop_app_timer">Dezactivați Timpul de ecran</string>
@@ -645,6 +676,12 @@
     <string name="thursday">Joi</string>
     <string name="thursday_short">Joi</string>
     <string name="thursday_shortest">Jo</string>
+    <string name="time_over_back_home">Ecranul principal</string>
+    <string name="time_over_delayed_use">Ignorați</string>
+    <string name="time_over_not_delayed_use">Am înțeles</string>
+    <string name="time_over_today">"Nu a mai rămas timp disponibil
+pentru astazi"</string>
+    <string name="time_over_today_use">"Sesiunile de azi: "</string>
     <string name="time_picker_dialog_title">Setați ora</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
@@ -672,6 +709,7 @@
     <string name="tuesday_shortest">Ma</string>
     <string name="two_toed_sloths">Leneș cu două degete</string>
     <string name="two_toed_sloths_info">Leneșii cu două degete pot călători cu ușurință din copac în copac în baldachinele pădurilor tropicale.</string>
+    <string name="unavailable_per_day">Pauze</string>
     <string name="unlock_times_per_day">"Media zilnică: "</string>
     <string name="unlock_times_per_hour">"Deblocări pe oră: "</string>
     <string name="usage_agree">Accept</string>
@@ -703,8 +741,10 @@
     <string name="usage_device_limit_app_prolong_time3">Adăugați 60 de minute</string>
     <string name="usage_device_limit_app_prolong_time4">Nu limita astăzi</string>
     <string name="usage_device_limit_app_prolong_time5">Adăugați timp o dată</string>
+    <string name="usage_device_limit_forbidden_period">Utilizarea este restricționată între %1$s și %2$s</string>
     <string name="usage_device_limit_notifation_summary_start">Veți atinge limita în %1$s</string>
     <string name="usage_device_limit_notifation_title">Timp rămas pentru astăzi</string>
+    <string name="usage_device_limit_start_forbidden_period">Utilizarea va fi restricționată între %1$s și %2$s (%3$s rămas)</string>
     <string name="usage_device_limit_time_over">Ați atins limita pentru astăzi (%1$s)</string>
     <string name="usage_exit">Ieșiți</string>
     <string name="usage_focus_focus_premission_main_summary">Această aplicație trebuie să vă acceseze informațiile despre cont pentru a vă înregistra starea utilizării modului Focusat.</string>  
@@ -736,6 +776,8 @@ Această aplicație trebuie de asemenea să se conecteze la internet și necesit
     <string name="usage_home_premission_second_summary_double_link_prefix">Vă vom proteja informațiile personale în concordanță cu legile, regulamentele și politicile de confidențialitate relevante. Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să încărcați informații personale, nu veți putea utiliza această aplicație. Puteți revoca autorizarea din Timp de ecran>Setări>Dezactivați timpul de ecran.</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false"><Data>"Înainte de a utiliza această aplicație, citiți și acceptați &lt;a href='%1s'>Acordul Utilizatorului&lt;/a> și &lt;a href='%2s'>Politica noastră de Confidențialitate&lt;/a>."</Data></string>
     <string name="usage_home_premission_second_summary_new">Vă vom proteja informațiile personale în concordanță cu legile, regulamentele și politicile de confidențialitate relevante. Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să încărcați informații personale, nu veți putea utiliza această aplicație. Puteți revoca autorizarea din Timp de ecran>Setări>Dezactivați timpul de ecran. Dacă aveți întrebări referitoare la confidențialitate, ne puteți contacta la privacy@xiaomi.com."</string>
+    <string name="usage_new_category_limit_summary">Setați limite zilnice de utilizare pentru toate aplicațiile din această categorie</string>
+    <string name="usage_new_category_limit_title">Restricționați utilizarea pentru categoria de aplicații</string>
     <string name="usage_new_home_app_limit_summary">Setați o limită zilnică de ecran pentru această aplicație</string>
     <string name="usage_new_home_app_limit_title">Limitați timpul de ecran</string>
     <string name="usage_new_home_average">"Med "</string>
@@ -960,6 +1002,7 @@ Această aplicație trebuie să se conecteze la internet și necesită următoar
     <string name="willow_grouse_info">Ptarmiganul de salcie este în mare parte erbivor și ocupă în primul rând habitate subalpine și subarctice.</string>
     <string name="wolf">Lup</string>
     <string name="wombat">Wombat</string>
+    <string name="workday_limit">Zile lucrătoare</string>
     <string name="yellow_necked_spurfowl">Spurfowl cu gât galben</string>
     <string name="yellow_throated_marten">Jder cu gât galben</string>
     <string name="yesterday">Ieri</string>

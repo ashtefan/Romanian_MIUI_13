@@ -125,6 +125,7 @@
     <string name="calendar_account_settings">Setările contului</string>
     <string name="button_record_menstruation">Înregistrați</string>
     <string name="calendar_permission_desc">Gestionați evenimentele</string>
+    <string name="calendar_privacy_policy">Politica de Confidențialitate</string>
     <string name="calendar_subscription_group_title">Abonament calendar</string>
     <string name="calendar_user_agreement">Acordul Utilizatorului</string>
     <string name="can_not_create_long_event">Numele evenimentului este prea lung</string>
@@ -190,7 +191,7 @@
     <string name="countdown_notify_title">Numărătoare inversă: %1$s</string>
     <string name="countdown_secondary_tag">Numărătoare inversă</string>
     <string name="countdown_today">Astăzi</string>
-    <string name="create_an_account_desc">"Calendarul funcţionează mai bine cu un Cont Mi.
+    <string name="create_an_account_desc">"Calendarul funcţionează mai bine cu un Cont Xiaomi.
 
 • Accesaţi-l din orice browser web.
 • Creaţi în siguranţă copii de rezervă pentru evenimentele dvs."</string>
@@ -282,6 +283,7 @@
     <string name="edit_event_reminder_3_days_before">Amintește-mi și cu %d zile înainte</string>
     <string name="edit_event_reminder_summary">În acea zi la %1$s</string>
     <string name="edit_event_reminder_summary_3_days_before">Cu %2$d zile înainte și în acea zi la %1$s</string>
+    <string name="edit_event_reminder_summary_3_days_before_today">Cu %1$d zile înainte și la %1$s în data stabilită</string>
     <string name="edit_event_reminder_text">Pe %1$s la %2$s</string>
     <string name="edit_event_reminder_time">Oră memento</string>
     <string name="edit_event_reminder_with_another_day_text">Pe %1$s, %2$s la %3$s</string>
@@ -290,10 +292,10 @@
     <string name="edit_event_tab_birthday">Zi de naștere</string>
     <string name="edit_event_tab_countdown">Temporizator</string>
     <string name="edit_event_tab_event">Eveniment</string>
-    <string name="edit_event_title_create_agenda">Adăugați un eveniment</string>
-    <string name="edit_event_title_create_anniversary">Adăugați o aniversare</string>
-    <string name="edit_event_title_create_birthday">Adăugați o zi de naștere</string>
-    <string name="edit_event_title_create_countdown">Adăugați o numărătoare inversă</string>
+    <string name="edit_event_title_create_agenda">Creați un eveniment</string>
+    <string name="edit_event_title_create_anniversary">Creați o aniversare</string>
+    <string name="edit_event_title_create_birthday">Creați o zi de naștere</string>
+    <string name="edit_event_title_create_countdown">Creați o numărătoare inversă</string>
     <string name="edit_event_title_edit_agenda">Editați evenimentul</string>
     <string name="edit_event_title_edit_anniversary">Editați aniversarea</string>
     <string name="edit_event_title_edit_birthday">Editați ziua de naștere</string>
@@ -790,6 +792,7 @@
     <string name="no_internet_dialog_message">Dispozitivul dvs. trebuie să se conecteze la rețea pentru a putea retrage consimțământul. Verificați setările de rețea și încercați din nou.</string>
     <string name="no_internet_dialog_title">A apărut o eroare</string>
     <string name="no_long_holidays">Nicio vacanță mai lungă care urmează</string>
+    <string name="no_more_events">Nu mai există alte evenimente de arătat</string>
     <string name="no_network">"Nu s-a putut conecta la rețea.
 Verificați setările de rețea și încercați din nou."</string>
     <string name="no_network_btn">Reîncercați</string>
@@ -859,6 +862,7 @@ Verificați setările de rețea și încercați din nou."</string>
   <string name="pengzu">Ciupire</string>
     <string name="permission_accounts">Pentru conectarea și gestionarea contului sistemului și asocierea elementelor cu acesta</string>
     <string name="permission_contacts">Pentru sincronizarea zilelor de naștere ale contactelor și trimiterea de memento-uri</string>
+    <string name="permission_description">Detalii permisiuni</string>
     <string name="permission_main_purpose">Vizualizarea și gestionarea evenimentelor din calendar, planificarea călătoriilor, primirea de memento-uri și abonarea la diferite servicii</string>
     <string name="permission_storage">Pentru salvarea memento-urilor și a sunetelor de apel</string>
     <string name="phone_num">Telefon</string>
@@ -877,6 +881,9 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="pref_title_no_remind">Niciun memento</string>
     <string name="pref_title_notification_remind">Notificare memento-uri</string>
     <string name="preference_copied">\"%1$s\" a fost copiat în clipboard.</string>
+    <string name="preferences_alarms_category_title">Memento alarmă</string>
+    <string name="preferences_alarms_sound">Sunet</string>
+    <string name="preferences_alarms_vibrateWhen">Vibrație</string>
     <string name="preferences_alerts_ringtone_title">Sunet</string>
     <string name="preferences_alerts_vibrateWhen_title">Vibrare</string>
     <string name="preferences_alerts_vibrate_title">Vibrare și sunet</string>
@@ -891,6 +898,7 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="preferences_popup_alert_smart_summary">MIUI va identifica în mod automatevenimentele relevante</string>
     <string name="preferences_popup_alert_smart_summary_new">Evenimentele sensibile la timp sunt evenimentele cu dată fixă</string>
     <string name="preferences_popup_alert_smart_tips">"Înlocuiți notificările tradiționale cu alerte pop-up pentru a evita ratarea evenimentelor importante. Alertele pop-up alerts nu vor apărea când jucați jocuri, redați videoclipuri în modul ecran complet sau când utilizați modul Mașină."</string>
+    <string name="preferences_popup_alert_title">Memento-uri pop-up</string>
     <string name="preferences_show_indic_date_title">Afișează calendarul Indic</string>
     <string name="preferences_title">Calendar</string>
     <string name="preferences_use_home_tz_descrip">Afișați calendarul şi orele evenimentelor în fusul orar de acasă când călătoriți</string>
@@ -905,6 +913,7 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="premission_description_phone_state">Pentru identificarea dispozitivului bazat pe ID-ul acestuia</string>
     <string name="premission_description_ringtone">Pentru setarea sunetelor de apel</string>
     <string name="premission_description_title">Vizualizarea și gestionarea evenimentelor programate</string>
+    <string name="privacy_and_permissions">Confidențialitate și permisiuni</string>
     <string name="privacy_card_description">Acceptați Politica noastră de Confidențialitate pentru a accesa toate caracteristicile.</string>
     <string name="privacy_policy_dialog_agree">Accept</string>
     <string name="privacy_policy_dialog_dont_agree">Nu accept</string>
@@ -1129,6 +1138,10 @@ Puteți adăuga, de asemenea, memento-uri pentru a nu rata nimic important."</st
     <string name="tab_title_day">Zi</string>
     <string name="tab_title_month">Lună</string>
     <string name="tab_title_week">Săptămână</string>
+    <string name="tab_view_day">Zi</string>
+    <string name="tab_view_month">Lună</string>
+    <string name="tab_view_week">Săptămână</string>
+    <string name="tab_view_year">An</string>
   <string name="taishen">Copil al lui Dumnezeu</string>
     <string name="talk_back_read_date">%1$s (%2$s conform calendarului lunar).</string>
     <string name="talk_back_setting">Setări</string>
@@ -1352,7 +1365,7 @@ Puteți adăuga, de asemenea, memento-uri pentru a nu rata nimic important."</st
   <string name="wuxing">Cinci</string>
     <string name="xiaomi_calendar_delete_description">Aplicația Calendar este o aplicație de sistem care vă permite să creați și să gestionați evenimente. Unele din caracteristicile sale vor fi disponibile în continuare după ce veți elimina scurtătura de pe Ecranul principal.</string>
     <string name="xiaomi_calendar_delete_title">Eliminați \"Calendar\" de pe Ecranul principal?</string>
-    <string name="xiaomi_calendar_display_name">Calendar Cont Mi</string>
+    <string name="xiaomi_calendar_display_name">Calendar Cont Xiaomi</string>
   <string name="xingxiu">Stele</string>
     <string name="year">An</string>
     <string name="yearly">Anual (în fiecare %s)</string>

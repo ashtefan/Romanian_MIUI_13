@@ -831,7 +831,7 @@ Selecție"</string>
 
 Dezactivați datele mobile?"</string>
     <string name="data_enable_always_warn">Întreabă dacă se utilizează datele mobile</string>
-    <string name="data_enable_summary">Activaţi accesul la date prin reţeaua mobilă</string>
+    <string name="data_enable_summary">Permiteți acestui dispozitiv să utilizeze date mobile</string>
     <string name="data_enable_warning">Permițând utilizarea în permanență a datelor mobile poate genera taxe suplimentare peste planul de la operator. Vă conectați oricum?</string>
     <string name="data_enable_warning_lgu">"Exceptând cazul în care este stipulat altfel în planul de date de la operator, utilizarea datelor mobile poate genera taxe suplimentare de la operator.
 
@@ -2308,7 +2308,7 @@ Interfață UT: %5$s"</string>
     <string name="roaming_notification_content">Puteți adăuga codul țărilor în mod automat pentru a apela mai ușor.</string>
     <string name="roaming_notification_title">Se pare că roamingul este activat</string>
     <string name="roaming_on_notification_title">Roamingul de date este activat</string>
-    <string name="roaming_reenable_message">Încercați utilizarea în roaming pentru a vă conecta din nou.</string>
+    <string name="roaming_reenable_message">Încercați utilizarea roaming-ului pentru a vă conecta din nou.</string>
     <string name="roaming_user_package_summary_kr">Achiziționați, anulați sau editați pachetul pentru roaming. Nu veți fi taxat pentru utilizarea acestui meniu când sunteți în roaming.</string>
     <string name="roaming_user_package_title_kr">Utilizați pachetul pentru roaming</string>
     <string name="roaming_warning">Permiteţi roamingul de date? Puteţi acumula taxe considerabile pentru roaming!</string>
@@ -2511,10 +2511,10 @@ Interfață UT: %5$s"</string>
     <string name="status_hint_label_incoming_wifi_call">Apel Wi-Fi de la</string>
     <string name="status_hint_label_wifi_call">Apel Wi-Fi</string>
     <string name="status_unavailable">Indisponibilă</string>
-    <string name="stk_cc_ss_to_dial_error">Cerere SS modificată în solicitare APEL.</string>
+    <string name="stk_cc_ss_to_dial_error">Solicitare SS modificată în solicitare APEL.</string>
     <string name="stk_cc_ss_to_dial_video_error">Cerere SS modificată în apel video</string>
-    <string name="stk_cc_ss_to_ss_error">Cerere SS modificată în solicitare nouă SS.</string>
-    <string name="stk_cc_ss_to_ussd_error">Cerere SS modificată în solicitare USSD.</string>
+    <string name="stk_cc_ss_to_ss_error">Solicitare SS modificată în solicitare nouă SS.</string>
+    <string name="stk_cc_ss_to_ussd_error">Solicitare SS modificată în solicitare USSD.</string>
     <string name="stk_name">Unelte USIM</string>
     <string name="stock_quotes_disable">Cotaţii bursiere dezactivate</string>
     <string name="stock_quotes_enable">Cotaţii bursiere activate</string>
@@ -2578,7 +2578,7 @@ Interfață UT: %5$s"</string>
     <string name="support_forbidden_fakecell">Notă: restricționarea conexiunii la stații de bază false poate reduce semnalul în zonele cu acoperire slabă.</string>
     <string name="switch_cancel_btn_text">Renunțați</string>
     <string name="switch_confirm_btn_text">OK</string>
-    <string name="switch_dds_to_sub_alert">Vă rugăm comutați datele mobile la SIM</string>
+    <string name="switch_dds_to_sub_alert">Setați această cartelă ca și cartelă de date implicită.</string>
     <string name="switch_dds_to_sub_alert_msg">Vă rugăm comutați datele mobile la SIM</string>
     <string name="switch_debug_menu">Setări suplimentare de rețea</string>
     <string name="switch_off">Oprit</string>
@@ -3040,7 +3040,7 @@ Stocarea credențialelor poate fi inactivă"</string>
     <string name="wrong_password">Parola introdusă este incorectă</string>
     <string name="xcap_setting_summary">Blocarea apelurilor, Mesagerie vocală și redirecționare apel și Apel în așteptare</string>
     <string name="xcap_setting_title">Setări serviciu apelare</string>
-    <string name="xiaoai_assistant_setting_title">Asistent apelare Mi MI</string>
+    <string name="xiaoai_assistant_setting_title">Asistent apelare Mi AI</string>
     <string name="yesterday">Ieri</string>
     <string name="zen_alarm_warning">Nu veți mai auzi următoarea alarmă %1$s</string>
     <string name="zen_alarm_warning_indef">Nu veți mai auzi următoarea alarmă %1$s decât dacă dezactivați asta până atunci</string>

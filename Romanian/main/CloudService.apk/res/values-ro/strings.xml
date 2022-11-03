@@ -200,6 +200,8 @@ Dacă veţi schimba cartela SIM, un alt SMS va fi trimis automat pentru a reacti
     <string name="find_device_status_summary">Localizați și blocați dispozitivul, dar și ștergeți datele acestuia de la distanță</string>
     <string name="find_device_status_title_pad">Găsiți dispozitivul</string>
     <string name="find_device_status_title_phone">Găsiți dispozitivul</string>
+    <string name="find_permission_phone_sim_info_summary">Pentru accesarea locației prin SMS atunci când nu este conectat la rețea</string>
+    <string name="find_permission_phone_sim_info_title">Accesare informații despre dispozitiv</string>
     <string name="finddevice_miservice_notification_content">Blocați telefonul de la distanță dacă îl pierdeți</string>
     <string name="finddevice_miservice_notification_title">Activați Localizarea dispozitivului</string>
     <string name="fmt_chinese_date">N月e</string>
@@ -603,11 +605,16 @@ Pentru a rezolva acest lucru, fie puteți şterge unele fișierele vechi, fie pu
     <string name="micloud_space_soundrecorder_detail">Gestionaţi înregistrările stocate pe dispozitivul dvs.</string>
     <string name="micloud_space_soundrecorder_title">Înregistrări</string>
     <string name="micloud_storage">Stocare</string>
+    <string name="micloud_storage_detail">Detalii</string>
     <string name="micloud_storage_expires_auto_renewal_sum">Trebuie să reînnoiţi abonamentul.</string>
     <string name="micloud_storage_expires_manually_renewal_sum">Trebuie să reînnoiţi abonamentul.</string>
     <string name="micloud_storage_expires_soon_title">Spaţiul de stocare Xiaomi Cloud expiră în curând</string>
     <string name="micloud_storage_expires_very_soon_title">Spaţiul de stocare Xiaomi Cloud expiră în curând</string>
+    <string name="micloud_storage_family_quota">Spațiu partajat</string>
     <string name="micloud_storage_full">Spaţiul din Cloud este epuizat</string>
+    <string name="micloud_storage_full_tip">Spațiul de stocare este epuizat</string>
+    <string name="micloud_storage_normal_tip">%s rămas</string>
+    <string name="micloud_storage_share_family">Partajare familială</string>
     <string name="micloud_storage_unit_gb">%s GB</string>
     <string name="micloud_storage_unit_mb">%s MB</string>
     <string name="micloud_sync_alert_dialog_message">Sincronizaţi fotografiile, contactele, notele și altele între toate dispozitivele dvs.</string>

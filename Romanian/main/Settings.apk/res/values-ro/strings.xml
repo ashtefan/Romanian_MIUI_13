@@ -69,6 +69,8 @@
     <string name="accelerometer_summary_off">Doresc schimbarea automată a orientării ecranului la rotirea telefonului</string>
     <string name="accelerometer_summary_on">Schimbaţi automat orientarea la rotirea telefonului</string>
     <string name="accelerometer_title">Rotire automată a ecranului</string>
+    <string name="accept_new_connection">Permite conectarea la dispozitive noi</string>
+    <string name="accept_new_connection_detail">Noile conexiuni au fost restricționate în Centrul de control</string>
     <string name="access_control_app_entry_multiple">Deschideţi %s</string>
     <string name="access_control_app_entry_single">Deschideţi aplicaţia selectată</string>
     <string name="access_control_need_password">"%s a fost protejată
@@ -1841,6 +1843,7 @@ Puteți dezactiva această caracteristică din Setări > Bluetooth > Dispozitive
     <string name="bt_absVolume_open_dialog_title">Atenție</string>
     <string name="bt_absVolume_pre_title">Volumul absolut</string>
     <string name="bt_absVolume_summary">Mențineți volumul dispozitivelor Bluetooth și al telefonului strict consecvent. Puteți activa sau dezactiva această caracteristică atunci când fișiere media nu se redau în fundal.</string>
+    <string name="bt_always_show_icon">Afișați întotdeauna pictograma barei de stare</string>
     <string name="bt_audio_repair_property">Remediați problemele audio</string>
     <string name="bt_audio_share_property">Se partajează</string>
     <string name="bt_audio_share_switch_summary">Partajați sunete audio cu dispozitivele Bluetooth conectate</string>
@@ -4736,6 +4739,7 @@ Accesați Xiaomi Cloud și restaurați elementele de acolo."</string>
     <string name="location_category_location_services">Servicii de localizare</string>
     <string name="location_category_recent_location_access">Acces recent la locație</string>
     <string name="location_category_recent_location_requests">Solicitări recente de localizare</string>
+    <string name="location_description_no_gps">Acest dispozitiv nu acceptă navigarea prin satelit. Informațiile despre locație generate pe baza datelor din rețea pot fi insuficiente pentru unele funcții.</string>
     <string name="location_gps">Sateliţi GPS</string>
     <string name="location_high_battery_use">Utilizarea intensă a acumulatorului</string>
     <string name="location_low_battery_use">Utilizarea redusă a acumulatorului</string>

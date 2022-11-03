@@ -490,6 +490,7 @@ Dacă nu faceți actualizarea, și aplicațiile clonate pot funcționa necorespu
     <string name="second_space_desktop_tips_dialog_title">Actualizare importantă</string>
     <string name="second_space_finger_printf_desc">Adăugați amprenta utilizată pentru accesarea Spațiului secundar</string>
     <string name="second_space_finger_printf_title">Amprenta pentru Spațiul secundar</string>
+    <string name="second_space_setting_search_label">Funcții de protecție a confidențialității/Protecție/Protecție a confidențialității</string>
     <string name="secondspace_homepage">"Setați un model de blocare separat pentru Spațiul secundar.
 Separați și securizați-vă datele."</string>
     <string name="select_existed_fingerprint">Selectați amprenta</string>

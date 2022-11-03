@@ -1767,6 +1767,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
   <string name="people_mark_mode_title">Selectați \"%s\"</string>
   <string name="people_mark_mode_title_no_mark_name">Selectați o persoană</string>
     <string name="people_page_label">Persoane</string>
+    <string name="people_page_photo">Miniatura unei persoane</string>
     <string name="people_page_unname">Fără nume</string>
     <string name="permission_account_desc">Pentru autentificare și gestionarea contului sistemului</string>
     <string name="permission_account_name">Accesarea conturilor</string>

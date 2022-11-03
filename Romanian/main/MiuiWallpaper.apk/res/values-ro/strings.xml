@@ -44,6 +44,22 @@
     <string name="download_failed">Nu s-a putut descărca</string>
     <string name="early_morning">Dimineață</string>
     <string name="earth_id">pământ</string>
+    <string name="earth_position_content_0">Parcul natural Cape Kamenjak din Croația găzduiește, probabil, cele mai uluitoare priveliști de-a lungul coastei mediteraneene. Formatiunile geologice impresionante de aici transforma acest loc intr-un paradis pentru scafandri. În fiecare vară, soarele orbitor și apele calde mediteraneene atrag nenumărați entuziaști în aer liber.</string>
+    <string name="earth_position_content_1">"Câmpurile terasate sunt rezultatul activității umane, dar servesc și ca un loc pitoresc remarcabil al naturii.
+În China, terasele de orez sunt situate în principal la sud de râul Yangtze, unde ploile sunt comune și lanțurile muntoase sunt abundente. Terasele Longji există de mai bine de 700 de ani și există destul de multe monumente istorice în satele din apropiere.."</string>
+    <string name="earth_position_content_2">Ilulissat este situat în vestul Groenlandei, la 200 de kilometri nord de Cercul Arctic. Minunatul fiord de gheață Ilulissat de 56 de kilometri este situat chiar lângă ghețarul Jakobshavn Isbræ. Fiind cel mai mare ghețar din emisfera nordică, produce 2 miliarde de tone de aisberguri în fiecare an. După o scurtă ocolire spre nord, se întorc spre sud și se varsă în Oceanul Atlantic.</string>
+    <string name="earth_position_content_3">"Navagio este una dintre cele mai frumoase plaje de pe coasta Zakynthos, din Insulele Ionice ale Greciei. Se spune că este casa unui faimos naufragiu, motiv pentru care plaja este numită și \„Smugglers Cove\”."</string>
+    <string name="earth_position_content_4">Dolomiții sunt un lanț muntos situat în nord-estul Italiei. Muntele Seceda este cu adevărat unul dintre cele mai pitorești locuri de acolo.</string>
+    <string name="earth_position_title_0">"Croația
+Cape Kamenjak"</string>
+    <string name="earth_position_title_1">"Guangxi, China
+Câmpurile terasate Longji"</string>
+    <string name="earth_position_title_2">"Groenlanda
+Ilulissat"</string>
+    <string name="earth_position_title_3">"Grecia
+Plaja Navagio"</string>
+    <string name="earth_position_title_4">"Italia
+Dolomiții"</string>
     <string name="earth_summary">Pământul este leagănul civilizației umane</string>
     <string name="earth_super_wallpaper_label">pământ</string>
     <string name="earth_title">Acasă</string>
@@ -120,17 +136,27 @@ NASA/JPL/Universitatea din Arizona"</string>
     <string name="mars_position_content_2">"Mawrth Vallis este un vechi canal de ieșire a apei, cu roci luminoase bogate în argilă. Mineralele din argilă păstrează cu ușurință viața microscopică pe Pământ, astfel că poate fi găsite urme de viață străveche la Mawrth.
 
 NASA/JPL/Universitatea din Arizona"</string>
+    <string name="mars_position_content_3">"Aceste imagini au fost făcute în timp ce roverul Marte Curiosity explora dealurile Pahrump din craterul Gale. Această regiune conține roci sedimentare despre care oamenii de știință cred că s-au format în prezența apei. Zonele mai întunecate sunt nisipul.
+
+NASA/JPL/Universitatea din Arizona"</string>
+    <string name="mars_position_content_4">"Bahram Vallis este o vale a unui râu cu un singur trunchi, cu pereți festonati în unele locuri. Prezența unor caracteristici de eroziune raționalizate pe podeaua sa arată că fluidul a fost implicat în formarea sa.
+
+NASA/JPL/Universitatea din Arizona"</string>
     <string name="mars_position_title_0">"Regiunea
 Nilosyrtis Mensae"</string>
-    <string name="mars_position_title_1">Gale Crater</string>
+    <string name="mars_position_title_1">Craterul Gale</string>
     <string name="mars_position_title_2">"Crater în
 Mawrth Vallis"</string>
+    <string name="mars_position_title_3">Dealurile Pahrump</string>
+    <string name="mars_position_title_4">Valea Bahram</string>
     <string name="mars_summary">Vastele deșerturi de pe Marte au stârnit mereu uluirea umanității</string>
     <string name="mars_super_wallpaper_label">marte</string>
     <string name="mars_title">Planeta roșie</string>
     <string name="mars_view_height_0">287,3 km</string>
     <string name="mars_view_height_1">256,7 km</string>
     <string name="mars_view_height_2">286,2 km</string>
+    <string name="mars_view_height_3">268 km</string>
+    <string name="mars_view_height_4">283,8 km</string>
     <string name="mi_wallpaper_loading">Încărcare imagine de fundal Mi…</string>
     <string name="mi_wallpaper_title">Imagine de fundal Mi</string>
     <string name="midnight">Noapte</string>

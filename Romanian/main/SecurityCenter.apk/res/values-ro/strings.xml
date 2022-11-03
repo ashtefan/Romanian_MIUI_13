@@ -170,6 +170,8 @@
     <string name="am">AM</string>
     <string name="anti_disturb_msg_detail">Dezactivați toate notificările cu excepția apelurilor primite</string>
     <string name="anti_disturb_msg_title">Nu deranjați</string>
+    <string name="antispam_guangdian_card_hint">SIM-ul dvs. nu acceptă trecerea la un alt mesaj de plecare. Contactați operatorul pentru detalii.</string>
+    <string name="antispam_guangdian_card_title">Comutarea nu este acceptată</string>
     <string name="antispam_mms_text">Setați aplicația de Mesagerie ca aplicație implicită de trimitere mesaje text pentru a putea vedea mesajele blocate</string>
     <string name="antispam_mms_text_setting">Setați aplicația de Mesagerie ca aplicație implicită de trimitere mesaje text pentru a putea utiliza lista blocărilor</string>
     <string name="antispam_mode_details">Detaliile listei de blocări</string>
@@ -539,6 +541,8 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="app_mobile">Date mobile</string>
     <string name="app_name">Blocare aplicații</string>
     <string name="app_name_na">Utilizare date</string>
+    <string name="app_name_pad">Securitate</string>
+    <string name="app_name_phone">Securitate</string>
     <string name="app_name_securitycenter">Securitate</string>
     <string name="app_not_installed_toast">Aplicaţia nu este instalată pe dispozitivul dvs.</string>
     <string name="app_perm_manager_service">Permisiuni</string>
@@ -838,6 +842,8 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="beauty_fun_screen_light">Screen fill light</string>
     <string name="beauty_fun_settings_light">Fill light brightness</string>
     <string name="beauty_fun_video_effect">Beautify for video</string>
+    <string name="beauty_portrait_center">Păstrați fețele centrate</string>
+    <string name="beauty_portrait_center_desc">Identificați și centrați automat fețele în apeluri video și întâlniri. Această funcție nu este acceptată de unele aplicații.</string>
     <string name="beauty_settings">Settings</string>
     <string name="begin_date">Data de resetare a utilizării</string>
     <string name="best_booster_status">Viteza în jocuri este cea mai bună disponibilă acum.</string>
@@ -3060,6 +3066,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_statistics_battery_use_summary">%s de la ultima încărcare completă</string>
     <string name="pc_statistics_battery_use_title">Utilizare acumulator</string>
     <string name="pc_to_phone_install">Instalarea %s prin USB a fost blocată</string>
+    <string name="pc_xiaoai_create_auto_task">Sarcină nouă de la Mi AI</string>
     <string name="per_month_pkg_traffic_settings">Setaţi limita de date</string>
     <string name="percent_formatted_text">%s%%</string>
     <string name="percent_symbol">%</string>
@@ -3951,7 +3958,7 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="safe_result_item_info_system_scan">Monitorizarea plăților este activă</string>
     <string name="safe_result_item_info_system_version">MIUI este actualizat la cea mai nouă versiune</string>
     <string name="safepay_alert_dialog_button_continue">Continuați</string>
-    <string name="safepay_alert_dialog_button_fix">Reparați</string>
+    <string name="safepay_alert_dialog_button_fix">Aflați mai multe</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>
@@ -4129,11 +4136,11 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="sp_antispam_scan_summary">Protejați-vă împotriva fraudelor</string>
     <string name="sp_antispam_scan_title">Lista blocărilor</string>
     <string name="sp_background_risk_dialog_summary">, analizați și remediați problemele referitoare la plăți.</string>
-    <string name="sp_background_risk_dialog_summary_new">Mediul de plată curent poate aduce riscuri de securitate. Acordați un moment pentru a rezolva problemele existente.</string>
+    <string name="sp_background_risk_dialog_summary_new">Mediul de plată curent poate aduce riscuri de securitate. Acordați un moment pentru a afla mai multe.</string>
     <string name="sp_background_risk_dialog_summary_wifi_approve">Sunteți conectat la o rețea Wi-Fi publică, care poate fi nesigură. Asigurați-vă că plățile sunt securizate înainte de a le efectua.</string>
-    <string name="sp_background_risk_dialog_title">Atenție</string>
+    <string name="sp_background_risk_dialog_title">Risc detectat de MIUI</string>
     <string name="sp_background_risk_dialog_title_wifi_approve">Alertă rețea Wi-Fi publică</string>
-    <string name="sp_background_risk_type_messaging">Aplicația de mesagerie a sistemului a fost înlocuită</string>
+    <string name="sp_background_risk_type_messaging">Aplicația de mesagerie a sistemului a fost modificată</string>
     <string name="sp_background_risk_type_root">Sistemul a fost rootat</string>
     <string name="sp_background_risk_type_sign">Aplicația neoficială rulează</string>
     <string name="sp_background_risk_type_virus">Aplicația virusată rulează în fundal</string>

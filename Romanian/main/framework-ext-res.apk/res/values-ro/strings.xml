@@ -37,8 +37,7 @@
     <string name="autofill_save_sub_message">Veți putea gestiona parolele salvate în Setări > Parole și Securitate > %s.</string>
     <string name="autofill_save_title">Salvează parolele în mod automat</string>
     <string name="autofill_service_name">Gestionați parolele</string>
-    <string name="back_double_tap">nimic</string>
-    <string name="back_triple_tap">nimic</string>
+    <string name="backup_suspend_hint">Se face o copie de rezervă pentru această aplicație acum. Așteptați până când copia de rezervă este completă și încercați din nou.</string>
     <string name="battery_authentic_failed_button">Am înțeles</string>
     <string name="battery_authentic_failed_title">Atenție</string>
     <string name="blackshark">Black Shark</string>

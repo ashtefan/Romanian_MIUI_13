@@ -74,6 +74,7 @@
     <string name="content_introduction">Content Center agregă conținutul și serviciile de pe mai multe canale. Aici puteți citi articole, viziona videoclipuri, vizualiza articole prezentate zilnic și să primiți recomandări de conținut.</string>
     <string name="continue_to_enable_accessibility">Mențineți două degete glisat în jos pentru a activa accesibilitatea.</string>
     <string name="copy">Copiați</string>
+    <string name="create_shortcut">Comandă rapidă pe Ecranul principal</string>
     <string name="data_traffic_enable_dialog_title">Dacă nu sunteți conectat la Wi-Fi acum, se va utiliza conexiunea de date mobile. Utilizarea datelor mobile poate genera taxe suplimentare de la operator.</string>
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
@@ -187,6 +188,7 @@
     <string name="location_U">U+ GPSnWPS</string>
     <string name="location_content">În concordanță cu reglementările legale, operatorii mobili pot obține informații despre locația dispozitivelor mobile pentru a respecta cerințele agențiilor de salvare de urgență (pompieri și poliție) care urmăresc securitatea și salvarea de urgență.</string>
     <string name="location_introduction">Serviciile bazate pe locație găsesc produse și servicii în apropierea dvs.</string>
+    <string name="location_introduction_qcom">Serviciile de localizare folosesc poziționarea pentru a furniza servicii specifice locației. Când serviciile de localizare sunt utilizate de dispozitivul dvs., modulul QCC se va conecta la rețea pentru a accelera procesul de poziționare.</string>
     <string name="location_location">Agențiile de salvare de urgență pot obține, la cerere, locația dvs. actuală</string>
     <string name="lockscreen_introduction">Caruselul imaginilor de fundal vă permite să obțineți imagini noi livrate zilnic pe ecranul de blocare.</string>
     <string name="midnight">Noapte</string>

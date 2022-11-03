@@ -69,6 +69,7 @@
  ID-ul contului dumneavoastră: %s"</string>
     <string name="account_token_expired_title">Autentificarea a eșuat</string>
     <string name="account_user_avatar">Fotografie de profil</string>
+    <string name="account_user_avatar_activity_not_found">Nu s-a putut deschide aplicația Galerie</string>
     <string name="account_user_avatar_from_album">Selectaţi o fotografie</string>
     <string name="account_user_avatar_from_camera">Faceţi o fotografie</string>
     <string name="account_user_base_info">Informaţii personale</string>
@@ -129,6 +130,14 @@ Acum vă puteți conecta la contul dvs. Xiaomi utilizând %s."</string>
     <string name="close">Închideți</string>
     <string name="cloud_description_closed">Ocupat | Sincronizarea este oprită</string>
     <string name="cloud_description_normal">Ocupat</string>
+    <string name="cloud_member">Calitatea de membru</string>
+    <string name="cloud_member_status_expired">Expirată</string>
+    <string name="cloud_member_status_expired_soon">Expiră în curând</string>
+    <string name="cloud_member_status_non_vip">Actualizați</string>
+    <string name="cloud_member_vipname_free">Gratuit</string>
+    <string name="cloud_member_vipname_mega">Mega</string>
+    <string name="cloud_member_vipname_premium">Premium</string>
+    <string name="cloud_member_vipname_ultra">Ultra</string>
     <string name="cloud_service">Xiaomi Cloud</string>
     <string name="collect_diagnosis_log">Generați un raport de diagnoză</string>
     <string name="com_facebook_device_auth_instructions">Vizitați &lt;b>facebook.com/device&lt;/b> și introduceți codul de mai jos.</string>
@@ -457,6 +466,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> va obține următoarele permisiuni:&lt;br> &lt;br> %3$s</string>
     <string name="oauth_title">Conectați-vă utilizând contul Xiaomi</string>
     <string name="ok">OK</string>
+    <string name="operator_broadnet">China Broadnet</string>
     <string name="optional_permissions">Permisiuni opționale</string>
     <string name="page_load_failed">Pagina nu se poate deschide</string>
     <string name="passport_Resend">Trimiteți din nou</string>
@@ -689,6 +699,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="passport_vcode_notification_title">Verificarea conectării dvs. este incompletă</string>
     <string name="passport_vcode_prompt_long">Introduceţi codul de verificare</string>
     <string name="passport_vcode_sms_send_prompt">Trimiteți codul de verificare la %s</string>
+    <string name="passport_vcode_what_app_send_prompt">Codul dvs. de verificare WhatsApp va fi trimis pe telefonul dvs. de recuperare &lt;font color=#1F93FF>%s&lt;/font></string>
     <string name="passport_verification_failed">Nu s-a putut verifica contul</string>
     <string name="passport_verify">Verificaţi</string>
     <string name="passport_verifying_activator_phone">Se verifică securitatea telefonului…</string>

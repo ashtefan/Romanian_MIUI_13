@@ -29,6 +29,10 @@
         <item quantity="other">cu %d minute în urmă</item>
         <item quantity="one">cu 1 minut în urmă</item>
     </plurals>
+    <plurals name="category_limit_notify_content">
+        <item quantity="other">%2$d minute rămase pentru \"%1$s\" azi</item>
+        <item quantity="one">%2$d minut rămas pentru \"%1$s\" azi</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Cu o jumătate de oră în urmă</item>
     </plurals>
@@ -64,9 +68,21 @@
         <item quantity="other">Ați utilizat dispozitivul timp de %d minute fără întrerupere</item>
         <item quantity="one">Ați utilizat dispozitivul timp de %d minut fără întrerupere</item>
     </plurals>
+    <plurals name="steady_on_screen_rest_time">
+        <item quantity="other">Odihniți-vă %d minute</item>
+        <item quantity="one">Odihniți-vă %d minut</item>
+    </plurals>
     <plurals name="steady_on_screen_time_pick">
         <item quantity="other">%d minute</item>
         <item quantity="one">%d minut</item>
+    </plurals>
+    <plurals name="steady_on_screen_tip_title">
+        <item quantity="other">Ați utilizat deja acest dispozitiv %d minute</item>
+        <item quantity="one">Ați utilizat deja acest dispozitiv %d minut</item>
+    </plurals>
+    <plurals name="tip_most_unavailable_period">
+        <item quantity="other">Puteți adăuga maxim %d pauze</item>
+        <item quantity="one">Puteți adăuga maxim %d pauză</item>
     </plurals>
     <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">Timpul de ecran de astăzi este egal cu media dvs pe %d zile</item>

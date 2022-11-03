@@ -638,6 +638,8 @@ După ce plasați fișierul \"music.mp3\" în directorul cardului SD, atingeți 
   <string name="cit_tool_drx_only">DRX</string>
   <string name="cit_tool_enable_3A_log">Enable 3A log Switch</string>
   <string name="cit_tool_enable_display_3A_log">Enable Display 3A log</string>
+  <string name="cit_tool_gps_path_loss_test_request_location">solicitare locație</string>
+    <string name="cit_tool_gps_path_loss_title">Instrument de testare Gnss pathloss</string>
   <string name="cit_tool_log">Get logs</string>
   <string name="cit_tool_log_bugreport">Bug report</string>
   <string name="cit_tool_log_dmesg">DMESG</string>

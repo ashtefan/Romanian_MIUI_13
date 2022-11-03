@@ -464,6 +464,7 @@
     <string name="callrecordview_menu_show_sim">Apeluri %s</string>
     <string name="callrecordview_menu_show_stranger">Apelurile de la numere necunoscute</string>
     <string name="callrecordview_menu_show_title">Afişare jurnal apeluri</string>
+    <string name="callrecordview_menu_xiaoaiphone">Asistent Apelare Mi AI</string>
     <string name="cancel">Renunțați</string>
     <string name="cancel_confirmation_dialog_message">Renunţaţi la modificări?</string>
     <string name="cancel_confirmation_dialog_title">Anulaţi</string>

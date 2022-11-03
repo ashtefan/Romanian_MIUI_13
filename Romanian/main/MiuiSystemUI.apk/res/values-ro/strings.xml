@@ -1750,6 +1750,8 @@ dd/MM"</string>
     <string name="miui_notification_menu_snooze">Reduceți la tăcere</string>
     <string name="miui_notification_menu_title_not_allow">Restricționați</string>
     <string name="miui_notification_menu_unfold">Marcați ca importantă</string>
+    <string name="miui_notification_slide_menu_msg_ongoing">Restricționați notificările permanente pentru \"%1$s\" acum?</string>
+    <string name="miui_notification_slide_menu_ongoing">Restricționați notificările permanente</string>
     <string name="miui_screen_rotation_freeze_message">S-a blocat orientarea ecranului în modul peisaj</string>
     <string name="miui_snooze_always_float">Nu ascunde</string>
     <string name="miui_snooze_cancel">Renunțați</string>
@@ -2272,7 +2274,9 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="quick_settings">Setări Rapide</string>
     <string name="quick_settings_autobrightness_label">Iluminare automată</string>
     <string name="quick_settings_batterysaver_label">Economisire acumulator</string>
+    <string name="quick_settings_bluetooth_connected_tip">Conectat prin Bluetooth cu succes</string>
     <string name="quick_settings_bluetooth_detail_empty_text">Niciun dispozitiv asociat disponibil</string>
+    <string name="quick_settings_bluetooth_disconnected_tip">Toate dispozitivele Bluetooth vor rămâne deconectate astăzi</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
     <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d Dispozitive)</string>
     <string name="quick_settings_bluetooth_off_label">Bluetooth-ul este oprit</string>

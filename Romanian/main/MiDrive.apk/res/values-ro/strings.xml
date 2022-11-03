@@ -80,6 +80,15 @@
     <string name="be_sure_to_clear_cache">Goliți memoria cache acum?</string>
     <string name="camera">Camera</string>
     <string name="cancel">Renunțați</string>
+    <string name="cancel_mi_drive">Anulați serviciile</string>
+    <string name="cancel_mi_drive_alert_description">Ștergeți toate articolele din Mi Drive pentru a putea anula serviciile. Urmați acești pași pentru a șterge elemente:&lt;br />1. Pe pagina de pornire Mi Drive, țineți apăsat un element pentru a face să apară butonul „Selectați tot”. Utilizați acest buton pentru a selecta până la 200 de fișiere simultan și pentru a le șterge.&lt;br />2. După ce ați șters toate elementele, ștergeți toate fișierele din Elementele șterse recent.</string>
+    <string name="cancel_mi_drive_alert_reminder_card_summary">1. Vă recomandăm să faceți copii de rezervă pentru articole înainte de a le șterge. Pentru a face acest lucru, accesați i.mi.com, faceți clic pe Mi Drive și descărcați articolele pe un computer.&lt;br />2. Rețineți că articolele șterse din articolele dvs. șterse recent nu pot fi recuperate ulterior.</string>
+    <string name="cancel_mi_drive_confirm_button">Anulați serviciile</string>
+    <string name="cancel_mi_drive_confirm_description">Dacă veți continua, veți anula serviciile Mi Drive. Vom înceta să colectăm informațiile dumneavoastră personale, iar informațiile personale deja colectate și păstrate vor fi șterse în perioada specificată, în conformitate cu legile și reglementările aplicabile, cu excepția cazului în care se solicită altfel.</string>
+    <string name="cancel_mi_drive_confirm_hint">Anularea serviciilor Mi Drive nu va afecta utilizarea altor produse și servicii Xiaomi. Dacă doriți să vă ștergeți contul Xiaomi, puteți face asta &lt;font color=#0097FF>&lt;a href=%1$s>here&lt;/a>&lt;/font>.</string>
+    <string name="cancel_mi_drive_confirm_reminder_card_summary">&lt;font color=#F22424>Următoarele elemente vor fi șterse definitiv după anularea serviciilor:&lt;/font>&lt;br />1. Toate articolele de pe Mi Drive, inclusiv, dar fără a se limita la, documente, fișiere private și elemente șterse.&lt;br />2. Permisiunile dispozitivului, setările și alt conținut stocat în cache.&lt;br />3. Istoricul încărcărilor și descărcărilor Mi Drive.</string>
+    <string name="cancel_mi_drive_success">Servicii anulate cu succes</string>
+    <string name="cancel_mi_drive_title">Anulați serviciile</string>
     <string name="category_document">Docs</string>
     <string name="category_document_title">Docs</string>
     <string name="category_file">Fișiere</string>
@@ -471,10 +480,28 @@ Asigurați-vă că utilizați contul Mi curent ca și cont de sistem MIUI."</str
     <string name="preference_copied">\"%1$s\" a fost copiat în clipboard.</string>
     <string name="preview">Previzualizați</string>
     <string name="privacy_policy">Politica de Confidențialitate</string>
+    <string name="privacy_recall_alert_description">Ștergeți toate elementele din Mi Drive pentru a vă putea retrage consimțământul. Urmați acești pași pentru a șterge elemente:&lt;br />1. Pe pagina de pornire Mi Drive, țineți apăsat un element pentru a face să apară butonul „Selectați tot”. Utilizați acest buton pentru a selecta până la 200 de fișiere simultan și pentru a le șterge.&lt;br />2. După ce ați șters toate elementele, ștergeți toate fișierele din Elementele șterse recent.</string>
+    <string name="privacy_recall_alert_reminder_card_summary">1. Vă recomandăm să faceți copii de rezervă pentru articole înainte de a le șterge. Pentru a face acest lucru, accesați i.mi.com, faceți clic pe Mi Drive și descărcați articolele pe un computer.&lt;br />2. Rețineți că articolele șterse din articolele dvs. șterse recent nu pot fi recuperate ulterior.</string>
+    <string name="privacy_recall_confirm_button">Retragerea consimțământului</string>
+    <string name="privacy_recall_confirm_description">Dacă veți continua, vă veți retrage consimțământul cu privire la Politica de confidențialitate a Mi Drive. Vom înceta să colectăm informațiile dumneavoastră personale, iar informațiile personale deja colectate și păstrate vor fi șterse în perioada specificată, în conformitate cu legile și reglementările aplicabile, cu excepția cazului în care se solicită altfel.</string>
+    <string name="privacy_recall_confirm_reminder_card_summary">&lt;font color=#F22424>Următoarele elemente vor fi șterse definitiv după retragerea consimțământului:&lt;/font>&lt;br />1. Toate articolele de pe Mi Drive, inclusiv, dar fără a se limita la, documente, fișiere private și elemente șterse.&lt;br />2. Permisiunile dispozitivului, setările și alt conținut stocat în cache.&lt;br />3. Istoricul încărcărilor și descărcărilor Mi Drive.</string>
+    <string name="privacy_recall_dialog_msg">Dacă veți continua, vă veți retrage consimțământul cu privire la Politica de confidențialitate a Mi Drive. Informațiile personale deja colectate și păstrate vor fi șterse în perioada specifică, în conformitate cu legile și reglementările aplicabile, dacă nu se cere altfel. Deoarece Mi Drive își oferă serviciile pe baza colectării informațiilor personale necesare, retragerea consimțământului dumneavoastră va fi considerată ca refuz de a accepta serviciile Mi Drive. Retrageți consimțământul acum?</string>
+    <string name="privacy_recall_dialog_title">Retragerea consimțământului</string>
+    <string name="privacy_recall_success">Consimțământul retras cu succes</string>
+    <string name="privacy_recall_title">Retragerea consimțământului</string>
+    <string name="privacy_recalling">Se retrage consimțământul…</string>
+    <string name="privacy_update_dialog_msg">Politica de confidențialitate Mi Drive a fost actualizată:&lt;br/>%1$s&lt;br/>Citiți și acceptați noua versiune a &lt;a href=%2$s>&lt;u>Politica de confidențialitate&lt;/u>&lt; /a> înainte de a continua.</string>
+    <string name="privacy_update_dialog_title">Politica de confidențialitate a fost actualizată</string>
+    <string name="privacy_user_notice_dialog_exit_btn_text">Ieșiți</string>
+    <string name="privacy_user_notice_dialog_msg">Nu veți putea continua să utilizați Mi Drive decât dacă sunteți de acord cu noua versiune a &lt;a href=%1$s>&lt;u>Politicii de confidențialitate&lt;/u>&lt;/a>. Acceptați acum Politica de confidențialitate actualizată?</string>
+    <string name="privacy_user_notice_dialog_ok_btn_text">Accept</string>
+    <string name="privacy_user_notice_dialog_title">Atenție</string>
     <string name="private_empty_desc">Aici puteți păstra fișierele în mod privat.</string>
     <string name="private_empty_sub_desc">Încercați să mutați fișierele aici sau încărcați-le în mod direct.</string>
     <string name="private_folder_name">Fișiere private</string>
     <string name="ptp_ai_recommend_empty_page">Niciun PDF generat în mod automat aici</string>
+    <string name="query_quota_exception">A apărut o eroare de server. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="query_quota_searching">Doar o secundă…</string>
     <string name="recent_file">Recente</string>
     <string name="recent_jump_to_privacy_fail_notice">Acest fișier este privat. Reveniți la pagina de pornire și glisați în jos pentru a vizualiza.</string>
     <string name="refresh_label_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
@@ -482,6 +509,7 @@ Asigurați-vă că utilizați contul Mi curent ca și cont de sistem MIUI."</str
     <string name="refresh_label_refreshing">Se reîmprospătează…</string>
     <string name="refresh_label_release_to_refresh">Eliberați pentru a reîmprospăta</string>
     <string name="release_enter_private">Eliberați pentru a vedea fișierele private</string>
+    <string name="reminder_card_title">Atenție</string>
     <string name="remove_success">Șters cu succes</string>
     <string name="rename_ext_confirm_dialog_desc">Modificarea tipului fișierului îl poate face inutilizabil</string>
     <string name="rename_file_select_error">Nu se pot redenumi elemente multiple</string>

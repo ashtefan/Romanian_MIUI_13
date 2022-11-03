@@ -1355,6 +1355,8 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_coloreffect_title">Efecte de culori</string>
     <string name="pref_camera_common_settings">Setări generale</string>
     <string name="pref_camera_contrast_title">Contrast</string>
+    <string name="pref_camera_crop_preferred_description">Aplicați decuparea inteligentă pentru a îmbunătăți compoziția imaginilor cu rezoluție superioară</string>
+    <string name="pref_camera_crop_preferred_title">Xiaomi ProCut</string>
     <string name="pref_camera_delay_capture_10s">%ds întârziere</string>
     <string name="pref_camera_delay_capture_3s">%ds întârziere</string>
     <string name="pref_camera_delay_capture_5s">%ds întârziere</string>
