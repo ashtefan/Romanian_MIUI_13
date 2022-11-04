@@ -60,9 +60,9 @@
         <item>\#</item>
     </string-array>
     <string-array name="settings_search_mirror">
-        <item>MIUI+ Beta</item>
-        <item>Conectare și partajare/MIUI+ Beta</item>
-        <item>Ecran Combo;Duet;Ecran multiplu;Duo;Computer;Oglindă;MIUI+</item>
+        <item>Dispozitive conectate</item>
+        <item>Conexiune și partajare/Dispozitive conectate</item>
+        <item>MIUI+, MIUIPLUS, handoff, multiscreen, interconectivitate, oglindire ecran, mouse și tastatură, extensie ecran, transfer aplicație, Mi Smart Hub, oglindă, extensie, multitask, partajare, mouse, tastatură, conectați dispozitive</item>
     </string-array>
     <string-array name="settings_tips_message">
         <item>"1. Dezactivați hotspot-ul portabil, Partajarea Mi sau partajarea dispozitivului mobil înainte de a utiliza această funcție.

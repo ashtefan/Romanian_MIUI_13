@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Repede înainte %d secunde</item>
+        <item quantity="one">Repede înainte %d secundă</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Derulați înapoi %d secunde</item>
+        <item quantity="one">Derulați înapoi %d secundă</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notificări noi</item>
+        <item quantity="one">%d notificare nouă</item>
+    </plurals>
     <plurals name="permission_delete_audio">
         <item quantity="other">Permiteți ^1 să șteargă ^2 fișiere audio?</item>
         <item quantity="one">Permiteți ^1 să șteargă acest fișier audio?</item>

@@ -37,6 +37,10 @@
     <string name="airplane_error_title">Mod Avion</string>
     <string name="am">AM</string>
     <string name="app_name">Partajare prin Bluetooth</string>
+    <string name="aptx_notification_aptx">Acest dispozitiv acceptă Qualcomm® aptX™</string>
+    <string name="aptx_notification_aptx_adaptive">Acest dispozitiv acceptă Qualcomm® aptX™ Adaptive</string>
+    <string name="aptx_notification_aptx_hd">Acest dispozitiv acceptă Qualcomm® aptX™ HD</string>
+    <string name="aptx_notification_title">Bluetooth</string>
     <string name="auth_notif_message">Introduceţi cheia de sesiune pentru %1$s</string>
     <string name="auth_notif_ticker">Cerere de autentificare pentru protocolul OBEX</string>
     <string name="auth_notif_title">Cheia sesiunii</string>
@@ -45,6 +49,7 @@
     <string name="avrcp_notification_name">BT CARACTERISTICĂ AVANSATĂ BT AVRCP</string>
     <string name="bluetooth_a2dp_sink_queue_name">Se redă acum</string>
     <string name="bluetooth_advanced_feat_description">Caracteristică avansată de browsing Bluetooth</string>
+    <string name="bluetooth_broadcast_status">Transmitere pe</string>
     <string name="bluetooth_connected">Bluetooth audio conectat</string>
     <string name="bluetooth_disconnected">Bluetooth audio deconectat</string>
     <string name="bluetooth_map_remote_advance_feature_support">Caracteristici avansate de accesare a mesajelor suportate</string>
@@ -68,6 +73,7 @@
     <string name="bluetooth_sap_notif_message">Cereți clientului să se deconecteze?</string>
     <string name="bluetooth_sap_notif_ticker">Acces SIM prin Bluetooth</string>
     <string name="bluetooth_sap_notif_title">Acces SIM prin Bluetooth</string>
+    <string name="broadcast_notification_name">Stare proiectare</string>
     <string name="bt_audio_share_notification_content">Atingeți pentru a vedea opțiunile</string>
     <string name="bt_audio_share_notification_title">Partajare audio</string>
     <string name="bt_enable_cancel">Anulaţi</string>
@@ -189,6 +195,8 @@
     <string name="miui_transfer_history_title">Transferuri Bluetooth</string>
     <string name="miui_transfer_inbound_title">Primit</string>
     <string name="miui_transfer_outbound_title">Expediat</string>
+    <string name="miuix_access_state_desc">Selectat</string>
+    <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
@@ -203,6 +211,8 @@
     <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
     <string name="miuix_appcompat_select_item">Selectați elementele</string>
+    <string name="miuix_indexer_collect">Colecții</string>
+    <string name="miuix_indexer_selected">Selectat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>

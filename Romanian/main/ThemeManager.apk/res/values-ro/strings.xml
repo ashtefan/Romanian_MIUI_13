@@ -86,10 +86,14 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="apply_not_support_aod">Afișajul activ permanent nu este suportat pe acest dispozitiv</string>
     <string name="apply_not_support_in_second_space">Nu se poate aplica acest element în Spațiul secundar</string>
     <string name="apply_not_support_maml_aod">Nu se poate combina afișajul activ permanent cu temele de pe acest dispozitiv</string>
+    <string name="apply_sensor_video_wallpaper_dialog_message">Această imagine de fundal va fi aplicată ecranelor de blocare interioare și exterioare și ecranelor de pornire.</string>
     <string name="apply_succeed">Aplicat cu succes</string>
     <string name="apply_success_not_enable_aod">Activați mai întâi din Setări Afișajul activ permanent</string>
     <string name="apply_success_not_support_aod">Nu se poate combina afișajul activ permanent cu temele de pe acest dispozitiv. Restul componentelor temei au fost aplicate cu succes.</string>
     <string name="apply_theme_with_ringtones">Utilizaţi tonurile de apel incluse în teme</string>
+    <string name="apply_wallpaper_after_three_theme">În prezent, utilizați o temă terță parte. Dacă schimbați doar imaginea de fundal a ecranului de blocare, este posibil ca stilul de ceas al ecranului de blocare să fie restabilit la implicit. Aplicați acum?</string>
+    <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">În prezent, utilizați o Super Imagine de fundal. Dacă selectați o nouă imagine de fundal, aceasta va fi aplicată atât pe ecranul de pornire, cât și pe ecranul de blocare, iar afișajul permanent va fi restabilit la setarea anterioară. Aplicați acum?</string>
+    <string name="apply_wallpaper_warning_use_super_wallpaper">În prezent, utilizați o Super Imagine de fundal. Dacă selectați o nouă imagine de fundal, aceasta va fi aplicată atât pe ecranul de pornire, cât și pe ecranul de blocare. Aplicați acum?</string>
     <string name="apply_warning_get_device_dialog_message">Pentru a putea utiliza conținutul descărcat, permiteți mai întâi acestei caracterisitici să acceseze ID-ul dispozitivului. Puteți acorda această permisiune din Setări > Confidențialitate.</string>
     <string name="apply_warning_tip_get_device_status">Permiteți mai întâi acestei aplicații să acceseze ID-ul dispozitivului din Profil > Setări.</string>
     <string name="audio_duration_minutes_format">%1$d minute</string>
@@ -397,6 +401,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="fold_sensor_video_wallpaper_group">Imagini de fundal dinamice pentru dispozitive pliabile</string>
     <string name="font_compat_dialog_buy_confirm">Cumpărați</string>
     <string name="font_compat_dialog_buy_content">Este posibil ca fonturile terților să nu fie acceptate de unele aplicații. Această problemă de compatibilitate va fi remediată de o viitoare actualizare a sistemului. Cumpărați oricum acest font?</string>
     <string name="font_compat_dialog_cancel">Renunțați</string>
@@ -687,7 +692,7 @@ mm"</string>
     <string name="more_sub_comment">Vedeți toate răspunsurile (%1$d)&gt;</string>
     <string name="more_system_wallpaper">Mai multe imagini de fundal de sistem</string>
     <string name="morning">Dimineață</string>
-    <string name="mtrl_badge_numberless_content_description">Notificări noi</string>
+    <string name="mtrl_badge_numberless_content_description">Notificare noi</string>
     <string name="mtrl_chip_close_icon_content_description">Eliminați %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Mai mult de %1$d notificări noi</string>
     <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>

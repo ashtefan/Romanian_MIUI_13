@@ -81,9 +81,17 @@
         <item quantity="other">%s persoane pot vedea acest album</item>
         <item quantity="one">%s persoană poate vedea acest album</item>
     </plurals>
+    <plurals name="album_permission_subtitle_multiple">
+        <item quantity="other">%2$d albume inclusiv %1$s</item>
+        <item quantity="one">%2$d album inclusiv %1$s</item>
+    </plurals>
     <plurals name="album_photo_count_text">
         <item quantity="other">%1$d elemente</item>
         <item quantity="one">%1$d element</item>
+    </plurals>
+    <plurals name="all_story_count_desc">
+        <item quantity="other">%d amintiri</item>
+        <item quantity="one">%d amintire</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
         <item quantity="other">%1$d fotografii din %2$s vor fi adăugate</item>
@@ -567,6 +575,26 @@
     <plurals name="talkback_album_item_content">
         <item quantity="other">%1$s, %2$s elemente</item>
         <item quantity="one">%1$s, %2$s element</item>
+    </plurals>
+    <plurals name="title_age_hint_day">
+        <item quantity="other">%d zile</item>
+        <item quantity="one">%d zi</item>
+    </plurals>
+    <plurals name="title_age_hint_month">
+        <item quantity="other">%d luni</item>
+        <item quantity="one">%d lună</item>
+    </plurals>
+    <plurals name="title_age_hint_year">
+        <item quantity="other">%d ani</item>
+        <item quantity="one">%d an</item>
+    </plurals>
+    <plurals name="today_of_year_location_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="today_of_year_photo_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
     </plurals>
     <plurals name="trash_purge_dialog_message_cloud">
         <item quantity="other">%d elemente selectate vor fi șterse definitiv din cloud și din toate dispozitivele sincronizate. Ștergeți oricum?</item>

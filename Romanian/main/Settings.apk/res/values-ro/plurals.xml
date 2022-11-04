@@ -130,6 +130,10 @@
         <item quantity="other">%d secunde</item>
         <item quantity="one">%d secundă</item>
     </plurals>
+    <plurals name="color_game_led_freq_entries">
+        <item quantity="other">La fiecare %d secunde</item>
+        <item quantity="one">La fiecare %d secundă</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d dispozitive</item>
         <item quantity="one">%d dispozitiv</item>
@@ -289,6 +293,10 @@
         <item quantity="other">%d agenți de încredere activi</item>
         <item quantity="one">1 agent de încredere activ</item>
     </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">Cel mult %d procese</item>
+        <item quantity="one">Cel mult %d proces</item>
+    </plurals>
     <plurals name="memory_usage_apps_summary">
         <item quantity="other">%1$d aplicații au utilizat memoria în ultimele %2$s</item>
         <item quantity="one">1 aplicație a utilizat memoria în ultima %2$s</item>
@@ -334,11 +342,11 @@
         <item quantity="one">%d categorie dezactivată</item>
     </plurals>
     <plurals name="notifications_sent_daily">
-        <item quantity="other">~%d notificări pe zi</item>
+        <item quantity="other">~%, d notificări pe zi</item>
         <item quantity="one">~%d notificare pe zi</item>
     </plurals>
     <plurals name="notifications_sent_weekly">
-        <item quantity="other">~%d notificări pe săptămână</item>
+        <item quantity="other">~%,d notificări pe săptămână</item>
         <item quantity="one">~%d notificare pe săptămână</item>
     </plurals>
     <plurals name="num_minutes_ago">
@@ -441,22 +449,6 @@
         <item quantity="other">Setați ca fiind de încredere sau eliminați certificatele</item>
         <item quantity="one">Setați ca fiind de încredere sau eliminați certificatul</item>
     </plurals>
-    <plurals name="ssl_ca_cert_info_message">
-        <item quantity="other">"%s a instalat autorizații de certificate pentru profilul de servici, care le pot permite monitorizarea activității în rețea, inclusiv e-mailuri, aplicații și site-uri securizatehas installed certificate authorities for your work profile, which may allow them to monitor work network activity, including emails, apps, and secure websites.
-
-Pentru mai multe informații despre aceste certificate, contactați administratorul."</item>
-        <item quantity="one">"%s a instalat o autorizație de certificat pentru profilul de servici, care îi poate permite să monitorizeze activitatea în rețea, inclusiv e-mailurile, aplicațiile și site-urile securizate.
-
-Pentru mai multe informații despre acest certificat, contactați administratorul."</item>
-    </plurals>
-    <plurals name="ssl_ca_cert_info_message_device_owner">
-        <item quantity="other">"%s a instalat autorizații de certificate pe telefonul dumneavoastră, care le pot permite monitorizarea activității în rețea, inclusiv e-mailuri, aplicații și site-uri securizate.
-
-Pentru mai multe informații despre aceste certificate, contactați administratorul."</item>
-        <item quantity="one">"%s a instalat o autorizație de certificat pe telefon, care îi poate permite să monitorizeze activitatea în rețea, inclusiv e-mailurile, aplicațiile și site-urile securizate.
-
-Pentru mai multe informații despre acest certificat, contactați administratorul."</item>
-    </plurals>
     <plurals name="ssl_ca_cert_settings_button">
         <item quantity="other">Verificați certificatele</item>
         <item quantity="one">Verificați certificatul</item>
@@ -467,7 +459,31 @@ Pentru mai multe informații despre acest certificat, contactați administratoru
     </plurals>
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%d aplicații pot afișa notificări</item>
-        <item quantity="one">%d aplicație poate afișa notificări</item>
+        <item quantity="one">%d aplicație nu poate afișa notificări</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">După %d minute</item>
+        <item quantity="one">După %d minut</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d biți/eșantion</item>
+        <item quantity="one">%d bit/eșantion</item>
+    </plurals>
+    <plurals name="string_int">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d ore</item>
+        <item quantity="one">%d oră</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d minute</item>
+        <item quantity="one">%d minut</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d secunde</item>
+        <item quantity="one">%d secundă</item>
     </plurals>
     <plurals name="suggestions_collapsed_summary">
         <item quantity="other">+%1$d sugestii</item>

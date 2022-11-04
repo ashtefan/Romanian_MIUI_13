@@ -5,7 +5,7 @@
     <string name="access_list_of_links">Accesați o listă de link-uri</string>
     <string name="access_terms">Termeni de acces</string>
     <string name="admin_has_ability_to_monitor_device">"Administratorul dumneavoastră poate monitoriza și gestiona setările, accesul la rețeaua corporației, aplicațiile, permisiunile, caracteristicile de prevenire a furtului și datele asociate acestui dispozitiv, inclusiv activitatea în rețea, precum și locația dispozitivului."</string>
-    <string name="admin_has_ability_to_monitor_profile">"Administratorul dumneavoastră poate monitoriza și gestiona setările, accesul la rețeaua corporației, aplicațiile, permisiunile și datele asociate acestui profil, inclusiv activitatea în rețea, precum și locația dispozitivului, istoricul de apelare și istoricul de căutare a contactelor."</string>
+    <string name="admin_has_ability_to_monitor_profile">"Administratorul dumneavoastră poate monitoriza și gestiona setările, accesul la rețeaua corporației, aplicațiile, permisiunile și datele asociate acestui profil, inclusiv activitatea în rețea, precum și locația dispozitivului, istoricul de apelare și istoricul de căutare a contactelor. Contactați administratorul IT pentru mai multe informații și pentru a afla mai multe despre politicile de confidențialitate ale organizației dvs"</string>
     <string name="app_label">Setare profil Servici</string>
     <string name="cancel_delete_profile">Renunțare</string>
     <string name="cancel_provisioning">Renunțare</string>
@@ -78,6 +78,10 @@
     <string name="encrypt_device_text_for_device_owner_setup">"Pentru a continua configurarea acestui telefon, va trebui să îl criptați mai întâi. Acest lucru poate dura."</string>
     <string name="encrypt_device_text_for_profile_owner_setup">"Pentru a continua configurarea profilului de Servici va trebui să criptați telefonul. Acest lucru poate dura."</string>
     <string name="encrypt_this_device_question">Criptați acest dispozitiv?</string>
+    <string name="error_role_holder_download_install_failed">Încercați din nou mai târziu sau cereți ajutor administratorului IT</string>
+    <string name="error_role_holder_hash_mismatch">"Nu se poate configura dispozitivul. Contactați administratorul IT și faceți referire la \„Suma de control nevalidă\”."</string>
+    <string name="error_role_holder_package_invalid">"Nu se poate configura dispozitivul. Contactați administratorul IT și faceți referire la \„Componente lipsă sau corupte\”."</string>
+    <string name="error_wifi">Nu s-a putut conecta la Wi-Fi</string>
     <string name="expand">Extindeți</string>
     <string name="financed_device_screen_header">Acest dispozitiv a fost achiziționat cu credit de la %1$s</string>
     <string name="for_help_contact_admin">Pentru asistență, contactați administratorul</string>
@@ -104,6 +108,8 @@
     <string name="managed_provisioning_not_supported_by_launcher">"Profilul dvs. de Servici nu este suportat de către această aplicație Lansator. Va trebui să treceți la o aplicație compatibilă."</string>
     <string name="maximum_user_limit_reached">"Profilul de Servici nu a putut fi creat deoarece s-a atins limita numărului maxim de utilizatori. Ștergeți cel puțin un utilizator și încercați din nou."</string>
     <string name="mdm_icon_label">pictogramă %1$s</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
     <string name="next">Următorul</string>
     <string name="not_set">Nesetat</string>
     <string name="now_lets_set_up_everything_else">Adăugați un cont personal pentru a beneficia mai mult de dispozitivul dvs.</string>
@@ -141,6 +147,7 @@
     <string name="section_heading">%1$s titlul secțiunii.</string>
     <string name="set_up_everything_else">Configurați orice altceva</string>
     <string name="set_up_your_device">Setați dispozitivul</string>
+    <string name="setting_up">Se configurează…</string>
     <string name="setting_up_workspace">Se configurează profilul Servici…</string>
     <string name="setup_device">Setați dispozitivul</string>
     <string name="setup_device_encryption">Setați dispozitivul. Criptaren</string>

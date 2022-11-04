@@ -79,7 +79,7 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC v3</item>
+        <item>LC3</item>
         <item>LHDC v2</item>
         <item>LHDC v1</item>
         <item>Activați Codecurile Opționale</item>
@@ -94,7 +94,7 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC v3</item>
+        <item>LC3</item>
         <item>LHDC v2</item>
         <item>LHDC v1</item>
         <item>Activați codecurile opționale</item>
@@ -121,8 +121,8 @@
         <item>Dezactivat</item>
         <item>Filtrate</item>
         <item>Activat</item>
-        <item>Anteturi filtrate</item>
-        <item>Pachete media filtrate</item>
+        <item>Anteturi filtrate activat</item>
+        <item>Pachete media filtrate activat</item>
     </string-array>
     <string-array name="carrier_name">
         <item>Digi Mobil</item>
@@ -318,6 +318,27 @@
         <item>Negură</item>
         <item>Ploaie ce îngheaţă</item>
         <item></item>
+    </string-array>
+    <string-array name="tile_states_color_correction">
+        <item>Indisponibil</item>
+        <item>Oprit</item>
+        <item>Pornit</item>
+    </string-array>
+    <string-array name="tile_states_onehanded">
+        <item>Indisponibil</item>
+        <item>Oprit</item>
+        <item>Pornit</item>
+    </string-array>
+    <string-array name="tile_states_qr_code_scanner">
+        <item>Indisponibil</item>
+        <item>Oprit</item>
+        <item>Pornit</item>
+    </string-array>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>Mută ​​la stânga</item>
+        <item>Mută ​​în jos</item>
+        <item>Mută ​​la dreapta</item>
+        <item>Mută ​​în sus</item>
     </string-array>
     <string-array name="wifi_status">
         <item></item>

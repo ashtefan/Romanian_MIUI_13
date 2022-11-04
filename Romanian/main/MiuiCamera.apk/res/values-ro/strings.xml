@@ -37,6 +37,7 @@
     <string name="accessibility_ai_watermark_panel_on">Panou amprentă AI</string>
     <string name="accessibility_ambilight_panel_on">Deschideți panoul pentru expunere lungă</string>
     <string name="accessibility_back_preview_status">Previzualizare cameră posterioară</string>
+    <string name="accessibility_beauty_compare">Vedeți imaginea cu și fără filtrul Înfrumusețare</string>
     <string name="accessibility_beauty_function_button">Înfrumusețați</string>
     <string name="accessibility_beauty_function_panel_on">Panou înfrumusețare</string>
     <string name="accessibility_beauty_panel_closed">Meniul de înfrumusețare este ascuns</string>
@@ -59,9 +60,9 @@
     <string name="accessibility_camera_switch_capture_recording">Comutați între modurile foto și video</string>
     <string name="accessibility_camera_ultra_wide_bokeh_off">Modul Corp complet este dezactivat</string>
     <string name="accessibility_camera_ultra_wide_bokeh_on">Modul Corp complet este activat</string>
-    <string name="accessibility_camera_video_960fps_120">120 fps</string>
-    <string name="accessibility_camera_video_960fps_240">240 fps</string>
-    <string name="accessibility_camera_video_960fps_960">960 fps</string>
+    <string name="accessibility_camera_video_960fps_120">%d fps</string>
+    <string name="accessibility_camera_video_960fps_240">%d fps</string>
+    <string name="accessibility_camera_video_960fps_960">%d fps</string>
     <string name="accessibility_camera_video_fps_120">120 fps</string>
     <string name="accessibility_camera_video_fps_30">30 fps</string>
     <string name="accessibility_camera_video_slow_motion_fps">%d fps</string>
@@ -97,6 +98,7 @@
     <string name="accessibility_flash_back_soft_light">Blițul lucrează în modul iluminare redusă</string>
     <string name="accessibility_flash_off">Blițul este dezactivat</string>
     <string name="accessibility_flash_on">Blițul este activat</string>
+    <string name="accessibility_flash_on_but_not_adjust_ambient">xxx</string>
     <string name="accessibility_flash_torch">Blițul este activat în modul lanternă</string>
     <string name="accessibility_focus_status">%1$sX zoom</string>
     <string name="accessibility_foucs_peak">Valoarea medie</string>
@@ -307,6 +309,13 @@
     <string name="altitude_text">Alt.</string>
     <string name="am">AM</string>
     <string name="ambi_file_name_format">"'AMBI'_yyyyMMdd_HHmmss"</string>
+    <string name="ambient_lighting_need_flash_on_tip">xxx</string>
+    <string name="ambient_lighting_not_adjust_ambient">xxx</string>
+    <string name="ambient_lighting_type_blue">xxx</string>
+    <string name="ambient_lighting_type_purple">xxx</string>
+    <string name="ambient_lighting_type_sun">xxx</string>
+    <string name="ambient_lighting_type_warm">xxx</string>
+    <string name="ambient_lighting_type_wind">xxx</string>
     <string name="ambilight_description_title">Despre expunerea prelungită</string>
     <string name="ambilight_intro_crowd_moving_part1">Când filmați pe o stradă aglomerată, cereți subiectului să stea nemișcat. Ceilalți oameni vor apărea ca trasee încețoșate.</string>
     <string name="ambilight_intro_crowd_moving_part2">Puteți face, de asemenea, poze cu traficul ocupat și mulțimile în mișcare. Expunerea îndelungată va menține clădirile bine definite, dar toate obiectele în mișcare vor fi încețoșate.</string>
@@ -330,7 +339,8 @@
     <string name="audio_focus_exit_button_text">Închidere focusare audio</string>
     <string name="audio_map_summary_tip">Monitorizați volumul canalelor stânga și dreapta în timp real și reglați-l folosind glisorul</string>
     <string name="auto_hibernation_enter_tip">Se pregătește oprirea ecranului…</string>
-    <string name="autozoom_click_hint">"Atingeți un obiect pentru a-l menține în focus când este în mișcare. Stați la distanță de cel puțin 3 metri pentru a obține cele mai bune efecte."</string>
+    <string name="auto_recommend_switch_lens">xxxxx</string>
+    <string name="autozoom_click_hint">"Atingeți un obiect pentru a-l menține în focus când este în mișcare. Stați la distanță de cel puțin %d metri pentru a obține cele mai bune efecte."</string>
     <string name="autozoom_disabled_hint">S-a oprit urmărirea obiectelor în mișcare</string>
     <string name="autozoom_hint">Urmăriți obiectele în mișcare</string>
     <string name="autozoom_landscape_hint">Fotografiați în modul peisaj pentru a obține cele mai bune efecte</string>
@@ -371,16 +381,33 @@
     <string name="beauty_fragment_tab_name_beauty">Înfrumusețare</string>
     <string name="beauty_fragment_tab_name_makeup">Avansat</string>
     <string name="beauty_fragment_tab_name_makeups">Machiaj</string>
+    <string name="beauty_fx_makeup_cv">Retușați</string>
     <string name="beauty_makeups_bluefemale">Îngheţ</string>
+    <string name="beauty_makeups_danyan">Nud</string>
     <string name="beauty_makeups_gentleman">Argint</string>
     <string name="beauty_makeups_nude">Nud</string>
     <string name="beauty_makeups_pinkfemale">Petală</string>
+    <string name="beauty_makeups_qianjin">Castaniu</string>
+    <string name="beauty_makeups_ruanmei">Adolescent</string>
     <string name="beauty_makeups_solid">Contur</string>
+    <string name="beauty_makeups_subeffect_filter">Filtre</string>
+    <string name="beauty_makeups_subeffect_makeup">Machiaj</string>
     <string name="beauty_makeups_toughman">Bronz</string>
+    <string name="beauty_makeups_xiazhi">Fardul pleoapei inferioare</string>
+    <string name="beauty_makeups_yanku">Regina de gheață</string>
+    <string name="beauty_makeups_yuanqi">Proaspăt</string>
+    <string name="beauty_mo_fe">Natural</string>
+    <string name="beauty_mo_ma">Clasic</string>
+    <string name="beauty_mo_or">Original</string>
+    <string name="beauty_mo_pr_cv">Textures</string>
     <string name="beauty_mode_reset_toast">Efecte de înfrumusețare eliminate cu succes</string>
+    <string name="beauty_mutex_toast_tip">&lt;a href=>Dezactivați&lt;/a> mai întâi efectele de machiaj</string>
+    <string name="beauty_ne">Original</string>
+    <string name="beauty_no_t">Înfrumusețarea este dezactivată</string>
     <string name="beauty_origin_skincolor">Original</string>
     <string name="beauty_reset">Resetați</string>
     <string name="beauty_reset_toast">Efecte de înfrumusețare resetate cu succes</string>
+    <string name="beauty_s_cl">Piele</string>
     <string name="beauty_skincolor_caramel">Caramel</string>
     <string name="beauty_skincolor_lotus">Soare</string>
     <string name="beauty_skincolor_matte">Mat</string>
@@ -396,8 +423,10 @@
     <string name="button_fisheye_camera_title">Ochi de pește</string>
     <string name="button_front_camera_title">Realizați un selfie</string>
     <string name="button_normal_video_title">Înregistrați un videoclip</string>
-    <string name="camcorder_tip_8k_max_video_duration">Puteți înregistra până la 6 minute în 8K</string>
+    <string name="camcorder_tip_8k_max_video_duration">Puteți înregistra până la %1$d minute în 8K</string>
     <string name="camcorder_tip_current_max_video_duration">Măriți rezoluția videoclipurilor %d minute la rezoluția curentă</string>
+    <string name="camcorder_tip_isp_super_night_video_max_video_duration">Puteți înregistra până la %d minute</string>
+    <string name="camcorder_tip_super_night_video_4k_max_video_duration">Puteți înregistra până la %d minute în 4K</string>
     <string name="camera_disabled">Camera a fost dezactivată din motive de securitate.</string>
     <string name="camera_error_title">Eroare Cameră foto</string>
     <string name="camera_facedetection_sub_option_hint">Caracteristică experimentală</string>
@@ -406,6 +435,7 @@
     <string name="camera_liveshot_off_tip">S-a dezactivat modul Fotografiere dinamică</string>
     <string name="camera_liveshot_on_tip">Fotografiere dinamică</string>
     <string name="camera_mode_options">Moduri</string>
+    <string name="camera_newcta_storage_message_1">Pentru stocarea și afișarea imaginilor, a videoclipurilor și a fișierelor</string>
     <string name="camera_setting">Cameră</string>
     <string name="camera_settings_category_development">Caracteristici experimentale</string>
     <string name="camera_settings_label">Cameră</string>
@@ -455,6 +485,7 @@
     <string name="clone_video_mode">Video</string>
     <string name="close">Închideți</string>
     <string name="close_back_flash_toast">"Dispozitivul dvs este supraîncălzit. Nu se poate folosi blițul acum."</string>
+    <string name="close_flash_toast">Nu se poate folosi blițul din cauza acumulatorului descărcat</string>
     <string name="close_front_flash_toast">"Dispozitivul dvs este supraîncălzit. Nu se poate folosi blițul acum."</string>
     <string name="close_night_algo_toast_low_power">Încărcați dispozitivul pentru a putea seta expunerea</string>
     <string name="close_night_algo_toast_thermal">Răcoriți dispozitivul pentru a putea seta expunerea</string>
@@ -541,6 +572,7 @@
     <string name="cta_perm_voice">Utilizarea microfonului</string>
     <string name="cta_perm_voice_desc">Pentru înregistrarea sunetelor audio pe durata filmării videoclipurilor</string>
     <string name="cta_user_tips"><Data>Pentru a înțelege pe deplin drepturile dvs. ca și utilizator dar și modurile în care utilizăm datele, citiți și acceptați &lt;a href =%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href =%2$s>Politica noastră de Confidențialitate&lt;/a>.</Data></string>
+    <string name="custom_content_unavailable_alert">Nu se poate folosi textul introdus. Încercați altceva în schimb.</string>
     <string name="custom_sound_art">Retro</string>
     <string name="custom_sound_default">Implicit</string>
     <string name="custom_sound_modern">Modern</string>
@@ -559,6 +591,20 @@
     <string name="custom_watermark_words">Amprentă personalizată în fotografie</string>
     <string name="custom_watermark_words_input_hint">Introduceți textul</string>
     <string name="custom_watermark_words_save_success">Salvat cu succes</string>
+    <string name="cv_lens_35mm">%d mm</string>
+    <string name="cv_lens_50mm">%d mm</string>
+    <string name="cv_lens_90mm">%d mm</string>
+    <string name="cv_lens_black_white">Alb-negru</string>
+    <string name="cv_lens_msg">Faceți fotografii uimitoare cu lentilele Pro</string>
+    <string name="cv_lens_rotary_focus">Bokeh învolburat</string>
+    <string name="cv_lens_soft_focus">Focalizare redusă</string>
+    <string name="cv_lens_title">Lentile Pro</string>
+    <string name="cvtype_btn_select">Utilizați \"%1$s\"</string>
+    <string name="cvtype_hint_title">Selectați stilul</string>
+    <string name="cvtype_item_btn_title1">Leica Autentic</string>
+    <string name="cvtype_item_btn_title2">Leica Vibrant</string>
+    <string name="cvtype_item_title1">Natural și realistic</string>
+    <string name="cvtype_item_title2">Proaspăt și vibrant</string>
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="dd_f_t">xxxxxxx</string>
@@ -630,6 +676,7 @@ documentele scanate în mod automat"</string>
     <string name="dual_video_user_guide_standalone_content_new">Videoclipurile înregistrate simultan pot fi, de asemenea, separate și salvate ca două fișiere.</string>
     <string name="early_morning">Dimineață</string>
     <string name="edit_blusher">Fardare</string>
+    <string name="edit_cheekbone">Pomeți</string>
     <string name="edit_chin">Bărbie</string>
     <string name="edit_color_skin">Tonul pielii</string>
     <string name="edit_eye_large">Ochi mari</string>
@@ -637,11 +684,14 @@ documentele scanate în mod automat"</string>
     <string name="edit_face_ruddy">Rumen</string>
     <string name="edit_face_slender">Subţire</string>
     <string name="edit_hairline">Coafură</string>
+    <string name="edit_head_narrow">Mărimea capului</string>
+    <string name="edit_jaw">Maxilarul inferior</string>
     <string name="edit_jelly_lips">Luciu de buze</string>
     <string name="edit_lips">Buze</string>
     <string name="edit_makeup">Machiaj</string>
     <string name="edit_neck">Gât</string>
     <string name="edit_nose">Nas</string>
+    <string name="edit_nose_tip">Vârful nasului</string>
     <string name="edit_pupil_line">Tuș de ochi</string>
    <string name="edit_risorius">Risorius</string>
     <string name="edit_skin_smooth">Neted</string>
@@ -649,6 +699,8 @@ documentele scanate în mod automat"</string>
     <string name="edit_slim_nose">Nas</string>
     <string name="edit_smile">Zâmbet</string>
     <string name="edit_solid">Contur</string>
+    <string name="edit_temple">Temple</string>
+    <string name="edit_touch_up">Machiaj</string>
     <string name="emoticon">Pachet de etichete</string>
     <string name="error_fail_to_start_audio_capture">Nu s-a putut porni înregistrarea vocală</string>
     <string name="esp_tip">Previzualizare afișaj exterior</string>
@@ -701,6 +753,7 @@ documentele scanate în mod automat"</string>
     <string name="film_video_c">Înghețarea timpului</string>
     <string name="film_video_d">Interval nocturn</string>
     <string name="film_video_e">Lumea paralelă</string>
+    <string name="film_video_f">Înapoi în timp</string>
     <string name="film_video_tip">Utilizați un trepied</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -763,6 +816,7 @@ documentele scanate în mod automat"</string>
 dacă rotiți telefonul"</string>
     <string name="front_camera_hint_text_rotate">Rotiți telefonul</string>
     <string name="front_common">2:Fotografiat cu telefon Mi</string>
+    <string name="guide_pop_window_msg_cv_lens">Atingeți pentru a încerca lentilele Pro</string>
     <string name="hand_gesture_open_tip">Îndreptați palma către cameră pentru a porni temporizatorul</string>
     <string name="hand_gesture_tip">Temporizator pornit cu ajutorul palmei</string>
     <string name="hdr_tip">HDR</string>
@@ -870,6 +924,7 @@ Curățați lentila pentru un efect îmbunătățit."</string>
     <string name="location_permission_not_ask_again_go_to_settings">Permiteți</string>
     <string name="log_format">LOG</string>
     <string name="longitude_text">Long.</string>
+    <string name="low_battery_to_save_video">Se pare că nivelulu acumulatorului este prea scăzut. Opriți înregistrarea și salvați videoclipul înainte ca dispozitivul să se închidă.</string>
     <string name="lpl_dialog_item_name_burst">Atingeți și mențineți apăsat pentru a fotografia în rafală</string>
     <string name="lpl_dialog_item_name_record">Atingeți și mențineți apăsat pentru a înregistra un videoclip</string>
     <string name="lpl_dialog_title">Selectați funcția declanșatorului</string>
@@ -1002,6 +1057,8 @@ să pară mai mari în fotografii"</string>
     <string name="mimoji_tips">Atingeți pentru a face o fotografie. Atingeți și mențineți apăsat pentru a înregistra un videoclip.</string>
     <string name="miservice_notification_content">Atingeți pentru a afla mai multe</string>
     <string name="miservice_notification_title">Aflați mai multe despre noile funcții ale aplicației Cameră foto</string>
+    <string name="miuix_access_state_desc">Selectat</string>
+    <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
@@ -1016,6 +1073,8 @@ să pară mai mari în fotografii"</string>
     <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
     <string name="miuix_appcompat_select_item">Selectați elementele</string>
+    <string name="miuix_indexer_collect">Colecții</string>
+    <string name="miuix_indexer_selected">Selectat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -1047,6 +1106,7 @@ să pară mai mari în fotografii"</string>
     <string name="module_name_pixel_48m">48 MP</string>
     <string name="module_name_pixel_50m">50 MP</string>
     <string name="module_name_pixel_64m">64 MP</string>
+    <string name="module_name_pixel_xxxm">50 MP</string>
     <string name="module_name_portrait">Portret</string>
     <string name="module_name_professional">Pro</string>
     <string name="module_name_scanner">Scaner</string>
@@ -1054,6 +1114,12 @@ să pară mai mari în fotografii"</string>
     <string name="module_name_super_moon">Superluna</string>
     <string name="module_name_video">Videoclip</string>
     <string name="module_name_vlog">VLOG</string>
+    <string name="moiton_detection_960_fps_video_tip" formatted="false">Videoclipurile %1dfps pot dura până la %2d secunde</string>
+    <string name="moiton_detection_tip">Se detectează mișcare… Păstrați dispozitivul stabil.</string>
+    <string name="moiton_detection_video_3840fps_3840">%d fps</string>
+    <string name="moiton_detection_video_electric_quantity_tip">Încărcați-vă dispozitivul pentru a putea folosi această funcție</string>
+    <string name="moiton_detection_video_temperature_stop_tip">Dispozitivul dvs. este supraîncălzit. Înregistrarea se va opri în %d secunde.</string>
+    <string name="moiton_detection_video_temperature_tip">Răciți dispozitivul pentru a putea folosi această funcție</string>
     <string name="moive_frame">Ramă video</string>
     <string name="monday">Luni</string>
     <string name="monday_short">Lun</string>
@@ -1166,7 +1232,7 @@ să pară mai mari în fotografii"</string>
     <string name="parameter_peak_raw_description">Acest format de fotografie captează toate datele imaginii înregistrate de către senzor atunci când faceți o fotografie. Datele necomprimate vă oferă mai multe opțiuni de post-procesare.</string>
     <string name="parameter_peak_raw_title">Format RAW</string>
     <string name="parameter_videos_title">Efecte filmare</string>
-    <string name="parameter_wb_description">Înafară de setările predefinite ale balansului de alb (incandescent, lumină de zi, fluorescent, înnorat), puteți seta o valoare personalizată cuprinsă între 2.000 și 8.000 de grade Kelvin.</string>
+    <string name="parameter_wb_description">Înafară de setările predefinite ale balansului de alb (incandescent, lumină de zi, fluorescent, înnorat), puteți seta o valoare personalizată cuprinsă între %1$d și %2$d de grade Kelvin.</string>
     <string name="parameter_wb_title">Balans de alb</string>
     <string name="parameter_zoom_slider_description">Trageți glisorul pentru zoom orizontal pentru a schimba ușor fotografia de la o fotografie cu bătaie lungă la una în prim-plan.</string>
     <string name="parameter_zoom_slider_title">Zoom</string>
@@ -1176,7 +1242,7 @@ să pară mai mari în fotografii"</string>
     <string name="pic_flaw_blink_one">Se pare că persoana din cadru a închis ochii</string>
     <string name="pic_flaw_cover">Se pare că lentila este parțial obturată</string>
   <string name="pixel_ai_108">AI 100 milioane ultra strălucitor</string>
-  <string name="pixel_ai_108_close">Închideți AI 100 milioane ultra strălucitor</string>
+    <string name="pixel_mode_capture_hint">Asigurați-vă că mediul este bine iluminat</string>
     <string name="pm">PM</string>
     <string name="popup_tip_3d_beauty_intro_text">Înfrumusețare 3D</string>
     <string name="popup_tips_near_range_mode">Focalizare strânsă</string>
@@ -1229,6 +1295,12 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_audio_focus_entry_general">Normal</string>
     <string name="pref_audio_focus_entry_rear">În spate</string>
     <string name="pref_audio_focus_title">Focusare audio</string>
+    <string name="pref_auto_boot">Pornire automată</string>
+    <string name="pref_auto_boot_summary">Faceți camera mai receptivă, permițându-i să pornească automat. Puteți gestiona permisiunile de pornire automată în detaliile aplicației.</string>
+    <string name="pref_beauty_me_mp_switch_desc">Ajustați efectele de machiaj pentru bărbați pe fotografiile de grup</string>
+    <string name="pref_beauty_me_mp_switch_title">Ajustați efectele de machiaj pentru bărbați</string>
+    <string name="pref_beauty_nvs_wp_desc">Îndepărtați alunițele atunci când sunt utilizate efecte de netezire a pielii</string>
+    <string name="pref_beauty_nvs_wp_title">Îndepărtați alunițele</string>
     <string name="pref_burst_shoot_title">Fotografiere în serie</string>
     <string name="pref_camcorder_settings">Video</string>
     <string name="pref_camcorder_settings_category">Setări cameră</string>
@@ -1282,6 +1354,8 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_coloreffect_title">Efecte de culori</string>
     <string name="pref_camera_common_settings">Setări generale</string>
     <string name="pref_camera_contrast_title">Contrast</string>
+    <string name="pref_camera_crop_preferred_description">Aplicați decuparea inteligentă pentru a îmbunătăți compoziția imaginilor cu rezoluție superioară</string>
+    <string name="pref_camera_crop_preferred_title">Xiaomi ProCut</string>
     <string name="pref_camera_delay_capture_10s">%ds întârziere</string>
     <string name="pref_camera_delay_capture_3s">%ds întârziere</string>
     <string name="pref_camera_delay_capture_5s">%ds întârziere</string>
@@ -1405,6 +1479,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_hdr_title">HDR</string>
     <string name="pref_camera_heic_image_format_description">Fotografiile în formatul de înaltă eficiență ocupă mai puțin spațiu de stocare dar nu sunt suportate de către unele aplicații</string>
     <string name="pref_camera_heic_image_format_description2">Formatul de înaltă eficiență a imaginilor ocupă mai puțin spațiu de stocare, dar nu este suportat de către unele aplicații. Nu puteți face imagini live și nici elimina amprenta în formatul HEIF.</string>
+    <string name="pref_camera_heic_image_format_description_global">Formatul de fișier imagine de înaltă eficiență economisește spațiu de stocare, dar nu este acceptat de unele aplicații terțe. Nu puteți elimina amprentele din HEIF.</string>
     <string name="pref_camera_heic_image_format_title">Format HEIF</string>
     <string name="pref_camera_hfr_entry_2x">60</string>
     <string name="pref_camera_hfr_entry_3x">90</string>
@@ -1447,6 +1522,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_jpegquality_entry_high">Ridicată</string>
     <string name="pref_camera_jpegquality_entry_low">Scăzută</string>
     <string name="pref_camera_jpegquality_entry_normal">Standard</string>
+    <string name="pref_camera_jpegquality_entry_super">Super</string>
     <string name="pref_camera_jpegquality_title">Calitate fotografie</string>
     <string name="pref_camera_live_sticker_internal_title">Unelte magice interne</string>
     <string name="pref_camera_long_press_shutter_feature_title">Apăsarea și menținerea apăsată a butonului de declanșare</string>
@@ -1555,6 +1631,10 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_sr_enable_title">Activați SR</string>
     <string name="pref_camera_stereo_mode_title">Ajustare focus</string>
     <string name="pref_camera_super_resolution_title">Activați Super Rezol.</string>
+    <string name="pref_camera_suspend_shutter_button_summary">Trageți butonul declanșator în sus pentru a crea un obturator plutitor suplimentar</string>
+    <string name="pref_camera_suspend_shutter_button_title">Obturator suplimentar</string>
+    <string name="pref_camera_tap_shoot_summary">Atingeți ecranul de previzualizare pentru a face o fotografie</string>
+    <string name="pref_camera_tap_shoot_title">Atingeți pentru a face o fotografie</string>
     <string name="pref_camera_tilt_shift_entry_circle">Cerc</string>
     <string name="pref_camera_tilt_shift_entry_parallel">Paralel</string>
     <string name="pref_camera_tilt_shift_title">Înclinare</string>
@@ -1608,6 +1688,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_camera_zoom_mode_entry_tele_5X_abbr">TELE 5x</string>
     <string name="pref_camera_zoom_mode_entry_tele_abbr">TELE</string>
     <string name="pref_camera_zoom_mode_entry_tele_standalone">TELE 5x</string>
+    <string name="pref_camera_zoom_mode_entry_telex_abbr">Tele X</string>
     <string name="pref_camera_zoom_mode_entry_ultra">ULTRA LARG</string>
     <string name="pref_camera_zoom_mode_entry_ultra_abbr">ULTRA LARG</string>
     <string name="pref_camera_zoom_mode_entry_wide">LARG</string>
@@ -1623,6 +1704,10 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_custom_tint_title">Culori</string>
     <string name="pref_customization_style">Stil personalizat</string>
     <string name="pref_customization_title">Personalizați</string>
+    <string name="pref_cv_watermark_location_title">Cordonate</string>
+    <string name="pref_cv_watermark_summary">Previzualizările sunt oferite doar pentru referință. Amprenta Leica va apărea pe fotografiile realizate în modurile \"Foto\" și \"Pro\".</string>
+    <string name="pref_cv_watermark_time_title">Ora</string>
+    <string name="pref_cv_watermark_title">Amprentă Leica</string>
     <string name="pref_document_mode">Documente</string>
     <string name="pref_dual_camera_video">Dual video</string>
     <string name="pref_e_c_t_j">Sunet original</string>
@@ -1630,6 +1715,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_e_p_s_n">Înregistrați sunetul printr-un microfon extern atunci când sunt conectate căști Bluetooth echipate cu microfon</string>
     <string name="pref_face_beauty_title">Înfrumuseţare</string>
     <string name="pref_fingerprint_capture_title">Declanșare prin amprentă</string>
+    <string name="pref_focus_view_bg_tip">AE/AF blocate</string>
     <string name="pref_front_denoise_summary">Reduceți zgomotele generate în spatele camerei frontale</string>
     <string name="pref_front_denoise_title">Filtru de zgomot Selfie</string>
     <string name="pref_front_mirror_entry_auto">Când este detectată fața</string>
@@ -1657,6 +1743,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
     <string name="pref_module_settings">Moduri</string>
     <string name="pref_more_mode_style_title">Moduri Cameră</string>
+    <string name="pref_motioon_detection">Detectarea mișcării</string>
     <string name="pref_multi_camera_dual_video_front">Camera frontală</string>
     <string name="pref_multi_camera_dual_video_remote">Înregistrare telefon dual</string>
     <string name="pref_n_s_a">Setări audio</string>
@@ -1674,6 +1761,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_popup_camera_title">Camera pop-up</string>
     <string name="pref_priority_storage_title">Salvaţi pe cardul SD</string>
     <string name="pref_privacy_title">Politica de Confidențialitate</string>
+    <string name="pref_privacy_watermark_edit_title">Editați ștampila</string>
     <string name="pref_professional_chart">Pro_map</string>
     <string name="pref_qc_focus_position_title">Focalizare</string>
     <string name="pref_qc_focus_position_title_abbr">F</string>
@@ -1713,12 +1801,14 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_video_focusmode_title">Mod focalizare</string>
     <string name="pref_video_hfr_entryvalue_default">5:120</string>
     <string name="pref_video_hfr_title">Rata de cadre</string>
-    <string name="pref_video_quality_entry_1080p">FHD 1080p, 30fps</string>
-    <string name="pref_video_quality_entry_1080p_60fps">FHD 1080p, 60fps</string>
+    <string name="pref_video_quality_entry_1080p">FHD 1080p, %dfps</string>
+    <string name="pref_video_quality_entry_1080p_24fps">Full de înaltă definiție, 1080p, 24 de cadre pe secundă</string>
+    <string name="pref_video_quality_entry_1080p_60fps">FHD 1080p, %dfps</string>
     <string name="pref_video_quality_entry_480p">SD 480p, 30fps</string>
-    <string name="pref_video_quality_entry_4kuhd">UHD 4K, 30fps</string>
-    <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, 60fps</string>
-    <string name="pref_video_quality_entry_720p">HD 720p, 30fps</string>
+    <string name="pref_video_quality_entry_4kuhd">UHD 4K, %dfps</string>
+    <string name="pref_video_quality_entry_4kuhd_24fps">Ultra-înaltă definiție, 4K, 24 de cadre pe secundă</string>
+    <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, %dfps</string>
+    <string name="pref_video_quality_entry_720p">HD 720p, %dfps</string>
     <string name="pref_video_quality_entry_720p_60fps">HD 720p, 60fps</string>
     <string name="pref_video_quality_entry_8k_24fps_uhd">UHD 8K, 24fps</string>
     <string name="pref_video_quality_entry_8kuhd">UHD 8K, 30fps</string>
@@ -1740,19 +1830,19 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="pref_video_speed_fast_title">Interval de timp</string>
     <string name="pref_video_speed_slow_title">Mişcare lentă</string>
     <string name="pref_video_subtitle">Subtitrări</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_10">10x (Interval de 0,3 secunde)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_120">120x (Interval de 4 secunde)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_150">150x (Interval de 5 secunde)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_1800">1800x (Interval de 60 de secunde)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_2">2x (Interval de 0,06 secunde)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_240">240x (Interval de 8 secunde)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_30">30x (Interval de 1 secundă)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_300">300x (Interval de 10 secunde)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_4">4x (Interval de 0,12 secunde)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_450">450x (Interval de 15 secunde)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_60">60x (Interval de 2 secunde)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_90">90x (Interval de 3 secunde)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_900">900x (Interval de 30 de secunde)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_10">10x (Interval de %.1f secunde)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_120">120x (Interval de %d secunde)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_150">150x (Interval de %d secunde)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_1800">1800x (Interval de %d de secunde)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_2">2x (Interval de %.2f secunde)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_240">240x (Interval de %d secunde)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_30">30x (Interval de %d secundă)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_300">300x (Interval de %d secunde)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_4">4x (Interval de %.2f secunde)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_450">450x (Interval de %d secunde)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_60">60x (Interval de %d secunde)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_90">90x (Interval de %d secunde)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_900">900x (Interval de %d de secunde)</string>
     <string name="pref_video_time_lapse_frame_interval_title">Interval de timp</string>
     <string name="pref_watermark_off">Oprit</string>
     <string name="pref_watermark_on">Activ</string>
@@ -1772,6 +1862,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="process_tips_1">Nu pliați dispozitivul înainte de salvarea videoclipului</string>
     <string name="process_tips_2">Nu depliați dispozitivul înainte de salvarea videoclipului</string>
     <string name="professional_shortcut_short">Pro</string>
+    <string name="qvga_shelter_tip_text">Nu acoperți lentila</string>
     <string name="recommend_macro_mode">Încercați modul Macro</string>
     <string name="recommend_portrait">Încercați modul Portret</string>
     <string name="recommend_soft_light_tip">Activați blițul</string>
@@ -1866,11 +1957,12 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="solar_term_winter_solstice">Solstițiul de iarnă</string>
     <string name="spaceIsLow_content_external_storage_priority">Nu mai există spațiu de stocare pe cardul SD</string>
     <string name="spaceIsLow_content_primary_storage_priority">Nu mai există spațiu liber pe stocarea USB</string>
-    <string name="speech_shutter_open_tip">Rostiți \"拍照\" sau \"茄子\" pentru a realiza o fotografie</string>
+    <string name="speech_shutter_open_tip">Spuneți \"Brânză\" pentru a realiza o fotografie</string>
     <string name="speech_shutter_tip">Declanșare vocală</string>
     <string name="start_capture">OK</string>
     <string name="sticker_tab1">Drăguț</string>
     <string name="sticker_tab2">Comic</string>
+    <string name="stop_save_low_battery">Salvați (%ds)</string>
     <string name="subtitle_network_exception_tips">Nu s-a putut conecta la rețea. Nu se poate transcrie acum.</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Duminică</string>
@@ -1942,6 +2034,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="the_united_nations_day">Ziua Națiunilor Unite</string>
     <string name="the_valentines_day">Ziua Îndrăgostiților</string>
     <string name="the_water_lantern_festival">Festivalul felinarelor de apă</string>
+    <string name="theme_title">Temă-CV</string>
     <string name="thursday">Joi</string>
     <string name="thursday_short">Joi</string>
     <string name="thursday_shortest">Jo</string>
@@ -1975,6 +2068,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="toast_start_audio_capture">Faceţi un sunet pentru a fotografia</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>
+    <string name="too_low_battery">Acumulator descărcat</string>
     <string name="tuesday">Marți</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Ma</string>
@@ -1991,6 +2085,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="ultra_pixel_photography_close_tip">%s Ultra HD oprit</string>
     <string name="ultra_pixel_photography_open_tip">%s Ultra HD pornit</string>
     <string name="ultra_pixel_portrait_hint">Portret în lumină scăzută</string>
+    <string name="ultra_pixel_xxxmp">50 MP</string>
     <string name="ultra_pixel_zoom_no_support_tip">"Zoom-ul nu funcționează în %s modul Ultra HD"</string>
     <string name="ultra_tele_use_hint_text_body">"Utilizați zoomul 50X pentru a capta obiecte de la distanță
 în detalii remarcabile"</string>
@@ -2010,7 +2105,7 @@ Modul unghi foarte larg vine în întâmpinarea dvs. atunci când nu vă puteți
     <string name="unknow_error">Eroare necunoscută</string>
     <string name="unsupported_microphones_3d_record_tips">Sunetul 3D nu suportă microfoane externe</string>
     <string name="unsupported_microphones_audio_zoom_tips">Amplificarea audio nu suportă microfoane externe</string>
-    <string name="update_loading">S-a descărcat %1$d%%</string>
+    <string name="update_loading">S-a descărcat %1$s</string>
     <string name="update_start">Actualizați %1$s</string>
     <string name="user_agree">De acord</string>
     <string name="user_define_watermark_cancel">Renunțați</string>
@@ -2064,6 +2159,8 @@ Modul unghi foarte larg vine în întâmpinarea dvs. atunci când nu vă puteți
     <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
     <string name="video_hdr10_tip">HDR10</string>
     <string name="video_hdr10plus_tip">HDR10+</string>
+    <string name="video_low_battery_tip_content">Rată de cadre redusă din cauza nivelului scăzut al acumulatorului</string>
+    <string name="video_overheat_tip_content">Se pare că dispozitivul dvs. este prea fierbinte. Încercați să filmați video la rezoluție mai mică.</string>
     <string name="video_reach_size_limit">Limită de dimensiune atinsă</string>
     <string name="video_shortcut_long">Video</string>
     <string name="video_shortcut_short">Video</string>
@@ -2076,6 +2173,7 @@ Modul unghi foarte larg vine în întâmpinarea dvs. atunci când nu vă puteți
     <string name="vv_hint">Puteți filma doar vloguri în modul peisaj</string>
     <string name="vv_mode_menu_item_name">VLOG</string>
     <string name="vv_stability_hint">Mențineți telefonul nemișcat</string>
+    <string name="vv_stability_newTip">Se salvează elementele…</string>
     <string name="vv_start">Filmați un vlog</string>
     <string name="vv_use_hint_text_body">"Modul Vlog vă permite
 să înregistrați și să editați videoclipuri în timp real"</string>
@@ -2098,5 +2196,14 @@ să înregistrați și să editați videoclipuri în timp real"</string>
     <string name="wideselfie_rotate_to_front">Înclinați telefonul înainte</string>
     <string name="wideselfie_rotate_to_left_slowly">Rotiți încet telefonul către stânga</string>
     <string name="wideselfie_rotate_to_right_slowly">Rotiți încet telefonul către dreapta</string>
+    <string name="widget_camera_filter_description">Patru seturi de filtre Leica</string>
+    <string name="widget_camera_filter_talk_back">Filtre Leica</string>
+    <string name="widget_camera_label">Filtre Leica</string>
+    <string name="widget_camera_lens_35mm_description">Treizeci și cinci de milimetri</string>
+    <string name="widget_camera_lens_50mm_description">Cincizeci de milimetri</string>
+    <string name="widget_camera_lens_90mm_description">Nouăzeci de milimetri</string>
+    <string name="widget_camera_lens_description">Experimentați cu distanța focală</string>
+    <string name="widget_camera_lens_none_description">Un obiectiv de cincizeci de milimetri pentru portrete</string>
+    <string name="widget_camera_lens_talk_back">Lentile Pro</string>
     <string name="yesterday">Ieri</string>
 </resources>

@@ -285,13 +285,13 @@
         <item>Mod latență redusă</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>Utilizați preferința sistemului (Implicit)</item>
+        <item>Utilizați selecția sistemului (Implicit)</item>
         <item>16 biți/eșantion</item>
         <item>24 biți/eșantion</item>
         <item>32 biți/eșantion</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>Utilizați preferința sistemului (Implicit)</item>
+        <item>Utilizați selecția sistemului (Implicit)</item>
         <item>16 biți/eșantion</item>
         <item>24 biți/eșantion</item>
         <item>32 biți/eșantion</item>
@@ -343,14 +343,14 @@
         <item>Cea mai bună (Bit Rate automat)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Utilizați preferința sistemului (Implicit)</item>
+        <item>Utilizați selecția sistemului (Implicit)</item>
         <item>44,1 kHz</item>
         <item>48,0 kHz</item>
         <item>88,2 kHz</item>
         <item>96,0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Utilizați preferința sistemului (Implicit)</item>
+        <item>Utilizați selecția sistemului (Implicit)</item>
         <item>44,1 kHz</item>
         <item>48,0 kHz</item>
         <item>88,2 kHz</item>
@@ -393,10 +393,15 @@
         <item>" | Activ (telefon)"</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (Implicit)</item>
+        <item>AVRCP 1.5 (Implicit)</item>
         <item>AVRCP 1.3</item>
-        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.4</item>
         <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bluetooth_broadcast_pin_config_titles">
+        <item>Necriptat (fără securitate)</item>
+        <item>PIN din 4 cifre (securitate redusă)</item>
+        <item>PIN din 16 cifre (securitate ridicată)</item>
     </string-array>
     <string-array name="bluetooth_map_versions">
         <item>MAP 1.2 (Implicit)</item>
@@ -450,7 +455,7 @@
     <string-array name="captioning_font_size_selector_titles">
         <item>Foarte mic</item>
         <item>Mic</item>
-        <item>Implicit</item>
+        <item>Mediu</item>
         <item>Mare</item>
         <item>Foarte mare</item>
     </string-array>
@@ -1086,12 +1091,12 @@
         <item>Standard</item>
     </string-array>
     <string-array name="color_picker">
-        <item>Turcoaz</item>
+        <item>Cyan</item>
         <item>Albastru</item>
-        <item>Indigo</item>
+        <item>Verde</item>
         <item>Violet</item>
         <item>Roz</item>
-        <item>Roșu</item>
+        <item>Portocaliu</item>
     </string-array>
     <string-array name="common_password_business_names">
         <item>Blocare ecran</item>
@@ -1238,6 +1243,14 @@
         <item>Verifică doar conținutul DRM</item>
         <item>Verifică întotdeauna</item>
     </string-array>
+    <string-array name="inputdebuglog_select_level_entries">
+        <item>Nivel 0</item>
+        <item>Nivel 1</item>
+        <item>Nivel 2</item>
+        <item>Nivel 3</item>
+        <item>Nivel 4</item>
+        <item>Nivel 5</item>
+    </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>Nu porni ecranul</item>
         <item>Pornește ecranul</item>
@@ -1364,6 +1377,10 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Viteza rețelei este scăzută datorită traficului intens</item>
         <item>Viteza rețelei este scăzută datorită semnalului slab</item>
         <item>Comutare…</item>
+    </string-array>
+    <string-array name="nfc_payment_favor">
+        <item>Întotdeauna</item>
+        <item>Cu excepția cazului în care este deschisă o altă aplicație de plată</item>
     </string-array>
     <string-array name="notch_battery_indicator_style_entries">
         <item>Grafic</item>
@@ -1573,25 +1590,25 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>Oprit</item>
-        <item>64 KB</item>
-        <item>256 KB</item>
-        <item>1 MB</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Oprit</item>
-        <item>64 KB per jurnal tampon</item>
-        <item>256 KB per jurnal tampon</item>
-        <item>1 MB per jurnal tampon</item>
-        <item>4 MB per jurnal tampon</item>
-        <item>16 MB per jurnal tampon</item>
+        <item>64K per jurnal tampon</item>
+        <item>256K per jurnal tampon</item>
+        <item>1M per jurnal tampon</item>
+        <item>4M per jurnal tampon</item>
+        <item>8M per jurnal tampon</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>Oprit</item>
-        <item>64 KB</item>
-        <item>256 KB</item>
-        <item>1 MB</item>
-        <item>4 MB</item>
-        <item>16 MB</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>8M</item>
     </string-array>
     <string-array name="select_logd_system_levels">
         <item>Oprit</item>
@@ -1646,6 +1663,21 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
     <string-array name="status_bar_settings_qs_layout_entries">
         <item>Implicit</item>
         <item>Compact</item>
+    </string-array>
+    <string-array name="switch_to_user_zero_when_docked_timeout_entries">
+        <item>Niciodată</item>
+        <item>După 1 minut</item>
+        <item>După 5 minute</item>
+    </string-array>
+    <string-array name="tare_modifiers_subfactors">
+        <item>Încărcare</item>
+        <item>Ațipire</item>
+        <item>Mod Economisire Energie</item>
+        <item>Stare Proces</item>
+    </string-array>
+    <string-array name="tare_units">
+        <item>ARC</item>
+        <item>Cake</item>
     </string-array>
     <string-array name="time_format_entries">
         <item>12-ore 1:00 PM</item>

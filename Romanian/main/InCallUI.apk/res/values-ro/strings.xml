@@ -174,8 +174,10 @@
     <string name="dialpad_two">2</string>
     <string name="dialpad_wxyz">WXYZ</string>
     <string name="dialpad_zero">0</string>
-    <string name="do_not_ask">Nu arăta din nou</string>
-    <string name="do_not_support_video_calls_by_remote">"Apelurile video nu sunt suportate pe celălalt telefon"</string>
+    <string name="do_not_support_video_calls_by_remote">Apelurile video nu sunt acceptate pe celălalt dispozitiv</string>
+    <string name="dsda_answer_call_prompt">Acceptarea acestui apel va încheia apelul în curs.</string>
+    <string name="dsda_not_incall_sim_mo_fail_desc">Nu se poate folosi SIM-ul %1$d pentru apeluri acum. Mediul de rețea actual nu acceptă funcționalitatea dual SIM.</string>
+    <string name="dsda_swap_call_prompt">Veți fi comutat la un apel vocal dacă continuați.</string>
     <string name="early_morning">Dimineață</string>
     <string name="emergency_call_dialog_number_for_display">Număr de urgenţă</string>
     <string name="enter_ai_assistant">Utilizați</string>
@@ -233,6 +235,7 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
+    <string name="font_camera_tip">Pliați dispozitivul pentru a utiliza camera frontală</string>
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
@@ -326,7 +329,9 @@
     <string name="month_september_shortest">Sep</string>
     <string name="more">Mai mult</string>
     <string name="morning">Dimineață</string>
+    <string name="msim_select_default_last">Utilizat recent</string>
     <string name="msim_select_default_time_left">(%ds)</string>
+    <string name="multi_call_manager_other_calls">Alte apeluri (%1$d)</string>
     <string name="network_error_message">Încercați să efectuaţi un apel obișnuit. Acesta va fi taxat de către operator.</string>
     <string name="network_error_title">Eroare de reţea</string>
     <string name="night">Seară</string>
@@ -387,6 +392,7 @@
     <string name="select_audio_dialog_title">Selectați modul de răspuns</string>
     <string name="select_one_sim_title">Se poate utiliza doar SIM %1$d</string>
     <string name="select_one_sim_title_for_heduohao">Se poate utiliza doar cartela SIM %1$d Sub %2$d</string>
+    <string name="select_other_sim_card_dial">Utilizați SIM-ul %1$d</string>
     <string name="select_sim_hint">"Nu se poate utiliza cartela SIM %2$d, în timp ce SIM %1$d este în uz."</string>
     <string name="select_sim_hint_for_heduohao">"Nu se poate utiliza alta, cât timp cartela SIM %1$d Sub %2$d este în uz."</string>
     <string name="select_voice_call_sim">Selectaţi cartela SIM</string>

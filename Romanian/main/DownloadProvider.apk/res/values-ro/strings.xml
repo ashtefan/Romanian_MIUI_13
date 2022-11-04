@@ -39,6 +39,10 @@
     <string name="download_unknown_title">&lt;Fără titlu></string>
     <string name="enter_garbage_clean">Curăţare stocare internă.</string>
     <string name="insufficient_space">"Nu este suficient spațiu în memoria internă a dispozitivului"</string>
+    <string name="miuix_access_state_desc">Selectat</string>
+    <string name="miuix_alphabet_indexer_name">Bara de index</string>
+    <string name="miuix_indexer_collect">Colecții</string>
+    <string name="miuix_indexer_selected">Selectat %s</string>
     <string name="mobile_recommended_title">Utilizare date mobile</string>
     <string name="notif_text_engine_off">Accelerator Xunlei dezactivat.</string>
     <string name="notif_text_engine_on">Accelerare…</string>

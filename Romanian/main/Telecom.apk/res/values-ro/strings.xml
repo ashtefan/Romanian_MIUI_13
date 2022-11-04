@@ -408,6 +408,7 @@ Selecție"</string>
     <string name="force_resizable_activities_summary">Face toate aplicațiile redimensionabile pentru ecran multiplu, fără a se ține cont de valorile atribuite.</string>
     <string name="force_rtl_layout_all_locales">Forțează direcția de dispunere RTL</string>
     <string name="force_rtl_layout_all_locales_summary">Forțează dispunerea RTL pentru toate setările regionale</string>
+    <string name="fraud_toast_message">Puteți gestiona redirecționarea apelurilor din Setări</string>
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
@@ -453,6 +454,8 @@ Selecție"</string>
     <string name="media_transfer_wired_usb_device_name">Căști cu fir</string>
     <string name="midnight">Noapte</string>
     <string name="missedcall_notification_public_version_title">Telefon</string>
+    <string name="miuix_access_state_desc">Selectat</string>
+    <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
@@ -467,6 +470,8 @@ Selecție"</string>
     <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
     <string name="miuix_appcompat_select_item">Selectați elementele</string>
+    <string name="miuix_indexer_collect">Colecții</string>
+    <string name="miuix_indexer_selected">Selectat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -561,9 +566,11 @@ Selecție"</string>
     <string name="notification_channel_in_call_service_crash">Aplicații de telefon blocate</string>
     <string name="notification_channel_incoming_call">Apeluri primite</string>
     <string name="notification_channel_missed_call">Apeluri ratate</string>
+    <string name="notification_channel_missed_call_DND">Nu deranjați</string>
     <string name="notification_disconnectedCall_body">Apelul către %s a fost deconectat din cauza plasării unui apel de urgență.</string>
     <string name="notification_disconnectedCall_generic_body">Apelul dvs. a fost deconectat din cauza plasării unui apel de urgență.</string>
     <string name="notification_disconnectedCall_title">Apel deconectat</string>
+    <string name="notification_disconnectedDialing_message">Nu se poate efectua un apel deoarece un alt apel de ieșire este deja format.</string>
     <string name="notification_incallservice_not_responding_body">Apelul dvs. a folosit aplicația de apelare care a venit cu dispozitivul dvs.</string>
     <string name="notification_incallservice_not_responding_title">%s nu mai răspunde</string>
     <string name="notification_incoming_call">%1$s apel de la %2$s</string>
@@ -596,6 +603,8 @@ Selecție"</string>
     <string name="phone_settings_payphone_txt">Apeluri cu taxă</string>
     <string name="phone_settings_private_num_summary_txt">Blocați apelanții care nu își dezvăluie numărul de telefon</string>
     <string name="phone_settings_private_num_txt">Private</string>
+    <string name="phone_settings_unavailable_summary_txt">Blocați apelurile pentru care numărul nu este disponibil</string>
+    <string name="phone_settings_unavailable_txt">Indisponibil</string>
     <string name="phone_settings_unknown_summary_txt">Blocați apelurile de la apelanți necunoscuți</string>
     <string name="phone_settings_unknown_txt">Necunoscuți</string>
     <string name="phone_strings_call_blocking_turned_off_notification_text_txt">Blocare apeluri dezactivată</string>

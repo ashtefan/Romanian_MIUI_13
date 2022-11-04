@@ -78,9 +78,6 @@
     <string name="copy">Copiați</string>
     <string name="custom_gesture_title">Gesturi personalizate</string>
     <string name="customize_knock_gesture">Gesturi personalizate ale degetelor</string>
-    <string name="date_picker_label_day" />
-    <string name="date_picker_label_month" />
-    <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="default_suppression_title">Implicit (recomandat)</string>
@@ -186,7 +183,7 @@ Puteți vizualiza rapoartele generate în Managerul de Fișiere."</string>
     <string name="key_combination_power_home">Pornire + Acasă</string>
     <string name="key_combination_power_menu">Pornire + Meniu</string>
     <string name="key_combination_power_volume_down">Volum- și Pornire</string>
-    <string name="key_fsg_dialog_message">"Utilizați pentru navigare gesturile în ecran complet. Caracteristicile asociate ale butoanelor nu sunt disponibile acum. Comutați la butoane?"</string>
+    <string name="key_fsg_dialog_message">Utilizați pentru navigare gesturile în ecran complet. Caracteristicile asociate ale butoanelor nu sunt disponibile acum. Comutați la navigarea prin butoane?</string>
     <string name="key_fsg_dialog_negative">Renunțați</string>
     <string name="key_fsg_dialog_positive">Comută la butoane</string>
     <string name="key_gesture_function_dialog_message">%1$s este o scurtătură pentru %2$s. O înlocuiți cu %3$s?</string>
@@ -195,7 +192,7 @@ Puteți vizualiza rapoartele generate în Managerul de Fișiere."</string>
     <string name="key_gesture_function_optional">Gesturi și butoane opționale</string>
     <string name="key_gesture_function_preview">Previzualizare gesturi și butoane</string>
     <string name="key_gesture_function_shortcut">Scurtături funcționale</string>
-    <string name="key_handwriting_input_summary">Editați textul scris de mână în chineză sau engleză folosind stiloul</string>
+    <string name="key_handwriting_input_summary">Editați textul în chineză sau engleză scris de mână cu stiloul</string>
     <string name="key_handwriting_input_title">Editați textul</string>
     <string name="key_none">Niciunul</string>
     <string name="key_operation_diagram">Previzualizare</string>
