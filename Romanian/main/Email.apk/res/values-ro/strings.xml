@@ -73,7 +73,7 @@ Pentru a înțelege pe deplin drepturile dumneavoastră ca utilizator, precum ș
     <string name="account_setting_message_body_load_head_abstract">Sumarul e-mailului</string>
     <string name="account_setting_message_body_load_head_only">Doar titlul</string>
     <string name="account_setting_message_body_load_text">Doar conținutul</string>
-    <string name="account_settings_action">Setări cont</string>
+    <string name="account_settings_action">Setări conturi</string>
     <string name="account_settings_background_attachments_security_summary">Verificați atașamentele care conțin pachete de instalare pentru riscuri de securitate</string>
     <string name="account_settings_background_attachments_security_title">Verificați atașamentele pentru riscuri</string>
     <string name="account_settings_background_attachments_summary">Descărcaţi ataşamentele prin Wi-Fi</string>
@@ -81,7 +81,7 @@ Pentru a înțelege pe deplin drepturile dumneavoastră ca utilizator, precum ș
     <string name="account_settings_background_attachments_title">Descarcă atașamentele în mod automat</string>
     <string name="account_settings_data_usage">Setări sincronizare</string>
     <string name="account_settings_description_label">Numele contului</string>
-    <string name="account_settings_display">Afișaj</string>
+    <string name="account_settings_display">Afișare</string>
     <string name="account_settings_does_not_support_pop">Această funcție nu este suportată de către protocolul POP3</string>
     <string name="account_settings_edit_quick_responses_label">Răspunsuri rapide</string>
     <string name="account_settings_edit_quick_responses_summary">Editați mesajele scurte pentru a le lipi în e-mailuri</string>
@@ -97,7 +97,7 @@ Actualizaţi acum?"</string>
     <string name="account_settings_mail_check_frequency_label">Frecvența sincronizării</string>
     <string name="account_settings_mibill_resolve_label">Gestionare automată a facturilor</string>
     <string name="account_settings_name_label">Pseudonim</string>
-    <string name="account_settings_notifications">Setări notificare</string>
+    <string name="account_settings_notifications">Notificări</string>
     <string name="account_settings_notify_label">Notificări</string>
     <string name="account_settings_notify_summary">Afişare notificare la primirea unui e-mail</string>
     <string name="account_settings_only_notify_inbox">Notifică doar pentru mesajele primite</string>
@@ -1203,8 +1203,8 @@ Această problemă ar putea fi cauzată de autentificarea în doi factori a cont
     <string name="notification_action_undo_remove_label">Etichetă eliminată</string>
     <string name="notification_exchange_calendar_added">Calendar Exchange adăugat</string>
     <string name="notification_message">Notific doar pentru mesajele noi din dosarele selectate?</string>
-    <string name="notification_off">Oprit</string>
-    <string name="notification_on">Pornit</string>
+    <string name="notification_off">Oprite</string>
+    <string name="notification_on">Pornite</string>
     <string name="notify_channel_new_mail">Notifică despre mesajele noi</string>
     <string name="notify_channel_no_disterb">Mod Nu deranjați</string>
     <string name="notify_channel_permission_notice">Sunt necesare Permisiuni</string>

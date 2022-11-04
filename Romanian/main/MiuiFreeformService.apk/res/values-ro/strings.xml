@@ -109,8 +109,6 @@
     <string name="freeform_guide_to_sidehide_title">Ascunderea ferestrelor plutitoare</string>
     <string name="freeform_slide_to_small_freeform">Minimizați o fereastră plutitoare</string>
     <string name="freeform_slide_to_small_freeform_summary">Apăsați și mențineți apăsată bara de acțiune și trageți-o într-un colț</string>
-    <string name="fullscreen_slide_to_small_freeform">Minimizați o aplicație</string>
-    <string name="fullscreen_slide_to_small_freeform_summary">Glisați din partea de jos a ecranului în colțul din dreapta sus a ecranului</string>
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>

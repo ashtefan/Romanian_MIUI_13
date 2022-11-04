@@ -370,7 +370,7 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</stri
     <string name="morning">Dimineață</string>
     <string name="msg_alert_cancel_restore">Elementele sunt restaurate din Xiaomi Cloud. Anulați acum?</string>
     <string name="msg_alert_restore_error">"Nu s-au putut restaura elementele din Xiaomi Cloud. Încercați din nou."</string>
-    <string name="msg_restore_start_with_metered_network">Dacă restabiliți această copie de rezervă, Ecranul principal va fi resetat, iar aplicațiile dvs. vor fi descărcate și instalate automat.&lt;br />&lt;b>&lt;font color='red'>Dimensiunea copiei de rezervă: %s&lt;/font>&lt ;/b></string>
+    <string name="msg_restore_start_with_metered_network">Dacă restabiliți această copie de rezervă, Ecranul principal va fi resetat, iar aplicațiile dvs. vor fi descărcate și instalate automat.&lt;br />&lt;b>&lt;font color='red'>Dimensiunea copiei de rezervă: %s&lt;/font>&lt;/b></string>
     <string name="msg_restore_with_metered_network_hint">Dacă veți dori să restaurați aceste elemente, se vor folosi datele mobile pentru descărcare.</string>
     <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> fișiere vor fi descărcate."</string>
     <string name="network_error">Conectați-vă la rețea</string>

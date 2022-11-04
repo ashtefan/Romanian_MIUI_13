@@ -106,9 +106,6 @@
     <string name="app_description_content">Aplicația Muzică este o aplicație de sistem care conține un player audio și vă permite să gestionați fișierele audio. Veți putea reda în continuare fișiere audio după ce eliminați comanda rapidă de pe Ecranul principal.</string>
     <string name="app_description_title">Eliminați \"Muzică\" de pe Ecranul principal?</string>
     <string name="app_label">Descărcări</string>
-<<<<<<< HEAD
-=======
->>>>>>> c909543b345cc9d31b4b2594af62a66dc391c7e8
     <string name="app_permission_confirm">Am înțeles</string>
     <string name="app_permission_optional">Permisiuni opționale</string>
     <string name="app_permission_require">Permisiuni obligatorii</string>
