@@ -53,7 +53,6 @@
     <string name="download_queued">În coadă</string>
     <string name="download_remaining">Timp rămas: %s</string>
     <string name="download_running">În desfășurare</string>
-    <string name="download_running_percent">În desfășurare, %d%%</string>
     <string name="download_status_continue">Reluați</string>
     <string name="download_status_fail">Încercați din nou</string>
     <string name="download_status_paused">Pauză</string>
