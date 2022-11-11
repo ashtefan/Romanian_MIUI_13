@@ -101,6 +101,7 @@
     <string name="icon_remove_description_content">\"Servicii și feedback\" este o aplicație de sistem. O veți putea folosi în continuare via Setări după ce ați eliminat comanda rapidă de pe ecranul de pornire.</string>
     <string name="icon_remove_description_title">Eliminați \"Servicii și feedback\" de pe Ecranul principal?</string>
     <string name="mi_service_app_name">Servicii și feedback</string>
+    <string name="mi_service_back">Înapoi</string>
     <string name="midnight">Noapte</string>
     <string name="miservice_channel_boot_name">boot</string>
     <string name="miservice_channel_guide_name">ghid</string>

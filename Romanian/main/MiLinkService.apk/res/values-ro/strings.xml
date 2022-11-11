@@ -509,6 +509,8 @@ Dacă trebuie să activați manual funcția Miracast, puteți apăsa butonul [Me
     <string name="privacy_permission_nfc_desc">Pentru asocierea dispozitivelor prin NFC</string>
     <string name="privacy_permission_optional">Permisiuni opționale</string>
     <string name="privacy_permission_optional_desc">"Utilizate pentru caracteristicile adiționale în timp ce le folosiți"</string>
+    <string name="privacy_permission_screencast">Accesarea informațiilor de pe ecran</string>
+    <string name="privacy_permission_screencast_desc">În timpul înregistrării sau al proiectării, serviciul care oferă această caracteristică poate capta orice informații sensibile care sunt afișate pe ecran sau redate de pe dispozitiv, inclusiv informații sensibile, cum ar fi sunetul, parolele, informațiile de plată, fotografiile și mesajele.</string>
     <string name="privacy_permission_wlan">Activarea și dezactivarea Wi-Fi</string>
     <string name="privacy_permission_wlan_china">Activarea și dezactivarea Wi-Fi</string>
     <string name="privacy_permission_wlan_desc">Pentru găsirea dispozitivelor disponibile din apropiere</string>

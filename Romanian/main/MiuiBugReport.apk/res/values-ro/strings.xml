@@ -76,6 +76,8 @@
     <string name="auth_fail_warning">Sesiunea a expirat. Conectați-vă din nou.</string>
     <string name="back">Înapoi</string>
     <string name="btn_send">Trimiteţi</string>
+    <string name="bugreport_dialog_informed_consent_content">Am detectat o eroare privind parola ecranului de blocare. Puteți trimite jurnalele dispozitivului dvs. pentru a ne ajuta să găsim și să rezolvăm problema. Informațiile din jurnal vor fi încărcate anonim, vor fi folosite numai pentru depanare și vor fi șterse după finalizarea depanării.</string>
+    <string name="bugreport_dialog_informed_consent_title">Consimțământ informat</string>
     <string name="bugreport_dialog_not_show_again">"Nu arăta din nou"</string>
     <string name="bugreport_dialog_submit_content"><Data>În prezent salvați jurnale software pe acest dispozitiv. Jurnalele pot conține informații personale și date despre locație. Nu partajați cu nimeni jurnalele dacă nu doriți ca aceste informații să fie expuse. Selectând \"De acord\" înseamnă că ați citit și sunteți de acord cu &lt;a href=\"%1$s\">Politica de Confidențialitate&lt;/a> și &lt;a href=\"%2$s\">Acordul utilizatorului&lt;/a>.</Data></string>
     <string name="bugreport_dump_complete_notification_summary">Apăsaţi pentru a vizualiza.</string>

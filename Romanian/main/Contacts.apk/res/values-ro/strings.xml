@@ -352,6 +352,7 @@
     <string name="call_disambig_title">Selectaţi numărul</string>
     <string name="call_fax_home">Apelaţi un număr de fax de la domiciliu</string>
     <string name="call_fax_work">Apelaţi un număr de fax de la serviciu</string>
+    <string name="call_feature_vilte">ViLTE</string>
     <string name="call_feature_volte">VoLTE</string>
     <string name="call_feature_vowifi">VoWiFi</string>
     <string name="call_home">Apelaţi numărul de la domiciliu</string>

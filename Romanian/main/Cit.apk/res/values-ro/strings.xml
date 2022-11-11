@@ -181,6 +181,9 @@ Se recomandă retestarea echipamentului de înlocuire"</string>
     <string name="cit_audio_cali_valueT">Temp_act:</string>
     <string name="cit_audio_calibrating">Calibrare în curs...</string>
     <string name="cit_audio_get_temp_fail">Nu s-au putut obține datele despre temperatură!</string>
+    <string name="cit_audio_hw_check_summary">Test de verificare a hardware-ului audio</string>
+    <string name="cit_audio_hw_check_tips">Test în derulare</string>
+    <string name="cit_audio_hw_check_title">Test de verificare a hardware-ului audio</string>
     <string name="cit_audio_lb_backmic_to_speaker_title">Test microfon posterior</string>
     <string name="cit_audio_lb_frontmic_to_speaker_title">Test microfon anterior</string>
     <string name="cit_audio_lb_mainmic_to_earpiece_title">Test microfon principal</string>
@@ -275,7 +278,7 @@ Vorbiți la microfonul superior și ar trebui să auziți vocea în difuzor"</st
 3.Sistemul va salva fotografia automat după captare
 4.Fotografia pe care ați făcut-o trebuie să fie afișată pe ecran, apăsați Treci pentru a finaliza testul."</string>
     <string name="cit_camera_fast_check_title">Test rapid cameră</string>
-    <string name="cit_camera_rearsub">Test pentru camera secundară posterioară în curs; vă rog așteptați…</string>
+    <string name="cit_camera_rearsub">Testul camerei secundare este în curs, așteptați....</string>
     <string name="cit_camera_sdcard_error">Nu se poate fotografia. Cardul SD este plin.</string>
     <string name="cit_camerasfr_test">Se analizează imaginea, vă rugăm să așteptați....</string>
     <string name="cit_charge_usb_dcp">Se încarcă： USB_DCP</string>
@@ -882,6 +885,7 @@ Evaluați rezultatul testului faceți clic pe butonul de trecere sau eșuare"</s
     <string name="radio_info_unknown">Necunoscută</string>
   <string name="remove_headset_and_starttest">Please remove headset and press start to test</string>
   <string name="sar_algo_data_check_description">Colectare date Sar Algo</string>
+    <string name="sar_mtk_test_title">Test de autentificare Sar Mtk</string>
     <string name="sar_sensor_set">setați senzorul sar</string>
     <string name="sar_sensor_setting">stare senzor sar</string>
     <string name="soft_light_title">Lumină slabă</string>

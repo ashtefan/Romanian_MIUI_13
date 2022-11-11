@@ -3451,7 +3451,8 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="face_data_input_structure_title">Date faciale 3D</string>
     <string name="face_data_input_title">Adăugați datele faciale</string>
     <string name="face_data_introduction_add">Începeți</string>
-    <string name="face_data_introduction_msg">Datele faciale pot fi folosite pentru a debloca dispozitivul sau pentru a vă verifica identitatea. Adăugați parola de blocare a ecranului înainte de a adăuga datele faciale.</string>
+    <string name="face_data_introduction_msg">"Datele faciale pot fi folosite pentru a debloca dispozitivul sau pentru a vă verifica identitatea.
+Adăugați parola de blocare a ecranului înainte de a adăuga datele faciale."</string>
     <string name="face_data_introduction_next">Următorul</string>
     <string name="face_data_introduction_title">Recunoaștere facială</string>
     <string name="face_data_manage_delete">Ștergeți datele faciale?</string>
@@ -3462,7 +3463,9 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="face_data_manage_unlock_slide_msg">Înlocuiți scurtăturile glisante cu deblocarea facială</string>
     <string name="face_data_manage_unlock_title">Deblocați folosind datele faciale</string>
     <string name="face_data_siggesstion_next">Următorul</string>
+    <string name="face_data_siggesstion_next_cn">OK</string>
     <string name="face_data_siggesstion_next_time">Următorul (%ds)</string>
+    <string name="face_data_siggesstion_next_time_cn">OK (%ds)</string>
     <string name="face_data_suggesstion_first">Deblocarea facială este mai puțin sigură decât un cod PIN, o parolă sau un model. Dispozitivul dvs. ar putea fi deblocat cu fotografia dvs., precum și de către persoane sau obiecte cu aspect similar.</string>
     <string name="face_data_suggesstion_first_cn">Pentru a putea folosi deblocarea facială, trebuie să colectăm datele feței dvs. care apoi vor fi stocate local pe acest dispozitiv. Pentru a o șterge, căutați Deblocare facială în Setări și apoi selectați Deblocare facială > Date faciale.</string>
     <string name="face_data_suggesstion_first_cn_highlight">Deblocarea facială este mai puțin sigură decât un PIN, o parolă, un model sau o amprentă. Dispozitivul dvs. poate fi deblocat cu fotografia dvs., precum și de persoane sau obiecte cu un aspect similar.</string>
@@ -3486,7 +3489,8 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="face_unlock_offset_right">Mișcați-vă către stânga</string>
     <string name="face_unlock_offset_top">Ridicați puțin telefonul</string>
     <string name="face_unlock_open_eye">Deschideți ochii mai larg</string>
-    <string name="face_unlock_prompt">Deblocare facială instantanee</string>
+    <string name="face_unlock_prompt">"Înregistrați datele faciale
+privind ecranul exterior"</string>
     <string name="face_unlock_quality">"Nu v-am putut vedea chipul foarte clar"</string>
     <string name="face_unlock_reveal_eye">Asigurați vizibilitatea ochilor</string>
     <string name="face_unlock_reveal_mouth">Asigurați vizibilitatea buzelor</string>
@@ -3585,6 +3589,11 @@ Pentru a afla mai multe, contactați furnizorul dvs. de credit."</string>
     <string name="find_my_device_disable">Oprită</string>
     <string name="find_my_device_enable">Pornită</string>
     <string name="find_my_device_summary">Această funcție necesită conectarea la contul Xiaomi</string>
+    <string name="finger_add_user_info_dialog_cancel">Renunțați</string>
+    <string name="finger_add_user_info_dialog_message">Pentru ca dvs. să puteți utiliza deblocarea cu amprentă și să efectuați plăți cu amprenta, trebuie să vă colectăm amprenta. Amprenta va fi stocată local pe acest dispozitiv. Pentru a o șterge, căutați „Deblocare cu amprentă” în Setări și apoi selectați Deblocare cu amprentă > Amprentă. Nu veți putea folosi această funcție dacă nu sunteți de acord.</string>
+    <string name="finger_add_user_info_dialog_next">Accept</string>
+    <string name="finger_add_user_info_dialog_title">Atenție</string>
+    <string name="finger_detail_info_text">Modificați numele amprentei</string>
     <string name="fingerprint_add_max">Puteți adăuga până la %d amprente</string>
     <string name="fingerprint_add_title">Aăugați amprenta</string>
     <string name="fingerprint_and_password_entrance_title">Blocare ecran &amp; amprentă</string>
@@ -4865,10 +4874,8 @@ Accesați Xiaomi Cloud și restaurați elementele de acolo."</string>
     <string name="lockpassword_choose_your_password_header">Setați parola</string>
     <string name="lockpassword_choose_your_password_header_for_face">Pentru a utiliza deblocarea facială, setați parola</string>
     <string name="lockpassword_choose_your_password_header_for_fingerprint">Pentru a utiliza amprenta, setați parola</string>
-    <string name="lockpassword_choose_your_password_message">Pentru securitate, setați parola</string>
-    <string name="lockpassword_choose_your_password_second_space">"Setați codul PIN pentru Spațiul secundar 
-Acest cod trebuie să conțină atâtea cifre
-cât cel pentru Spațiul principal"</string>
+    <string name="lockpassword_choose_your_password_second_space">"Setați parola
+pentru Spațiul Secundar"</string>
     <string name="lockpassword_choose_your_pattern_header">Setați modelul de deblocare</string>
     <string name="lockpassword_choose_your_pattern_header_for_face">Pentru a utiliza deblocarea facială, setați modelul</string>
     <string name="lockpassword_choose_your_pattern_header_for_fingerprint">Pentru a utiliza amprenta, setați modelul</string>
@@ -4876,8 +4883,9 @@ cât cel pentru Spațiul principal"</string>
     <string name="lockpassword_choose_your_pin_header">Setați codul PIN</string>
     <string name="lockpassword_choose_your_pin_header_for_face">Pentru a utiliza deblocarea facială, setați codul PIN</string>
     <string name="lockpassword_choose_your_pin_header_for_fingerprint">Pentru a utiliza amprenta, setați codul PIN</string>
-    <string name="lockpassword_choose_your_pin_header_second_space">"Setați codul PIN 
- pentru Spațiul secundar"</string>
+    <string name="lockpassword_choose_your_pin_header_second_space">"Setați codul PIN
+pentru Spațiul Secundar.
+Ar trebui să aibă aceeași lungime ca PIN-ul din Spațiul principal."</string>
     <string name="lockpassword_choose_your_pin_message">Pentru securitate, setați codul PIN</string>
     <string name="lockpassword_choose_your_pin_title">Introduceți între %1$d și %2$d cifre</string>
     <string name="lockpassword_choose_your_screen_lock_header">Setați metoda de blocare a ecranului</string>
@@ -4956,7 +4964,8 @@ cât cel pentru Spațiul principal"</string>
     <string name="lockpattern_recording_inprogress">Ridicaţi degetul când aţi terminat</string>
     <string name="lockpattern_recording_intro_footer">Apăsaţi pe Meniu pentru ajutor</string>
     <string name="lockpattern_recording_intro_header">Desenaţi un model de deblocare:</string>
-    <string name="lockpattern_recording_intro_header_second_space">Desenați un model de deblocare pentru al doilea spațiu:</string>
+    <string name="lockpattern_recording_intro_header_second_space">"Desenați un model de deblocare pentru Spațiul Secundar.
+Conectați cel puțin 4 puncte."</string>
     <string name="lockpattern_restart_button_text">Desenați din nou</string>
     <string name="lockpattern_retry_button_text">Goliți</string>
     <string name="lockpattern_settings_change_lock_pattern">Modificaţi modelul pentru deblocare</string>
@@ -6427,6 +6436,8 @@ OTG se dezactivează în mod automat după 10 minute de inactivitate."</string>
     <string name="owner_info_settings_title">Semnătură în Blocarea ecranului</string>
     <string name="owner_space">Spațiul Secundar</string>
     <string name="packages_subtitle">Pachete incluse</string>
+    <string name="pad_add_fingerprint_finish_message">Continuați pentru a accesa setările suplimentare.</string>
+    <string name="pad_add_fingerprint_message">Puneți degetul pe butonul de pornire</string>
     <string name="page_layout_1">Duminică, 16 august</string>
     <string name="page_layout_10">Setări</string>
     <string name="page_layout_11">Meteo</string>
@@ -8362,7 +8373,7 @@ Atingeți de două ori pentru a deschide Recente.</string>
     <string name="smart_notifications_title">Notificări adaptive</string>
     <string name="smart_rotate_text_headline">Detecția feței folosește camera frontală pentru a îmbunătăți precizia rotirii automate. Imaginile nu sunt niciodată stocate sau trimise la Google.</string>
     <string name="smartcover_lock_or_unlock_screen_tittle">Mod husă inteligentă</string>
-    <string name="smartcover_sensitive_summary">Blocați/deblocați telefonul în mod automat utilizând o husă inteligentă</string>
+    <string name="smartcover_sensitive_summary">Blocați/deblocați dispozitivul în mod automat utilizând o husă inteligentă</string>
     <string name="smartcover_sensitive_title">Husă inteligentă</string>
     <string name="smooth_adjust_ligth">Neteziți tranzițiile</string>
     <string name="smooth_adjust_ligth_summary">Faceți tranzițiile mai line pe măsură ce reglați luminozitatea manual. Când această caracteristică este activată, în unele cazuri pot apărea ușoare incoerențe de culoare.</string>
@@ -9358,7 +9369,7 @@ O abordare Google asupra sincronizării datelor, care vă permite accesul la age
     <string name="turn_on_keyguard_password_alert_foget_cacel">Nu acum</string>
     <string name="turn_on_keyguard_password_alert_foget_ok">Am înțeles</string>
     <string name="turn_on_keyguard_password_alert_foget_ok_time">Am înțeles (%ds)</string>
-    <string name="turn_on_keyguard_password_alert_forget_content">"Rețineți parola de deblocare a ecranului. Dacă o veți uita, va trebui să ștergeți toate datele din telefon, inclusiv fotografiile și agenda, iar apoi să setați o nouă parolă."</string>
+    <string name="turn_on_keyguard_password_alert_forget_content">"Rețineți deblocarea ecranului. Dacă o veți uita, va trebui să ștergeți toate datele din telefon, inclusiv fotografiile și agenda, iar apoi să setați o nouă parolă."</string>
     <string name="turn_on_keyguard_password_alert_forget_title">Țineți minte parola</string>
     <string name="turn_on_security_lock">Selectați metoda de blocare a ecranului</string>
     <string name="turn_on_torch">Aprindere lanternă</string>

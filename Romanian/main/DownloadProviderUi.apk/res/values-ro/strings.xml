@@ -617,7 +617,11 @@ pe toate dispozitivele cu Xunlei"</string>
     <string name="start_download">Descărcaţi</string>
     <string name="start_xunlei_speedup_info">Conectaţi-vă pentru a accelera viteza de descărcare</string>
     <string name="starting_analysis">Obţinere informaţii…</string>
+    <string name="storage_dialog_content">Permiteți aplicației Descărcări să acceseze spațiul de stocare al dispozitivului pentru a-i putea folosi funcțiile.</string>
+    <string name="storage_dialog_go">Setări</string>
+    <string name="storage_dialog_title">Accesare stocare dispozitiv</string>
     <string name="storage_internal">Stocare internă</string>
+    <string name="storage_permission_deny">Sunt necesare permisiuni de accesare a stocării</string>
     <string name="storage_sd_card">Card SD</string>
     <string name="storage_usb">Stocare USB</string>
     <string name="subbt_downloading">Descărcare…</string>
