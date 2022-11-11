@@ -105,6 +105,8 @@
     <string name="apk_filter">APK</string>
     <string name="app_description_content">Aplicația Muzică este o aplicație de sistem care conține un player audio și vă permite să gestionați fișierele audio. Veți putea reda în continuare fișiere audio după ce eliminați comanda rapidă de pe Ecranul principal.</string>
     <string name="app_description_title">Eliminați \"Muzică\" de pe Ecranul principal?</string>
+    <string name="app_disable_description_content">Muzica Mi este o aplicație de sistem. Dacă o dezactivați, acest lucru poate afecta utilizarea altor aplicații. O dezactivați oricum?</string>
+    <string name="app_disable_description_title">Dezactivați aplicația de sistem?</string>
     <string name="app_label">Descărcări</string>
     <string name="app_permission_confirm">Am înțeles</string>
     <string name="app_permission_optional">Permisiuni opționale</string>
@@ -1656,7 +1658,14 @@ Fiți fericit"</string>
     <string name="tuesday">Marți</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Ma</string>
-    <string name="turn_off_xunlei_tips">Acceleratorul de descărcare Xunlei este oprit</string>
+    <string name="ucrop_crop">Decupați</string>
+    <string name="ucrop_error_input_data_is_absent">Trebuie specificate atât Uri de intrare, cât și de ieșire</string>
+    <string name="ucrop_label_edit_photo">Editați Fotografia</string>
+    <string name="ucrop_label_original">Original</string>
+    <string name="ucrop_menu_crop">Decupați</string>
+    <string name="ucrop_mutate_exception_hint">Prin urmare, înlocuiți resursa de culoare (ucrop_color_toolbar_widget) din aplicația dvs. pentru a o face să funcționeze pe dispozitivele pre-L</string>
+    <string name="ucrop_rotate">Rotiți</string>
+    <string name="ucrop_scale">Scală</string>
     <string name="ultra_high_quality">Cea mai ridicată</string>
     <string name="unknown_album_name">Album necunoscut</string>
     <string name="unknown_artist_name">Artist necunoscut</string>

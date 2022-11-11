@@ -109,6 +109,10 @@
     <string name="apply_to_above_all">Setați pentru ambele</string>
     <string name="apply_to_screenlock">Setați ca Blocare a ecranului</string>
     <string name="apply_to_wallpaper">Setați ca Ecran principal</string>
+    <string name="apply_warning_content">Folosiți o Super imagine de fundal. Dacă vă schimbați imaginea de fundal, acesta va fi aplicată atât pe ecranul de pornire, cât și pe ecranul de blocare. O aplicați acum?</string>
+    <string name="apply_warning_content_with_aod">Folosiți o Super imagine de fundal. Dacă vă schimbați imaginea de fundal, aceasta va fi aplicată atât pe ecranul de pornire, cât și pe ecranul de blocare, iar afișajul mereu activ poate fi resetat la implicit. O aplicați acum?</string>
+    <string name="apply_warning_content_with_maml">Utilizați o temă terță parte. Dacă vă schimbați imaginea de fundal, ceasul ecranului de blocare poate fi resetat la implicit. O aplicați acum?</string>
+    <string name="apply_warning_title">Aplic imaginea de fundal</string>
     <string name="article_item_hot">Vedeți %s+ articole populare</string>
     <string name="at_least_one">Selectați cel puțin o categorie</string>
     <string name="auth_fail_warning">Sesiunea a expirat. Conectați-vă din nou.</string>
@@ -254,6 +258,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="disable_dlg_title">Dezactivați Caruselul de imagini de fundal?</string>
     <string name="dislike">Ștergeți</string>
     <string name="dlg_cancel">Renunțați</string>
+    <string name="dlg_ok">Aplică</string>
     <string name="doing_login">Autentificare…</string>
     <string name="doing_query_account">Se verifică informațiile despre cont…</string>
     <string name="doing_register">Se crează contul…</string>

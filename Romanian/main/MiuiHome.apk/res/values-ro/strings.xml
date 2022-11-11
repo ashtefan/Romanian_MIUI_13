@@ -538,6 +538,8 @@ Securitate sporită."</string>
     <string name="monday">Luni</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lu</string>
+    <string name="monochrome_summary">Schimbați culoarea de fundal pentru pictogramele compatibile</string>
+    <string name="monochrome_title">Culoare de fundal</string>
     <string name="month_april">Aprilie</string>
     <string name="month_april_short">Apr</string>
     <string name="month_april_shortest">Apr</string>
@@ -835,6 +837,7 @@ Securitate sporită."</string>
     <string name="sort_by_abc">Sortare după nume</string>
     <string name="sort_by_frequency">Sortare după utilizare</string>
     <string name="sort_by_not_defined">Sortare automată</string>
+    <string name="split_screen_position_top">Scindat în partea de sus</string>
     <string name="start_activity_failed">"Nu se poate porni lansatorul de sistem"</string>
     <string name="starting_preset_app">Pornire…</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
@@ -912,6 +915,8 @@ Securitate sporită."</string>
     <string name="title_select_shortcut">Selectaţi comanda rapidă</string>
     <string name="toast_drag_to_assistant_reject">Se inițializează Asistentul inteligent…</string>
     <string name="toast_screen_icons_misplaced">Restaurate dintr-o altă sursă; unele pictograme pot fi dispuse necorespunzător</string>
+    <string name="toast_split_app_unsupported">Această aplicație nu acceptă Ecran scindat</string>
+    <string name="toast_split_select_app">Atingeți o aplicație pentru a utiliza Ecran scindat</string>
     <string name="today">Astăzi</string>
     <string name="toggle_select_title">Selectaţi un comutator</string>
     <string name="toggle_title">Comutatoare</string>

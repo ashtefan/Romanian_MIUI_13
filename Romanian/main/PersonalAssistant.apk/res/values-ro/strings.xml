@@ -1582,18 +1582,25 @@ Verificați numărul de urmărire."</string>
     <string name="pa_accessibility_olympic_the_third">Al treilea loc: %s</string>
     <string name="pa_accessibility_picker_app_group_list_item">Widgetul %1$s din %2$d</string>
     <string name="pa_accessibility_picker_back">Reveniți.</string>
+    <string name="pa_accessibility_picker_bigBanner_widget_collection">Colecția de widget-uri</string>
     <string name="pa_accessibility_picker_home_appList_entrance">Vedeți lista widgeturilor suportate</string>
     <string name="pa_accessibility_picker_home_bigBanner_slected">Selectat %1$s, rândul %2$d, numărul %3$d. Atingeți de două ori pentru a începe.</string>
+    <string name="pa_accessibility_picker_home_maml_slected">Selectat: %1$s. Dimensiunea: %2$s. Apăsați de două ori pentru a vizualiza pagina de detalii. Apăsați de două ori și mențineți apăsat pentru a trage.</string>
     <string name="pa_accessibility_picker_home_search">Căutați widgeturi</string>
     <string name="pa_accessibility_picker_home_smallBanner_slected">Selectat %1$s, rrândul %2$d, numărul %3$d. Atingeți de două ori pentru a începe.</string>
     <string name="pa_accessibility_picker_home_title">Adăugați un widget</string>
     <string name="pa_accessibility_picker_home_widget_replace">Selectate %s. Se comută widget-urile.</string>
     <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">Widget: %s. Atingeți de două ori butonul de sub acesta pentru a-l înlocui cu un alt widget.</string>
+    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">%s. Stare instalare: %3$s. Butonul \"Comutare\" se află mai jos. Apăsați de două ori pentru a comuta.</string>
     <string name="pa_accessibility_picker_home_widget_slected">Selectat %1$s, rândul %2$d, numărul %3$d. Atingeți de două ori pentru a vedea detaliile. Apăsați și mențineți apăsat pentru a muta elementul.</string>
     <string name="pa_accessibility_picker_home_widget_with_add_slected">Selectat %1$s, rândul %2$d, numărul %3$d. Atingeți de două ori pentru a vedea detaliile.</string>
     <string name="pa_accessibility_picker_search_cancel">Bara de căutare widgeturi. Apăsați de două ori pentru a anula.</string>
     <string name="pa_accessibility_picker_search_clear">Goliți textul</string>
     <string name="pa_accessibility_picker_search_tips">Bara de căutare widgeturi. Apăsați de două ori pentru a căuta.</string>
+    <string name="pa_accessibility_picker_status_installed">Instalat</string>
+    <string name="pa_accessibility_picker_status_uninstalled">Neinstalat</string>
+    <string name="pa_accessibility_picker_status_unkonw">Necunoscută</string>
+    <string name="pa_accessibility_picker_status_upgraded">Se așteaptă actualizarea</string>
     <string name="pa_accessibility_picker_suit_item_add_to_desktop">Magazinul de widgeturi. %s selectat. Bara de căutare widgeturi. Apăsați de două ori pentru a vedea detaliile.</string>
     <string name="pa_accessibility_picker_suit_item_add_to_minus_desktop">Magazinul de widgeturi. %s selectat. Bara de căutare widgeturi. Apăsați de două ori pentru a vedea detaliile.</string>
     <string name="pa_accessibility_picker_suit_item_add_to_third">Magazinul de widgeturi. %s selectat. Apăsați de două ori pentru a vedea detaliile.</string>
@@ -1611,6 +1618,7 @@ Verificați numărul de urmărire."</string>
     <string name="pa_accessibility_picker_widget_item_add_to_minus_desktop">%s</string>
     <string name="pa_accessibility_picker_widget_item_add_to_third">%s</string>
     <string name="pa_accessibility_picker_widget_maml_detail_edit_add_to_minus_desktop">Atingeți de două ori pentru a edita.</string>
+    <string name="pa_accessibility_widget_slected_status">Selectat: %1$s. Stare instalare: %2$s.</string>
     <string name="pa_alphabet_and_number">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</string>
     <string name="pa_announce_for_delete_gadget_and_widget">Widget</string>
     <string name="pa_app_label">Asistent inteligent</string>
@@ -1748,11 +1756,13 @@ De asemenea, puteți urmări livrarea rapidă pe site-urile oficiale ale servici
     <string name="pa_express_state_unknown">Nu există date încă</string>
     <string name="pa_express_tail_number">Numărul comenzii: %1$s</string>
     <string name="pa_express_title">Livrare expres</string>
+    <string name="pa_express_widget_all">Toate pachetele</string>
     <string name="pa_express_widget_list_item_desc">Număr de urmărire: </string>
     <string name="pa_express_widget_logout">Conectați-vă pentru a vedea pachetele cu livrare expres</string>
     <string name="pa_express_widget_order_42">Introduceți numărul de urmărire</string>
     <string name="pa_express_widget_post">Trimiteți pachetul</string>
-    <string name="pa_filter_accessibility_filter_item">S-a selectat %s. Atingeți de două ori pentru a filtra alte selecții.</string>
+    <string name="pa_express_widget_search">Căutați</string>
+    <string name="pa_filter_accessibility_filter_item">Selectat %s. Atingeți de două ori pentru a filtra alte selecții.</string>
     <string name="pa_filter_accessibility_filter_popup_item_selected">Atingeți de două ori pentru a selecta %s.</string>
     <string name="pa_filter_accessibility_filter_popup_item_unselected">%s. Atingeți de două ori pentru a selecta.</string>
     <string name="pa_filter_replace_bt">Aplicați</string>
@@ -1796,6 +1806,8 @@ De asemenea, puteți urmări livrarea rapidă pe site-urile oficiale ale servici
     <string name="pa_lite_setting_service_quick_func_summary">Deschideți aplicațiile și serviciile utilizate frecvent</string>
     <string name="pa_lite_setting_service_search">Căutați</string>
     <string name="pa_lite_setting_service_search_summary">Căutați pe web și pe acest dispozitiv</string>
+    <string name="pa_lite_setting_service_shopping">Cumpărături</string>
+    <string name="pa_lite_setting_service_shopping_summary">Obțineți reduceri și oferte de cumpărături</string>
     <string name="pa_lite_setting_service_sports">Sporturi</string>
     <string name="pa_lite_setting_service_sports_summary">Cele mai recente informații despre echipele pe care le urmăriți</string>
     <string name="pa_lite_setting_service_stock">Burse</string>
@@ -1817,6 +1829,8 @@ De asemenea, puteți urmări livrarea rapidă pe site-urile oficiale ale servici
     <string name="pa_olympic_label">Medalii</string>
     <string name="pa_olympic_medal_count">Total medalii</string>
     <string name="pa_olympic_medals_description">Verificați clasamentul medaliilor olimpice</string>
+    <string name="pa_open_personal_assistant_dialog_desc">Dacă dezactivați Asistentul Inteligent, nu veți putea folosi widget-uri sau le veți accesa glisând spre dreapta pe ecranul de pornire. Îl opriți oricum?</string>
+    <string name="pa_open_personal_assistant_dialog_title">Dezactivați Asistentul Inteligent?</string>
     <string name="pa_operation_switch_summary">Vizualizați widget-uri populare recente</string>
     <string name="pa_operation_switch_title">Promoții populare</string>
     <string name="pa_pad_privacy_text">Widgeturi pe Ecranul principal</string>

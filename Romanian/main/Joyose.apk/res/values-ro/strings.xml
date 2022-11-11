@@ -29,6 +29,7 @@
     <string name="support_forbidden_fakecell">Notă: Restricționarea conexiunii la stațiile de bază false poate scădea semnalul în zonele cu acoperire scăzută.</string>
     <string name="switch_international">Comută la serverul global</string>
     <string name="switch_to_official">Comută la serverul oficial</string>
+    <string name="switch_to_russia">Comută la serverul din Rusia</string>
     <string name="switch_to_staging">Comută la serverul staging</string>
     <string name="unknown_error">Eroare necunoscută</string>
     <string name="update_success">Actualizată cu succes</string>

@@ -1652,8 +1652,8 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="show_images_all">Încarcă și afișează toate imaginile</string>
     <string name="show_password">Arată parola</string>
     <string name="show_server_cet">Vedeți certificatul</string>
-    <string name="sign_in_dialog_office365">Office 365</string>
-    <string name="sign_in_dialog_outlook_enterprise">Outlook pentru business (fără calendar)</string>
+    <string name="sign_in_dialog_office365">Office365 Ediție Personală</string>
+    <string name="sign_in_dialog_outlook_enterprise">Office365 Exchange Enterprise Edition</string>
     <string name="sign_in_dialog_outlook_exchange">EXCHANGE (inclusiv calendar)</string>
     <string name="sign_in_dialog_outlook_imap">IMAP (fără calendar)</string>
     <string name="sign_in_graph_error">Vă puteți conecta utilizând protocoalele de autentificare IMAP sau EXCHANGE doar atunci când organizația dvs. nu a modificat configurația generală a serverului. Dacă adresa serverului dvs. este personalizată de organizație sau protocoalele conexe sunt dezactivate, conectați-vă utilizând noul protocol Microsoft.</string>

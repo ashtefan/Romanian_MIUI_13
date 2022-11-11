@@ -9802,6 +9802,8 @@ Atingeți butonul (+) pentru a adăuga cuvinte"</string>
     <string name="users_summary">Conectat ca %1$s</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
+    <string name="var_font_switch_dialog_summary">Trebuie să reporniți dispozitivul pentru a modifica această setare.</string>
+    <string name="var_font_switch_dialog_title">Reporniți dispozitivul?</string>
     <string name="var_font_switch_title">Font variabil la nivel de sistem</string>
     <string name="verify_apps_over_usb_summary">Verificare aplicaţii la instalarea prin ADB/ADT, pentru a detecta un comportament dăunător.</string>
     <string name="verify_apps_over_usb_title">Verificare aplicaţii prin USB</string>

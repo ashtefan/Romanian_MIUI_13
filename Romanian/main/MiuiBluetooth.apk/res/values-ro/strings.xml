@@ -466,7 +466,7 @@ Protocol de conectare mai rapid."</string>
     <string name="headset_loss_notify_summary">Se pare că cel puțin una dintre căști nu se află în carcasa de încărcare. Verificați cu atenție!</string>
     <string name="headset_loss_notify_summary1">"Se pare că lipsesc căștile din carcasă. Puneți-le înapoi pentru a le lăsa să se încarce."</string>
     <string name="headset_loss_notify_title">Alertă lipsă căști</string>
-    <string name="headset_not_in_case">Puneți ambele căști în carcasă și începeți de la început.</string>
+    <string name="headset_not_in_case">Puneți ambele căști în carcasă și reluați de la început.</string>
     <string name="headset_read_fw_state">Nu s-au putut obține informații despre actualizare</string>
     <string name="headset_update_failed">Nu s-a putut actualiza</string>
     <string name="headset_update_ok">Finalizat</string>
