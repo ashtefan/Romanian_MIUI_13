@@ -122,7 +122,6 @@
     <string name="birthday_term_chinese_calendar">"Ziua de naștere a lui %1$s (Calendar Chinezesc Tradițional)"</string>
   <string name="book_card_free">Gratuit</string>
   <string name="book_card_rating_text">|   %1$s recenzii</string>
-    <string name="calendar_account_settings">Setările contului</string>
     <string name="button_record_menstruation">Înregistrați</string>
     <string name="calendar_account_settings">Setări cont</string>
     <string name="calendar_permission_desc">Gestionați evenimentele</string>
