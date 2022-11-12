@@ -31,11 +31,7 @@
     </plurals>
     <plurals name="backup_message_wechat_video">
         <item quantity="other">"%1$d videoclipuri din conversațiile WeChat sunt pe cale să expire. Creaţi o copie de rezervă în memoria internă?"</item>
-        <item quantity="zero">"%1$d videoclipuri din conversațiile WeChat sunt pe cale să expire. Creaţi o copie de rezervă în memoria internă?"</item>
         <item quantity="one">"%1$d videoclip din conversațiile WeChat este pe cale să expire. Creaţi o copie de rezervă în memoria internă?"</item>
-        <item quantity="two">"%1$d videoclipuri din conversațiile WeChat sunt pe cale să expire. Creaţi o copie de rezervă în memoria internă?"</item>
-        <item quantity="few">"%1$d videoclipuri din conversațiile WeChat sunt pe cale să expire. Creaţi o copie de rezervă în memoria internă?"</item>
-        <item quantity="many">"%1$d videoclipuri din conversațiile WeChat sunt pe cale să expire. Creaţi o copie de rezervă în memoria internă?"</item>
     </plurals>
     <plurals name="clockin_day_count">
         <item quantity="other">Completat %1$s zile la rând, continuați!</item>
@@ -51,11 +47,15 @@
     </plurals>
     <plurals name="days_ago">
         <item quantity="other">cu %1$d zile în urmă</item>
-        <item quantity="zero">cu %1$d zile în urmă</item>
         <item quantity="one">cu %1$d zi în urmă</item>
-        <item quantity="two">cu %1$d zile în urmă</item>
-        <item quantity="few">cu %1$d zile în urmă</item>
-        <item quantity="many">cu %1$d zile în urmă</item>
+    </plurals>
+    <plurals name="delete_cloud_files">
+        <item quantity="other">Ștergeți %1$d fișiere de pe toate dispozitivele dvs. și din cloud? Fișierele Mi Drive pot fi recuperate din articolele șterse recent.</item>
+        <item quantity="one">Ștergeți %1$d fișier de pe toate dispozitivele dvs. și din cloud? Fișierele Mi Drive pot fi recuperate din articolele șterse recent.</item>
+    </plurals>
+    <plurals name="delete_files">
+        <item quantity="other">Ștergeți %1$d fișiere?</item>
+        <item quantity="one">Ștergeți %1$d fișier?</item>
     </plurals>
     <plurals name="delete_files_confirm">
         <item quantity="other">Ştergeţi %1$d fişiere</item>
@@ -159,6 +159,18 @@
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d notificări noi</item>
         <item quantity="one">%d notificare nouă</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_fail">
+        <item quantity="other">Nu s-au putut sincroniza %1$s fișiere</item>
+        <item quantity="one">Nu s-a putut sincroniza %1$s fișier</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_success">
+        <item quantity="other">"S-au sincronizat %1$s fișiere | "</item>
+        <item quantity="one">"S-a sincronizat %1$s fișier | "</item>
+    </plurals>
+    <plurals name="notification_title_syncing_with_count_no_network">
+        <item quantity="other">Waiting for network connection. %1$s files remaining.</item>
+        <item quantity="one">Waiting for network connection. %1$s file remaining.</item>
     </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">%1$d selectate</item>

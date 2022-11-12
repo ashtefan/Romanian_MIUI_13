@@ -383,28 +383,52 @@ Trimiteți acest cod supervizorului."</string>
     <string name="evening">După amiază</string>
     <string name="exceed_binded_phone_times_notice">Acest număr de telefon este asociat deja altui cont Mi.</string>
     <string name="exit">Ieşire</string>
+    <string name="exo_controls_cc_disabled_description">Activați subtitrările</string>
+    <string name="exo_controls_cc_enabled_description">Dezactivați subtitrările</string>
+    <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
     <string name="exo_controls_fastforward_description">Derulați rapid înainte</string>
-    <string name="exo_controls_fullscreen_description">Mod ecran complet</string>
+    <string name="exo_controls_fullscreen_enter_description">Intrați în modul Ecran complet</string>
+    <string name="exo_controls_fullscreen_exit_description">Ieșiți din modul Ecran complet</string>
+    <string name="exo_controls_hide">Ascundeți comenzile player-ului</string>
     <string name="exo_controls_next_description">Melodia următoare</string>
+    <string name="exo_controls_overflow_hide_description">Ascundeți setările suplimentare</string>
+    <string name="exo_controls_overflow_show_description">Afișați setările suplimentare</string>
     <string name="exo_controls_pause_description">Pauză</string>
     <string name="exo_controls_play_description">Redați</string>
+    <string name="exo_controls_playback_speed">Viteză</string>
+    <string name="exo_controls_playback_speed_normal">Normală</string>
     <string name="exo_controls_previous_description">Melodia anterioară</string>
     <string name="exo_controls_repeat_all_description">Repetați-le pe toate</string>
     <string name="exo_controls_repeat_off_description">Nu repetați niciuna</string>
     <string name="exo_controls_repeat_one_description">Repetați una</string>
     <string name="exo_controls_rewind_description">Derulați</string>
-    <string name="exo_controls_shuffle_description">Amestecați</string>
+    <string name="exo_controls_seek_bar_description">Progresul redării</string>
+    <string name="exo_controls_settings_description">Setări</string>
+    <string name="exo_controls_show">Afișează comenzile playerului</string>
+    <string name="exo_controls_shuffle_off_description">Dezactivați amestecarea</string>
+    <string name="exo_controls_shuffle_on_description">Activați amestecarea</string>
     <string name="exo_controls_stop_description">Opriți</string>
+    <string name="exo_controls_vr_description">Mod VR</string>
     <string name="exo_download_completed">Descărcare finalizată</string>
     <string name="exo_download_description">Descărcați</string>
     <string name="exo_download_downloading">Se descarcă</string>
     <string name="exo_download_failed">Descărcare eșuată</string>
     <string name="exo_download_notification_channel_name">Descărcări</string>
+    <string name="exo_download_paused">Descărcări puse pe pauză</string>
+    <string name="exo_download_paused_for_network">Descărcările așteaptă rețeaua</string>
+    <string name="exo_download_paused_for_wifi">Descărcările așteaptă conectarea la Wi-Fi</string>
     <string name="exo_download_removing">Se elimină descărcările</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_media_action_repeat_all_description">Repetă tot</string>
+    <string name="exo_media_action_repeat_off_description">Nu repeta niciuna</string>
+    <string name="exo_media_action_repeat_one_description">Repetă una</string>
     <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Alternează</string>
+    <string name="exo_track_role_closed_captions">CC</string>
+    <string name="exo_track_role_commentary">Comentariu</string>
+    <string name="exo_track_role_supplementary">Suplimentar</string>
     <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Niciuna</string>
     <string name="exo_track_selection_title_audio">Audio</string>
@@ -415,8 +439,9 @@ Trimiteți acest cod supervizorului."</string>
     <string name="exo_track_surround_5_point_1">Sunet surround 5.1</string>
     <string name="exo_track_surround_7_point_1">Sunet surround 7.1</string>
     <string name="exo_track_unknown">Necunoscut</string>
-    <string name="explore">Descoperiți</string>
+    <string name="expand_button_title">Avansat</string>
     <string name="explore_on_mi_video">Descoperiți mai multe cu Mi Video</string>
+    <string name="exposed_dropdown_menu_content_description">Afișează meniul de glisare în jos</string>
     <string name="failed_dup_secure_phone_number">Acest număr de telefon este asociat deja altui cont Mi</string>
     <string name="failed_to_fetch_data">Nu s-au putut încărca informațiile.</string>
     <string name="failure">Nu s-a putut descărca</string>
@@ -432,8 +457,22 @@ Trimiteți acest cod supervizorului."</string>
     <string name="favorite_cancel_success">Eliminată cu succes din favorite</string>
     <string name="favorite_fail">"Nu s-a putut adăuga la favorite. Încercați din nou."</string>
     <string name="favorite_success">Adăugată cu succes la favorite</string>
+    <string name="fcm_2_args">Prima: %1$s și secunda %2$s</string>
     <string name="fcm_fallback_notification_channel_label">Diverse</string>
+    <string name="fcm_no_args">Șir fără argumente</string>
     <string name="fcm_push_title">Videoclipuri populare</string>
+    <string name="fcmpts_dialog_continue">Urmăriți</string>
+    <string name="fcmpts_dialog_not_interested">Nu, mulțumesc</string>
+    <string name="fcmpts_dialog_two" formatted="false">Vizionați încă %d secunde din încă %d videoclip pentru a câștiga un cupon Mi Store</string>
+    <string name="fcmpts_popup_final">Revendicat cu succes! Atingeți pentru a valorifica recompensa.</string>
+    <string name="fcmpts_popup_final_redeem">Răscumpărați</string>
+    <string name="fcmpts_popup_four" formatted="false">Revendicat cu succes! Vizionați %d secunde din încă %d videoclip pentru a câștiga un cupon Mi Store.</string>
+    <string name="fcmpts_popup_one" formatted="false">Urmăriți %d videoclipuri astăzi pentru a câștiga un cupon Mi Store de %d puncte</string>
+    <string name="fcmpts_popup_one_cts">Urmăriți</string>
+    <string name="fcmpts_popup_three" formatted="false">Ați vizionat timp de %d secunde. Ați câștigat %d puncte!</string>
+    <string name="fcmpts_popup_three_claim">Revendicați</string>
+    <string name="fcmpts_popup_three_login_claim">Conectați-vă</string>
+    <string name="fcmpts_popup_two" formatted="false">Urmăriți acest videoclip timp de %d secunde pentru a câștiga %d puncte</string>
     <string name="feedback">Feedback</string>
     <string name="feedback_activity_title">Feedback</string>
     <string name="feedback_contact_empty">Introduceți informațiile de contact</string>
@@ -1451,6 +1490,7 @@ Spori securitatea contului dvs."</string>
     <string name="plus_shortcut_existed">Această scurtătură există deja</string>
     <string name="plus_sort_title">Sortați</string>
     <string name="plus_sort_type_default">Implicit</string>
+    <string name="plus_sort_type_duration">Durată</string>
     <string name="plus_sort_type_name">Nume</string>
     <string name="plus_sort_type_size">Dimensiune</string>
     <string name="plus_sort_type_time">Dată</string>
@@ -1533,6 +1573,7 @@ Verificați alte videoclipuri!"</string>
     <string name="recommend_online_switch_open_time">Această caracteristică va fi activată în mod automat pe %s</string>
     <string name="recommend_online_tips">Activați pentru a primi recomandări online de videoclipuri</string>
     <string name="recommend_page_replay">RELUARE</string>
+    <string name="recommend_slide_to_more">Glisați pentru mai multe</string>
     <string name="recommend_switch_alert">Pentru a elimina această secțiune, mergeți la setările Mi Video</string>
     <string name="recommend_to_you">Recomandate pentru dumneavoastră</string>
     <string name="reload_sub_title">Atingeți pentru a încerca din nou.</string>

@@ -10,6 +10,7 @@
     <string name="HIPS_Perm_External_READ_FILES_Desc">Accesarea fișierelor și a documentelor stocate pe acest dispozitiv</string>
     <string name="HIPS_Perm_External_READ_MEDIA_AUDIO">Accesare fișiere audio</string>
     <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_Desc">Accesarea melodiilor și a altor fișiere audio stocate pe acest dispozitiv</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_PIC_VIDEO_Desc">Accesarea și salvarea imaginilor, videoclipurilor și a fișierelor audio în stocarea internă</string>
     <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO">Accesare fotografii și videoclipuri</string>
     <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO_Desc">Accesarea fotografiilor și a videoclipurilor stocate pe acest dispozitiv</string>
     <string name="HIPS_Perm_External_Storage">Accesare și salvare elemente în stocare</string>
@@ -512,6 +513,7 @@
 
 Nu veți pierde datele aplicațiilor."</string>
     <string name="app_manager_reset_app_preferences_title">Resetați preferințele aplicației?</string>
+    <string name="app_manager_restricted_settings_title">Permiteți setări restricționate</string>
     <string name="app_manager_search_prompt">"Nu s-a găsit niciun rezultat? Încercați să afișați rezultatele din toate aplicațiile."</string>
     <string name="app_manager_show_all_apps">Arată toate aplicațiile</string>
     <string name="app_manager_show_all_apps_opened">Se afișează rezultatele din toate aplicațiile…</string>
@@ -619,6 +621,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="applock_bind_account_dialog_content">Contul dvs. Mi este singura modalitate prin care puteți restaura Blocarea aplicațiilor, în cazul în care o uitați. Conectați-vă pentru a adăuga contul dvs. Mi.</string>
     <string name="applock_bind_account_dialog_title">Adăugați contul dvs. Mi</string>
     <string name="applock_bind_account_title">Am uitat parola</string>
+    <string name="applock_biometric_recognition">Biometrie</string>
     <string name="applock_close_dialog_summary">Toate aplicațiile ascunse vor fi afișate, scurtăturile lor de pe Ecranul principal vor fi restaurate, iar parola pentru Blocarea aplicațiilor va fi ștearsă. Dezactivați Blocarea aplicațiilor?</string>
     <string name="applock_close_dialog_title">Dezactivați Blocarea aplicațiilor?</string>
     <string name="applock_exit_account_info">Contul va fi eliminat în mod automat când vă veți deconecta</string>
@@ -1104,6 +1107,9 @@ Cu toate acestea, unele dintre tranzacțiile dvs. nu sunt încă finalizate. Pen
     <string name="confirm_fingerprint_msg">Verificați-vă amprenta</string>
     <string name="confirm_leave">Nu, mulțumesc</string>
     <string name="confirm_open">Activați</string>
+    <string name="confirm_open_shut_down_password_content">Setați o blocare a ecranului înainte de a activa confirmarea închiderii.</string>
+    <string name="confirm_open_shut_down_password_title">Setați blocarea ecranului</string>
+    <string name="confirm_package_type">Confirmați planul de date</string>
     <string name="confirm_prompt_all_permission">Cereți permisiunea pentru toate aplicațiile?</string>
     <string name="confirm_reject_all_permission">Împiedicați toate aplicațiile să utilizeze această caracteristică?</string>
     <string name="confirm_take">Obțineți</string>
@@ -1504,6 +1510,7 @@ Trebuie să înțelegeți că această caracteristică este furnizată doar pent
     <string name="ew_main_warning_list">Vedeți avertizările</string>
     <string name="ew_main_warning_list_tips">Vizualizați</string>
     <string name="ew_main_warning_list_title">Vedeți istoricul de avertizare</string>
+    <string name="ew_monitor_bad_request_tips">Aplicația Securitate nu poate accesa informațiile despre dispozitiv</string>
     <string name="ew_monitor_content">Dispozitivul dvs. mobil poate deveni parte a rețelei de avertizare timpurie împotriva cutremurelor. După ce senzorii săi detectează unde seismice, datele vor fi analizate de algoritmul AI și vor fi emise avertizări timpurii persoanelor din zonele afectate.</string>
     <string name="ew_monitor_exit">Nu vă înrolați</string>
     <string name="ew_monitor_exit_content">Salutare voluntar nr. %s! Dispozitivul dvs. poate monitoriza activitatea seismică și poate colecta date care ar ajuta la emiterea avertizărilor timpurii de cutremur. Anulați înscrierea oricum?</string>
@@ -1606,6 +1613,9 @@ cutremure"</string>
     <string name="exo_download_downloading">Se descarcă</string>
     <string name="exo_download_failed">Descărcarea a eșuat</string>
     <string name="exo_download_notification_channel_name">Descărcări</string>
+    <string name="exo_download_paused">Descărcările au fost întrerupte</string>
+    <string name="exo_download_paused_for_network">Descărcări în așteptare pentru rețea</string>
+    <string name="exo_download_paused_for_wifi">Descărcări care așteaptă Wi-Fi</string>
     <string name="exo_download_removing">Se elimină descărcările</string>
     <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_track_mono">Mono</string>
@@ -1648,7 +1658,7 @@ cutremure"</string>
     <string name="fingerprint_not_identified_msg">Pentru a debloca dispozitivul, introduceți parola.</string>
     <string name="fingerprint_not_remind">"Nu întreba din nou"</string>
     <string name="fingerprint_remind_dialog_title">Deblocare cu amprentă</string>
-    <string name="fingerprint_to_lock">Deblocați utilizând amprenta</string>
+    <string name="fingerprint_to_lock">Deblocare cu amprenta</string>
     <string name="fingerprint_to_lock_summary">Deblocați aplicații utilizând amprenta</string>
     <string name="fingerprint_verify_failed">"Nu s-a putut verifica amprenta"</string>
     <string name="fingerprint_verify_succeed">Amprentă verificată</string>
@@ -1826,6 +1836,12 @@ cutremure"</string>
  2. Atunci când această funcție este activată, apelantul nu va auzi sunetele de apel în așteptare decât dacă utilizați o cartelă SIM obișnuită. Apelurile primite vor fi respinse în mod automat după 7-10 secunde de inactivitate.
  3. Sunt suportate cartele SIM de date furnizate de către China Mobile și China Unicom. Sunt suportate cartele obișnuite furnizate de către China Mobile, China Unicom și China Telecom."</string>
     <string name="function_gwsd_title">"Nu permiteți apelurilor primite să întrerupă datele mobile"</string>
+    <string name="function_oncall_not_close_network">Nu deconecta pentru apeluri</string>
+    <string name="function_oncall_not_close_network_detail">"Despre această caracteristică
+%1$d. Această caracteristică vă permite să rămâneți online în timpul sesiunilor de jocuri fără a fi întrerupt de apelurile primite atunci când acest dispozitiv este conectat la anumite rețele 5G.
+%2$d. Dacă niciuna dintre cartelele dvs. SIM nu este conectată la o rețea 5G, apelurile primite vor fi respinse automat de SIM-ul dvs. principal.
+%3$d. Această funcție este acceptată numai în China continentală.
+%4$d. Această funcție funcționează numai în rețelele 5G-SA."</string>
     <string name="function_shield_auto_bright">Dezactivați iluminarea automată</string>
     <string name="function_shield_eye_shield">Dezactivați Modul Lectură</string>
     <string name="function_shield_pull_notification_bar">"Nu deschide Perdeaua de notificări"</string>
@@ -1951,6 +1967,16 @@ cutremure"</string>
     <string name="gb_advance_settings_vibration_4d_summary2">Vibrează când apar sincope în jocuri</string>
     <string name="gb_audition_instruction">Apăsați și mențineți apăsat pentru a înregistra (%1$s-%2$ss)</string>
     <string name="gb_audition_play_instruction">Folosiți căști pentru a obține cel mai bun efect</string>
+    <string name="gb_barrage_chat_desc">Credeți întotdeauna că ceva minunat este pe cale să se întâmple</string>
+    <string name="gb_barrage_chat_pre_desc">Previzualizați</string>
+    <string name="gb_barrage_chat_text_color">Culoare</string>
+    <string name="gb_barrage_chat_text_size">Dimensiunea textului</string>
+    <string name="gb_barrage_chat_text_size_big">Mare</string>
+    <string name="gb_barrage_chat_text_size_small">Mic</string>
+    <string name="gb_barrage_chat_text_speed">Viteza</string>
+    <string name="gb_barrage_chat_text_speed_faster">Rapid</string>
+    <string name="gb_barrage_chat_text_speed_moderate">Mediu</string>
+    <string name="gb_barrage_chat_text_speed_slow">Încet</string>
     <string name="gb_beauty_cold_light">Rece</string>
     <string name="gb_beauty_face">Înfrumuseţare</string>
     <string name="gb_beauty_light">Lumina de umplere</string>
@@ -2037,7 +2063,13 @@ reducând în același timp rata de reîmprospătare și limitele de temperatur�
     <string name="gb_performance_mode">Mod Jocuri</string>
     <string name="gb_performance_tips">"Modul de performanță îmbunătățește performanța grafică,
 dar crește și consumul de energie și permite supraîncălzirea dispozitivului"</string>
+    <string name="gb_predownload_check">Vedeți recompensele</string>
     <string name="gb_predownload_message_new">Actualizați automat jocurile compatibile când nu utilizați dispozitivul</string>
+    <string name="gb_predownload_noti_message">%2$1,2f GB de conținut actualizat sunt deja pe acest dispozitiv. Îl veți putea folosi imediat ce noua versiune va fi lansată.</string>
+    <string name="gb_predownload_noti_title">S-a actualizat %s în fundal</string>
+    <string name="gb_predownload_receive">Obțineți recompense</string>
+    <string name="gb_predownload_receive_tips">Activați actualizările în fundal pentru a obține recompense</string>
+    <string name="gb_predownload_title">Actualizări în fundal</string>
     <string name="gb_shortcut_pref_title">Scurtătură pe Ecranul principal</string>
     <string name="gb_shoulder_key">Butoane de umăr</string>
     <string name="gb_shoulder_key_add_show_btn">Afișați butoanele virtuale în timpul jocurilor</string>
@@ -3035,6 +3067,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_battery_history_total_consumption_title">Consumul total de energie</string>
     <string name="pc_battery_history_usetime_title">Activ</string>
     <string name="pc_endurance_calculation">Se calculează…</string>
+    <string name="pc_fast_charge_switch_summary_new">Amintiți-vă să creșteți viteza de încărcare atunci când încărcătorul furnizat este conectat și bateria scade sub nivelul setat</string>
     <string name="pc_hidemode_normal">Echilibrat</string>
     <string name="pc_hidemode_performance">Performanță</string>
     <string name="pc_hidemode_performance_title">Mod performanță</string>
@@ -3198,7 +3231,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pm_remember_choice">Memorează preferințele</string>
     <string name="pm_root_success_notification_infomation">Asigurați-vă că v-ați informat temeinic în legătură cu riscurile pe care le are accesul la root</string>
     <string name="pm_root_success_notification_title">Acces root permis</string>
-    <string name="power_20s_shutdown">Dispozitivul se va închide peste %d de secunde</string>
+    <string name="power_5g_popups_content">Rețelele 5G oferă viteză mare de conectare și latență mai mică.</string>
+    <string name="power_5g_popups_title">Utilizați rețele 5G</string>
     <string name="power_ambient_display">Afișaj activ permanent</string>
     <string name="power_analysis_consume_title">Utilizare acumulator</string>
     <string name="power_analysis_suggestion_need_optimize">Au fost găsite probleme legate de utilizarea acumulatorului.</string>
@@ -3326,6 +3360,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_dailog_night_charge_protection_summary">Se pare că acumulatorul dvs. este complet încărcat de cele mai multe ori, ceea ce poate accelera îmbătrânirea. MIUI a activat încărcarea optimizată pentru a evita astfel de probleme.</string>
     <string name="power_dialog_cancel">Anulaţi</string>
     <string name="power_dialog_ok">OK</string>
+    <string name="power_dialog_performance_mode_checkbox">Comutați la rata de reîmprospătare %d Hz</string>
     <string name="power_dialog_super_save_msg">"Ultra economisirea acumulatorului restricționează cele mai energofage caracteristici și scade performanța dispozitivului dvs. pentru a menține funcțiile de bază (de ex. apeluri, SMS-uri ți conectarea la rețea) disponibile pentru un timp cât mai lung. Activați ultra economisirea acumulatorului?"</string>
     <string name="power_dialog_super_save_msg_5g">Ultra economisirea acumulatorului restricționează cele mai energofage caracteristici (de ex. conectivitatea 5G) care scad performanța dispozitivului dvs. Doar apelurile, mesajele și conexiunea la rețea nu vor fi afectate. Activați ultra economisirea acumulatorului?"</string>
     <string name="power_dialog_super_save_title">Ultra economisire a acumulatorului</string>
@@ -4144,6 +4179,8 @@ Pe durata calibrării MIUI va trimite un mesaj text operatorului pentru a obțin
     <string name="sp_eew_summary">Avertismente cu privire la viitoarele cutremure</string>
     <string name="sp_eew_title">Avertizare de cutremur</string>
     <string name="sp_empty_title_sign_exception">Apăsați lung pe numele aplicației din pagina rezultatelor pentru a o adăuga în lista de excepții</string>
+    <string name="sp_family_guard_summary">Oferiți asistență de la distanță</string>
+    <string name="sp_family_guard_title">Protecție Familială</string>
     <string name="sp_find_device_summary">Localizați dispozitivul de la distanță</string>
     <string name="sp_find_device_title">Găsiți dispozitivul</string>
     <string name="sp_guard_summary">Gestionați dispozitivele prietenilor și ale familiei</string>
@@ -4703,6 +4740,24 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="tc_sms_report_upload_when_net">Vă mulțumim pentru feedback!</string>
     <string name="tc_web_correct_error">"Nu s-a putut calibra"</string>
     <string name="ten_percent_total_pkg">%s (10%% din datele lunare)</string>
+    <string name="terminal_privacy">Protecție a confidențialității pe dispozitiv</string>
+    <string name="terminal_privacy_ability">Caracteristici și mecanisme</string>
+    <string name="terminal_privacy_ability_img">Procesarea imaginii</string>
+    <string name="terminal_privacy_ability_img_summary">Editare și recunoaștere inteligentă pentru fotografii și videoclipuri în Cameră, Galerie și Taplus</string>
+    <string name="terminal_privacy_ability_model">Recunoașterea modului în care dispozitivul interacționează cu mediul</string>
+    <string name="terminal_privacy_ability_model_summary">Contor de pași, gesturi inteligente, modul În Buzunar și luminozitate automată</string>
+    <string name="terminal_privacy_ability_others">Alte mecanisme</string>
+    <string name="terminal_privacy_ability_others_summary">Partajarea ecranului, testarea mediului de plată, amprenta și recunoașterea feței</string>
+    <string name="terminal_privacy_ability_suggest">Recomandări</string>
+    <string name="terminal_privacy_ability_suggest_summary">Recomandări și sugestii de la Gestionare Fișiere, bara laterală, Mi AI și Portofel Mi</string>
+    <string name="terminal_privacy_ability_summary">*Caracteristicile și mecanismele de protecție a confidențialității de pe dispozitiv pot varia în funcție de modelul dispozitivului</string>
+    <string name="terminal_privacy_ability_txt">Text</string>
+    <string name="terminal_privacy_ability_txt_summary">Editare text, subtitrări inteligente, Taplus, mesaje și clipboard partajat</string>
+    <string name="terminal_privacy_ability_voice">Recunoaștere vocală</string>
+    <string name="terminal_privacy_ability_voice_summary">Comenzi vocale Mi AI și subtitrări inteligente</string>
+    <string name="terminal_privacy_instruction">Protecția confidențialității pe dispozitiv include funcțiile care asigură că informațiile dvs. personale sunt păstrate pe acest dispozitiv și nu sunt încărcate în cloud</string>
+    <string name="terminal_privacy_summary">Procesați informațiile personale pe acest dispozitiv</string>
+    <string name="terms_and_conditions_content"><Data>"Această caracteristică vă oferă funcționalitatea de avertizare la cutremur. Vă va anunța despre viitoarele cutremure și va emite un sunet de avertizare. Veți putea găsi cel mai apropiat adăpost, veți suna persoana de contact pentru urgențe și, dacă este necesar, să vă prezentați cardul medical. &lt;br>Vom proteja informațiile personale în conformitate cu legile, reglementările și politicile de confidențialitate relevante. &lt;br>Pentru a putea funcționa normal, această funcție necesită următoarele permisiuni pentru a colecta informațiile dvs. personale: &lt;br>• Informații despre locație: &lt;br>Pentru accesarea locației dvs. și furnizarea de avertismente precise de cutremur. &lt;br>Dacă nu sunteți de acord să acordați astfel de permisiuni sau să distribuiți și să încărcați informațiile dvs. personale, nu veți putea folosi această funcție. Puteți alege să dezactivați această funcție sau să nu o activați în astfel de cazuri. &lt;br>Trebuie să citiți și să fiți de acord cu &lt;a href=%s>Politica noastră de confidențialitate&lt;/a> înainte de a utiliza această funcție."</Data></string>
     <string name="tether_custom_dialog_title">Limită date mobile</string>
     <string name="tether_limit_dialog_title">Limită date mobile</string>
     <string name="tether_limit_value_custom">Personalizat</string>
@@ -5073,6 +5128,7 @@ Activarea uneia dintre funcții o va opri pe cealaltă."</string>
     <string name="virus_update_tips_title">Avertisment</string>
     <string name="virus_wait_network_dialog_message">"Telefonul nu este conectat la Wi-Fi. Utilizați conexiunea de date mobile?"</string>
     <string name="voltage_symbol">V</string>
+    <string name="vtb_ai_subtitle">Subtitrări</string>
     <string name="vtb_func_desc">Despre această funcție</string>
     <string name="vtb_func_display_style_desc0">AI poate recunoaște persoane, animale, plante, cer, clădiri și alte obiecte prezentate în videoclipuri și le poate îmbunătăți dinamic.</string>
     <string name="vtb_func_display_style_desc1">Efectele selectate nu vor fi aplicate videoclipurilor HDR pe dispozitivele selectate.</string>

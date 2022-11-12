@@ -353,6 +353,7 @@
     <string name="blur_location_is_on_tip">%1$s utilizează locația dvs aproximativă. Continuați să o utilizați în schimbul localizării precise?</string>
     <string name="blur_location_now_tip">Localizarea aproximativă este activă</string>
     <string name="blur_location_title">Locație aproximativă</string>
+    <string name="carwith_grant_permission_tips_when_lock">Deblocați mai întâi telefonul</string>
     <string name="cetus_invisible_mode_notice_audio">Sunteți în modul incognito. Nu se poate utiliza microfonul acum.</string>
     <string name="cetus_invisible_mode_notice_camera">Sunteți în modul incognito. Nu se poate utiliza camera acum</string>
     <string name="cetus_invisible_mode_notice_location">Sunteți în modul incognito. Nu se pot utiliza serviciile de localizare acum.</string>
@@ -526,6 +527,7 @@
     <string name="ok">OK</string>    
     <string name="perm_action_allow">Permiteți</string>
     <string name="perm_action_deny">Nu permiteți niciodată</string>
+    <string name="perm_educate_post_notification">Notificările pot fi însoțite de sunet și vibrații, așa cum apar în umbra Notificare și pe pictogramele de pe ecranul de pornire. Puteți modifica preferințele de notificare din Setări.</string>
     <string name="perm_manager_suggest_operation">Gestionați permisiunile</string>
     <string name="perm_manager_suggest_title">Modificați permisiunile?</string>
     <string name="perm_modem_location">Accesul la locație</string>
@@ -538,12 +540,13 @@
     <string name="permdesc_location_background">Permiteți %1$s să acceseze informațiile despre locație în fundal?</string>
     <string name="permdesc_microphone">Permiteți %1$s să folosească microfonul pentru înregistrări audio?</string>
     <string name="permdesc_nearby_devices">Permiteți %1$s să descopere și să se conecteze la dispozitivele din apropiere?</string>
-    <string name="permdesc_post_notification">Permiteți %1$s să posteze notificări?</string>
+    <string name="permdesc_post_notification">Permiteți %1$s să trimită notificări?</string>
     <string name="permdesc_process_outgoing_call">Permiteți %1$s să răspundă și să încheie apeluri?</string>
     <string name="permdesc_read_calendar">Permiteți %1$s să acceseze și să editeze evenimentele din calendar?</string>
     <string name="permdesc_read_call_log">Permiteți %1$s să acceseze istoricul apelurilor?</string>
     <string name="permdesc_read_contacts">Permiteți %1$s să acceseze persoanele de contact?</string>
     <string name="permdesc_read_mms">Permiteți %1$s să citească mesaje multimedia?</string>
+    <string name="permdesc_read_phone_numbers">Permiteți %1$s să citească numerele de telefon de pe acest dispozitiv?</string>
     <string name="permdesc_read_phone_state">Permiteți %1$s să acceseze starea dispozitivului și informațiile rețelei mobile?</string>
     <string name="permdesc_read_sms">Permiteți %1$s să citească mesaje text și multimedia?</string>
     <string name="permdesc_read_storage">Permiteți %1$s să acceseze fișiere și fotografii de pe acest dispozitiv?</string>

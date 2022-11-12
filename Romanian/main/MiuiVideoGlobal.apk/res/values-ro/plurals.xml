@@ -37,6 +37,18 @@
         <item quantity="other">%s stele selectate</item>
         <item quantity="one">%s stea selectată</item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Repede înainte %d secunde</item>
+        <item quantity="one">Repede înainte %d secundă</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Înapoi %d secunde</item>
+        <item quantity="one">Înapoi %d secundă</item>
+    </plurals>
+    <plurals name="fcmpts_dialog_one">
+        <item quantity="other">Urmăriți încă %s secunde dintr-un videoclip pentru a câștiga puncte și a valorifica recompense</item>
+        <item quantity="one">Urmăriți încă %s secundă dintr-un videoclip pentru a câștiga puncte și a valorifica recompense</item>
+    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">Se revine la pagina de start în %1$d secunde…</item>
         <item quantity="one">Se revine la pagina de start în %1$d secundă…</item>
@@ -186,6 +198,10 @@ Disponibil doar astăzi"</item>
         <item quantity="other">%d notificări noi</item>
         <item quantity="one">%d notificare nouă</item>
     </plurals>
+    <plurals name="music_playlist_title_count">
+        <item quantity="other">%d melodii</item>
+        <item quantity="one">%d melodie</item>
+    </plurals>
     <plurals name="new_incentive_toast_share_success">
         <item quantity="other">Partajat cu succes. Ați câștigat %d puncte. Revendicați în Centrul de puncte.</item>
         <item quantity="one">Partajat cu succes. Ați câștigat %d punct. Revendicați în Centrul de puncte.</item>
@@ -269,6 +285,10 @@ Disponibil doar astăzi"</item>
     <plurals name="toast_bookmark_max_size">
         <item quantity="other">Adăugați maxim %d semne de carte</item>
         <item quantity="one">Adăugați maxim %d semn de carte</item>
+    </plurals>
+    <plurals name="v_confirm_hide_videos_new">
+        <item quantity="other">Ascundeți %d fișiere selectate?</item>
+        <item quantity="one">Ascundeți %d fișier selectat?</item>
     </plurals>
     <plurals name="video_like_text">
         <item quantity="other">%s aprecieri</item>

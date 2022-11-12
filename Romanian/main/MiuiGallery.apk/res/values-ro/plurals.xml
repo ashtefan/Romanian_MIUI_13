@@ -508,6 +508,42 @@
         <item quantity="other">Se primesc %2$d arhive (%3$s) de la %1$s…</item>
         <item quantity="one">Se primește %2$d arhivă (%3$s) de la %1$s…</item>
     </plurals>
+    <plurals name="share_album_detail_photo_count">
+        <item quantity="other">S-au încărcat %d fotografii</item>
+        <item quantity="one">S-a încărcat %d fotografie</item>
+    </plurals>
+    <plurals name="share_album_home_pref_rooms">
+        <item quantity="other">%1$d camere</item>
+        <item quantity="one">%1$d cameră</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screens">
+        <item quantity="other">%1$d ecrane</item>
+        <item quantity="one">%1$d ecran</item>
+    </plurals>
+    <plurals name="share_album_home_pref_share_home_summary">
+        <item quantity="other">%1$d ecrane partajate</item>
+        <item quantity="one">%1$d ecran partajat</item>
+    </plurals>
+    <plurals name="share_album_home_pref_unshare_home_summary">
+        <item quantity="other">%1$d medii de acasă inteligente disponibile</item>
+        <item quantity="one">%1$d mediu de acasă inteligent disponibil</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_oversize">
+        <item quantity="other">%d articolele sunt prea mari pentru a fi sincronizate</item>
+        <item quantity="one">%d articol este prea mare pentru a fi sincronizat</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantity="other">Nu s-au putut sincroniza %d articole. Actualizați-vă planul de stocare.</item>
+        <item quantity="one">Nu s-a putut sincroniza %d articol. Actualizați-vă planul de stocare.</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_retry">
+        <item quantity="other">Nu s-au putut sincroniza %d articole. Încercați din nou.</item>
+        <item quantity="one">Nu s-a putut sincroniza %d articol. Încercați din nou</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantity="other">Nu s-au putut sincroniza %d articole. Proprietarul acestui album nu mai are spațiu de stocare în cloud.</item>
+        <item quantity="one">Nu s-a putut sincroniza %d articol. Proprietarul acestui album nu mai are spațiu de stocare în cloud.</item>
+    </plurals>
     <plurals name="slideshow_interval_value">
         <item quantity="other">%1$d secunde</item>
         <item quantity="one">%1$d secundă</item>

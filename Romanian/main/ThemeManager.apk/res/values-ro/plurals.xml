@@ -152,6 +152,10 @@
         <item quantity="other">cu %d minute în urmă</item>
         <item quantity="one">cu 1 minut în urmă</item>
     </plurals>
+    <plurals name="pay_mibi">
+        <item quantity="other">Plătiți %1$s Monede Mi</item>
+        <item quantity="one">Plătiți %1$s Monedă Mi</item>
+    </plurals>
     <plurals name="resource_comment_score_count">
         <item quantity="other">%d comentarii</item>
         <item quantity="one">%d comentariu</item>

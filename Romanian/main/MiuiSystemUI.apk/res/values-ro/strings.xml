@@ -2388,6 +2388,11 @@ De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activi
     <string name="quick_settings_screen_record_label">Înregistrare ecran</string>
     <string name="quick_settings_screen_record_start">Pornită</string>
     <string name="quick_settings_screen_record_stop">Oprită</string>
+    <string name="quick_settings_screen_rotation_inner_locked">Ecranul interior nu se rotește</string>
+    <string name="quick_settings_screen_rotation_inner_unlocked">Ecranul interior se rotește</string>
+    <string name="quick_settings_screen_rotation_outer_landscape_locked">Ecran exterior blocat în modul peisaj</string>
+    <string name="quick_settings_screen_rotation_outer_portrait_locked">Ecran exterior blocat în modul portret</string>
+    <string name="quick_settings_screen_rotation_outer_unlocked">Ecranul exterior se rotește</string>
     <string name="quick_settings_screenbutton_label">Butoane</string>
     <string name="quick_settings_screenlock_label">Blocați ecranul</string>
     <string name="quick_settings_screenshot_label">Captură de ecran</string>

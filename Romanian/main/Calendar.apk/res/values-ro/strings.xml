@@ -124,6 +124,7 @@
   <string name="book_card_rating_text">|   %1$s recenzii</string>
     <string name="calendar_account_settings">Setările contului</string>
     <string name="button_record_menstruation">Înregistrați</string>
+    <string name="calendar_account_settings">Setări cont</string>
     <string name="calendar_permission_desc">Gestionați evenimentele</string>
     <string name="calendar_privacy_policy">Politica de Confidențialitate</string>
     <string name="calendar_subscription_group_title">Abonament calendar</string>
@@ -148,6 +149,7 @@
     <string name="change_zodiac">Modificați semnul zodiacal</string>
     <string name="character_counter_content_description">Limita de caractere a depășit %1$d din %2$d</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
+    <string name="check_new_version">Căutați actualizări</string>
   <string name="check_reminded_text">Vezi memento-uri</string>
   <string name="chinese_leap">Intercalare</string>
     <string name="chip_text">Fragment de text</string>
@@ -492,6 +494,7 @@
     <string name="horoscope_select_activity_label">Selectați semnul zodiacal</string>
     <string name="hotel_detail_title">Detalii despre hotel</string>
     <string name="hotel_event_delete_successfully">Rezervare hotelieră ștearsă cu succes</string>
+    <string name="hour_1">%d oră</string>
   <string name="huangli_bad_type">Evitaţi</string>
   <string name="huangli_good_type">Bun</string>
     <string name="icon_add_description">Adăugați o scurtătură pe Ecranul principal</string>
@@ -619,6 +622,10 @@
     <string name="mesens_card_title_today_begin">Ciclul poate începe azi</string>
     <string name="mesens_card_title_tomorrow_begin">Ciclul poate începe mâine</string>
     <string name="midnight">Noapte</string>
+    <string name="minutes_10">%d minute</string>
+    <string name="minutes_15">%d minute</string>
+    <string name="minutes_30">%d minute</string>
+    <string name="minutes_5">%d minute</string>
     <string name="missing_name">(Niciun nume)</string>
     <string name="missing_required_permission">Ați restricționat permisiunile necesare.</string>
     <string name="miuishare_account_activate_confirmation">Activați contul Mi</string>
@@ -1056,10 +1063,10 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="share_image">Partajați</string>
     <string name="share_image_label">Partajați via</string>
     <string name="share_title">Partajați</string>
+    <string name="short_date_format">dd MMM</string>
     <string name="shortcut_new_event">Adăugați un eveniment</string>
     <string name="shortcut_next_agenda">Evenimentul următor</string>
     <string name="shortcut_settings">Setări</string>
-    <string name="short_date_format">dd MMM</string>
     <string name="show_day_view">Afișează ziua</string>
     <string name="show_indic_date_summary">Calendarul indic este disponibil atunci când una dintre limbile din India este setată ca limbă de sistem</string>
     <string name="show_menstruation_info">Afișează informațiile despre menstruație</string>
@@ -1127,6 +1134,7 @@ Puteți adăuga, de asemenea, memento-uri pentru a nu rata nimic important."</st
     <string name="subtitle_mi_calendar_predict_menstruation">Înregistrați și estimați ciclurile viitoare folosind Calendarul</string>
     <string name="subtitle_record_and_start_predict">Înregistrați un ciclu pentru a estima când începe următorul</string>
     <string name="subtitle_stick_record">Înregistrați-vă ciclurile pentru a obține predicții mai precise</string>
+    <string name="suggestions_and_feedback">Feedback</string>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>

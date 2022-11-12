@@ -233,6 +233,7 @@ Vă rugăm să accesați secțiunea Ajutor dacă întâmpinați probleme la cone
     <string name="global_privacy_main">Proiectarea articolelor de pe ecranul telefonului pe un monitor extern mai mare.</string>
     <string name="global_privacy_negative">Nu sunt de acord</string>
     <string name="global_privacy_positive">Accept</string>
+    <string name="global_privacy_screencast">În timpul înregistrării sau al proiectării, serviciul care oferă această caracteristică poate capta orice informații sensibile care sunt afișate pe ecran sau redate de pe dispozitiv, inclusiv informații sensibile, cum ar fi sunetul, parolele, informațiile de plată, fotografiile și mesajele.</string>
     <string name="global_privacy_tip"><Data>Trebuie să colectăm informațiile personale necesare pentru a vă oferi serviciile de bază și pentru a optimiza procesul de proiectare. Puteți afla cum gestionăm informațiile pe care le colectăm în &lt;a href=%1$s>Politica de Confidențialitate&lt;/a>. Vă puteți retrage consimțământul la Politica de confidențialitate din Setări în orice moment.</Data></string>
     <string name="hang_up">Proiectați când ecranul este oprit</string>
     <string name="hang_up_alert_dialog_content">"Proiectarea nu va fi întreruptă când ecranul telefonului se închide. Apăsați butonul Pornire de pe telefon pentru a aprinde din nou ecranul telefonului."</string>

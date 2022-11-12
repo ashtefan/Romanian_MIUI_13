@@ -215,6 +215,10 @@
     <string name="miui_main_control_center_desc">Sau comutați la versiunea veche din Setări> Notificări și Centrul de Control</string>
     <string name="miui_main_control_center_open">Noul Centru de Control</string>
     <string name="miui_main_control_center_title">Glisați pentru a comuta între Perdeaua de notificări și Centrul de Control</string>
+    <string name="miui_main_icon_callback">Comandă rapidă pe ecranul principal</string>
+    <string name="miui_main_icon_callback_create">Creați</string>
+    <string name="miui_main_icon_callback_desc">Creați o comandă rapidă pentru ecranul principal acum?</string>
+    <string name="miui_main_icon_callback_nocreate">Renunțați</string>
     <string name="miui_main_mirror_tab_desc1">Conectează în mod automat</string>
     <string name="miui_main_mirror_tab_desc2">Vedeți imaginile pe un ecran mai mare</string>
     <string name="miui_main_mirror_tab_desc3">Partajați fișiere într-o clipă</string>

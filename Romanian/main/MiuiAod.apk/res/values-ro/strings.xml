@@ -343,6 +343,8 @@ dd.MM"</string>
     <string name="select_notification_animation_style">Selectați efectul special</string>
     <string name="select_notification_notify_style">Selectați efectul de notificare</string>
     <string name="send">Trimiteți</string>
+    <string name="settings_view_btn_check_off">Oprit</string>
+    <string name="settings_view_btn_check_on">Pornit</string>
     <string name="share">Partajați</string>
     <string name="share_to_community">Partajați Comunității Mi</string>
     <string name="show_battery">Afișează starea acumulatorului</string>

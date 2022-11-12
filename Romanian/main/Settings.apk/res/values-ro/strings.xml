@@ -1513,8 +1513,10 @@ Nu v-ați conectat la %2$s înainte."</string>
     <string name="bluetooth_enable_opp_high_speed_dialog_positive">Repornește</string>
     <string name="bluetooth_enable_opp_high_speed_dialog_title">Repornește Bluetooth-ul</string>
     <string name="bluetooth_enable_opp_high_speed_summary">Utilizați protocoale Bluetooth P2P de mare viteză pentru transferuri</string>
-    <string name="bluetooth_enable_page_scan">activați pagina de scanare Bluetooth</string>
-    <string name="bluetooth_enable_page_scan_summary">dezactivați/activați scanarea paginii pentru testul Bluetooth</string>
+    <string name="bluetooth_enable_page_scan">Activați scanarea paginii Bluetooth</string>
+    <string name="bluetooth_enable_page_scan_summary">Dezactivați/activați scanarea paginii pentru testul Bluetooth</string>
+    <string name="bluetooth_enable_pts_test">activați testul PTS Bluetooth</string>
+    <string name="bluetooth_enable_pts_test_summary">dezactivați/activați PTS pentru testul Bluetooth</string>
     <string name="bluetooth_enter_passkey_msg">Introduceţi cheia de acces apoi apăsați Înapoi sau Enter</string>
     <string name="bluetooth_enter_passkey_other_device">Ar putea fi necesar, de asemenea, să introduceţi această parolă pe celălalt dispozitiv.</string>
     <string name="bluetooth_enter_pin_other_device">Ar putea fi necesar, de asemenea, să introduceţi acest cod PIN şi pe celălalt dispozitiv.</string>
@@ -3147,7 +3149,7 @@ Dacă problema persistă, este posibil să trebuiască să dezinstalați aplica�
     <string name="dream_preview_button_title">Previzualizați</string>
     <string name="dream_setup_description">Alegeți ce veți vedea pe ecran când tableta este andocata. Dispozitivul dvs. poate consuma mai multă energie atunci când este utilizat un economizor de ecran.</string>
     <string name="dream_setup_title">Alegeți economizorul de ecran</string>
-    <string name="dsda_switch_summary">Permiteți ambelor cartele SIM să utilizeze date mobile și să efectueze apeluri simultan</string>
+    <string name="dsda_switch_summary">Când vă aflați în mediul de rețea 5G, permiteți ambelor cartele SIM să utilizeze date mobile și să efectueze apeluri simultan</string>
     <string name="dsda_switch_title">Mod activ dual</string>
     <string name="dsds_activation_failure_body_msg1">Scoateți SIM-ul și introduceți-l din nou. Dacă problema continuă, reporniți dispozitivul.</string>
     <string name="dsds_activation_failure_body_msg2">Încercați să porniți SIM-ul din nou. Dacă problema continuă, reporniți dispozitivul.</string>
@@ -3430,6 +3432,8 @@ Pentru mai multe detalii, contactați administratorul organizației."</string>
     <string name="external_ram_dialog_icon_title">Extinderea memoriei este activată</string>
     <string name="external_ram_dialog_message">Reporniți dispozitivul pentru a aplica modificările.</string>
     <string name="external_ram_dialog_title">Reporniți dispozitivul</string>
+    <string name="external_ram_intro">Creați memorie RAM suplimentară ocupând spațiul de stocare. Utilizați această funcție numai atunci când există suficient spațiu de stocare disponibil pe dispozitiv.</string>
+    <string name="external_ram_remind_toast">Spațiul de stocare se epuizează. Extensia de memorie a fost dezactivată pentru moment.</string>
     <string name="external_ram_summary">Adăugați %1$s %2$s RAM ocupând spațiul de stocare. Utilizați această caracteristică numai atunci când există suficient spațiu de stocare disponibil pe dispozitivul dvs.</string>
     <string name="external_ram_title">Extindere memorie</string>
     <string name="external_ram_toast">Nu se poate utiliza extinderea memoriei din cauza spațiului de stocare insuficient</string>
@@ -3880,6 +3884,7 @@ Această caracteristică funcționează numai atunci când navigarea în sistem 
     <string name="freeform_guide_slide_up_to_close_title">Închiderea ferestrelor plutitoare</string>
     <string name="freeform_guide_to_sidehide_summary">Trageți rapid aplicația într-o parte a ecranului pentru a o ascunde</string>
     <string name="freeform_guide_to_sidehide_title">Ascunderea ferestrelor plutitoare</string>
+    <string name="freeform_guide_vedio_description">Atingeți o aplicație din bara laterală pentru a o deschide într-o fereastră plutitoare</string>
     <string name="freeform_vedio_description">"·Apăsați și mențineți apăsat, și apoi glisați în jos o notificare pentru a o deschide într-o fereastră plutitoare.
 ·Atingeți \"Ferestre plutitoare\" în Recente pentru a selecta aplicațiile."</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Atingeți o aplicație din bara laterală pentru a o deschide într-o fereastră plutitoare.
@@ -8455,7 +8460,7 @@ Dacă nu sunteți de acord să acordați astfel de permisiuni sau să distribui�
     <string name="sound_dashboard_summary">Volum, vibrații, Nu deranja</string>
     <string name="sound_effects_enable_title">Sunete la atingere</string>
     <string name="sound_haptic_settings">Sunet și atingere</string>
-    <string name="sound_mode">Mod Silențios</string>
+    <string name="sound_mode">Opțiuni de sunet</string>
     <string name="sound_settings">Sunet</string>
     <string name="sound_settings_example_summary">Volum sonerie și notificări la 80%</string>
     <string name="sound_settings_summary">Volum sonerie și notificări la %1$s</string>

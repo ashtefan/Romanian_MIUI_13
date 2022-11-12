@@ -381,6 +381,7 @@
     <string name="beauty_fragment_tab_name_beauty">Înfrumusețare</string>
     <string name="beauty_fragment_tab_name_makeup">Avansat</string>
     <string name="beauty_fragment_tab_name_makeups">Machiaj</string>
+    <string name="beauty_fx_makeup">Retușați</string>
     <string name="beauty_fx_makeup_cv">Retușați</string>
     <string name="beauty_makeups_bluefemale">Îngheţ</string>
     <string name="beauty_makeups_danyan">Nud</string>
@@ -399,6 +400,7 @@
     <string name="beauty_mo_fe">Natural</string>
     <string name="beauty_mo_ma">Clasic</string>
     <string name="beauty_mo_or">Original</string>
+    <string name="beauty_mo_pr">Textură</string>
     <string name="beauty_mo_pr_cv">Textures</string>
     <string name="beauty_mode_reset_toast">Efecte de înfrumusețare eliminate cu succes</string>
     <string name="beauty_mutex_toast_tip">&lt;a href=>Dezactivați&lt;/a> mai întâi efectele de machiaj</string>
@@ -416,6 +418,9 @@
     <string name="beauty_skincolor_pink">Înflorire</string>
     <string name="beauty_skincolor_wheat">Grâu</string>
     <string name="beauty_skincolor_white">Fildeş</string>
+    <string name="beauty_sm_or">Ten</string>
+    <string name="beauty_sm_texture">Ten</string>
+    <string name="beauty_sm_texture_cv">Ten</string>
     <string name="beauty_tab_name_live_beauty">Înfrumusețare</string>
     <string name="beauty_tab_name_live_filter">Filtre</string>
     <string name="bokeh_use_hint">Adâncime de câmp</string>
@@ -1102,6 +1107,7 @@ să pară mai mari în fotografii"</string>
     <string name="module_name_multi_camera">Multicameră</string>
     <string name="module_name_new_slow_motion">Mișcare cu viteză redusă</string>
     <string name="module_name_panorama">Panoramă</string>
+    <string name="module_name_pixel">Ultra HD</string>
     <string name="module_name_pixel_108m">108 MP</string>
     <string name="module_name_pixel_48m">48 MP</string>
     <string name="module_name_pixel_50m">50 MP</string>

@@ -176,6 +176,10 @@
         <item quantity="other">%d elemente selectate</item>
         <item quantity="one">%d element selectat</item>
     </plurals>
+    <plurals name="notification_missedCallsMsg">
+        <item quantity="other">%d apeluri pierdute</item>
+        <item quantity="one">%d apel pierdut</item>
+    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d selectate</item>
         <item quantity="zero">%1$d selectat</item>

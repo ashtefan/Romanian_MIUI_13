@@ -86,9 +86,11 @@
     <string name="call_recording_notification_message_sd_unmounted">Card SD eliminat.</string>
     <string name="call_recording_notification_title">Apel înregistrat</string>
     <string name="call_recording_notification_title_error">Nu s-a putut înregistra apelul</string>
-    <string name="call_title_redialing_with_times">Reapelat de %d ori</string>
-    <string name="caller_manage_header">Teleconferinţă %s</string>
-    <string name="can_not_call_oneself">"Nu se poate apela acest număr"</string>
+    <string name="caller_info_name_delimiter">" sau "</string>
+    <string name="camera_on">Cealaltă persoană dorește să vă pornească camera.</string>
+    <string name="camera_on_agree">Permiteți</string>
+    <string name="camera_on_refuse">Nu permiteți</string>
+    <string name="camera_on_title">Camera</string>
     <string name="can_not_use">"Nu se poate utiliza"</string>
     <string name="cancel">Anulaţi</string>
     <string name="card_title_answering">Se preia apelul</string>
@@ -102,6 +104,7 @@
     <string name="card_title_hanging_up_weak_signal">Semnal slab al rețelei mobile. Se încheie apelul…</string>
     <string name="card_title_in_call">În timpul apelului</string>
     <string name="card_title_in_call_short">Apel</string>
+    <string name="card_title_in_crbt">Se așteaptă răspunsul…</string>
     <string name="card_title_in_video">Video </string>
     <string name="card_title_incoming_conference">Invitație la conferință</string>
     <string name="card_title_on_hold">"Apel menţinut "</string>
@@ -370,6 +373,10 @@
     <string name="onscreen_change_to_video">Apel video</string>
     <string name="onscreen_change_to_voice">Apel vocal</string>
     <string name="onscreen_close_preview_camera">Închideți</string>
+    <string name="onscreen_collapsed">Restrângeți</string>
+    <string name="onscreen_collapsed_dialpad">Afișați tastatura de apelare</string>
+    <string name="onscreen_expand">Mai multe</string>
+    <string name="onscreen_expand_dialpad">Ascundeți tastatura de apelare</string>
     <string name="onscreen_hold_text">Menţinere</string>
     <string name="onscreen_merge_calls_text">Îmbinare apeluri</string>
     <string name="onscreen_message_text">Mesaje</string>
@@ -390,6 +397,11 @@
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>
+    <string name="screen_share">Asistență de la distanță</string>
+    <string name="screen_share_agree">Permiteți</string>
+    <string name="screen_share_connecting">Se conectează…</string>
+    <string name="screen_share_message">Permiteți celeilalte persoane să vă vadă ecranul în timp real?</string>
+    <string name="screen_share_refuse">Renunțați</string>
     <string name="search_menu_title">Căutați</string>
     <string name="select_audio_dialog_title">Selectați modul de răspuns</string>
     <string name="select_one_sim_title">Se poate utiliza doar SIM %1$d</string>

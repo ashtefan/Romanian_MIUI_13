@@ -959,6 +959,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="file_type">Format: %s</string>
     <string name="filename_empty_alert_message">Introduceţi numele fișierului :)</string>
     <string name="filename_illegal_alert_message">Un caracter interzis a fost eliminat din numele fișierului</string>
+    <string name="files_stored_in_the_phone">Fișiere stocate pe acest dispozitiv</string>
     <string name="find_garbage">S-au găsit %d MB de gunoi</string>
     <string name="find_new_version">Actualizări disponibile</string>
     <string name="find_on_page_cancel">Anulaţi</string>
@@ -1349,6 +1350,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="loading_tips">Glisați în jos pentru a actualiza</string>
     <string name="local_apps">Aplicații locale</string>
     <string name="local_bookmarks">Mi</string>
+    <string name="local_file">Fișiere locale</string>
     <string name="location_permission_name">Acces la locație</string>
     <string name="lockpattern_continue_button_text">Următorul</string>
     <string name="lockpattern_need_to_confirm">Confirmați modelul de deblocare</string>
@@ -1487,6 +1489,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="month_september_short">Sep</string>
     <string name="month_september_shortest">Sep</string>
     <string name="more">Mai mult</string>
+    <string name="more_convenient_features_and_content">Vedeți ce noi instrumente și conținut are de oferit Browserul!</string>
     <string name="more_description">Meniu</string>
     <string name="more_info">Aflați mai multe</string>
     <string name="more_option">Mai multe opțiuni</string>
@@ -1792,7 +1795,7 @@ Părăsiți această pagină acum?"</string>
     <string name="next">Următorul</string>
     <string name="nf_choose_reason">Descrieți problema</string>
     <string name="nf_content_gif_label">GIF</string>
-    <string name="nf_content_promo_label">ПРОМО</string>
+    <string name="nf_content_promo_label">Реклама</string>
     <string name="nf_detail_collection">Adăugați la favorite</string>
     <string name="nf_dislike">Neinteresat</string>
     <string name="nf_feed_list_exit_toast">Atingeți din nou pentru a închide fluxul de conținut</string>
@@ -2467,6 +2470,7 @@ Unele site-uri nu vor folosi istoricul de navigare anterior pentru a-și persona
     <string name="pwa_hint_added_success">Adăugată cu succes</string>
     <string name="qr_code_title">Cod QR</string>
     <string name="qr_description">Scanați codul QR</string>
+    <string name="quick_access_to_common_functions">Accesați rapid funcțiile dvs. preferate</string>
     <string name="quick_search_and_access_to_functions">Căutarea rapidă vă permite să accesați cu ușurință funcțiile pe care le utilizați cel mai mult.</string>
     <string name="quicklink_bookmark_save">Salvați la</string>
     <string name="quicklink_cannot_save_url">"Nu se poate adăuga acest URL."</string>
@@ -2911,6 +2915,9 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="search_bar_hint_content">Căutați aplicații și conținut</string>
     <string name="search_bing">Bing</string>
     <string name="search_button_text">Accesaţi</string>
+    <string name="search_card_online_rec_app">Piețele de aplicații</string>
+    <string name="search_card_online_rec_app_install">Instalați</string>
+    <string name="search_card_online_rec_app_open">Deschideți</string>
     <string name="search_dianping">Cate</string>
     <string name="search_easou">Easou</string>
     <string name="search_empty_view_hint">Nu am putut găsi nimic</string>
@@ -2987,6 +2994,8 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="setting_sms_content">Conținut SMS</string>
     <string name="setting_swipe_up">Glisați în sus în Ecranul principal</string>
     <string name="settings">Setări</string>
+    <string name="settings_search_online_apps">Piețele de aplicații</string>
+    <string name="settings_search_online_apps_desc">Conținut de pe piețele de aplicații</string>
     <string name="share_image_text">Uite ce am partajat! @MIUI</string>
     <string name="share_page_text">Uite ce am partajat: %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">Uite ce am partajat: %1$s</string>
@@ -3059,6 +3068,7 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="speed_test_upload">Încărcare</string>
     <string name="splash__access_dialog_agree">De acord</string>
     <string name="splash__access_dialog_protect">Termeni și condiții</string>
+    <string name="split_line">%1$s | %2$s</string>
     <string name="srl_component_falsify" formatted="false">"%s falsifică zona,
   Reprezintă înălțimea[%.1fdp] de glisare în timpul rulării,
   Nu arată nimic."</string>
@@ -3248,6 +3258,7 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="translation_query_error_network">Nu s-a putut traduce. Verificați conexiunea la rețea și încercați din nou.</string>
     <string name="translation_result_empty">Nu s-a putut traduce. Încercați din nou.</string>
     <string name="translation_to">Traduceți în</string>
+    <string name="trash_cleaner_unit">MB</string>
     <string name="trending_apps_more">Mai mult</string>
     <string name="tuesday">Marți</string>
     <string name="tuesday_short">Mar</string>
@@ -3504,10 +3515,11 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_tag_tips">Atingeți aici pentru a revedea o pagină</string>
     <string name="web_tag_title">Miniaturi ale paginilor web</string>
     <string name="web_video_accelerate">Viteză</string>
-    <string name="web_video_default_time">00:00</string>
+    <string name="web_video_default_time">%1$s :%2$s</string>
     <string name="web_video_download">Descărcați</string>
     <string name="web_video_download_no_access">Permisiuni necesare pentru a descărca articole</string>
     <string name="web_video_enable_long_click_toast">Se redă la viteza %dX</string>
+    <string name="web_video_float_drag_msg">Trageți pentru a ajusta dimensiunea</string>
     <string name="web_video_list_more">Mai multe</string>
     <string name="web_video_list_playing">Redare</string>
     <string name="web_video_list_replay">Reluați</string>

@@ -348,8 +348,8 @@
     <string name="dialog_my_playlist_set_to_public">Partajați această listă de redare cu toți utilizatorii Muzica Mi și Muzică Hungama</string>
     <string name="dialog_queued_body">Acest fișier este în coada de așteptare pentru descărcarea ulterioară.</string>
     <string name="dialog_renew_failure">Ne pare rău; acțiunea a eșuat</string>
-    <string name="dialog_renew_free_end">Perioada de încercare a expirat. Vă înregistrați la Hungama PRO?​</string>
-    <string name="dialog_renew_positive_text">DA, DORESC SĂ FIU PRO</string>
+    <string name="dialog_renew_free_end">Perioada de încercare a expirat. Vă înregistrați la Hungama Gold?​</string>
+    <string name="dialog_renew_positive_text">DA, DORESC SĂ FIU Gold</string>
     <string name="dialog_renew_success">Mulțumim pentru confirmare</string>
     <string name="dialog_score_btn_good">Evaluați</string>
     <string name="dialog_score_msg_score_explorer">Vă place Muzica Mi?</string>
@@ -483,7 +483,7 @@
     <string name="enable_auto_payment_success">Reînnoire în mod automat</string>
     <string name="enable_auto_payment_success_message">Reînnoirea automată a fost activată. Următoarea achitare: %s.</string>
     <string name="enabled">Activat</string>
-    <string name="enjoy_hungama_pro">Bucurați-vă de Hungama PRO</string>
+    <string name="enjoy_hungama_pro">Bucurați-vă de Hungama Gold</string>
     <string name="enter_garbage_clean">Curăță stocarea internă.</string>
     <string name="entertainment">Distracție</string>
     <string name="eq_auto">Personalizată</string>
@@ -733,24 +733,24 @@
     <string name="home_tab_yandex">Yandex.Music</string>
     <string name="hot_icon_in_fast_indexer">H</string>
     <string name="hungama">Hungama</string>
-    <string name="hungama_batch_download_alert_summary">Doar membrii PRO pot descărca mai multe melodii. Vreți să deveniți membru PRO acum?</string>
+    <string name="hungama_batch_download_alert_summary">Doar membrii Gold pot descărca mai multe melodii. Vreți să deveniți membru Gold acum?</string>
     <string name="hungama_batch_download_alert_summary_toast">Obțineți un abonament să descărcați toată lista de redare.</string>
     <string name="hungama_category_chart">Topuri</string>
     <string name="hungama_category_playlist">Liste de redare</string>
     <string name="hungama_category_radio">Radio</string>
     <string name="hungama_category_video">Videoclipuri</string>
-    <string name="hungama_category_vip">Pro</string>
-    <string name="hungama_free_download_out_summary">"Nu mai puteți descărca melodii în mod gratuit. Vreți să obțineți titlu de membru PRO pentru a descărca nelimitat melodii?"</string>
+    <string name="hungama_category_vip">Gold</string>
+    <string name="hungama_free_download_out_summary">"Nu mai puteți descărca melodii în mod gratuit. Vreți să obțineți titlu de membru Gold pentru a descărca nelimitat melodii?"</string>
     <string name="hungama_free_download_out_summary_toast">Ați descărcat deja %d melodii. Obțineți un abonament să descărcați mai multe.</string>
     <string name="hungama_playlist_category">Categorie listă de redare</string>
     <string name="hungama_privacy_desc">Politica de Confidențialitate Hungama (opțional)</string>
     <string name="hungama_privacy_policy_url">http://www.hungama.com/musicapp/terms-and-conditions/</string>
     <string name="hungama_privacy_tips_content">Pentru a obține acces la conținutul online, trebuie să acceptați <a href="/link/click">Politica de Confidențialitate Hungama</a>.</string>
     <string name="hungama_privacy_tips_title">Politica de Confidențialitate Hungama</string>
-    <string name="hungama_pro">Hungama Pro</string>
-    <string name="hungama_subscribe_message">Cumpărați titlul de membru PRO pentru a descărca muzică la calitate înaltă</string>
-    <string name="hungama_subscribe_positive_button">Cumpărați titlul de membru PRO</string>
-    <string name="hungama_subscribe_title">Membru PRO</string>
+    <string name="hungama_pro">Hungama Gold</string>
+    <string name="hungama_subscribe_message">Cumpărați titlul de membru Gold pentru a descărca muzică la calitate înaltă</string>
+    <string name="hungama_subscribe_positive_button">Cumpărați titlul de membru Gold</string>
+    <string name="hungama_subscribe_title">Membru Gold</string>
     <string name="i_know">OK</string>
     <string name="icon_content_description">Pictogramă Dialog</string>
     <string name="impunity_declaration_content">Trebuie să citiți și să fiți de acord cu &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\">Acordul utilizatorului&lt;/a> și &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\">Politica de Confidențialitate&lt;/a> înainte de a utiliza acest produs.</string>
@@ -1171,7 +1171,7 @@
     <string name="online_switch_message">Dezactivarea serviciilor online va afecta serviciile VIP și recomandările. Dezactivați oricum?</string>
     <string name="online_switch_setting">Setări conținut online</string>
     <string name="open_download">Deschideți</string>
-    <string name="only_pro_can_choose_hd_sound_quality">HD audio este disponibil doar membrilor PRO</string>
+    <string name="only_pro_can_choose_hd_sound_quality">HD audio este disponibil doar membrilor Gold</string>
     <string name="open_online_service">Trebuie să activați serviciile online pentru a utiliza această caracteristică. Activați acum?</string>
     <string name="open_service">Activați</string>
     <string name="operation_done_close">Închideţi</string>
@@ -1193,7 +1193,8 @@
     <string name="paused_waiting_to_retry">Se așteaptă reluarea</string>
     <string name="pay">Achitaţi:</string>
     <string name="pay_now">Serviciul actual</string>
-    <string name="payment_fail">"Achitare eşuată"</string>
+    <string name="payment_success_message">Mulțumim! Plata dvs. a fost procesată cu succes. Bucurați-vă de serviciile Gold.</string>
+    <string name="payment_success_title">Felicitări!</string>
     <string name="payment_success">Achitare finalizată</string>
     <string name="pending_apk">În curs…</string>
     <string name="permission_declaration_message">Permiteți accesul la spațiul de stocare din Securitate &gt; Permisiuni &gt; Permisiuni &gt; Stocare &gt; Muzică pentru a putea utiliza aplicația în mod normal.</string>
@@ -1266,7 +1267,7 @@ Dacă nu sunteți de acord să utilizați serviciile menționate mai sus, nu ve�
 - Servicii de streaming online"</string>
     <string name="privacy_request_subtitle_offline">Bine ați venit în aplicația Muzică! Această aplicație furnizează un player local pentru fișierele audio.</string>
     <string name="privacy_request_title">Termeni și condiții</string>
-    <string name="pro_member">Membru PRO</string>
+    <string name="pro_member">Membru Gold</string>
     <string name="project_device">Telefon Mi</string>
     <string name="project_device_mobile">Dispozitiv mobil</string>
     <string name="prompt_grant_write_settings_permission">Permiteți modificarea setărilor de sistem</string>
@@ -1443,7 +1444,7 @@ Fiți fericit"</string>
     <string name="sleep_mode_canceled">Temporizator oprit</string>
     <string name="sleep_mode_summary">Se opreşte redarea după un anumit timp</string>
     <string name="sleep_mode_title">Temporizator</string>
-    <string name="sliding_pro_center">Centrul PRO</string>
+    <string name="sliding_pro_center">hungama Gold</string>
     <string name="solar_term_autumn_begins">Începutul toamnei</string>
     <string name="solar_term_autumn_equinox">Echinocțiul de toamnă</string>
     <string name="solar_term_clear_and_bright">Senin și strălucitor</string>
@@ -1595,6 +1596,7 @@ Fiți fericit"</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
     <string name="time_to_upgrade">Este disponibilă o actualizare</string>
+    <string name="tips_click_here_to_continue">Atingeți pentru a relua redarea</string>
     <string name="title_command_mode">Mod Comandă</string>
     <string name="title_online_artist">Artiști de Top</string>
     <string name="title_online_billboard">Topuri muzicale</string>
@@ -1615,8 +1617,8 @@ Fiți fericit"</string>
     <string name="toast_download_in_process">Descărcare în curs</string>
     <string name="toast_favorite_has_been_added">Adăugată cu succes în lista de redare</string>
     <string name="toast_follow_success">Urmărit cu succes</string>
-    <string name="toast_hungama_vip_song">Această melodie este disponibilă doar membrilor PRO. Obțineți un abonament pentru a o descărca.</string>
-    <string name="toast_is_pro">"Sunteți deja membru PRO."</string>
+    <string name="toast_hungama_vip_song">Această melodie este disponibilă doar membrilor Gold. Obțineți un abonament pentru a o descărca.</string>
+    <string name="toast_is_pro">"Sunteți deja membru Gold."</string>
     <string name="toast_my_playlist_illegal_name">"Titlul acestei liste de redare nu este valid. Redenumiți-o."</string>
     <string name="toast_my_playlist_set_to_private">"Această listă de redare este acum privată. Alte persoane nu o pot vedea."</string>
     <string name="toast_my_playlist_set_to_public">Această listă de redare este acum publică. Alte persoane o pot vedea.</string>
@@ -1625,7 +1627,7 @@ Fiți fericit"</string>
     <string name="toast_new_playlist_name_too_long">Numele listei de redare este prea lung</string>
     <string name="toast_normal_songs_for_download">Calitatea melodiilor descărcate a fost stabilită la Standard</string>
     <string name="toast_normal_songs_for_stream">Calitatea melodiilor ascultate online a fost stabilită la Standard</string>
-    <string name="toast_not_pro">Această funcție este disponibilă doar membrilor PRO.</string>
+    <string name="toast_not_pro">Această funcție este disponibilă doar membrilor Gold.</string>
     <string name="toast_stream_normal">În prezent se redau melodiile la calitate standard. Obțineți un pachet de Melodii Premium pentru a asculta la calitate înaltă.</string>
     <string name="toast_playlist_has_been_added">Adăugată în coadă cu succes</string>
     <string name="toast_playlist_has_been_private">Această listă de redare este privată</string>
@@ -1710,7 +1712,7 @@ Fiți fericit"</string>
     <string name="vip_renew_message">"Nu veţi putea să ascultaţi muzică la calitate înaltă, dar unele melodii vor fi disponibile la calitate standard."</string>
     <string name="vip_renew_title">Abonament expirat</string>
     <string name="vip_required">Obțineți un pachet de Melodii Premium pentru a reda această melodie. Deocamdată a fost exclusă din listă.</string>
-    <string name="vip_required_with_song">%s este disponibil doar membrilor PRO. Această melodie a fost omisă acum.</string>
+    <string name="vip_required_with_song">%s este disponibil doar membrilor Gold. Această melodie a fost omisă acum.</string>
     <string name="vip_tomorrow_auto_renew_message">Abonamentul dvs. de Muzică va fi reînnoit în mod automat mâine seară. Asigurați-vă că aveți suficiente credite Mi în cont pentru a finaliza această plată.</string>
     <string name="vip_tomorrow_renew_message">"Nu veți mai putea reda muzică online la calitate ridicată, dar unele melodii vor fi disponibile la calitate standard."</string>
     <string name="voice_search_first_hint">Încercați căutarea vocală!</string>

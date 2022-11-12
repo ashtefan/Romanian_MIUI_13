@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="access_denied_info">Prea multe incercari. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="access_photos_and_videos">Accesare fotografii și videoclipuri</string>
     <string name="action_collapse">Ascunde</string>
     <string name="action_expand">Afișează mai multe</string>
     <string name="action_folder_description">Vedeți dosarele</string>
@@ -41,7 +42,7 @@
     <string name="actionbar_button_up_description">Înapoi</string>
     <string name="actionbar_close_description">Închideți</string>
     <string name="actionbar_home_description">Înapoi</string>
-    <string name="add_account_desc">Sincronizaţi notele cu contul dvs. Xiaomi?</string>
+    <string name="add_account_desc">Sincronizaţi notele în contul dvs. Xiaomi?</string>
     <string name="afternoon">După amiază</string>
     <string name="alarm_bar_title">Memento</string>
     <string name="alert_action_edit_anyway">Editați oricum</string>
@@ -237,7 +238,7 @@
     <string name="empty_folder_import_notes">Importați notițe</string>
     <string name="empty_folder_no_notes">Nicio notiță aici</string>
     <string name="enable_sync">Sincronizaţi</string>
-    <string name="enable_sync_desc">Sincronizaţi notele cu contul dvs. Mi (%1$s)?</string>
+    <string name="enable_sync_desc">Sincronizaţi notele în contul dvs. Xiaomi (%1$s)?</string>
     <string name="error_contact_not_exist">Contact inexistent</string>
     <string name="error_hide_empty_note">"Nu se poate ascunde o notiță fără conținut"</string>
     <string name="error_icon_content_description">Eroare</string>
@@ -576,6 +577,7 @@
     <string name="new_audio_create_guide_tip">Apăsați și mențineți apăsat pentru a crea o notiță vocală</string>
     <string name="new_audio_create_talkback_des">Atingeți pentru a crea o notiță text. Apăsați și mențineți apăsat pentru a crea o notiță vocală. Eliberați butonul pentru a opri înregistrarea și a crea o notiță sau glisați în sus pentru a anula.</string>
     <string name="new_data_empty_note">Niciun element aici încă</string>
+    <string name="new_lite_audio_create_talkback_des">Atingeți pentru a crea o notiță</string>
     <string name="night">Seară</string>
     <string name="no_network">Nu se poate conecta la rețea</string>
     <string name="noon">Amiază</string>
@@ -666,6 +668,8 @@
     <string name="permission_microphone_desc">Crearea de notițe vocale</string>
     <string name="permission_network_for_cloud_desc">Pentru a sincroniza notițele în cloud, trebuie să vă conectați la internet. Se pot utiliza datele mobile pentru sincronizarea elementelor. Vă conectați acum?</string>
     <string name="permission_phone_state_desc">Pentru oprirea înregistrării notițelor vocale pe durata apelurilor</string>
+    <string name="permission_photos_desc">Pentru adăugarea de imagini la notițe</string>
+    <string name="permission_photos_desc_pad">Pentru adăugarea de imagini la notițe</string>
     <string name="permission_read_contact_desc">Asocierea notițelor create pe durata apelurilor cu persoanele din agendă</string>
     <string name="permission_storage_desc">Pentru salvarea notițelor ca imagini</string>
     <string name="permission_storage_desc_new_v12">Pentru adăugarea de imagini la note și salvarea notițelor ca imagini</string>
@@ -769,6 +773,7 @@
     <string name="search_setting_description">Căutare text în notele dvs.</string>
     <string name="select_account_prompt">Activaţi sincronizarea notelor</string>
     <string name="send">Trimiteți</string>
+    <string name="send_notifications_for_reminder">Pentru trimiterea mementourilor</string>
     <string name="set_alarm_description">Setați alarma</string>
     <string name="setting_other">ALTELE</string>
     <string name="setting_privacy">Politica de Confidențialitate</string>
@@ -928,6 +933,7 @@ Permiteți aplicației Note să vă citească contactele și să caute conturile
 Permiteți aplicației Note să citească conținutul cardului SD."</string>
     <string name="toast_refuse_to_use_phone_state">"Permisiunile de accesare a Telefonului sunt restricționate.
 Permiteți aplicației Note să citească starea și ID-ul telefonului."</string>
+    <string name="toast_refuse_to_use_photos_in_excerpt">Permiteți acestei aplicații să vă acceseze fotografiile pentru a putea adăuga imagini la notițe</string>
     <string name="toast_refuse_to_use_record_audio">"Permisiunile de accesare a microfonului sunt restricționate.
 Permiteți aplicației Note să înregistreze sunete."</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">Permiteți aplicației Notițe să acceseze spațiul de stocare pentru a putea adăuga imagini la note</string>
@@ -1025,10 +1031,9 @@ Permiteți aplicației Note să înregistreze sunete."</string>
     <string name="wednesday">Miercuri</string>
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mi</string>
-    <string name="welcome_note_for_cm">"Și multe alte caracteristici!
-  - Sincronizare cu Mi Cloud
- 
-  - Setare memento-uri"</string>
+    <string name="widget_all_notes_name">Toate notițele</string>
+    <string name="widget_all_todo_name">Toate sarcinile</string>
+    <string name="widget_click_check">Atingeți pentru a vedea</string>
     <string name="widget_content_loading">Doar o secundă…</string>
     <string name="widget_create_select_size">Selectați dimensiunea</string>
     <string name="widget_empty_content">Atingeți pentru a selecta o notiță</string>

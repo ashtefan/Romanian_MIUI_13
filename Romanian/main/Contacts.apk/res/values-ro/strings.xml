@@ -120,7 +120,7 @@
     <string name="bh_cancellation_of_carrier_services_result">Dacă veți continua, veți anula Serviciile Operator Mi. După aceea, vom înceta colectarea și utilizarea informațiilor dvs. personale și vom șterge definitiv istoricul comenzilor. Asigurați-vă că toate tranzacțiile sunt finalizate înainte de a anula serviciile.</string>
     <string name="bh_cannot_action">Nu s-a putut utiliza %1$s. Instalați mai întâi aplicația corespunzătoare.</string>
     <string name="bh_cannot_fetch_num">Număr de telefon necunoscut</string>
-    <string name="bh_cannot_login_miacount">Nu s-a putut conecta la contul Mi</string>
+    <string name="bh_cannot_login_miacount">Nu s-a putut conecta la contul Xiaomi</string>
     <string name="bh_card_order_detail">Informații despre comandă</string>
     <string name="bh_card_order_name">Pachet serviciu</string>
     <string name="bh_card_order_pay_price">Suma plătită</string>
@@ -261,7 +261,7 @@
     <string name="bh_saved_number">Numărul salvat: %1$s</string>
     <string name="bh_set_package">Setați planul operatorului</string>
     <string name="bh_settings">Setări</string>
-    <string name="bh_should_login_to_buy">Conectați-vă la Contul Mi pentru a putea cumpăra minute de apel și date mobile</string>
+    <string name="bh_should_login_to_buy">Conectați-vă la Contul Xiaomi pentru a putea cumpăra minute de apel și date mobile</string>
     <string name="bh_sim">SIM %1$d</string>
     <string name="bh_sim_1">%1$s (SIM 1)</string>
     <string name="bh_sim_2">%1$s (SIM 2)</string>
@@ -623,7 +623,7 @@ Cartelele de contact sunt dezactivate"</string>
     <string name="create_group_item_label">Creaţi un grup nou</string>
     <string name="create_qrcode_fail_message">Nu se poate crea codul QR</string>
     <string name="cta_content_seg1"><Data>"&lt;strong>Notă importantă
-Apăsând butonul \"De acord\" de mai jos, acceptați &lt;font color=#33aaff>&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'>Acordul serviciului cont Mi&lt;/a>&lt;/font>, &lt;font color=#33aaff>&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Acordul utilizatorului Mi Roaming&lt;/a>&lt;/font>, și &lt;font color=#33aaff>&lt;a href ='http://www.miui.com/res/doc/privacy/en.html'>Politica de Confidențialitate&lt;/a>&lt;/font>. Citiți aceste documente cu atenție și înțelegeți pe deplin toți termenii și condițiile aferente înainte de a fi de acord.&lt;/strong>"</Data></string>
+Apăsând butonul \"De acord\" de mai jos, acceptați &lt;font color=#33aaff>&lt;a href ='https://static.account.xiaomi.com/html/agreement/account/en.html'>Acordul serviciului cont Xiaomi&lt;/a>&lt;/font>, &lt;font color=#33aaff>&lt;a href ='https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html'>Acordul utilizatorului Mi Roaming&lt;/a>&lt;/font>, și &lt;font color=#33aaff>&lt;a href ='http://www.miui.com/res/doc/privacy/en.html'>Politica de Confidențialitate&lt;/a>&lt;/font>. Citiți aceste documente cu atenție și înțelegeți pe deplin toți termenii și condițiile aferente înainte de a fi de acord.&lt;/strong>"</Data></string>
     <string name="cta_content_seg2">"
 Mi Roaming trebuie să se conecteze la internet și să acceseze informațiile despre locație pentru a funcționa în mod normal. În plus, Mi Roaming poate colecta, utiliza și partaja informațiile dvs. personale. Informațiile dvs. personale vor fi protejate în conformitate cu legile și reglementările locale."</string>
     <string name="cta_dialog_cancel">Ieșiți</string>
@@ -1317,9 +1317,10 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="notification_action_voicemail_play">Redaţi</string>
     <string name="notification_click_detail">Atingeți pentru a vedea detalii</string>
     <string name="notification_micloudsync_delete_contact">Xiaomi Cloud dorește să vă șteargă unele din contacte</string>
-    <string name="notification_new_voicemail_ticker">Mesaj vocal nou de la %1$s</string>
-    <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
-    <string name="openDialKeyboard">Tastatură numerică</string>
+    <string name="notification_missedCallTitle">Apel pierdut</string>
+    <string name="notification_missedCall_call_back">Sunați înapoi</string>
+    <string name="notification_missedCall_message">Trimiteți SMS</string>
+    <string name="notification_missedCallsTitle">Apeluri pierdute</string>
     <string name="open_contact">Vizualizaţi contactul</string>
     <string name="open_dial_pad_description">Deschideți tastatura numerică</string>
     <string name="option_delete_batch_contacts">Ștergeți în serie</string>

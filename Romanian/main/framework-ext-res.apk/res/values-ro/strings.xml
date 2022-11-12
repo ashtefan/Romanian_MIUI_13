@@ -176,6 +176,7 @@
     <string name="input_method_tab_phrase_text">Expresii frecvente</string>
     <string name="internal_livetalk_enable">Utilizați pachete de suplinire pentru apeluri naționale</string>
     <string name="international_livetalk_enable">Utilizați pachete de suplinire pentru apeluri internaționale</string>
+    <string name="kb_reset_toast">Tastatură resetată cu succes</string>
     <string name="key_btn_ok">OK</string>
     <string name="key_btn_space">Spaţiu</string>
     <string name="keyboard_connect_failed">Nu s-a putut conecta tastatura. Atașați-o din nou.</string>
@@ -303,6 +304,9 @@
     <string name="relaunch_unfold_notification_content">Este posibil ca această aplicație să nu fie afișată corect pe acest ecran. Reporniți aplicația pentru a ajusta aspectul.</string>
     <string name="remain">Rămas: %s</string>
     <string name="replace">Înlocuire</string>
+    <string name="rescueparty_package_tips">S-a detectat o corupție {0} a serviciului de sistem</string>
+    <string name="rescuepartyplus_config_reset_context">Este posibil ca unele date să fi fost șterse. Atingeți pentru a vedea detaliile.</string>
+    <string name="rescuepartyplus_config_reset_title">Repararea sistemului este finalizată</string>
     <string name="resolver_app_recommend_flag">Recomandați</string>
     <string name="resolver_checkbox_always">Întotdeauna</string>
     <string name="resolver_checkbox_once">O dată</string>

@@ -167,7 +167,9 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="component_title_settings_video_wallpaper">Imagini de fundal cu efecte speciale</string>
     <string name="component_title_video_wallpaper">Clipuri de fundal</string>
     <string name="component_title_wallpaper">Imagini de fundal</string>
+    <string name="component_title_widget_suit">Widget-uri</string>
     <string name="concentration_old_period">Mai multe</string>
+    <string name="configure_success_not_enable_aod">Aplicat cu succes. Activați Afișarea permanentă pentru ca tema să aibă efect.</string>
     <string name="copy">Copiați</string>
     <string name="count_down_tip">%ds rămas</string>
     <string name="create_home_icon">Scurtătură pe Ecranul principal</string>
@@ -778,6 +780,7 @@ Să vizualizați și să utilizați articolele pe care le-ați achiziționat sau
     <string name="pad_fold_no_permission">Sunt necesare permisiuni pentru stocare</string>
     <string name="pad_fold_no_permission_detail">Pentru a putea modifica preferințele de personalizare și pentru a salva articolele descărcate, permiteți mai întâi ca această funcție să acceseze spațiul de stocare.</string>
     <string name="password_toggle_content_description">Afișează parola</string>
+    <string name="paying">Achiziționare…</string>
     <string name="personalize">Personalizare</string>
     <string name="personalize_alarm_ringtone_title">Alarme</string>
     <string name="personalize_aod_title">AOD</string>
@@ -790,6 +793,7 @@ Să vizualizați și să utilizați articolele pe care le-ați achiziționat sau
     <string name="personalize_notify_ringtone_title">Notificări</string>
     <string name="personalize_notify_style_title">Efecte</string>
     <string name="personalize_recommend_switch_desc">Primiți recomandări de conținut personalizat bazat pe ID-ul dispozitivului</string>
+    <string name="personalize_second_space_not_support_buy_widget">Nu se pot cumpăra widget-uri în Spațiul Secundar</string>
     <string name="personalize_second_space_not_support_set_font">Nu se poate modifica fontul în Spațiul secundar</string>
     <string name="personalize_theme_entrance">Teme</string>
     <string name="personalize_third_font">Fonturi</string>
@@ -1202,6 +1206,7 @@ Puteți acorda această permisiune din Setări > Confidențialitate."</string>
     <string name="search_sort_news">Cele noi mai întâi</string>
     <string name="search_sort_synthesize">General</string>
     <string name="search_sort_top">Cele mai populare mai întâi</string>
+    <string name="search_view_description_clear">Goliți căutarea</string>
     <string name="selected_resource_file_invalid">Imposibil de utilizat fişierul selectat</string>
     <string name="send">Trimiteți</string>
     <string name="server_internal_error">A apărut e eroare de server. Așteptați un minut sau două și încercați din nou.</string>
@@ -1546,6 +1551,7 @@ Mergeți la Teme>Contul meu>Laborator teme pentru mai multe opțiuni."</string>
     <string name="update_no_net">A apărut o eroare de rețea. Încercați din nou.</string>
     <string name="update_title">ESTE DISPONIBILĂ O NOUĂ ACTUALIZARE</string>
     <string name="use_hint">Atenție</string>
+    <string name="use_now">Adăugați</string>
     <string name="using_theme_has_update_tips">Este disponibilă o actualizare a acestei teme.</string>
     <string name="using_theme_next_automatic_update">Actualizări automate</string>
     <string name="using_theme_next_automatic_update_summary">Actualizați temele descărcate utilizând Wi-Fi când ecranul este blocat</string>

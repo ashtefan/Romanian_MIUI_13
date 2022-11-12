@@ -149,6 +149,11 @@
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
+    <string name="grant_permission_go_and_set_2">Setări</string>
+    <string name="grant_permission_item">%s</string>
+    <string name="grant_permission_remind_title">Sunt necesare unele permisiuni</string>
+    <string name="grant_permission_storage">Permiteți acestei aplicații să acceseze spațiul de stocare.</string>
+    <string name="grant_permission_text">Editorul Galeriei are nevoie de următoarea permisiune pentru a putea funcționa normal: %s. Atingeți „Setări” pentru a acorda.</string>
     <string name="midnight">Noapte</string>
     <string name="miuix_access_state_desc">Selectat</string>
     <string name="miuix_alphabet_indexer_name">Bara de index</string>

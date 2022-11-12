@@ -915,8 +915,8 @@ Securitate sporită."</string>
     <string name="title_select_shortcut">Selectaţi comanda rapidă</string>
     <string name="toast_drag_to_assistant_reject">Se inițializează Asistentul inteligent…</string>
     <string name="toast_screen_icons_misplaced">Restaurate dintr-o altă sursă; unele pictograme pot fi dispuse necorespunzător</string>
-    <string name="toast_split_app_unsupported">Această aplicație nu acceptă Ecran scindat</string>
-    <string name="toast_split_select_app">Atingeți o aplicație pentru a utiliza Ecran scindat</string>
+    <string name="toast_split_app_unsupported">Această aplicație nu suportă modul Ecran scindat</string>
+    <string name="toast_split_select_app">Atingeți o aplicație pentru a utiliza modul Ecran scindat</string>
     <string name="today">Astăzi</string>
     <string name="toggle_select_title">Selectaţi un comutator</string>
     <string name="toggle_title">Comutatoare</string>
