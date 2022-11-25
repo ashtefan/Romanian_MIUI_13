@@ -562,14 +562,12 @@ căii pentru accesul IMAP</string>
     <string name="font_underline_remove">Eliminați sublinierea</string>
     <string name="forever">Întotdeauna</string>
     <string name="forget_app_password">Am uitat parola aplicației</string>
-    <string name="formatted_subject">%1$s %2$s</string>
     <string name="forward">Redirecţionaţi</string>
     <string name="forward_attachment">Redirecţionaţi</string>
     <string name="forward_attribution">---------- Mesaj redirecţionat ----------&lt;br>De la: %1$s&lt;br>Data: %2$s&lt;br>Subiect: %3$s&lt;br>Către: %4$s&lt;br></string>
     <string name="forward_attribution_no_headers">---------- Mesaj redirecţionat ----------</string>
     <string name="forward_download_failed_ticker">Nu se pot redirecţiona unul sau mai multe ataşamente</string>
     <string name="forward_download_failed_title">Ataşamentul nu a fost trimis</string>
-    <string name="forward_subject_label">Rdr:</string>
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
@@ -688,14 +686,6 @@ Această problemă ar putea fi cauzată de autentificarea în doi factori a cont
     <string name="mailbox_name_display_starred">Mesaje cu stea</string>
     <string name="mailbox_name_display_trash">Coş de gunoi</string>
     <string name="mailbox_name_display_unread">Necitite</string>
-    <string name="mailbox_name_server_all_unread">Necitite</string>
-    <string name="mailbox_name_server_drafts">Nefinalizate</string>
-    <string name="mailbox_name_server_inbox">Primite</string>
-    <string name="mailbox_name_server_junk">Spam</string>
-    <string name="mailbox_name_server_outbox">De trimis</string>
-    <string name="mailbox_name_server_sent">Trimis</string>
-    <string name="mailbox_name_server_starred">Cu steluță</string>
-    <string name="mailbox_name_server_trash">Gunoi</string>
     <string name="mailbox_setting_preference_sync_summary_close">Sincronizarea este oprită</string>
     <string name="mailbox_setting_preference_sync_summary_open">Sincronizarea este pornită</string>
     <string name="mailbox_settings_activity_title">Setări de sincronizare</string>
@@ -1072,7 +1062,6 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="reply">Răspundeţi</string>
     <string name="reply_all">Răs. tuturor</string>
     <string name="reply_attribution">Pe %1$s, %2$s a scris:</string>
-    <string name="reply_subject_label">Re:</string>
     <string name="request_copy_db_to_disk">Aplicația de E-Mail solicită să copiați baza dvs. de date într-un fișier</string>
     <string name="request_entity_large">Fișierul este prea mare</string>
     <string name="respond_inline_text">Editați e-mailul original</string>
