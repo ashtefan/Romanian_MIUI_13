@@ -301,8 +301,9 @@
     <string name="exposed_dropdown_menu_content_description">Afișează meniul de glisare în jos</string>
     <string name="extended_storage_file_can_not_open">"Nu s-a putut deschide fișierul. Copiați fișierul în memoria internă."</string>
     <string name="extract">Extragere</string>
+    <string name="fab_menu_ball">Acțiuni rapide</string>
     <string name="fab_menu_sort">Sortați</string>
-    <string name="fail_to_create_folder_unknown">Imposibil de creat dosarul</string>
+    <string name="fail_to_create_folder_unknown">Nu s-a putut crea dosarul datorită unei erori necunoscute.</string>
     <string name="failed_not_access_sd_card">Permiteți mai întâi accesarea cardului SD</string>
     <string name="failed_obtain_permissions">"Nu s-au putut obține permisiunile"</string>
     <string name="favorite_photo">Fotografii</string>
@@ -423,6 +424,7 @@
     <string name="hint_switch_to_grid_mode">S-a comutat la vederea tip grilă</string>
     <string name="hint_switch_to_list_mode">S-a comutat la vederea tip listă</string>
     <string name="home_action_up">Înapoi</string>
+    <string name="home_title">Gestionare Fișiere</string>
     <string name="homepage_tab_category">Categorii</string>
     <string name="homepage_tab_file_view_phone">Stocare</string>
     <string name="homepage_tab_recent">Recente</string>
@@ -439,12 +441,14 @@
     <string name="if_cancel">Renunțați?</string>
     <string name="image_loading_error">"Nu s-a putut încărca imaginea"</string>
     <string name="imm_str_storage">Stocare</string>
+    <string name="import_files_from_old_phones">Importați de pe vechiul dispozitiv</string>
     <string name="input_memo_hint">Introduceți detalii suplimentare (opțional)</string>
     <string name="install_fail">"Nu s-a putut instala"</string>
     <string name="installing">Instalare…</string>
     <string name="instruction">Introduceți următoarea adresă într-un client FTP: </string>
     <string name="instruction_pre_pad">Atingeţi pentru a porni serverul FTP</string>
     <string name="instruction_pre_phone">Atingeţi pentru a porni serverul FTP</string>
+    <string name="internal_storage">Stocarea internă</string>
     <string name="item_view_role_description">Filă</string>
     <string name="is_playing">Rulează…</string>
     <string name="just_now">acum</string>
@@ -493,7 +497,7 @@
     <string name="menu_item_router">Router</string>
     <string name="menu_item_search">Căutaţi</string>
     <string name="menu_item_sort">Sortare după</string>
-    <string name="menu_item_sort_add_time">"Creat "</string>
+    <string name="menu_item_sort_add_time">"Adăugat la favorite "</string>
     <string name="menu_item_sort_by_added_time">Adăugat</string>
     <string name="menu_item_sort_date">Data modificării</string>
     <string name="menu_item_sort_name">Nume</string>
@@ -542,6 +546,8 @@
     <string name="mirror_tip_list">Listă</string>
     <string name="mirror_tip_refresh">Reîmprospătați</string>
     <string name="mirror_tip_show_type">Sortați după</string>
+    <string name="miuix_access_state_desc">Selectat</string>
+    <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
@@ -556,6 +562,8 @@
     <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
     <string name="miuix_appcompat_select_item">Selectați elementele</string>
+    <string name="miuix_indexer_collect">Colecții</string>
+    <string name="miuix_indexer_selected">Selectat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -715,7 +723,8 @@
     <string name="operation_del_fav">Eliminare din favorite…</string>
     <string name="operation_delete">Ştergeţi</string>
     <string name="operation_delete_confirm_message">Ştergeţi?</string>
-    <string name="operation_delete_confirm_message_folder">"Tot conținutul dosarului va fi șters. "</string>
+    <string name="operation_delete_confirm_message_folder">"Tot conținutul dosarului va fi șters.
+"</string>
     <string name="operation_deleting">Ştergere…</string>
     <string name="operation_download">Descărcați</string>
     <string name="operation_download_error_no_space">Spațiu de stocare insuficient</string>
@@ -882,7 +891,7 @@
     <string name="query_quota_exception">A apărut o eroare de server. Așteptați un minut sau două și încercați din nou.</string>
     <string name="query_quota_searching">Doar o secundă…</string>
     <string name="recent_hide_camera_and_screenshots">Nu afișa elementele și capturile de ecran din Galerie printre elementele recente</string>
-    <string name="recommend">Recomandat</string>
+    <string name="recent_hide_cloud_drive_files">Nu afișa fișierele Mi Drive în fila Recente</string>
     <string name="recommend_topic">Subiecte recomandate</string>
     <string name="recommend_user">Profiluri recomandate</string>
     <string name="refresh_success">Reîmprospătare finalizată</string>
@@ -1322,7 +1331,7 @@
     <string name="withdraw_consent_content">Dacă veți continua, vă veți retrage consimțământul cu privire la Politica de confidențialitate a Managerului de fișiere. Informațiile personale deja colectate și păstrate vor fi șterse în perioada specifică, în conformitate cu legile și reglementările aplicabile, dacă nu se cere altfel. Deoarece Gestionarea fișierelor își oferă serviciile pe baza colectării informațiilor personale necesare, retragerea consimțământului dumneavoastră va fi considerată ca refuz de a accepta serviciile Gestionării fișierelor.</string>
     <string name="withdraw_consent_summary">Retrageți consimțământul pentru Politica de confidențialitate a Managerului de fișiere</string>
     <string name="xiaomi_login_btn_str">Cont Mi</string>
-    <string name="year_month_day_format">dd MMMM yyyy</string>
+    <string name="year_month_day_format">dd MMMM, yyyy</string>
     <string name="yes">Da</string>
     <string name="yesterday">ieri</string>
     <string name="you_liao_god_desc">Încărcați videoclipuri în mod regulat și obțineți mai mulți fani pentru a primi statutul de Gentleman</string>

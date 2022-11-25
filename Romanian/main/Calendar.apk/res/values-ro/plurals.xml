@@ -61,6 +61,10 @@
         <item quantity="other">Cu %d minute în urmă</item>
         <item quantity="one">Cu un minut în urmă</item>
     </plurals>
+    <plurals name="after_num_minutes">
+        <item quantity="other">În %d minute</item>
+        <item quantity="one">În %d minut</item>
+    </plurals>
     <plurals name="anniversary_day">
         <item quantity="other">%1$s zile</item>
         <item quantity="one">%1$s zi</item>
@@ -172,15 +176,19 @@
         <item quantity="other">săptămâni</item>
         <item quantity="one">săptămână</item>
     </plurals>
-    <plurals name="num_picker_hint">
-        <item quantity="other">" zile"</item>
-        <item quantity="one">" zi"</item>
-    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">cu %d minute în urmă</item>
         <item quantity="one">cu un minut în urmă</item>
     </plurals>
+    <plurals name="num_picker_hint">
+        <item quantity="other">" zile"</item>
+        <item quantity="one">" zi"</item>
+    </plurals>    
     <plurals name="other_all_day_events">
+        <item quantity="other">%d evenimente în plus</item>
+        <item quantity="one">%d eveniment în plus</item>
+    </plurals>
+    <plurals name="other_num_events">
         <item quantity="other">%d evenimente în plus</item>
         <item quantity="one">%d eveniment în plus</item>
     </plurals>
@@ -248,12 +256,40 @@
         <item quantity="other">Ziua estimată %1$d a ciclului</item>
         <item quantity="one">Ziua estimată %1$d a ciclului</item>
     </plurals>
+    <plurals name="today_has_num_event">
+        <item quantity="other">%d evenimente astăzi</item>
+        <item quantity="one">%d eveniment astăzi</item>
+    </plurals>
     <plurals name="travel_eta_advice">
         <item quantity="other">%2$s minute de condus până la %1$s.</item>
         <item quantity="one">%2$s minut de condus până la %1$s.</item>
     </plurals>
     <plurals name="weekN">
         <item quantity="other">SĂPTĂMÂNA %d</item>
+    </plurals>
+    <plurals name="widget_countdown_day">
+        <item quantity="other">%1$s zile</item>
+        <item quantity="one">%1$s zi</item>
+    </plurals>
+    <plurals name="widget_custom_unit_day">
+        <item quantity="other">%d zile</item>
+        <item quantity="one">%d zi</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_going_counts">
+        <item quantity="other">%d evenimente în curs</item>
+        <item quantity="one">%d eveniment în curs</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_next_minutes">
+        <item quantity="other">Următorul eveniment în %d minute</item>
+        <item quantity="one">Următorul eveniment în %d minut</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_tomorrow_total">
+        <item quantity="other">%d evenimente mâine</item>
+        <item quantity="one">%d eveniment mâine</item>
+    </plurals>
+    <plurals name="widget_weekN">
+        <item quantity="other">Săptămâna %d</item>
+        <item quantity="one">Săptămâna %d</item>
     </plurals>
     <plurals name="work_days">
         <item quantity="other">%d zile lucrătoare</item>

@@ -117,6 +117,7 @@
     <string name="channel_name_timer">Temporizator</string>
     <string name="check_theme_app_install">Asigurați-vă că aplicația Teme este instalată.</string>
     <string name="check_voice_assist_app_version">Actualizați Mi AI la cea mai recentă versiune.</string>
+    <string name="cities_show_limit_desc">Nu se pot afișa mai multe ceasuri</string>
     <string name="city_time_contrast_desc">Atingeți pentru a compara ora din diverse orașe</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="click_to_cancel_alarm">Apăsați pentru a dezactiva</string>
@@ -451,6 +452,10 @@
     <string name="reach_upper_limit">Nu se mai pot adăuga temporizatoare</string>
     <string name="read_external_storage_permission_desc">Pentru setarea sunetelor de apel personalizate</string>
     <string name="read_internal_storage">Acces la stocare</string>
+    <string name="read_phone_state">Acces la informațiile despre dispozitiv</string>
+    <string name="read_phone_state_desc">Acces la starea apelului când sună alarma</string>
+    <string name="read_phone_state_desc_when_request">Pentru accesarea stării apelului pentru a întrerupe automat alarmele la primirea apelurilor</string>
+    <string name="remark_hint">Introduceți eticheta</string>
     <string name="remind_ringtone">Ton de apel</string>
     <string name="repeat_count">Ori</string>
     <string name="repeat_count_value_five">5</string>
@@ -495,6 +500,8 @@
     <string name="shortcut_new_alarm">Setați alarma</string>
     <string name="shortcut_start_timer">Porniți cronometrul</string>
     <string name="shortcut_stop_watch">Porniți temporizatorul</string>
+    <string name="show_life_post_desc">Rapoartele matinale nu vor fi afișate dacă dezactivați această funcție</string>
+    <string name="show_life_post_lable">Afișează rapoartele matinale</string>
     <string name="shut_down_keep_screen">Ecranul nu va fi menținut pornit</string>
     <string name="shutdown_alarm_alert_enable_summary">Alarmele la oprire vor suna cel puțin 10 minute după ce veți închide telefonul</string>
     <string name="shutdown_alarm_alert_enable_summary_new">Activați pentru a face alarmele setate să se oprească atunci când dispozitivul este oprit. Numai alarmele setate pentru cel puțin %d minute după oprirea dispozitivului se vor opri.</string>
@@ -507,6 +514,7 @@
     <string name="sleep_analysis">Statistici</string>
     <string name="sleep_analysis_chart_date_format">dd.MM</string>
     <string name="sleep_date_provider_text">Date despre somn furnizate de către Sănătate Xiaomi</string>
+    <string name="sleep_date_provider_text_new">Date despre somn furnizate de către Mi Fitness</string>
     <string name="sleep_duration">"Durata somnului: "</string>
     <string name="sleep_duration_avg_text_diff">Durata medie a somnului (%1$s-%2$s)</string>
     <string name="sleep_duration_desc">Ați dormit %1$s %2$s</string>
@@ -522,6 +530,7 @@
     <string name="sleep_record">Monitorizați somnul</string>
     <string name="sleep_record_desc">Activați pentru a începe să înregistrați date despre somn</string>
     <string name="sleep_record_desc_detailed">Funcția de monitorizare a somnului este furnizată de către Sănătate Xiaomi. Odată activată, aplicația Sănătate Xiaomi înregistrează în mod automat somnul bazat pe modul de utilizare a telefonului, starea activităților, dar și pe orele setate pentru culcare și trezire și vă arată statistici sub formă de grafice. Pentru a vă monitoriza somnul mai precis, permiteți aplicației Sănătate Xiaomi să pornească în mod automat. Toate datele asociate vor fi stocate local pe telefon, ceea ce vă permite să le gestionați cu ușurință.</string>
+    <string name="sleep_record_desc_detailed_new">Monitorizarea somnului este oferită de caracteristica Mi Fitness Sleep. Dacă activați această funcție, Mi Fitness va colecta și afișa automat date despre somnul dvs., pe baza utilizării telefonului, a activității și a orei de culcare și a orei de trezire pe care le-ați setat. Pentru a urmări somnul mai precis, permiteți Mi Fitness să pornească automat.</string>
     <string name="sleep_record_no_data">Statisticile dvs vor apărea aici după ce aplicația Sănătate Xiaomi analizează suficiente date</string>
     <string name="sleep_remind">Memento oră de culcare</string>
     <string name="sleep_time">Ați adormit la</string>
@@ -653,6 +662,7 @@
     <string name="timer_alert_type_beach">Plajă</string>
     <string name="timer_alert_type_forest">Pădure</string>
     <string name="timer_alert_type_mute">Implicit</string>
+    <string name="timer_alert_type_no">Niciunul</string>
     <string name="timer_alert_type_rain">Burniță</string>
     <string name="timer_alert_type_spring_rain">Ploaie de vară</string>
     <string name="timer_alert_type_stove_fire">Căldură de cuptor</string>
@@ -664,6 +674,9 @@
     <string name="timer_continue">Continuaţi</string>
     <string name="timer_continue_timer">Reporniți temporizatorul</string>
     <string name="timer_created">Temporizator creat cu succes</string>
+    <string name="timer_desc_use_brush_teeth">Periați dinții</string>
+    <string name="timer_desc_use_facial_mask">Mască facială</string>
+    <string name="timer_desc_use_sleep">Pui de somn</string>
     <string name="timer_end_time">Temporizatorul se va opri la %s</string>
     <string name="timer_end_time_format">HH:mm dd MMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>
@@ -672,6 +685,7 @@
     <string name="timer_is_paused">Temporizatorul este oprit</string>
     <string name="timer_item_delete">Ștergeți</string>
     <string name="timer_item_duration_display">%1$d min și %2$d sec</string>
+    <string name="timer_item_edit">Editați</string>
     <string name="timer_item_label_hint">Nume temporizator</string>
     <string name="timer_item_picker_hour">O</string>
     <string name="timer_item_picker_minute">M</string>
@@ -702,6 +716,8 @@
     <string name="upcoming_alarm_hint">Puteți opri această alarmă acum</string>
     <string name="update_health_app">Actualizați Sănătate Xiaomi</string>
     <string name="update_health_app_desc">Funcția de monitorizare a somnului este furnizată de către Sănătate Xiaomi. Actualizați aplicația Sănătate Xiaomi la cea mai recentă versiune pentru a accesa caracteristicile corelate.</string>
+    <string name="update_health_app_desc_new">Funcția de monitorizare a somnului este oferită de Mi Fitness. Actualizați Mi Fitness la cea mai recentă versiune pentru a accesa funcțiile conexe.</string>
+    <string name="update_health_app_new">Actualizați Mi Fitness</string>
     <string name="update_it">Actualizați</string>
     <string name="update_notification_info">Se actualizează datele în fundal…</string>
     <string name="usage_start">Începeți</string>
@@ -740,6 +756,7 @@
     <string name="worldclock_search_city">Selectați orașul</string>
     <string name="worldclock_second_time">Ora în %s</string>
     <string name="worldclock_second_time_desc">"%s: "</string>
+    <string name="worldclock_second_time_new">%s</string>
     <string name="worldclock_title">Ceas</string>
     <string name="worldclock_world_time">Fusuri orare</string>
     <string name="worldcolock_date_display_prefix">Data curentă: </string>

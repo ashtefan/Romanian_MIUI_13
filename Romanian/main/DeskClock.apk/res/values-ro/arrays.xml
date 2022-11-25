@@ -644,6 +644,11 @@
         <item>Surinam</item>
         <item>Ecuador</item>
     </string-array>
+    <string-array name="clock_bg_setting_entries">
+        <item>Alb</item>
+        <item>Negru</item>
+        <item>Auto</item>
+    </string-array>
     <string-array name="days_of_week">
         <item>Dum</item>
         <item>Lun</item>

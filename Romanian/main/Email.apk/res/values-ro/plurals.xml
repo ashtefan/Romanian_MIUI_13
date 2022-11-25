@@ -70,8 +70,8 @@
         <item quantity="one">Dosar modificat.</item>
     </plurals>
     <plurals name="conversation_msg_header_count">
-        <item quantity="other">+ %1$d persoane</item>
-        <item quantity="one">+ %1$d persoană</item>
+        <item quantity="other">+ %1$d alte persoane</item>
+        <item quantity="one">+ %1$d altă persoană</item>
     </plurals>
     <plurals name="conversation_muted">
         <item quantity="other">&lt;b>%1$d&lt;/b> ignorate</item>
@@ -109,9 +109,9 @@
         <item quantity="other">Schițe</item>
         <item quantity="one">Schiță</item>
     </plurals>
-    <plurals name="empty_folder_dialog_message">
-        <item quantity="other">%1$d mesaje vor fi șterse definitiv.</item>
-        <item quantity="one">%1$d mesaj va fi șters definitiv.</item>
+    <plurals name="email_filter_rule_max_tips">
+        <item quantity="other">Puteți adăuga maxim %1$d condiții</item>
+        <item quantity="one">Puteți adăuga maxim %1$d condiție</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Cu o jumătate de oră în urmă</item>

@@ -8,7 +8,7 @@
         <item>La fiecare 12 ore</item>
     </string-array>
     <string-array name="additional_cal_dialog_labels">
-        <item>None</item>
+        <item>Niciunul</item>
         <item>Hijri Samvat</item>
         <item>Shaka Samvat</item>
         <item>Vikrami Samvat</item>
@@ -138,6 +138,20 @@
         <item>Doar am aruncat o privire</item>
         <item>"Nu îți spun"</item>
     </string-array>
+    <string-array name="english_complete_months">
+        <item>Ianuarie</item>
+        <item>Februarie</item>
+        <item>Martie</item>
+        <item>Aprilie</item>
+        <item>Mai</item>
+        <item>Iunie</item>
+        <item>Iulie</item>
+        <item>August</item>
+        <item>Septembrie</item>
+        <item>Octombrie</item>
+        <item>Noiembrie</item>
+        <item>Decembrie</item>
+    </string-array>
     <string-array name="fortune_random_birthday">
         <item>01.01.1992</item>
         <item>04.02.2013</item>
@@ -155,6 +169,12 @@
         <item>gemeni</item>
         <item>Gemeni</item>
         <item>21.05 - 21.06</item>
+    </string-array>
+    <string-array name="global_criket_match">
+        <item>Internațional</item>
+        <item>IPL</item>
+        <item>Domestic</item>
+        <item>Ligi T20</item>
     </string-array>
     <string-array name="la_liga">
         <item>3</item>
@@ -177,6 +197,15 @@
     <string-array name="open_alarm_repeating_labels">
         <item>Doar data aceasta</item>
         <item>Setați memento-ul repetitiv</item>
+    </string-array>
+    <string-array name="panchang_weeks">
+        <item>Duminică</item>
+        <item>Luni</item>
+        <item>Marți</item>
+        <item>Miercuri</item>
+        <item>Joi</item>
+        <item>Vineri</item>
+        <item>Sâmbătă</item>
     </string-array>
     <string-array name="pisces_info">
         <item>pești</item>

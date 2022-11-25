@@ -33,7 +33,7 @@
     <string name="actionbar_button_up_description">Înapoi</string>
     <string name="afternoon">După amiază</string>
     <string name="airplane_can_not_share">"Nu se poate utiliza Bluetooth-ul pentru partajare în modul Avion"</string>
-    <string name="airplane_error_msg">"Nu puteţi utiliza Bluetooth-ul în modul Avion."</string>
+    <string name="airplane_error_msg">Nu puteţi utiliza Bluetooth-ul în modul Avion.</string>
     <string name="airplane_error_title">Mod Avion</string>
     <string name="am">AM</string>
     <string name="app_name">Partajare prin Bluetooth</string>
@@ -286,11 +286,11 @@
     <string name="pbap_notification_group">Partajare contacte prin Bluetooth</string>
     <string name="pbap_session_key_dialog_header">Cheie de sesiune Bluetooth solicitată</string>
     <string name="pbap_session_key_dialog_title">Introduceţi cheia de sesiune pentru %1$s</string>
-    <string name="permdesc_bluetoothAvrcpDataManager">Permite aplicației să acceseze gestionarea BluetoothAvrcpData și să o folosească pentru afișarea pe UI.</string>
+    <string name="permdesc_bluetoothAcceptlist">Permite aplicației să accepte temporar listarea unui dispozitiv Bluetooth, permițând dispozitivului respectiv să trimită fișiere către acest dispozitiv fără confirmarea utilizatorului.</string>
     <string name="permdesc_bluetoothShareManager">Permite aplicaţiilor să acceseze managerul Distribuire prin Bluetooth şi să-l utilizeze la transferul fişierelor.</string>
     <string name="permdesc_bluetoothWhitelist">Permite aplicaţiei să treacă temporar pe lista albă un dispozitiv Bluetooth, permiţându-i să trimită fişiere la acest dispozitiv fără confirmare din partea utilizatorului.</string>
     <string name="permdesc_handoverStatus">Permite primirea informațiilor despre preluarea transferului de la Bluetooth.</string>
-    <string name="permlab_bluetoothAvrcpDataManager">Acces la metadatele avrcp.</string>
+    <string name="permlab_bluetoothAcceptlist">Acceptați accesul la dispozitiv Bluetooth.</string>
     <string name="permlab_bluetoothShareManager">Accesaţi managerul de descărcare.</string>
     <string name="permlab_bluetoothWhitelist">Acces la dispozitivele Bluetooth din lista albă.</string>
     <string name="permlab_handoverStatus">Primire informații despre preluarea transferului prin BT.</string>

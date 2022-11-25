@@ -173,7 +173,7 @@
     <string name="current_connection_invalid">Așteptați ca telefonul să se conecteze la rețea</string>
     <string name="current_data_invalid">A apărut o eroare</string>
     <string name="current_network_invalid">Conectați-vă la rețea mai întâi</string>
-    <string name="current_no_more_pictures">Nu mai există fotografii</string>
+    <string name="current_no_more_pictures">Asta e tot deocamdată</string>
     <string name="current_permission_network_denied">Permiteți conectarea la rețea a Caruselului de imagini de fundal</string>
     <string name="custom_wallpaper_des">Activați Caruselul de imagini de fundal, adăugați fotografiile dvs. și imagini online pentru a le combina să apară în derulare în mod automat.</string>
     <string name="cw_add">Adăugați</string>
@@ -236,8 +236,10 @@
     <string name="detail_no_more_recomm">Niciun alt element de afișat.</string>
     <string name="detail_no_net">"Nu s-a putut conecta la rețea."</string>
     <string name="detail_outer_menu_icon">Meniu</string>
+    <string name="detail_recomm_excellent">Înrudite</string>
     <string name="detail_recomm_fail">"Nu s-au putut obține recomandări"</string>
     <string name="detail_recomm_load_tip">Se caută în funcție de preferințele dvs…</string>
+    <string name="detail_recomm_personal">Recomandate</string>
     <string name="detail_share_moment">Moments</string>
     <string name="detail_share_qq">QQ</string>
     <string name="detail_share_qzone">Qzone</string>
@@ -464,6 +466,9 @@ Acest lucru poate genera taxe suplimentare."</string>
     <string name="lockscreen_magazine_summary">Selectați categoriile</string>
     <string name="lockscreen_magazine_system_title">Implicit</string>
     <string name="lockscreen_magazine_title">Carusel de imagini de fundal</string>
+    <string name="login_app">Conectați-vă</string>
+    <string name="login_app_cancel">Renunțați</string>
+    <string name="login_app_confirm">Conectați-vă</string>
     <string name="login_by_local_phone_long_text">Conectați-vă acum</string>
     <string name="login_by_local_phone_short_text">Conectați-vă</string>
     <string name="login_other">Alt cont Mi</string>
@@ -479,6 +484,7 @@ Acest lucru poate genera taxe suplimentare."</string>
     <string name="look_str">Populare</string>
     <string name="main_fragment_title_discover">Descoperiți</string>
     <string name="main_fragment_title_home">Recomandări</string>
+    <string name="main_fragment_title_home_excellent">Înrudite</string>
     <string name="main_fragment_title_search">Top</string>
     <string name="main_fragment_title_user">Setări</string>
     <string name="manage">Gestionați</string>
@@ -631,6 +637,7 @@ mm"</string>
     <string name="no_phone">Niciun număr de telefon</string>
     <string name="no_pic_data">Nu s-au găsit imaginile</string>
     <string name="noon">Amiază</string>
+    <string name="not_agree_summary">Acceptați mai întâi termenii și condițiile noastre</string>
     <string name="not_allowed">Nepermisă</string>
     <string name="not_cancel_button">Nu</string>
     <string name="not_revoke_button">Renunțați</string>
@@ -775,6 +782,12 @@ mm"</string>
     <string name="privacy_update_summary1">Politica de Confidențialitate a Caruselului de imagini de fundal a fost actualizată:</string>
     <string name="privacy_update_summary2">"Citiți și acceptați noua versiune a &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Politicii de Confidențialitate&lt;/font>&lt;/a> înainte de a continua."</string>
     <string name="privacy_update_summary3">"Nu veți mai putea utiliza Caruselul de imagini de fundal dacă nu acceptați noua versiune a &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Politicii de Confidențialitate&lt;/font>&lt;/a>. Acceptați Politica de Confidențialitate actualizată acum?"</string>
+    <string name="privacy_update_title1">Politica de confidențialitate actualizată</string>
+    <string name="privacy_update_title2">Atenție</string>
+    <string name="progressbar_title">Se caută probleme de securitate…</string>
+    <string name="protocal_dialog_cancel">Renunțați</string>
+    <string name="protocal_dialog_confirm">De acord</string>
+    <string name="protocal_dialog_title">Atenție</string>
     <string name="prv_end"><CDATA>Asta este tot deocamdată</CDATA></string>
     <string name="prv_loading"><CDATA>Doar o secundă…</CDATA></string>
     <string name="prv_nodata"><CDATA>Nu există date</CDATA></string>

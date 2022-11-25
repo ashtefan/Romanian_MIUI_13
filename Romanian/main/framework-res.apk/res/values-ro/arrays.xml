@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <array name="config_backGestureInsetScales">
-        <item>0,75</item>
+        <item>0,6</item>
         <item>1,0</item>
         <item>1,33</item>
-        <item>1,66</item>
     </array>
+    <string-array name="config_system_condition_providers">
+        <item>numărătoare inversă</item>
+        <item>program</item>
+        <item>eveniment</item>
+    </string-array>
     <string-array name="emailAddressTypes">
         <item>Domiciliu</item>
         <item>Serviciu</item>
@@ -89,11 +93,7 @@
         <item>Încearcă să activeze Wi-Fi-ul</item>
         <item>Încearcă să activeze BT</item>
     </string-array>   
-    <string-array name="config_system_condition_providers">
-        <item>numărătoare inversă</item>
-        <item>program</item>
-        <item>eveniment</item>
-    </string-array>
+
     
     <string-array name="wfcOperatorErrorAlertMessages">
         <item>Pentru a apela și a trimite mesaje prin Wi-Fi, cereți mai întâi operatorului să configureze acest serviciu. Apoi activați apelarea prin Wi-Fi din nou din Setări. (Cod de eroare: %1$s)</item>

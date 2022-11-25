@@ -39,6 +39,7 @@
         <item>lună</item>
         <item>fotografie de grup</item>
         <item>statuie</item>
+        <item>id_card</item>
     </string-array>
     <string-array name="live_filter_directory_name">
         <item></item>

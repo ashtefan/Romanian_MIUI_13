@@ -91,6 +91,7 @@
     <string name="alert_title">Notificările calendarului</string>
     <string name="all_events">Toate evenimentele</string>
     <string name="all_records">Toate înregistrările</string>
+    <string name="already_num">Timp de la %s</string>
     <string name="am">AM</string>
     <string name="anniversary_event_title">Aniversare: %1$s</string>
     <string name="anniversary_secondary_tag">Aniversare</string>
@@ -141,6 +142,7 @@
     <string name="card_detail_dialog_title">Vă abonați acum?</string>
     <string name="card_detail_hint">Conținutul va fi afișat în pagina principală și se va actualiza zilnic după ce vă veți abona</string>
     <string name="card_detail_title">Detalii</string>
+    <string name="card_manager_no_data">Încă nu există abonamente</string>
     <string name="card_title_change">Mai multe</string>
     <string name="cards_language_hint">Unele cartele pot fi indisponibile în limba selectată.</string>
     <string name="change">Modificați</string>
@@ -187,6 +189,7 @@
     <string name="copy">Copiați</string>
     <string name="copy_email">Copiaţi adresa de e-mail</string>
     <string name="copy_number">Copiaţi numărul de telefon</string>
+    <string name="count_down_date_view">Numărătoare inversă</string>
     <string name="countdown_event_title">Numărătoare inversă: %1$s</string>
     <string name="countdown_notify_before_3_day_title">Numărătoare inversă: %1$s în %2$d zile</string>
     <string name="countdown_notify_title">Numărătoare inversă: %1$s</string>
@@ -241,6 +244,7 @@
     <string name="date_picker_lunar">Calendarul Chinez Tradițional</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="date_today">" (astăzi)"</string>
+    <string name="date_view">Data</string>
     <string name="day">Zi</string>
     <string name="day_view_new_event_hint">Eveniment nou</string>
     <string name="default_reminder_later_time">Intervalul implicit pentru \"Amintește-mi mai târziu\"</string>
@@ -281,6 +285,7 @@
     <string name="edit_event_label">Detalii</string>
     <string name="edit_event_no_reminder_value">Nu-mi aminti</string>
     <string name="edit_event_reminder_3_days_before">Amintește-mi și cu %d zile înainte</string>
+    <string name="edit_event_reminder_3_days_before_time">Amintește-mi și cu %d zile înainte</string>
     <string name="edit_event_reminder_summary">În acea zi la %1$s</string>
     <string name="edit_event_reminder_summary_3_days_before">Cu %2$d zile înainte și în acea zi la %1$s</string>
     <string name="edit_event_reminder_summary_3_days_before_today">Cu %1$d zile înainte și la %1$s în data stabilită</string>
@@ -510,6 +515,7 @@
     <string name="import_help">Ajutor</string>
     <string name="import_text">Importați</string>
     <string name="imported">Importată</string>
+    <string name="in_progress">În curs</string>
     <string name="insert_event_dialog_btn_negative">Nu</string>
     <string name="insert_event_dialog_btn_positive">Da</string>
     <string name="insert_event_dialog_message">Adăugați acest eveniment în calendar?</string>
@@ -592,6 +598,7 @@
     <string name="mark_end">Ciclul s-a încheiat</string>
     <string name="mark_start">Start</string>
   <string name="match_ed">S-a încheiat</string>
+    <string name="match_finished">Nu se pot seta mementouri pentru jocurile în desfășurare și pentru cele terminate</string>
   <string name="match_not_started">nu a început</string>
     <string name="match_select_activity_label">Ligi</string>
     <string name="match_zodiac">Potriviți zodiacul</string>
@@ -784,6 +791,7 @@
     <string name="mtrl_picker_toggle_to_year_selection">Atingeți pentru a comuta la selectarea unui an</string>
     <string name="mtrl_slider_range_content_description">De la %1$s la %2$s</string>
     <string name="name_title_menstruation_today_end">Se estimează că ciclul se va încheia astăzi</string>
+    <string name="near_agenda_view">Evenimente următoare</string>
     <string name="network_not_available">"Nu se poate conecta la rețea"</string>
     <string name="never">Niciodată</string>
     <string name="new_event_description">Nou</string>
@@ -1112,8 +1120,10 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="solar_term_winter_solstice">Solstițiul de iarnă</string>
     <string name="solar_to_lunar"/>
     <string name="solar_to_lunar_chinese_calendar">Din Gregorian în Chinezesc</string>
-    <string name="start_date_calculate">Calculare</string>
+    <string name="spec_agenda_view">Evenimente speciale</string>
+    <string name="start_date_calculate">Calculați</string>
     <string name="stats_title">Statistici</string>
+    <string name="still_num">Timp până la %s</string>
     <string name="storage_permission_denied">Permiteți accesul la stocare mai întâi</string>
     <string name="subscribe_card">Abonați-vă acum</string>
     <string name="subscribe_card_success">Abonare cu succes! Verificați detaliile în pagina principală</string>
@@ -1152,6 +1162,7 @@ Puteți adăuga, de asemenea, memento-uri pentru a nu rata nimic important."</st
     <string name="talk_back_read_date">%1$s (%2$s conform calendarului lunar).</string>
     <string name="talk_back_setting">Setări</string>
     <string name="talk_back_tab_switch">Comutați între vizualizări</string>
+    <string name="talk_back_tab_switch_language">Selectați limba Calendarului</string>
     <string name="talkback_bengali">Bengali</string>
     <string name="talkback_english">Engleză</string>
     <string name="talkback_gujarati">Gujarati</string>
@@ -1243,11 +1254,17 @@ Puteți adăuga, de asemenea, memento-uri pentru a nu rata nimic important."</st
     <string name="time_zone">Fus orar</string>
     <string name="timezone_label">Fus orar</string>
     <string name="tip_input_calendar_link">Introduceți URL-ul</string>
+    <string name="title_click_record_menstruation">Înregistrați un ciclu</string>
     <string name="title_confirm_close_chinese_calendar">Se dezactivează calendarul Chinezesc</string>
     <string name="title_import_by_caldav">Importați contul CalDAV</string>
     <string name="title_import_by_email">Importați prin e-mail</string>
     <string name="title_import_by_local">Importați fișierele calendar</string>
     <string name="title_import_by_url">Importați prin URL</string>
+    <string name="title_menstruation_predict_start_today">Ciclul va începe probabil astăzi</string>
+    <string name="title_menstruation_predict_start_tomorrow">Ciclul va începe probabil astăzi</string>
+    <string name="title_no_record_menstruation">Nu v-ați înregistrat încă menstruația.</string>
+    <string name="title_p_tracker">Menstruație</string>
+    <string name="title_start_use_menstruation_assistant">Înregistrați-vă ciclul menstrual</string>
     <string name="toast_block_by_other_work">Așteptați până când sarcina curentă este finalizată și încercați din nou</string>
     <string name="toast_cannot_access_server">Nu se poate accesa serverul</string>
     <string name="toast_create_account_failed">Nu s-a putut crea contul</string>
@@ -1262,6 +1279,7 @@ Puteți adăuga, de asemenea, memento-uri pentru a nu rata nimic important."</st
     <string name="today">Azi</string>
     <string name="today_at_time_fmt">Astăzi la %s</string>
     <string name="today_icon_voice_contentdescription">Înapoi la ziua de astăzi</string>
+    <string name="today_no_event">Niciun eveniment pentru azi.</string>
     <string name="today_no_events">Niciun eveniment</string>
     <string name="todays_panchang_title">Panchang de astăzi</string>
     <string name="todo_audio_event">"[Sarcină vocală] "</string>
@@ -1313,6 +1331,7 @@ Puteți adăuga, de asemenea, memento-uri pentru a nu rata nimic important."</st
     <string name="travel_train_station">Gară</string>
     <string name="travel_time_range_hours_mins">%1$s %2$s</string>
     <string name="travel_train_number_text">Tren</string>
+    <string name="travel_train_station">Gară</string>
     <string name="trust_certificate_accept">Acceptați</string>
     <string name="trust_certificate_fingerprint_verified">Am verificat manual întreaga amprentă.</string>
     <string name="trust_certificate_fingerprints">Amprente</string>
@@ -1365,7 +1384,13 @@ Puteți adăuga, de asemenea, memento-uri pentru a nu rata nimic important."</st
     <string name="widget_events">Următorul eveniment</string>
     <string name="widget_get_weather_info">Obțineți informații despre starea vremii</string>
     <string name="widget_no_events">Niciun eveniment</string>
+    <string name="widget_normal_agenda_tip_empty">Nu există evenimente pentru astăzi.</string>
+    <string name="widget_normal_agenda_today_done">Toate evenimentele de azi sunt finalizate.</string>
+    <string name="widget_normal_more_event">Mai multe evenimente</string>
+    <string name="widget_normal_new_event">Adăugați un eveniment</string>
+    <string name="widget_normal_weekN">Săptămâma %d</string>
     <string name="widget_select_style">Selectaţi un stil</string>
+    <string name="widget_spec_agenda_birth_today">Aztăzi</string>
     <string name="work_day_default_banner_title">Să aveți o zi productivă la servici!</string>
     <string name="work_day_indication">: (</string>
   <string name="wuxing">Cinci</string>

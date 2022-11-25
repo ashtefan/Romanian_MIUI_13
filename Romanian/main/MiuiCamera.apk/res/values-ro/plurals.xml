@@ -49,6 +49,14 @@
         <item quantity="other">Puteți crea maxim %d clone o dată.</item>
         <item quantity="one">Puteți crea maxim %d clonă o dată.</item>
     </plurals>
+    <plurals name="exit_camera_hint">
+        <item quantity="other">&lt;Data>"Nu se poate conecta la cameră.&lt;br>Această aplicație va fi închisă în &lt;font color=#FFCE16>&lt;b>%1$d secunde&lt;/b>&lt;/font>. După aceasta, așteptați un minut sau două și încercați din nou."&lt;/Data></item>
+        <item quantity="one">&lt;Data>"Nu se poate conecta la cameră.&lt;br>Această aplicație va fi închisă în &lt;font color=#FFCE16>&lt;b>%1$d secundă&lt;/b>&lt;/font>. După aceasta, așteptați un minut sau două și încercați din nou."&lt;/Data></item>
+    </plurals>
+    <plurals name="exit_thermal_hint">
+        <item quantity="other">&lt;Data>Acest dispozitiv este prea fierbinte acum.&lt;br>Aplicația va fi închisă în &lt;font color=#FFCE16>&lt;b>%1$d secunde&lt;/b>&lt;/font>. Progresul curent a fost salvat automat.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Acest dispozitiv este prea fierbinte acum.&lt;br>Aplicația va fi închisă în &lt;font color=#FFCE16>&lt;b>%1$d secundă&lt;/b>&lt;/font>. Progresul curent a fost salvat automat.&lt;/Data></item>
+    </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d minute</item>
         <item quantity="one">%1$d min</item>
@@ -87,6 +95,10 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">Cu %d minute în urmă</item>
         <item quantity="one">Cu un minut în urmă</item>
+    </plurals>
+    <plurals name="pad_ccc_temperature_warning_msg">
+        <item quantity="other">Dispozitivul dvs. este supraîncălzit. Camera se va închide în %d secunde. Fotografiile sau videoclipurile tale vor fi salvate automat.</item>
+        <item quantity="one">Dispozitivul dvs. este supraîncălzit. Camera se va închide în %d secundă. Fotografiile sau videoclipurile tale vor fi salvate automat.</item>
     </plurals>
     <plurals name="pref_camera_fastmotion_duration_unit">
         <item quantity="other">%1$s minute</item>

@@ -64,7 +64,7 @@
         <item>Butonul Înapoi în stânga, butonul Meniu în dreapta</item>
     </string-array>
     <string-array name="screen_key_press_action">
-        <item>Afișați bara cu aplicații recente</item>
-        <item>Afișați meniul</item>
+        <item>Afișează bara cu aplicații recente</item>
+        <item>Afișează meniul</item>
     </string-array>
 </resources>

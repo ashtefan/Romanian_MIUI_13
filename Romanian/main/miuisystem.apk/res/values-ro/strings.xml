@@ -117,7 +117,8 @@
     <string name="fmt_weekday_short">E</string>
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
-    <string name="fmt_weekday_timezone">zW</string>    <string name="frenchchic">Franțuzoaică</string>
+    <string name="fmt_weekday_timezone">zW</string>
+    <string name="frenchchic">Franțuzoaică</string>
     <string name="fresh">Proaspăt</string>
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
@@ -152,6 +153,7 @@
     <string name="miui_clock_city_name_local">Local</string>
     <string name="miui_clock_city_name_second">Ceas secundar</string>
     <string name="miui_device_name">Android</string>
+    <string name="miui_digital_clock_dot">:</string>
     <string name="miui_lock_screen_date">EEEE dd.MM</string>
     <string name="miui_lock_screen_date_12">EEEE dd.MM</string>
     <string name="miui_lock_screen_date_two_lines">"EEEE

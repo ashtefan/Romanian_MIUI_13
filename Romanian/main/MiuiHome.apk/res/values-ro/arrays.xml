@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="animation_rate_entries">
+        <item>Relaxat</item>
+        <item>Balansat</item>
+        <item>Rapid</item>
+    </string-array>
     <string-array name="cell_layout_size_entries">
         <item>4x4</item>
         <item>4x5</item>
@@ -60,9 +65,6 @@
         <item>Verde</item>
         <item>Violet</item>
         <item>Maro</item>
-    </string-array>
-    <string-array name="quality_business_devices">
-        <item>litiu</item>
     </string-array>
     <string-array name="transformation_entries">
         <item>Glisare cu salt</item>

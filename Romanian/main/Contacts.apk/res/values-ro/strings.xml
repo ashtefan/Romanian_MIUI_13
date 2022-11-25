@@ -212,7 +212,8 @@
     <string name="bh_number_info">%1$s (%2$s)</string>
     <string name="bh_number_not_supported">Nu se poate suplimenta soldul acestui număr de telefon</string>
     <string name="bh_online_service">Suport online</string>
-    <string name="bh_open_traffic_service">Activați planul operatorului</string>
+    <string name="bh_open_carrier_services_short">Servicii Operator Mi</string>
+    <string name="bh_open_carrier_services_short_reason">Activați serviciile de operator Mi pentru a putea folosi această funcție.</string>
     <string name="bh_option_agree_dec">Permiteți Serviciilor de Operator Mi să se conecteze la internet și acordați permisiunile solicitate înainte de a utiliza aplicația.</string>
     <string name="bh_order_detail">Detaliile comenzii</string>
     <string name="bh_order_id">ID-ul comenzii</string>
@@ -246,6 +247,7 @@
     <string name="bh_please_login">Conectați-vă</string>
     <string name="bh_please_set_pkg">Setați planul pentru a putea verifica soldul.</string>
     <string name="bh_privacy_policy">Politica de Confidențialitate</string>
+    <string name="bh_qualification_and_certificate">Licențe și certificare</string>
     <string name="bh_receive_zero_card">SIM gratuit</string>
     <string name="bh_recharge">Achiziționați din nou</string>
     <string name="bh_recharge_money">Suma</string>
@@ -425,12 +427,12 @@
     <string name="calllog_record_none_toast">Nu există înregistrări de apeluri de afișat</string>
     <string name="calllog_record_searching_toast">Se caută înregistrări ale apelurilor…</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d min și %2$d sec</string>
-    <string name="callrecordview_item_op_time_missed">Nu a răspuns</string>
+    <string name="callrecordview_item_op_time_missed">Nu s-a conectat</string>
     <string name="callrecordview_item_op_time_only_minutes">%d min</string>
     <string name="callrecordview_item_op_time_only_seconds">%d sec</string>
     <string name="callrecordview_item_op_time_rejected">Respins</string>
-    <string name="callrecordview_item_op_time_short_incoming">"Durată: "</string>
-    <string name="callrecordview_item_op_time_short_outgoing">"Durată: "</string>
+    <string name="callrecordview_item_op_time_short_incoming">"Primit: "</string>
+    <string name="callrecordview_item_op_time_short_outgoing">"Efectuat: "</string>
     <string name="callrecordview_item_op_video">Video</string>
     <string name="callrecordview_menu_add_call_note">Adăugaţi o notă la apel</string>
     <string name="callrecordview_menu_aiphone">Apeluri AI</string>
@@ -499,7 +501,7 @@
     <string name="click_close">Atingeţi pentru a închide</string>
     <string name="clip_dialog_title">Apelaţi numărul copiat?</string>
     <string name="close">Închideți</string>
-    <string name="close_dial_pad">Închideţi tastatura numerică</string>
+    <string name="close_dial_pad_description">Închideți tastatura numerică</string>
     <string name="cloud_antispam_mark">Marcaţi ca spam</string>
     <string name="cloud_antispam_marked">Marcat</string>
     <string name="cloud_antispam_title">Identificarea numerelor necunoscute</string>
@@ -512,6 +514,7 @@
     <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
+    <string name="comma">Virgulă</string>
     <string name="composer_failed_to_get_database_infomation">Nu s-au putut obţine informaţii din baza de date.</string>
     <string name="composer_has_no_exportable_contact">Nu există contacte în agendă ce pot fi exportate. Dacă aveţi contacte în agenda telefonului, este posibil ca exportul acestora de pe telefon să fie interzis de unii furnizori de date.</string>
     <string name="composer_not_initialized">Compozitorul vCard nu a pornit în mod corespunzător.</string>
@@ -698,8 +701,8 @@ Apăsând butonul \"De acord\" de mai jos, acceptați termenii și condițiile i
     <string name="description_image_button_plus">Plus</string>
     <string name="description_image_button_pound">diez</string>
     <string name="description_image_button_seven">şapte</string>
-    <string name="description_image_button_sim1_dial">Apelare prin SIM 1 %s</string>
-    <string name="description_image_button_sim2_dial">Apelare prin SIM 2 %s</string>
+    <string name="description_image_button_sim1_named_dial">Apelare prin SIM 1 %s</string>
+    <string name="description_image_button_sim2_named_dial">Apelare prin SIM 2 %s</string>
     <string name="description_image_button_six">şase</string>
     <string name="description_image_button_star">steluţă</string>
     <string name="description_image_button_three">trei</string>
@@ -815,6 +818,7 @@ Pentru a evita solicitările repetate, vom actualiza soldul o dată pe zi."</str
     <string name="empty" />
     <string name="emptyGroup">Niciun contact în acest grup</string>
     <string name="empty_divider_title" />
+    <string name="ensure">OK</string>
     <string name="enter_contact_name">Introduceţi numele contactului</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
@@ -1011,7 +1015,7 @@ Motivul: \"%s\""</string>
     <string name="invisible_mode_unable_connect_camera">Dezactivați modul Incognito pentru a putea folosi camera. Dezactivați acum?</string>
     <string name="invisible_mode_unable_get_location">Dezactivați modul Incognito pentru a putea utiliza serviciile de localizare și pentru a importa contacte de pe alte dispozitive prin Bluetooth. Dezactivați acum?</string>
     <string name="item_offical">Oficial</string>
-    <string name="keep_local">Nu se sincronizează</string>
+    <string name="keep_local">Nu sincroniza</string>
     <string name="keep_local_btn">Utilizaţi stocarea internă a telefonului</string>
     <string name="label_custom_type">Personalizat</string>
     <string name="label_no_duplicate_contacts">Niciun contact duplicat</string>
@@ -1266,6 +1270,12 @@ Motivul: \"%s\""</string>
     <string name="name_phonetic_middle">Numele mijlociu fonetic</string>
     <string name="name_prefix">Prefixul numelui</string>
     <string name="name_suffix">Sufixul numelui</string>
+    <string name="new_saf_permission_dialog_content">"Permisiunile pentru persoanele de contact au fost actualizate. Permiteți aplicației Contacte să acceseze înregistrările apelurilor.
+
+Cum se acordă permisiunea
+Atingeți \"%1$s\" și apoi selectați \"%2$s\"."</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">Următorul</string>
+    <string name="new_saf_permission_dialog_title"><b>Permisiuni necesare</b></string>
     <string name="next">Înainte</string>
     <string name="next_birthday">Următoarea zi de naştere: %s</string>
     <string name="nfc_vcard_file_name">Contact primit prin NFC</string>
@@ -1500,6 +1510,7 @@ Pentru a adăuga un contact în lista de favorite:
     <string name="privacy_password_title2">Utilizați parola de protecție a confidențialității</string>
     <string name="privacy_password_title3">Actualizați-vă parola</string>
     <string name="privacy_password_title4">Parolă actualizată</string>
+    <string name="privacy_settings_blue_scan_connect">Conectați-vă la dispozitivele din apropiere</string>
     <string name="privacy_settings_call_phone">Realizați apeluri</string>
     <string name="privacy_settings_call_phone_description">Pentru realizarea apelurilor în aplicații terțe</string>
     <string name="privacy_settings_call_phone_description_for_pad">Pentru realizarea apelurilor în aplicații terțe</string>
@@ -1686,7 +1697,7 @@ Pentru a începe, apăsaţi pictograma Îmbinare din partea de jos a ecranului.<
     <string name="share_visible_contacts">Distribuiţi contactele</string>
     <string name="shortcutActivityTitle">Alegeţi comanda rapidă</string>
     <string name="shortcutContact">Contact</string>
-    <string name="shortcutDialContact">Apel direct</string>
+    <string name="shortcutDialContact">"Apel direct "</string>
     <string name="shortcutMessageContact">Mesaj direct</string>
     <string name="shortcut_new_contact_label">Contact nou</string>
     <string name="shortcut_scan_label">Scanați cartea de vizită</string>
@@ -1871,6 +1882,7 @@ Pentru a începe, apăsaţi pictograma Îmbinare din partea de jos a ecranului.<
     <string name="theme_dialog_confirm_button">Am înțeles</string>
     <string name="theme_dialog_confirm_content">Această versiune a aplicației Contacte nu suportă tema care este aplicată în prezent.</string>
     <string name="theme_dialog_confirm_title">Nu s-a putut aplica tema</string>
+    <string name="this_folder">Utilizați acest dosar</string>
     <string name="three_letter">DEF</string>
     <string name="thursday">Joi</string>
     <string name="thursday_short">Joi</string>
@@ -1894,6 +1906,7 @@ Pentru a începe, apăsaţi pictograma Îmbinare din partea de jos a ecranului.<
     <string name="toast_for_failed_saving_nickname">Nu s-a putut salva pseudonimul</string>
     <string name="toast_for_saving_nickname">Pseudonim salvat</string>
     <string name="toast_join_with_empty_contact">Introduceţi numele contactului înainte de a-l îmbina cu alt contact</string>
+    <string name="toast_not_show_blue_scan_connect_perm_req">Permiteți acestei funcții să se conecteze la dispozitivele din apropiere prin Bluetooth pentru a putea importa contacte de pe alte dispozitive.</string>
     <string name="toast_not_show_camera_perm_req">Pentru a putea folosi camera pentru a face fotografii de profil, permiteți mai întâi acestei aplicații să facă fotografii și să înregistreze videoclipuri.</string>
     <string name="toast_not_show_location_perm_req">Pentru a putea importa contacte de pe alte dispozitive prin Bluetooth, permiteți mai întâi acestei aplicații să vă acceseze locația.</string>
     <string name="toast_not_show_read_calllogs_perm_req">Pentru a putea vedea istoricul de apelare, permiteți mai întâi acestei aplicații să acceseze istoricul apelurilor.</string>
@@ -1926,6 +1939,7 @@ Pentru a începe, apăsaţi pictograma Îmbinare din partea de jos a ecranului.<
     <string name="unknown_contact_name">Contact necunoscut</string>
     <string name="unknown_details_add_to_contact">Existent</string>
     <string name="unknown_details_new_contact">Nou</string>
+    <string name="unshow_qr_code_in_narrow_screen_split">Nu se pot afișa coduri QR în timp ce utilizați modul Ecran scindat</string>
     <string name="update_sim_contact_photo_toast">"Nu s-au putut seta fotografiile pentru contactele SIM"</string>
     <string name="upgrade_in_progress">Se actualizează lista de contacte.</string>
     <string name="upgrade_out_of_memory">"Agenda este în proces de trecere la o versiune superioară.
