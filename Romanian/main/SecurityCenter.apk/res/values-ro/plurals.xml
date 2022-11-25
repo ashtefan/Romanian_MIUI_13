@@ -57,6 +57,18 @@
         <item quantity="other">S-a refuzat de %2$d ori la %1$s</item>
         <item quantity="one">S-a refuzat %2$d dată la %1$s</item>
     </plurals>
+    <plurals name="app_behavior_desc_duration_usage">
+        <item quantity="other">Permis de %3$d ori între %1$s și %2$s</item>
+        <item quantity="one">Permis de %3$d timp între %1$s și %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time">
+        <item quantity="other">Folosit timp de %1$d minute</item>
+        <item quantity="one">Folosit timp de %1$d minut</item>
+    </plurals>
+    <plurals name="app_behavior_desc_duration_usage_time_end">
+        <item quantity="other">Folosit timp de %1$d minute până la %2$s</item>
+        <item quantity="one">Folosit timp de %1$d minut până la %2$s</item>
+    </plurals>
     <plurals name="app_behavior_desc_virtual">
         <item quantity="other">S-au returnat %3$d mesaje goale între %1$s și %2$s</item>
         <item quantity="one">S-a returnat %3$d mesaj gol între %1$s și %2$s</item>
@@ -136,6 +148,14 @@
     <plurals name="applock_one_key_lock">
         <item quantity="other">%s aplicații vor fi protejate de Blocarea aplicațiilor</item>
         <item quantity="one">%s aplicație va fi protejată de Blocarea aplicațiilor</item>
+    </plurals>
+    <plurals name="behavior_widget_app_text">
+        <item quantity="other">%2$d aplicații inclusiv %1$s</item>
+        <item quantity="one">%2$d aplicație inclusiv %1$s</item>
+    </plurals>
+    <plurals name="behavior_widget_perm_counts">
+        <item quantity="other">%d ori</item>
+        <item quantity="one">%d dată</item>
     </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d aplicații se pot conecta la rețea în fundal</item>
@@ -249,6 +269,10 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="other">Dezinstalați %2$d jocuri (inclusiv %1$s)</item>
         <item quantity="one">Dezinstalați %2$d joc (inclusiv %1$s)</item>
     </plurals>
+    <plurals name="gb_dialog_record_way_ai_desc">
+        <item quantity="other">Înregistrați automat momentele cheie și generați videoclipuri cu momentele importante ale sesiunii. Puteți alege să le salvați definitiv după fiecare sesiune de joc. Videoclipurile nesalvate vor fi șterse automat după %1$d zile.</item>
+        <item quantity="one">Înregistrați automat momentele cheie și generați videoclipuri cu momentele importante ale sesiunii. Puteți alege să le salvați definitiv după fiecare sesiune de joc. Videoclipurile nesalvate vor fi șterse automat după %1$d zi.</item>
+    </plurals>
     <plurals name="gb_game_video_ai_record_finish_tips">
         <item quantity="other">S-au salvat %d înregistrări AI în Jocuri Turbo</item>
         <item quantity="one">S-a salvat %d înregistrare AI în Jocuri Turbo</item>
@@ -260,6 +284,14 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
     <plurals name="gb_signed_days_sum">
         <item quantity="other">Verificat %d zile la rând</item>
         <item quantity="one">Verificat %d dată</item>
+    </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d ore</item>
+        <item quantity="one">%d oră</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d minute</item>
+        <item quantity="one">%d minut</item>
     </plurals>
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Am înțeles (%ds)</item>
@@ -290,6 +322,18 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
     <plurals name="gb_voice_changer_user_tips_info">
         <item quantity="other">Obțineți o variantă gratuită de încercare pentru %d zile</item>
         <item quantity="one">Obțineți o variantă gratuită de încercare pentru %d zi</item>
+    </plurals>
+    <plurals name="gd_app_edit_desc_new">
+        <item quantity="other">Adăugați maxim %d aplicații. Apăsați și mențineți apăsat pentru a rearanja.</item>
+        <item quantity="one">Adăugați maxim %d aplicație. Apăsați și mențineți apăsat pentru a rearanja.</item>
+    </plurals>
+    <plurals name="gtb_brightness_dialog_message">
+        <item quantity="other">Această funcție reduce automat luminozitatea ecranului după %d minute de inactivitate pentru a economisi energie. Păstrați această funcție activată?</item>
+        <item quantity="one">Această funcție reduce automat luminozitatea ecranului după %d minut de inactivitate pentru a economisi energie. Păstrați această funcție activată?</item>
+    </plurals>
+    <plurals name="gtb_setting_item_summary_brightness">
+        <item quantity="other">Reduceți automat luminozitatea ecranului pentru a economisi energie după %d minute de inactivitate</item>
+        <item quantity="one">Reduceți automat luminozitatea ecranului pentru a economisi energie după %d minut de inactivitate</item>
     </plurals>
     <plurals name="gtb_spring_festival_colored_egg">
         <item quantity="other">Felicitări! Ați deblocat %s Ouă de Paști.</item>
@@ -738,6 +782,10 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
         <item quantity="other">%s aplicații au acces permanent</item>
         <item quantity="one">%s aplicație are acces permanent</item>
     </plurals>
+    <plurals name="privacy_permission_summary_allow">
+        <item quantity="other">Permis pentru %s aplicații</item>
+        <item quantity="one">Permis pentru %s aplicație</item>
+    </plurals>
     <plurals name="privacy_pop_times">
         <item quantity="other">%s ori</item>
         <item quantity="one">%s dată</item>
@@ -826,6 +874,18 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
         <item quantity="other">Au fost eliminați %d viruși</item>
         <item quantity="one">A fost eliminat %d virus</item>
     </plurals>
+    <plurals name="sim_lock_puk_dialog_message">
+        <item quantity="other">Mai aveți doar %d încercări de a verifica codul PUK-ului SIM. Dacă atingeți limita pentru introducerea PUK-urilor incorecte, cartela SIM va fi anulată. Continuați oricum?</item>
+        <item quantity="one">Mai aveți doar %d încercare de a verifica codul PUK-ului SIM. Dacă atingeți limita pentru introducerea PUK-urilor incorecte, cartela SIM va fi anulată. Continuați oricum?</item>
+    </plurals>
+    <plurals name="simlock_set_pin_error">
+        <item quantity="other">PIN-ul introdus este incorect. Au mai rămas %d încercări.</item>
+        <item quantity="one">PIN-ul introdus este incorect. A mai rămas %d încercare.</item>
+    </plurals>
+    <plurals name="simlock_set_puk_error">
+        <item quantity="other">Introduceți SIM PUK. Au mai rămas %d încercări.</item>
+        <item quantity="one">Introduceți SIM PUK. %d încercare rămasă.</item>
+    </plurals>
     <plurals name="sp_monitored_apps_count">
         <item quantity="other">%s aplicații de plăți sunt protejate</item>
         <item quantity="one">%s aplicație de plăți este protejată</item>
@@ -850,13 +910,37 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
         <item quantity="other">%d numere</item>
         <item quantity="one">%d număr</item>
     </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragmente</item>
+        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> fragment</item>
+    </plurals>
+    <plurals name="summary_absorbed_time_foramt">
+        <item quantity="other">Activați modul Focusat timp de %d minute</item>
+        <item quantity="one">Activați modul Focusat timp de %d minut</item>
+    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Actualizări disponibile pentru %d aplicaţii.</item>
         <item quantity="one">Actualizare disponibilă pentru %d aplicaţie.</item>
     </plurals>
+    <plurals name="summary_condition_lock_screen_format">
+        <item quantity="other">După ce ecranul este blocat timp de %d minute</item>
+        <item quantity="one">După ce ecranul este blocat timp de %d minut</item>
+    </plurals>
     <plurals name="summary_flow_verify">
         <item quantity="other">"Nu s-a sincronizat starea utilizării datelor de la operator de %d zile"</item>
         <item quantity="one">"Nu s-a sincronizat starea utilizării datelor de la operator de %d zi"</item>
+    </plurals>
+    <plurals name="summary_result_absorbed_time_format">
+        <item quantity="other">%d minute</item>
+        <item quantity="one">%d minut</item>
+    </plurals>
+    <plurals name="summary_result_lock_screen_format">
+        <item quantity="other">Blochează ecranul după %d minute</item>
+        <item quantity="one">Blochează ecranul după %d minut</item>
+    </plurals>
+    <plurals name="system_anti_fraud_dialog_countdown_unit">
+        <item quantity="other">(%ds)</item>
+        <item quantity="one">(%ds)</item>
     </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d elemente sigure</item>
@@ -899,6 +983,10 @@ Faceți o pauză!"</item>
     <plurals name="view_num">
         <item quantity="other">%1$d vizualizări</item>
         <item quantity="one">%1$d vizualizare</item>
+    </plurals>
+    <plurals name="virus_clear_dialog_content">
+        <item quantity="other">Ștergeți %d aplicații selectate?</item>
+        <item quantity="one">Ștergeți %d aplicație selectată?</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Aplicații periculoase: %d</item>

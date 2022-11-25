@@ -25,6 +25,18 @@
         <item>Cod PIN</item>
         <item>Parolă</item>
     </string-array>
+    <string-array name="auto_task_text_layout_size_level">
+        <item>Foarte mic</item>
+        <item>Mic</item>
+        <item>Mediu</item>
+        <item>Mare</item>
+        <item>Foarte mare</item>
+        <item>XXL</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>Dimensiune</item>
+        <item>Nume</item>
+    </string-array>
     <string-array name="cellular_data_unit">
         <item>GB</item>
         <item>MB</item>
@@ -116,7 +128,7 @@
         <item>Dispunerea textului, conturile și conținutul pot fi afișate necorespunzător.</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
-        <item>Arată atenționare</item>
+        <item>Arată o atenționare</item>
         <item>Atenționează și oprește datele mobile</item>
     </string-array>
     <string-array name="pc_settings_thermal_entries">
@@ -154,15 +166,13 @@
         <item>Utilizare date</item>
         <item>Balanță telefon</item>
     </string-array>
-    <string-array name="sort_title">
-        <item>Sortare după stare</item>
+    <string-array name="sort_title_new">
         <item>Sortare după numele aplicației</item>
         <item>Sortare după frecvența utilizării</item>
         <item>Sortare după spațiul utilizat</item>
         <item>Sortare după data instalării</item>
-    </string-array>
-    <string-array name="sort_type">
-         <item>Stare</item>
+           </string-array>
+    <string-array name="sort_type_new">
          <item>Numele aplicației</item>
          <item>Frecvența utilizării</item>
          <item>Spațiul utilizat</item>

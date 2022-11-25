@@ -50,6 +50,7 @@
     <string name="alert_message_delete_excerpt">Ștergeți această notă? Extrasul va fi șters, de asemenea.</string>
     <string name="alert_message_delete_note">Ştergeţi această notă?</string>
     <string name="alert_message_edit_anyway">Dacă editați această notă, o parte din conținutul său poate fi pierdut.</string>
+    <string name="alert_message_edit_anyway_new">Această notă conține detalii neacceptate. Editarea acesteia poate cauza modificări de format sau pierderi de date.</string>
     <string name="alert_message_restore">"Nu s-a putut deschide această notiță. Restaurați-o pentru a edita conținutul."</string>
     <string name="alert_title_delete">Ştergeți nota</string>
     <string name="alert_title_edit_anyway">Această notă include conținut neacceptat</string>
@@ -248,6 +249,7 @@
     <string name="error_send_empty_note">"Nu se poate trimite o notiță goală"</string>
     <string name="error_send_empty_note_to_weibo">"Nu se poate trimite o notiță goală către Weibo"</string>
     <string name="error_unsupport_content">Această notă include conținut neacceptat; apăsați aici pentru actualizare</string>
+    <string name="error_unsupport_content_format">Această notă conține conținut neacceptat. Actualizați la versiunea %1$s sau o versiune ulterioară.</string>
     <string name="error_widget_exist_for_send_to_desktop">Această notă există deja pe desktop</string>
     <string name="evening">După amiază</string>
     <string name="exceed_todo_text_limitation">Descrierea sarcinii este prea lungă.</string>
@@ -369,9 +371,11 @@
     <string name="material_minute_suffix">%1$s minute</string>
     <string name="material_slider_range_end">Sfârșit interval,</string>
     <string name="material_slider_range_start">Început interval,</string>
+    <string name="material_timepicker_am">AM</string>
     <string name="material_timepicker_clock_mode_description">Comutați la modul Ceas pentru a introduce ora.</string>
     <string name="material_timepicker_hour">Oră</string>
     <string name="material_timepicker_minute">Minute</string>
+    <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">Selectați ora</string>
     <string name="material_timepicker_text_input_mode_description">Comutați la modul Introducere text pentru introducerea orei.</string>
     <string name="menu_add_audio_description">Adăugați o notiță vocală</string>
@@ -383,6 +387,7 @@
     <string name="menu_create_folder">Dosar nou</string>
     <string name="menu_delete">Ştergeţi</string>
     <string name="menu_delete_forever">Ștergeți definitiv</string>
+    <string name="menu_edit">Editați</string>
     <string name="menu_folders">Dosare</string>
     <string name="menu_group">Creați un dosar</string>
     <string name="menu_hide">Ascundeți</string>
@@ -660,6 +665,7 @@
     <string name="pc_todo_fast_create_hint">Introduceți textul și apăsați \"Introduceți\" pentru a adăuga o sarcină nefinalizată</string>
     <string name="pc_todo_set_remind_time_hint">Setați ora</string>
     <string name="permdesc_accessNote">Aplicațiile rău intenționate pot utiliza aceasta pentru a accesa informaţiile personale.</string>
+    <string name="permission_data_shared_desc">Declarația de partajare a datelor Notițe către terți</string>
     <string name="permission_get_account_desc">Sincronizarea notițelor în cloud</string>
     <string name="permission_intro_contact">Pentru luarea de notițe pe durata apelurilor</string>
     <string name="permission_intro_microphone">Pentru înregistrarea de notițe vocale</string>
@@ -677,6 +683,8 @@
     <string name="permission_storage_desc_pad_v12">Pentru adăugarea de imagini la notițe și salvarea acestora ca imagini</string>
     <string name="permission_storage_desc_v12">Pentru adăugarea de imagini la notițe și salvarea acestora ca imagini</string>
     <string name="permission_xiaoai_desc"><Data>Mi AI va colecta înregistrările vocale și ID-ul dispozitivului pentru a transcrie și crea notițe vocale. Aflați mai multe din &lt;a href=\"%1$s\">Politica de Confidențialitate Mi AI&lt;/a>.</Data></string>
+    <string name="permission_xiaoai_desc_new"><Data>Pentru a oferi servicii de transcriere de la vorbire la text, Mi AI trebuie să colecteze intrarea audio și ID-ul dispozitivului dvs., care este generat aleatoriu. Citiți și acceptați &lt;a href=\"%1$s\">Declarația noastră privind partajarea datelor către terți&lt;a href=\"%1$s\">Notițe&lt;/a> înainte de a continua. De asemenea, puteți afla mai multe citind &lt;a href=\"%2$s\">Politica de confidențialitate Mi AI&lt;/a>.</Data></string>
+    <string name="permission_xiaoai_title">Vorbire în text</string>
     <string name="permlab_accessNote">Accesare note</string>
     <string name="pm">PM</string>
     <string name="pref_category_title_quick_func">Caracteristici rapide</string>
@@ -775,6 +783,13 @@
     <string name="send">Trimiteți</string>
     <string name="send_notifications_for_reminder">Pentru trimiterea mementourilor</string>
     <string name="set_alarm_description">Setați alarma</string>
+    <string name="setting_big_screen_layout_columns">Bara laterală</string>
+    <string name="setting_big_screen_layout_flat">Dale</string>
+    <string name="setting_big_screen_layout_title">Aspect ecran mare</string>
+    <string name="setting_cloud_service">Servicii Cloud</string>
+    <string name="setting_layout">Dispunere</string>
+    <string name="setting_micloud_sync_title">Xiaomi Cloud</string>
+    <string name="setting_note_list_layout_title">Dispunere</string>
     <string name="setting_other">ALTELE</string>
     <string name="setting_privacy">Politica de Confidențialitate</string>
     <string name="single_link_excerpt_saving">Se salvează elementele…</string>
@@ -1025,6 +1040,16 @@ Permiteți aplicației Note să înregistreze sunete."</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
     <string name="view_all_notes">Vedeți tot</string>
+    <string name="warn_cannot_add_new_bullet">Nu se poate adăuga o nouă listă cu marcatori, deoarece notița este prea lungă</string>
+    <string name="warn_cannot_add_new_checkbox">Nu se poate adăuga o nouă casetă de selectare deoarece notița este prea lungă</string>
+    <string name="warn_cannot_add_new_content">Nu se poate adăuga conținut nou, deoarece notița este prea lungă</string>
+    <string name="warn_cannot_add_new_doodle">Nu se poate adăuga un nou doodle, deoarece notița este prea lungă</string>
+    <string name="warn_cannot_add_new_element">Nu se poate adăuga un articol nou, deoarece notița este prea lungă</string>
+    <string name="warn_cannot_add_new_link_card">Nu se poate adăuga un link nou, deoarece notița este prea lungă</string>
+    <string name="warn_cannot_add_new_picture">Nu se poate adăuga o nouă imagine deoarece notița este prea lungă</string>
+    <string name="warn_cannot_add_new_style">Nu se poate adăuga un nou format, deoarece notița este prea lungă</string>
+    <string name="warn_disable_edit_in_browse_mode">Nu puteți edita notițe în modul Numai citire</string>
+    <string name="warn_enter_browse_mode">Sunteți în modul Numai citire</string>
     <string name="web_sso_login_fail">Trebuie să vă conectați din nou</string>
     <string name="web_sso_login_message">Se conectează…</string>
     <string name="webview_reload">Încercați din nou</string>
@@ -1043,6 +1068,8 @@ Permiteți aplicației Note să înregistreze sunete."</string>
     <string name="widget_size_item_big">Mare</string>
     <string name="widget_size_item_medium">Mediu</string>
     <string name="widget_size_item_small">Mic</string>
+    <string name="widget_size_item_super_big">Foarte mare</string>
+    <string name="widget_size_not_support">Widgeturile foarte mari nu sunt acceptate pe acest dispozitiv</string>
     <string name="widget_take_notes_title">Notițe</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Nu acum</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Actualizați</string>

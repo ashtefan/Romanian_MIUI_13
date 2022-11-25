@@ -1328,7 +1328,6 @@ Puteți adăuga, de asemenea, memento-uri pentru a nu rata nimic important."</st
     <string name="travel_local">Destinaţie</string>
     <string name="travel_over_days">+%d</string>
     <string name="travel_seat_number_text">Loc</string>
-    <string name="travel_train_station">Gară</string>
     <string name="travel_time_range_hours_mins">%1$s %2$s</string>
     <string name="travel_train_number_text">Tren</string>
     <string name="travel_train_station">Gară</string>

@@ -106,6 +106,13 @@
     <string name="action_source_call_title">Apeluri blocate</string>
     <string name="action_source_sms_title">Mesaje blocate</string>
     <string name="actionbar_button_up_description">Înapoi</string>
+    <string name="activity_edit_task_name">Editați sarcina</string>
+    <string name="activity_mine_task">Sarcinile mele</string>
+    <string name="activity_new_condition_name">Adăugați o condiție</string>
+    <string name="activity_new_result_name">Adăugați rezultatul</string>
+    <string name="activity_new_task_name">Adăugați o sarcină</string>
+    <string name="activity_no_task">Nu există încă sarcini aici</string>
+    <string name="activity_task_center">Centrul de sarcini</string>
     <string name="activity_title_antispam">Listă blocări</string>
     <string name="activity_title_antivirus">Scanare de securitate</string>
     <string name="activity_title_antivirus_kddi">Scanare de securitate</string>
@@ -117,6 +124,7 @@
     <string name="activity_title_networkassistants">Utilizare date</string>
     <string name="activity_title_other_permission_manager">Alte permisiuni</string>
     <string name="activity_title_permission_manager">Permisiuni</string>
+    <string name="activity_title_permissions_instruction">Detalii privind permisiunile</string>
     <string name="activity_title_permissions_manager">Permisiuni</string>
     <string name="activity_title_power_manager">Optimizare acumulator</string>
     <string name="activity_title_risk_app_install_manager">Aplicații cu riscuri posibile</string>
@@ -138,6 +146,8 @@
     <string name="adb_install_reject_notiy">"Nu s-a acordat permisiunea de instalare prin USB a %s"</string>
     <string name="adb_install_reject_notiy_desc">Puteți permite instalarea prin USB din Opțiuni dezvoltator</string>
     <string name="adb_login_xiaomi_account">Conectați-vă mai întâi la contul Mi</string>
+    <string name="add_auto_task_desktop_icon">Adăugați o comandă rapidă pe Ecranul principal</string>
+    <string name="add_bill_reminder_alarm">Setați avertismentul de balanță al telefonului</string>
     <string name="add_done">Adăugat cu succes</string>
     <string name="add_game">Adăugați un joc</string>
     <string name="add_game_notification_summary">Atingeți pentru a lansa &amp; Creșterea vitezei în jocuri</string>
@@ -158,6 +168,9 @@
     <string name="adjust_traffic_carrier_summary_two_day_before">Actualizată cu 2 zile în urmă</string>
     <string name="adjust_traffic_carrier_summary_yesterday">Actualizată ieri la %s</string>
     <string name="adjust_traffic_data">Setaţi utilizarea datelor</string>
+    <string name="adv_permission_text">Permisiuni</string>
+    <string name="adv_privacy_text">Confidențialitate</string>
+    <string name="adv_version_text">Versiune: %s</string>
     <string name="after_the_lock_screen">Blochează aplicațiile odată cu blocarea ecranului.</string>
     <string name="afternoon">După amiază</string>
     <string name="ai_allow_all">Ia decizia în locul meu în toate cazurile</string>
@@ -222,6 +235,7 @@
     <string name="antivirus_privacy_dialog_summary_not_have_tencent">&lt;Data&gt;Această funcție utilizează definițiile de viruși furnizate de către Avast și AVL. Citiți &amp;lt;a href=\"%1$s\"&amp;gt;acordul licențeis&amp;lt;/a&amp;gt; pentru a afla mai multe.&lt;/Data&gt;</string>
     <string name="antivirus_privacy_dialog_title">Politica de confidențialitate</string>
     <string name="antivirus_privacy_dialog_title_kddi">Termeni și condiții</string>
+    <string name="antivirus_riskapp_title">Posibile riscuri</string>
     <string name="antivirus_sec_network_unavailable">Aplicația de Securitate nu se poate actualiza deoarece ați restricționat accesul la internet. Permiteți aplicației de Securitate să se conecteze la internet?</string>
     <string name="antivirus_sms_check">Verificați linkurile în Mesagerie</string>
     <string name="antivirus_sms_check_summary">Verificați linkurile din mesajele primite și primiți avertizări despre posibilele riscuri</string>
@@ -291,9 +305,13 @@
     <string name="app_behavior_denied">Restricționați</string>
     <string name="app_behavior_desc_allow_once">Permis la %1$s</string>
     <string name="app_behavior_desc_allowed">Permis</string>
+    <string name="app_behavior_desc_allowed_at">Permis la %s</string>
     <string name="app_behavior_desc_allowed_on_background">Permis în fundal</string>
+    <string name="app_behavior_desc_allowed_on_background_at">Permis în fundal la %s</string>
     <string name="app_behavior_desc_denied">Refuzat</string>
+    <string name="app_behavior_desc_denied_at">Refuzat la %s</string>
     <string name="app_behavior_desc_denied_on_background">Refuzat în fundal</string>
+    <string name="app_behavior_desc_denied_on_background_at">Refuzat în fundal la %s</string>
     <string name="app_behavior_desc_deny_once">Restricționat la %1$s</string>
     <string name="app_behavior_desc_other_perm_allowed">Cea mai recentă activitate: %s</string>
     <string name="app_behavior_desc_other_perm_denied">Activitățile din ultimele %d ore</string>
@@ -482,6 +500,7 @@
     <string name="app_manager_manage_space">Gestionare spațiu de lucru</string>
     <string name="app_manager_memory">RAM</string>
     <string name="app_manager_menu_clear_data">Ștergeți datele</string>
+    <string name="app_manager_mobile_slot">Date mobile (SIM %d)</string>
     <string name="app_manager_mobile_slot1">Date mobile (SIM 1)</string>
     <string name="app_manager_mobile_slot2">Date mobile (SIM 2)</string>
     <string name="app_manager_net_control_title">Restricționați utilizarea datelor</string>
@@ -582,6 +601,16 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="app_predict_guide_message">AI vă va sugera aplicații de care este posibil să aveți nevoie în acel moment</string>
     <string name="app_predict_guide_title">Sugetii inteligente de aplicații</string>
     <string name="app_predict_loading_text">Doar o secundă…</string>
+    <string name="app_predict_privacy_btn_exit_text">Ieșiți</string>
+    <string name="app_predict_privacy_btn_sure_text">De acord</string>
+    <string name="app_predict_privacy_content">Acest serviciu folosește algoritmi care funcționează în cadrul mecanismelor noastre de protecție a confidențialității și învață cum utilizați aplicațiile instalate pe acest dispozitiv. Acest lucru vă permite să primiți sugestii de aplicații de care aveți cel mai probabil nevoie în acest moment.</string>
+    <string name="app_predict_privacy_privacy_policy_text">Politica de Confidențialitate</string>
+    <string name="app_predict_privacy_title">Sugestii de aplicații</string>
+    <string name="app_predict_privacy_user_agreement_privacy_policy_text">Citiți și acceptați %1$s și %2$s înainte de a continua.</string>
+    <string name="app_predict_privacy_user_agreement_text">Acordul Utilizatorului</string>
+    <string name="app_predict_search_btn_cancel_text">Renunțați</string>
+    <string name="app_predict_search_empty">Nu s-au putut găsi aplicații</string>
+    <string name="app_predict_search_local_app">Pe acest dispozitiv</string>
     <string name="app_predict_search_title">Toate aplicațiile</string>
     <string name="app_predict_setting_black_list">Lista blocărilor</string>
     <string name="app_predict_setting_black_list_message">Blocați aplicațiile pe care nu doriți să le vedeți printre sugestii</string>
@@ -592,11 +621,13 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="app_predict_settings_train_tip">Optimizați automat acuratețea sugestiilor</string>
     <string name="app_predict_widget_experience_now">Încercați</string>
     <string name="app_predict_widget_name_2x4">Sugestii de aplicații</string>
+    <string name="app_predict_widget_summary">Lansați rapid aplicațiile de care ați putea avea nevoie chiar acum</string>
+    <string name="app_predict_widget_title">Sugestii de aplicații</string>
     <string name="app_running_tip_dialog_negative">Renunțați</string>
     <string name="app_running_tip_dialog_positive">OK</string>
     <string name="app_running_tip_dialog_text">Părăsiți %1$s pentru a preveni rularea acesteia în fundal. Acest lucru va accelera viteza de lucru a dispozitivului și va reduce consumul de energie.</string>
     <string name="app_running_tip_dialog_title">Părăsiți aplicația</string>
-    <string name="app_running_tip_uninstall">Dezinstalați această aplicație</string>
+    <string name="app_settings_link">Setări suplimentare în aplicație</string>
     <string name="app_statusbar_audio_now">Înregistrare sunete audio</string>
     <string name="app_statusbar_camera_now">Realizare fotografii</string>
     <string name="app_statusbar_location_now">Locație</string>
@@ -616,6 +647,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="applock_add_account_setting">Cont și confidențialitate</string>
     <string name="applock_add_account_tips">Cu ajutorul contului Mi veți putea restaura Blocarea aplicațiilor, dacă o veți uita.</string>
     <string name="applock_add_account_title">Adăugați contul dvs. Mi</string>
+    <string name="applock_add_account_title_part">Adăugați contul dvs. Mi pentru a putea reseta parola</string>
     <string name="applock_already_add_account">Contul curent: %s</string>
     <string name="applock_app_recommend_lock_title">Puteți bloca următoarele aplicații</string>
     <string name="applock_bind_account_dialog_content">Contul dvs. Mi este singura modalitate prin care puteți restaura Blocarea aplicațiilor, în cazul în care o uitați. Conectați-vă pentru a adăuga contul dvs. Mi.</string>
@@ -627,6 +659,8 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="applock_exit_account_info">Contul va fi eliminat în mod automat când vă veți deconecta</string>
     <string name="applock_face_unlock_summary">Deblocați aplicații utilizând datele faciale</string>
     <string name="applock_face_unlock_title">Deblocare facială</string>
+    <string name="applock_fingerprint_detect">Utilizați amprenta digitală</string>
+    <string name="applock_fingerprint_unlock">Utilizați amprenta digitală</string>
     <string name="applock_function_base_settings">Blocare aplicații</string>
     <string name="applock_function_pwd_settings">Parolă</string>
     <string name="applock_go_to">Setări</string>
@@ -645,14 +679,20 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="applock_guide_tip3">Ascunde conținutul notificării.</string>
     <string name="applock_guide_tip3_global">Ascunde conținutul notificării.</string>
     <string name="applock_guide_title">Protejați-vă confidențialitatea cu ajutorul Blocării aplicațiilor</string>
+    <string name="applock_gulide_third_part">Contul va fi eliminat când vă deconectați</string>
     <string name="applock_header_text_less_than_half">Prea puțin spațiu disponibil. Mutați puțin mai departe.</string>
     <string name="applock_lock_all">Blocați tot</string>
+    <string name="applock_lock_mode_locked">Când dispozitivul este blocat</string>
+    <string name="applock_lock_mode_locked_or_exit">Când dispozitivul este blocat sau după ieșirea din aplicație</string>
+    <string name="applock_lock_mode_locked_or_exit_or_wait">Când dispozitivul este blocat​ sau în %d minut după părăsirea aplicației</string>
     <string name="applock_login_and_add_account">Conectați-vă și adăugați</string>
     <string name="applock_mixtype_hidepwd_icon">Ascundeți</string>
     <string name="applock_mixtype_showpwd_icon">Afișați</string>
     <string name="applock_no_account_login">Nu sunteți conectat la contul dvs. Mi</string>
     <string name="applock_not_add_account"><u>Nu acum</u></string>
+    <string name="applock_not_add_account_normal">Nu adăugați contul</string>
     <string name="applock_not_login_account">"Nu sunteți conectat"</string>
+    <string name="applock_numeric_pwd_type_line">Numărul total de cifre din parolă: %1$d. Cifrele introduse: %2$d.</string>
     <string name="applock_operate_faceunlock_summary">Deblocați aplicații prin simpla privire asupra ecranului</string>
     <string name="applock_operate_faceunlock_title">Utilizați datele faciale</string>
     <string name="applock_operate_fingerprint_summary">Blocarea aplicațiilor suportă adăugarea amprentelor multiple</string>
@@ -666,6 +706,10 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="applock_settings_unlock_all_toast">Toate aplicațiile au fost deblocate</string>
     <string name="applock_toast_tip">Blocare aplicații verificată cu succes</string>
     <string name="applock_unlock_all">Deblocați tot</string>
+    <string name="apps_item_scan_risk_summary_installed">Instalate | Riscuri</string>
+    <string name="apps_item_scan_risk_summary_uninstalled">APK | Riscuri</string>
+    <string name="apps_item_scan_virus_summary_installed">Instalate | Virus</string>
+    <string name="apps_item_scan_virus_summary_uninstalled">APK | Virus</string>
     <string name="apps_item_sign_dialog_content">"Semnătura %s este diferită de cea din versiunea App Store. Ștergeți această aplicație și instalați versiunea oficială? Notă: instalarea unei aplicații care prezintă un conflict de semnătură poate duce la pierderea datelor aplicației."</string>
     <string name="apps_item_sign_dialog_title">Instalați versiunea oficială a aplicației</string>
     <string name="apps_item_sign_install_button_text">Înlocuiți</string>
@@ -678,6 +722,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="apps_item_title_system">Actualizare sistem</string>
     <string name="apps_item_virus_cleanup_success">Eliminate cu succes</string>
     <string name="apps_item_virus_cleanup_text">Eliminați</string>
+    <string name="apps_item_virus_ignore_text">Ignorați</string>
     <string name="apps_item_virus_summary_installed">Aplicație instalată</string>
     <string name="apps_item_virus_summary_uninstalled">APK</string>
     <string name="apps_list_header_title_sms">Verificați aplicația de mesagerie</string>
@@ -696,6 +741,8 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="auto_import_games">Adăugați toate jocurile într-un singur loc</string>
     <string name="auto_send_correcting_msg">Lăsați necompletat pentru a verifica în mod automat printr-un mesaj SMS gratuit</string>
     <string name="auto_set_by_brand">Sincronizați detaliile planului de date cu operatorul dvs.</string>
+    <string name="auto_task_allow_suggestion">Sugestii inteligente de sarcini</string>
+    <string name="auto_task_available_device">Dispozitive disponibile</string>
     <string name="auto_task_condition_choose_battery_level_down">Când acumulatorul se descarcă până la un anumit nivel</string>
     <string name="auto_task_condition_choose_end_time">Ora de sfârșit</string>
     <string name="auto_task_condition_choose_ontime">Temporizator</string>
@@ -706,25 +753,64 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="auto_task_condition_time_duration_text">De la %1$s până la %2$s</string>
     <string name="auto_task_condition_time_pick_title">Setați temporizatorul</string>
     <string name="auto_task_condition_time_text">La ora %s</string>
+    <string name="auto_task_conncet_to_some_device">Conectează la %s</string>
+    <string name="auto_task_create_success">Sarcină creată cu succes</string>
+    <string name="auto_task_custom_time">Setați ora</string>
+    <string name="auto_task_custom_time_lable">min</string>
+    <string name="auto_task_default_add_action">Adăugați o acțiune</string>
+    <string name="auto_task_default_add_task">Adăugați la \"Sarcinile mele\"</string>
+    <string name="auto_task_default_add_to_task_list">Adăugați la \"Sarcinile mele\"</string>
+    <string name="auto_task_default_do_action">Atunci</string>
+    <string name="auto_task_default_if_exclude">Dacă</string>
+    <string name="auto_task_default_task_summary_driver_car">Activați hotspot-ul portabil atunci când vă conectați la sistemul mașinii prin Bluetooth</string>
+    <string name="auto_task_default_task_summary_get_up">Dezactivați modul DND și reactivați Bluetooth, Wi-Fi și datele mobile</string>
+    <string name="auto_task_default_task_summary_listen_music">Redați muzică și selectați tipul căștilor</string>
+    <string name="auto_task_default_task_summary_meet">Programați ora întâlnirii și activați modul DND</string>
+    <string name="auto_task_default_task_summary_noon_break">Programați timpul de somn și activați modul DND</string>
+    <string name="auto_task_default_task_summary_save_power">Activați Economisirea acumulatorului când nivelul acestuia este mai mic de 30%</string>
+    <string name="auto_task_default_task_summary_sleep">Programați ora de culcare și personalizați comportamentul dispozitivului</string>
+    <string name="auto_task_default_task_summary_watch_video">Deschideți aplicația, porniți Wi-Fi, reglați volumul</string>
+    <string name="auto_task_default_task_title_driver_car">Conduceți</string>
+    <string name="auto_task_default_task_title_get_up">Treziți-vă</string>
+    <string name="auto_task_default_task_title_listen_music">Ascultă muzica</string>
+    <string name="auto_task_default_task_title_meet">Întâlnire</string>
+    <string name="auto_task_default_task_title_noon_break">Pui de somn</string>
+    <string name="auto_task_default_task_title_save_power">Economisiți acumulatorul</string>
+    <string name="auto_task_default_task_title_sleep">Dormiți</string>
+    <string name="auto_task_default_task_title_watch_video">Vizionați videoclipuri</string>
+    <string name="auto_task_delete_task">Ștergeți sarcina</string>
     <string name="auto_task_dialog_button_close">Terminat</string>
+    <string name="auto_task_disconnect_to_some_device">Deconectează de la %s</string>
     <string name="auto_task_edit_abandon_change">Renunțați la modificări?</string>
     <string name="auto_task_edit_activity_title">Automatizările mele</string>
     <string name="auto_task_edit_adandon_button_text">Renunțați</string>
+    <string name="auto_task_edit_address">Edit address</string>
     <string name="auto_task_edit_choose_condition_title">Selectați condițiile</string>
     <string name="auto_task_edit_choose_new_operation">Adăugați o acțiune</string>
     <string name="auto_task_edit_choose_operation_title">Selectați acțiunile</string>
     <string name="auto_task_edit_condition_summary_new">De examplu, \"La ora %s\"</string>
     <string name="auto_task_edit_condition_title">Adăugați o condiție</string>
+    <string name="auto_task_edit_default_task_name">Editați numele sarcinii</string>
     <string name="auto_task_edit_my_custom_task">Nume</string>
     <string name="auto_task_edit_operation_summary">De exemplu, \"Activare mod Avion\"</string>
     <string name="auto_task_edit_step1_new">%d.</string>
     <string name="auto_task_edit_step2_new">%d.</string>
     <string name="auto_task_edit_task_name">Nume</string>
+    <string name="auto_task_exit_finish">Sarcina finalizată automat</string>
+    <string name="auto_task_font_setting_weight_toast">Nu se poate ajusta înălțimea pentru acest font</string>
+    <string name="auto_task_leave_app">Părăsiți %s</string>
+    <string name="auto_task_lock_screen_now">Blocarea ecranului</string>
+    <string name="auto_task_loop_exclude_cancel">Sarcină în buclă anulată</string>
     <string name="auto_task_main_title">Sarcini automate</string>
     <string name="auto_task_mamange_activity_title">Setări</string>
     <string name="auto_task_manage_delete_prompt">Ștergeți sarcinile selectate?</string>
     <string name="auto_task_manage_new_task">Sarcină automată nouă</string>
     <string name="auto_task_manager_group_title">Automatizările mele</string>
+    <string name="auto_task_nearby_device">Dispozitive disponibile</string>
+    <string name="auto_task_nearby_wlan">Rețele disponibile</string>
+    <string name="auto_task_no_in_call">Când nu aveți un apel</string>
+    <string name="auto_task_no_need">Nu, mulțumesc</string>
+    <string name="auto_task_notification_tips">Notificări</string>
     <string name="auto_task_notify_do_task_title">Sarcina automată a început</string>
     <string name="auto_task_notify_exit_task_title">Sarcina automată s-a încheiat</string>
     <string name="auto_task_notify_task_cancel_count_down_new">Acțiunea automată va fi anulată în %d secunde</string>
@@ -737,6 +823,14 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="auto_task_notify_task_continue_do">Lansați acțiunea</string>
     <string name="auto_task_notify_task_count_down_new">Acțiunea automată va porni în %d secunde</string>
     <string name="auto_task_notify_task_exit_task">Anulați sarcina</string>
+    <string name="auto_task_notify_title_has_cancel">Sarcină anulată</string>
+    <string name="auto_task_notify_title_has_cancel_exit">Finalizarea automată a fost anulată</string>
+    <string name="auto_task_notify_title_has_exclude">Sarcină executată</string>
+    <string name="auto_task_offen_use_device">Dispozitivele mele</string>
+    <string name="auto_task_offen_use_wlan">Rețelele mele</string>
+    <string name="auto_task_open_app">Deschideți %s</string>
+    <string name="auto_task_open_bluetooth">Activați Bluetooth-ul</string>
+    <string name="auto_task_open_wlan">Activați Wi-Fi-ul</string>
     <string name="auto_task_operation_airplane_mode">Modul Avion</string>
     <string name="auto_task_operation_auto_brightness">Luminozitatea automată</string>
     <string name="auto_task_operation_bluetooth">Bluetooth-ul</string>
@@ -757,7 +851,37 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="auto_task_operation_sync">Sincronizarea</string>
     <string name="auto_task_operation_vibration">Vibrațiile</string>
     <string name="auto_task_operation_wifi">Wi-Fi-ul</string>
+    <string name="auto_task_please_select_item">Selectați elementul</string>
     <string name="auto_task_result_summary_text">Setați sarcini automate pentru Economisirea acumulatorului</string>
+    <string name="auto_task_rule_bluetooth">Puteți deschide automat %2$s când utilizați Bluetooth cu %1$s. Creați această sarcină acum?</string>
+    <string name="auto_task_rule_map_location">Puteți activa automat serviciile de localizare în timp ce utilizați hărțile. Creați această sarcină acum?</string>
+    <string name="auto_task_rule_read_mode">Puteți activa automat modul Citire în timp ce utilizați aplicații de citire. Creați această sarcină acum?</string>
+    <string name="auto_task_rule_zen_mode">Puteți activa automat modul DND în timpul somnului între 12:00 și 14:00. Creați această sarcină acum?</string>
+    <string name="auto_task_select_address_company">Servici</string>
+    <string name="auto_task_select_address_home">Acasă</string>
+    <string name="auto_task_select_address_leave">Părăsiți</string>
+    <string name="auto_task_select_address_no_set">Nesetat</string>
+    <string name="auto_task_select_address_other">Adrese frecvente</string>
+    <string name="auto_task_select_address_to">Ajungeți</string>
+    <string name="auto_task_set_conncet_bluetooth">Setați</string>
+    <string name="auto_task_set_conncet_wlan">Setați</string>
+    <string name="auto_task_set_exit_condition">Utilizați condiții de finalizare</string>
+    <string name="auto_task_set_exit_condition_summary">Finalizați sarcina atunci când este îndeplinită una dintre următoarele condiții</string>
+    <string name="auto_task_set_open_app">Setați</string>
+    <string name="auto_task_setting_allow_notify">Permiteți notificări</string>
+    <string name="auto_task_setting_allow_tips_smart_task">Permiteți notificări cu sugestii inteligente</string>
+    <string name="auto_task_setting_before_exclude_notify">Notificări înainte de începerea sarcinii</string>
+    <string name="auto_task_setting_exclude_notify">Notificări în timpul sarcinii</string>
+    <string name="auto_task_setting_need_reset">Restabiliți valorile implicite după finalizarea sarcinii</string>
+    <string name="auto_task_setting_show_task_shortcut_in_desktop">Comandă rapidă pe Ecranul principal</string>
+    <string name="auto_task_show_notification_before_exclude">Notificări înainte de execuție</string>
+    <string name="auto_task_show_notification_before_exit">Notificări înainte de finalizare</string>
+    <string name="auto_task_temp_allow">OK</string>
+    <string name="auto_task_temp_no_exit">Anulați</string>
+    <string name="auto_task_temp_no_need">Anulați</string>
+    <string name="auto_task_voice_dialog_alarm_title">Alarme</string>
+    <string name="auto_task_voice_dialog_call_title">Apeluri, notificări, memento-uri</string>
+    <string name="auto_task_voice_dialog_media_title">Muzică, jocuri, media</string>
     <string name="back_app_name">Înapoi la Blocarea aplicației</string>
     <string name="back_description_securitycenter">Înapoi</string>
     <string name="back_modifypassword">Înapoi la modificarea tipului parolei</string>
@@ -831,24 +955,29 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="beauty_fc_light">Luminozitatea luminii de umplere</string>
     <string name="beauty_fc_video_call">Înfrumusețare pentru apelurile video</string>
     <string name="beauty_fc_video_call_summary">Afișați opțiunile de înfrumusețare în timpul apelurilor video WeChat</string>
-    <string name="beauty_fun_filter">Beautify</string>
-    <string name="beauty_fun_front_light">Front fill light</string>
-    <string name="beauty_fun_light">Fill light</string>
-    <string name="beauty_fun_privacy">Privacy camera</string>
-    <string name="beauty_fun_privacy_dialog_message">When you use the camera for face recognition features, your face will be detected automatically and other captured areas will be masked.</string>
-    <string name="beauty_fun_privacy_dialog_tips">This feature may lower the success rate of face recognition</string>
-    <string name="beauty_fun_privacy_ingnore">No thanks</string>
-    <string name="beauty_fun_privacy_message">Detect faces and mask other captured areas when the camera is used with face recognition features</string>
-    <string name="beauty_fun_privacy_open">Turn on</string>
-    <string name="beauty_fun_privacy_open_tips">Privacy camera is on</string>
-    <string name="beauty_fun_privacy_tips">Privacy camera will now be used by default with compatible face recognition features</string>
-    <string name="beauty_fun_screen_light">Screen fill light</string>
-    <string name="beauty_fun_settings_light">Fill light brightness</string>
-    <string name="beauty_fun_video_effect">Beautify for video</string>
+    <string name="beauty_fun_filter">Înfrumuseţare</string>
+    <string name="beauty_fun_front_light">Lumină de umplere frontală</string>
+    <string name="beauty_fun_light">Lumină de umplere</string>
+    <string name="beauty_fun_privacy">Confidențialitate cameră foto</string>
+    <string name="beauty_fun_privacy_dialog_message">Când utilizați camera pentru funcțiile de recunoaștere a feței, fața dvs. va fi detectată automat și alte zone capturate vor fi mascate.</string>
+    <string name="beauty_fun_privacy_dialog_tips">Această caracteristică poate reduce rata de succes a recunoașterii feței</string>
+    <string name="beauty_fun_privacy_ingnore">Nu, mulțumesc</string>
+    <string name="beauty_fun_privacy_message">Detectați fețele și mascați alte zone capturate atunci când camera este utilizată cu funcții de recunoaștere a feței</string>
+    <string name="beauty_fun_privacy_open">Activați</string>
+    <string name="beauty_fun_privacy_open_tips">Confidențialitatea camerei foto este activată</string>
+    <string name="beauty_fun_privacy_tips">Confidențialitatea camerei foto va fi acum utilizată implicit cu funcții compatibile de recunoaștere a feței</string>
+    <string name="beauty_fun_screen_light">Lumină de umplere a ecranului</string>
+    <string name="beauty_fun_settings_light">Luminozitatea luminii de umplere</string>
+    <string name="beauty_fun_video_effect">Înfrumusețare pentru video</string>
     <string name="beauty_portrait_center">Păstrați fețele centrate</string>
     <string name="beauty_portrait_center_desc">Identificați și centrați automat fețele în apeluri video și întâlniri. Această funcție nu este acceptată de unele aplicații.</string>
-    <string name="beauty_settings">Settings</string>
+    <string name="beauty_settings">Setări</string>
     <string name="begin_date">Data de resetare a utilizării</string>
+    <string name="behavior_widget_get_installed_apps">Aplicații accesate</string>
+    <string name="behavior_widget_get_location">Locație accesată</string>
+    <string name="behavior_widget_read_clipboard">Clipboard accesat</string>
+    <string name="behavior_widget_read_contact">Contacte accesate</string>
+    <string name="behavior_widget_read_write_external_storage">Fișiere accesate</string>
     <string name="best_booster_status">Viteza în jocuri este cea mai bună disponibilă acum.</string>
     <string name="bg_network_exception_title">Conexiune în fundal restricționată</string>
     <string name="bh_buy_order_fail_tips_text">A apărut o eroare. Așteptați un minut sau două și încercați din nou.</string>
@@ -1068,6 +1197,10 @@ Cu toate acestea, unele dintre tranzacțiile dvs. nu sunt încă finalizate. Pen
     <string name="character_counter_content_description">Caractere introduse %1$d din %2$d</string>
     <string name="character_counter_overflowed_content_description">Limita de caractere a fost depășită %1$d of %2$d</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
+    <string name="charge_high_temp_warning_dialog_ok">Am înțeles</string>
+    <string name="charge_high_temp_warning_dialog_text">Se pare că portul de încărcare este supraîncălzit acum. Deconectați încărcătorul și lăsați portul să se răcească înainte de a începe încărcarea din nou.</string>
+    <string name="charge_high_temp_warning_text">Deconectați încărcătorul și lăsați acumulatorul să se răcească</string>
+    <string name="charge_high_temp_warning_title">Portul de încărcare este prea fierbinte</string>
     <string name="charger_detect_button_ok">Am înțeles</string>
     <string name="charger_detect_info1">Verificați dacă încărcătorul și cablul sunt conectate corespunzător.</string>
     <string name="charger_detect_info2">Încărcarea poate încetini, de asemenea, dacă utilizați adaptoare și cabluri vechi sau necorespunzătoare.</string>
@@ -1094,16 +1227,27 @@ Cu toate acestea, unele dintre tranzacțiile dvs. nu sunt încă finalizate. Pen
     <string name="clear_immediately">Curățați acum</string>
     <string name="clear_text_end_icon_content_description">Goliți textul</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
+    <string name="click_to_charge_bill">Suplimentați</string>
+    <string name="click_to_set_carrier">Atingeți pentru a seta</string>
+    <string name="click_to_set_personalized_reminder">Setați avertismente</string>
+    <string name="click_to_set_traffic">Atingeți pentru a seta</string>
     <string name="close">Închideți</string>
     <string name="close_callwait">Oprit</string>
     <string name="cmcc_app_check_dialog_message">Reporniți dispozitivul pentru a finaliza repararea.</string>
     <string name="cmcc_app_check_dialog_negative">Mai târziu</string>
     <string name="cmcc_app_check_dialog_positive">Reporniți acum</string>
     <string name="cmcc_app_check_dialog_title">Sistem reparat</string>
+    <string name="commonly_used_func_card_title">Aspecte comune</string>
+    <string name="commonly_used_func_edit_too_many_func">Nu se pot adăuga mai multe articole</string>
+    <string name="compatible_dialog_content">Această aplicație nu este pe deplin compatibilă cu arhitectura pe 64 de biți. Este posibil să întâmpinați probleme de performanță și un consum crescut de energie în timp ce îl utilizați.</string>
+    <string name="compatible_dialog_more_info">Aflați mai multe</string>
+    <string name="compatible_dialog_title">Atenție</string>
     <string name="comprehensive_protection_measures">Protecție sporită</string>
     <string name="confirmSecondSpacePassword">Confirmați parola pentru Spațiul Secundar</string>
+    <string name="confirm_ai_allow_all_permission">Schimbați starea permisiunii în \"Decide pentru mine\" pentru toate aplicațiile?</string>
     <string name="confirm_allow_all_permission">Permiteți tuturor acestor aplicații să utilizeze această caracteristică?</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Se adaugă contul Mi</string>
+    <string name="confirm_close">Dezactivați</string>
     <string name="confirm_fingerprint_msg">Verificați-vă amprenta</string>
     <string name="confirm_leave">Nu, mulțumesc</string>
     <string name="confirm_open">Activați</string>
@@ -1125,6 +1269,7 @@ Cu toate acestea, unele dintre tranzacțiile dvs. nu sunt încă finalizate. Pen
     <string name="copy">Copiați</string>
     <string name="cpu_usage_android_system">Sistem Android</string>
     <string name="cpu_usage_process_run_time_little_time">Mai puțin de un minut</string>
+    <string name="cpu_usage_process_run_time_little_time_new">Mai puțin de %d minut</string>
     <string name="cpu_usage_view_action_btn_text">Atingeți pentru a vizualiza</string>
     <string name="create_gamebooster_destop">Scurtătură creată pe Ecranul principal cu succes</string>
     <string name="create_shortcut">Creați o scurtătură pe Ecranul principal pentru Jocurile Turbo</string>
@@ -1140,6 +1285,14 @@ Cu toate acestea, unele dintre tranzacțiile dvs. nu sunt încă finalizate. Pen
     <string name="cta_main_purpose">Bine ați venit în aplicația de Securitate! Puteți utiliza această aplicație pentru a goli datele inutile din telefon, găsi și neutraliza viruși, optimiza performanța în jocuri, economisi acumulatorul, gestiona aplicațiile și multe altele.</string>
     <string name="cta_settings">Permiteți conexiunea la internet și accesul la locație</string>
     <string name="current_network_state_not_need_diagnose">Conexiunea la internet este normală.</string>
+    <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Pentru utilizarea listei de blocare și efectuarea de apeluri către persoanele de contact de urgență atunci când sunt emise avertismente de cutremur</string>
+    <string name="custom_define_permission_desc_android.permission.READ_CALL_LOG">Pentru afișarea apelurilor blocate în istoricul apelurilor</string>
+    <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Pentru utilizarea listei de blocare</string>
+    <string name="custom_define_permission_desc_android.permission.READ_SMS">Pentru utilizarea listei de blocare și recunoașterea mesajelor de la operatorul dvs.</string>
+    <string name="custom_define_permission_desc_android.permission.SEND_SMS">Pentru utilizarea listei de blocare și trimiterea mesajelor de calibrare către operatorul dvs.</string>
+    <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">Pentru ștergerea mesajelor din lista dvs. de blocare</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Pentru furnizarea de funcții relevante pentru locația dvs. în Centrul de avertizare MIUI, SOS de urgență, economisitor de baterie a aplicației, scaner de securitate a plăților și serviciul de localizare aproximativă</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Pentru curățarea gunoiului și efectuarea de scanări antivirus</string>
     <string name="customize_limit_pkg">%s (personalizat)</string>
     <string name="customizer_mode_user_define_name">Regulile mele</string>
     <string name="daily_card_setting_fragment_daily_card_brand">Operator</string>
@@ -1152,7 +1305,11 @@ Cu toate acestea, unele dintre tranzacțiile dvs. nu sunt încă finalizate. Pen
     <string name="daily_limit_and_lock_screen">Avertisment utilizare date</string>
     <string name="daily_limit_network_available_body">Atingeți pentru a vizualiza statisticile de utilizare a datelor.</string>
     <string name="daily_limit_over_message">Ați depășit limita zilnică de utilizare a datelor.</string>
+    <string name="daily_package_reminder_character">Setați o limită zilnică de utilizare a datelor pentru a primi un avertisment atunci când această limită este atinsă.</string>
     <string name="daily_pkg_traffic">Limita de utilizare a datelor</string>
+    <string name="daily_remind_warning_text_tips">Avertizați când este atinsă limita zilnică</string>
+    <string name="daily_reminder_warning">Limită zilnică de date</string>
+    <string name="daily_reminder_warning_necessary">Limită zilnică de date (obligatoriu)</string>
     <string name="data_booster_desc">Dezactivați alte sloturi SIM pentru a menține conexiunea stabilă</string>
     <string name="data_booster_title">Stabilizare conexiune de date</string>
     <string name="data_local_processing_and_storage">Date stocate și procesate local</string>
@@ -1196,6 +1353,12 @@ Operatorul vă poate taxa suplimentar dacă activați din nou datele mobile."</s
     <string name="deep_power_save_item_title_lock_screen_time">Puneți ecranul în stand-by</string>
     <string name="deep_save_memory_clean_summary">Goliți memoria cache atunci când telefonul este blocat pentru a preveni utilizarea acumulatorului de către aplicații</string>
     <string name="deep_save_ontime_boot_shutdown_summary">Setați intervalul în care telefonul se va închide automat</string>
+    <string name="default_condition_summary">De exemplu \"Nivelul acumulatorului este sub 20%\"</string>
+    <string name="default_condition_title">Adăugați o condiție</string>
+    <string name="default_condition_title_continue">Adăugați o condiție</string>
+    <string name="default_result_summary">De exemplu \"Dezactivează modul Avion\"</string>
+    <string name="default_result_title">Adăugați rezultatul</string>
+    <string name="default_result_title_continue">Adăugați rezultatul</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_all_sms">Ștergeți-le pe toate</string>
     <string name="delete_from_manual_item_white_list">Eliminați din excepții</string>
@@ -1326,6 +1489,9 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
     <string name="early_morning">Dimineață</string>
+    <string name="edit_new_task_name">Introduceți numele sarcinii</string>
+    <string name="edit_phone_num">Editați numărul de telefon al SIM-ului</string>
+    <string name="eew_privacy_revoke_title">Retrageți consimțământul cu privire la Politica de confidențialitate a avertismentului de cutremur</string>
     <string name="eletric_card_key_1">Apeluri</string>
     <string name="eletric_card_key_2">Mesaje</string>
     <string name="eletric_card_key_3">Aplicații</string>
@@ -1402,6 +1568,7 @@ de urgență"</string>
     <string name="ew_alert_earthquake_level_title">Magnitudine estimată</string>
     <string name="ew_alert_emergency_text">"Afișează
 cardul de sănătate"</string>
+    <string name="ew_alert_emergency_text_single">Afișează cardul medical</string>
     <string name="ew_alert_help_earthquake_title">Valul seismic a ajuns</string>
     <string name="ew_alert_help_place_navigation">Navigați</string>
     <string name="ew_alert_help_place_text">Dacă este necesar, mergeți către cel mai apropiat adăpost pentru a vă asigura securitatea și pentru a obține asistența necesară.</string>
@@ -1419,11 +1586,15 @@ cardul de sănătate"</string>
     <string name="ew_button_confirm">De acord</string>
     <string name="ew_button_exit">"Nu sunt de acord"</string>
     <string name="ew_china_version_first_start_network_msg"><Data>Această caracteristică vă furnizează avertizări de cutremur. Aceasta vă va notifica despre cutremurele iminente și va reda un sunet de avertizare. Veți putea găsi cel mai apropiat adăpost, suna contactul de urgență și arăta cardul de sănătate dacă este necesar. &lt;br>Vă vom proteja informațiile personale în concordanță cu legile în vigoare, regulamentele și politicile de confidențialitate. &lt;br>Pentru a putea funcționa în mod normal, această caracteristică necesită următoarele permisiuni pentru a colecta datele personale: &lt;br>• Informații despre localizare: &lt;br>Pentru accesarea locației și furnizarea de avertizări acurate de cutremur. &lt;br>Dacă nu sunteți de acord să acordați asemenea permisiuni sau să partajați și să încărcați informațiile personale, nu veți putea utiliza această funcție. Puteți alege să dezactivați această funcție sau să nu o porniți. &lt;br>Trebuie să citiți și să acceptați &lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;lang=%2$s\">Politica noastră de Confidențialitate&lt;/a> înainte de a utiliza această funcție.</Data></string>
+    <string name="ew_click_locate">Atingeți pentru a obține informații despre locație</string>
     <string name="ew_close">Dezactivați alerta</string>
+    <string name="ew_close_tips">Avertizarea de cutremur este dezactivată</string>
     <string name="ew_close_warning">Opriți</string>
     <string name="ew_concern_city">Orașe adăugate</string>
     <string name="ew_concern_date_empty">Niciunul</string>
     <string name="ew_concern_manage">Gestionați</string>
+    <string name="ew_contact_dialog_tips">Adăugați cel puțin un contact de urgență.</string>
+    <string name="ew_contact_dialog_title">Atenție</string>
     <string name="ew_current_location">Locația curentă</string>
     <string name="ew_emergency_allergy">Alergii</string>
     <string name="ew_emergency_basic_info">Informații de bază</string>
@@ -1450,12 +1621,17 @@ cardul de sănătate"</string>
     <string name="ew_emergency_title">Card de sănătate</string>
     <string name="ew_first_start_network_title">Termeni și condiții</string>
     <string name="ew_get_location">Localizați</string>
+    <string name="ew_global_signature">"Informații furnizate de EEWS BMKG
+Suport tehnic de la Xiaomi și ICL"</string>
+    <string name="ew_global_signature_template">"Informații furnizate de %s
+Suport tehnic de la Xiaomi și ICL"</string>
     <string name="ew_guide_law_agree">De acord</string>
     <string name="ew_guide_law_done">Am înțeles</string>
     <string name="ew_guide_law_exit">"Nu sunt de acord"</string>
     <string name="ew_guide_law_text">"Această funcție vă furnizează avertizări pentru cutremur. Trebuie să înțelegeți că informațiile despre cutremur sunt furnizate de către o agenție terță de atenționare referitoare la cutremure. Xiaomi nu controlează agențiile terțe și nici nu are vreo influență asupra acestora. Xiaomi nu promite sau garantează acuratețea, validitatea și actualitatea informațiilor de avertizare la cutremur și nici nu garantează că serviciul de avertizare la cutremur va răspunde tuturor nevoilor dumneavoastră. Trebuie să înțelegeți că această caracteristică este furnizată doar pentru referința dvs. Sunteți singurul responsabil pentru riscurile și consecințele oricăror acțiuni pe care le efectuați pe baza informațiilor furnizate de această caracteristică."</string>
     <string name="ew_guide_law_title">Act de renunțare</string>
     <string name="ew_guide_next_text">Următorul</string>
+    <string name="ew_guide_open">Primiți avertismente de cutremur</string>
     <string name="ew_guide_play_audio">Redă un sunet de avertizare</string>
     <string name="ew_guide_play_audio_last">Redă un sunet de avertizare (%ds)</string>
     <string name="ew_guide_start">Activați</string>
@@ -1487,6 +1663,7 @@ Trebuie să înțelegeți că această caracteristică este furnizată doar pent
     <string name="ew_list_receive_time_title">Ora de început</string>
     <string name="ew_list_title">Avertizări</string>
     <string name="ew_location_failed">Locație necunoscută</string>
+    <string name="ew_location_open">Serviciile de localizare sunt activate</string>
     <string name="ew_main_close_text">"Nu veți putea primi informații actualizate despre acest cutremur dacă opriți alerta. Opriți oricum?"</string>
     <string name="ew_main_close_title">Atenție</string>
     <string name="ew_main_contact_change">Modificați</string>
@@ -1522,6 +1699,7 @@ Trebuie să înțelegeți că această caracteristică este furnizată doar pent
     <string name="ew_monitor_my_content">Dispozitivul meu mobil face parte din rețeaua de avertizare timpurie a cutremurului. După ce senzorii săi detectează unde seismice, datele vor fi analizate de algoritmul AI și vor fi emise avertizări timpurii persoanelor din zonele afectate.</string>
     <string name="ew_monitor_number_prex">Nr. %s</string>
     <string name="ew_monitor_open">Alăturați-vă</string>
+    <string name="ew_monitor_privacy_revoke_title">Retrageți consimțământul cu privire la Politica de confidențialitate a monitorului de cutremure</string>
     <string name="ew_monitor_read_privacy"><Data>"Am citit și acceptat &lt;a href=\"%1$s\">Politica de Confidențialitate&lt;/a>."</Data></string>
     <string name="ew_monitor_share">Partajați</string>
     <string name="ew_monitor_slogan">"Alăturați-vă programului nostru
@@ -1536,7 +1714,9 @@ din programul pentru monitorizarea cutremurelor!"</string>
     <string name="ew_monitor_title">Voluntar de monitorizare a cutremurelor</string>
     <string name="ew_monitor_title_spilt">"Voluntar monitorizare
 cutremure"</string>
+    <string name="ew_no_contact_tips">Niciun contact aici</string>
     <string name="ew_not_support_area">Avertizările nu sunt suportate în această zonă</string>
+    <string name="ew_open_tips">Avertizarea de cutremur este activată</string>
     <string name="ew_push_message">Intensitatea estimată: %s. Așteptați-vă la un cutremur moderat în apropiere.</string>
     <string name="ew_push_title">Avertizare de cutremur pentru %s</string>
     <string name="ew_safe_place_no_maps_tips">"Nu se poate căuta acum. Instalați mai întâi Hărți Baidu sau Amap."</string>
@@ -1554,9 +1734,14 @@ cutremure"</string>
     <string name="ew_settings_choose_level_value_3">" (Vibrații puternice)"</string>
     <string name="ew_settings_choose_level_value_4">" (Vibrații severe)"</string>
     <string name="ew_settings_push_tips">Avertismentele cu privire la zonele din afara locației dvs. vor fi prezentate doar sub formă de notificări.</string>
+    <string name="ew_settings_set_level_summary">Primiți avertismente despre cutremure atunci când intensitatea lor este %s sau mai mare</string>
+    <string name="ew_settings_set_level_title">Setați pragul de avertizare pentru cutremur</string>
+    <string name="ew_sleep_mode_alert_content">Pentru a vă asigura că puteți primi avertismente timpurii de cutremur, MIUI va dezactiva modul Sleep. Aplicațiile de fundal, NFC, Bluetooth, GPS, date mobile și Wi-Fi vor funcționa normal chiar și atunci când dormi. Activați acum avertismentul de cutremur?</string>
+    <string name="ew_sleep_mode_alert_title">Avertizare de cutremur</string>
     <string name="ew_subscribe_area_title">Gestionați zonele adăugate</string>
     <string name="ew_subscribe_city">Zone adăugate</string>
     <string name="ew_subscribe_search_hint">Căutați arealuri</string>
+    <string name="ew_user_feedback">Feedback</string>
     <string name="examination_score_100">Totul arată bine!</string>
     <string name="examination_score_60_0">Scanaţi acum</string>
     <string name="examination_score_80_100">Câteva elemente pot fi optimizate</string>
@@ -1576,6 +1761,7 @@ cutremure"</string>
     <string name="exit_dialog_homepage_optimise_message">Scorul de performanță al telefonului este mai mic de 80 de puncte. Optimizați acum?</string>
     <string name="exit_dialog_release_memory_positive_button">Închideți</string>
     <string name="exit_dialog_release_memory_title"><Data>Creșteți viteza telefonului cu &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
+    <string name="exit_dialog_release_memory_title_new"><Data>Accelereazăți-vă dispozitivul prin &lt;font color=#0099ff>%s&lt;/font></Data></string>
     <string name="exit_dialog_release_storage_message">Mai mult de 80% din spațiul de stocare este ocupat. Eliberați spațiu dezinstalând aplicațiile pe care nu le utilizați.</string>
     <string name="exit_dialog_release_storage_message_new">Mai mult de %s din spațiul de stocare este ocupat. Eliberați spațiu dezinstalând aplicațiile pe care nu le-ați utilizat niciodată.</string>
     <string name="exit_dialog_release_storage_positive_button">Eliberați spațiu</string>
@@ -1585,6 +1771,7 @@ cutremure"</string>
     <string name="exit_dialog_scan_title">Optimizați performanța</string>
     <string name="exo_controls_cc_disabled_description">Activați subtitrarea</string>
     <string name="exo_controls_cc_enabled_description">Dezactivați subtitrarea</string>
+    <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
     <string name="exo_controls_fastforward_description">Repede înainte</string>
     <string name="exo_controls_fullscreen_enter_description">Intrați în modul Ecran complet</string>
     <string name="exo_controls_fullscreen_exit_description">Părăsiți modul Ecran complet</string>
@@ -1696,6 +1883,7 @@ cutremure"</string>
     <string name="first_aid_card_consume_power_button2">Dezactivați</string>
     <string name="first_aid_card_consume_power_summary1">Mai mult de 5 aplicații pot porni automat. Restricționați pentru a economisi acumulatorul.</string>
     <string name="first_aid_card_consume_power_summary2">Dezactivați hotspot-ul portabil pentru a economisi acumulatorul</string>
+    <string name="first_aid_card_consume_power_summary_app">Mai mult de %d aplicații au permisiunea de pornire automată. Restricționați pentru a economisi acumulatorul.</string>
     <string name="first_aid_card_consume_power_title">Utilizare acumulator</string>
     <string name="first_aid_card_kadun_button1">Eliberați spațiu</string>
     <string name="first_aid_card_kadun_button2">Restricționați</string>
@@ -1715,6 +1903,7 @@ cutremure"</string>
     <string name="first_aid_card_wifi_or_flow_title">"Nu se poate conecta la internet"</string>
     <string name="first_aid_dialog_msg_stop_scan">Opriți scanarea acum?</string>
     <string name="first_aid_dialog_title_stop_scan">Opriți scanarea</string>
+    <string name="first_aid_exception_sub_title">Aceste elemente vor fi ignorate în timpul scanărilor</string>
     <string name="first_aid_item1_content">Performanță</string>
     <string name="first_aid_item2_content">Rețea</string>
     <string name="first_aid_item3_content">Setări</string>
@@ -1829,12 +2018,20 @@ cutremure"</string>
 1. În timp ce jucați jocuri, toate apelurile primite pe cartela SIM fără serviciu de date mobile vor fi respinse automat.
 2. Veți vedea notificări despre apelurile pierdute, iar cealaltă persoană va auzi un mesaj audio care spune că sunteți ocupat în acest moment.
 3. Această caracteristică este acceptată numai de operatorii de telefonie mobilă din China."</string>
+    <string name="function_auto_reject_detail_new">"Despre această caracteristică:
+%1$d. În timp ce jucați jocuri, toate apelurile primite pe cartela SIM fără serviciul de date mobile vor fi respinse automat.
+%2$d. Veți vedea notificări despre apelurile pierdute, iar cealaltă persoană va auzi un mesaj audio care vă spune că sunteți ocupat în acest moment.
+%3$d. Această funcție este acceptată numai de operatorii de telefonie mobilă din China."</string>
     <string name="function_auto_reject_title">Respingeți apelurile VoLTE către cartele SIM fără serviciu de date</string>
     <string name="function_close">Oprit</string>
     <string name="function_gwsd_detail">"Despre această caracteristică:
  1. Atunci când utilizați datele mobile pe un SIM de date sau pe o cartelă SIM obișnuită conectată la o rețea VoLTE, conexiunea nu va fi întreruptă de apelurile primite decât atunci când preluați apelul.
  2. Atunci când această funcție este activată, apelantul nu va auzi sunetele de apel în așteptare decât dacă utilizați o cartelă SIM obișnuită. Apelurile primite vor fi respinse în mod automat după 7-10 secunde de inactivitate.
  3. Sunt suportate cartele SIM de date furnizate de către China Mobile și China Unicom. Sunt suportate cartele obișnuite furnizate de către China Mobile, China Unicom și China Telecom."</string>
+    <string name="function_gwsd_detail_new">"Despre această caracteristică:
+  %1$d. Când utilizați date mobile pe un SIM de date sau pe o cartelă SIM obișnuită conectată la o rețea VoLTE, conexiunea nu va fi întreruptă de apelurile primite până când preluați.
+  %2$d. Când această funcție este activată, cealaltă persoană nu va putea auzi tonurile dvs. de apel înapoi decât dacă utilizați o cartelă SIM obișnuită. Apelurile primite vor fi respinse automat după %3$d-%4$d secunde de inactivitate.
+  %5$d. Sunt acceptate cardurile SIM de date emise de China Mobile și China Unicom. Sunt acceptate cardurile SIM obișnuite emise de China Mobile, China Unicom și China Telecom."</string>
     <string name="function_gwsd_title">"Nu permiteți apelurilor primite să întrerupă datele mobile"</string>
     <string name="function_oncall_not_close_network">Nu deconecta pentru apeluri</string>
     <string name="function_oncall_not_close_network_detail">"Despre această caracteristică
@@ -1885,7 +2082,9 @@ cutremure"</string>
     <string name="gamebooster_push_expiring_soon_title">Jocuri Turbo</string>
     <string name="gamebox_ai_subtitle">Subtitrări AI</string>
     <string name="gamebox_app_not_find">Instalați mai întâi aplicația.</string>
+    <string name="gamebox_brightness">Iluminare</string>
     <string name="gamebox_browser_not_find">Instalați browser-ul Mi mai întâi</string>
+    <string name="gamebox_bullet_chat">Comentarii pe ecran</string>
     <string name="gamebox_collimator">Ochire</string>
     <string name="gamebox_display_1">Niciunul</string>
     <string name="gamebox_display_2">Saturat</string>
@@ -1910,10 +2109,13 @@ cutremure"</string>
     <string name="gamebox_immerson_open">"Se activează modul Imersiv; nu schimbați rețelele…"</string>
     <string name="gamebox_macro">Combo-uri</string>
     <string name="gamebox_manual_record">Înregistrați</string>
+    <string name="gamebox_mem_clean">Goliți memoria</string>
     <string name="gamebox_milink">Proiectați</string>
     <string name="gamebox_positive_button_text">OK (%1$ds)</string>
     <string name="gamebox_qq_not_find">Instalați mai întâi QQ și încercați din nou.</string>
     <string name="gamebox_recent_task_expand_fail">"Aplicațiile care funcționează cu aceste scurtături nu sunt instalate"</string>
+    <string name="gamebox_screenrecord">Înregistrează</string>
+    <string name="gamebox_screenshot">Captură de ecran</string>
     <string name="gamebox_simcard">Comutați cartelele SIM</string>
     <string name="gamebox_time">Temporizator</string>
     <string name="gamebox_type_close">"Nu arăta"</string>
@@ -1997,8 +2199,14 @@ cutremure"</string>
     <string name="gb_dialog_game_uninstall_tips_message_xspace">Toate datele aplicației și aplicațiile duale asociate vor fi șterse.</string>
     <string name="gb_dialog_game_uninstall_tips_title">Dezinstalați %s</string>
     <string name="gb_dialog_record_way_ai">Înregistrările AI sunt salvate în cutia de jocuri pentru 7 zile.</string>
+    <string name="gb_dialog_record_way_ai_new">AI recordings are saved in the gamebox and stored there for %d days.</string>
     <string name="gb_dialog_record_way_finish">Finalizat</string>
     <string name="gb_dialog_record_way_manual">Înregistrați în mod manual videoclipurile de până la 30 de secunde</string>
+    <string name="gb_dialog_record_way_manual_desc" formatted="false">Record %d-%d seconds of video during gaming session manually.</string>
+    <string name="gb_dialog_record_way_manual_new">Record videos up to %d seconds long manually</string>
+    <string name="gb_dialog_record_way_setting_tip_one">Increased power consumption and lag</string>
+    <string name="gb_dialog_record_way_setting_tip_title">This feature might cause the following issues:</string>
+    <string name="gb_dialog_record_way_setting_tip_two">Conflicts with other screen recorders</string>
     <string name="gb_dialog_record_way_setting_tips">Notă: Înregistrarea sesiunilor de joc necesită un consum crescut de energie care poate crea sincope în utilizare.</string>
     <string name="gb_dialog_record_way_title">Selectați metoda de înregistrare</string>
     <string name="gb_dialog_wlan_wifi_weak">460 ms</string>
