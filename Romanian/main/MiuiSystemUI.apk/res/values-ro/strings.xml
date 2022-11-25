@@ -2064,7 +2064,6 @@ Dacă aveți întrebări, contactați %2$s."</string>
     <string name="nav_bar_edge_panel">Panou marginal Bară de navigare</string>
     <string name="nav_bar_layout">Dispunere</string>
     <string name="nav_guide_cancel">Ignorați</string>
-    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="new_notification_image_content_description">%1$s a trimis o fotografie</string>
     <string name="new_notification_text_content_description">%1$s a trimis un mesaj: %2$s</string>
     <string name="new_status_content_description">%1$s are o actualizare de stare: %2$s</string>
